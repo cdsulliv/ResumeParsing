@@ -9,17 +9,18 @@ STATUS_NOT_FOUND = 404
 class ParseWebsite(object):
     """this class has all the needed information to parse resume from a website"""
     def __init__(self, url='', num=0): #constructor of the class
-        self._url = url
-        self._num = num
+        self.url = url
+        self.num = num
 
-    #@property    
+    '''@property    
     def url(self):
         return self.url
  
-    #@property
+    @property
     def num(self):
         return self.num
-
+    '''
+        
     def parse_website(self):   #Abstract method, defined by convention only
         raise NotImplementedError("Subclass must implement abstract method")
 
@@ -28,8 +29,8 @@ class Indeed(ParseWebsite):
     def parse_website(self):
         home_page = self.url
         num_of_pages_to_parse = self.num
-        print num_of_pages_to_parse
-        print home_page 
+        #print num_of_pages_to_parse
+        #print home_page 
         rootRef = []
         for i in range(num_of_pages_to_parse):
             r = requests.get(home_page + str(i * num_of_pages_to_parse))
@@ -212,10 +213,10 @@ class Indeed(ParseWebsite):
 
 if __name__ == "__main__":
     indeed_home_page = 'http://www.indeed.com/resumes/in-New-York-NY?co=US&rb=dt%3Aba%2Cyoe%3A1-11&start='
-    num_of_pages_to_parse = 0
-    obj = ParseWebsite(indeed_home_page, num_of_pages_to_parse)
-    print obj.
-    ind = Indeed(obj)
+    num_of_pages_to_parse = 1
+    #obj = ParseWebsite(indeed_home_page, num_of_pages_to_parse)
+    #print obj.
+    ind = Indeed(indeed_home_page, num_of_pages_to_parse)
     ind.parse_website()
 
     
