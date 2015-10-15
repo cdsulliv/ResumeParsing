@@ -11,15 +11,6 @@ class ParseWebsite(object):
     def __init__(self, url='', num=0): #constructor of the class
         self.url = url
         self.num = num
-
-    '''@property    
-    def url(self):
-        return self.url
- 
-    @property
-    def num(self):
-        return self.num
-    '''
         
     def parse_website(self):   #Abstract method, defined by convention only
         raise NotImplementedError("Subclass must implement abstract method")
@@ -42,7 +33,7 @@ class Indeed(ParseWebsite):
             
             # 'limit=50' looks at first 50 items that match specified class below
             # rootRef captures the specific link extension of each resume on the page
-            rootRefRaw = root.find_all(class_='sl link savelink anon', limit=50)
+            rootRefRaw = root.find_all(class_='sl link savelink anon',limit = 50)
             rootRef.extend([x.get('data-rez') for x in rootRefRaw])
 
             # There must exist a .csv file with the name specified below in the same directory as this script
@@ -91,13 +82,17 @@ class Indeed(ParseWebsite):
                 eduDatesList = [eduDatesTag.getText() for eduDatesTag in eduDatesTagList]
                 
                 #tests if degree contains the term "Bachelor" and the year "2015", skips to next resume if not
-                if any('achelor' in deg for deg in degreeList):
+                if any('Bachelor' in deg or 'bachelor' in deg for deg in degreeList):
                     if any('15' in str(yr) for yr in eduDatesList):
 
-                        schoolTagList = tempSoup.find_all(class_="edu_school", limit=3)
+                        schoolTagList = tempSoup.findAll(class_="edu_school", limit=3)
                         schoolList = [schoolTag.getText() for schoolTag in schoolTagList]
-                        
-                        locationTagList = tempSoup.find_all(class_={"edu_school", "inline-block"}, limit = 3)
+
+                        # locationTagList = tempSoup.find_all(class_={"edu_school.inline-block"}, limit = 3)
+                        locationTagList = []
+                        for a in tempSoup.find_all(class_={"edu_school"},limit=3):
+                            locationTagList.extend(a.find_all(class_={"inline-block"},limit=3))
+                        # print(locationTagList)
                         locationList = [locationTag.getText() for locationTag in locationTagList]
 
                         for n in range(3):
@@ -121,8 +116,12 @@ class Indeed(ParseWebsite):
                         # EMPLOYMENT
                         rollTagList = tempSoup.find_all(class_="work_title title", limit=3)
                         rollList = [rollTag.getText() for rollTag in rollTagList]
-                        
-                        locationTagList = tempSoup.find_all(class_={"work_company", "inline-block"}, limit = 3)
+
+                        locationTagList = []
+                        for a in tempSoup.find_all(class_={"work_company"},limit=3):
+                            locationTagList.extend(a.find_all(class_={"inline-block"},limit=3))
+
+                        # locationTagList = tempSoup.find_all(class_={"work_company", "inline-block"}, limit = 3)
                         locationList = [locationTag.getText() for locationTag in locationTagList]
                         
                         employerTagList = tempSoup.find_all(class_="work_company", limit=3)
@@ -146,7 +145,7 @@ class Indeed(ParseWebsite):
                             # Attempts to replace the commonly occuring characters that begin work experiences with a common
                             # character that can be used as a delimiter to parse them into separate line items
                             temp = section.replace('*', '~').replace('•', '~').replace('\xa0ß','~')\
-                                   .replace('\xa0-', '~').replace('\xa0\xa0', '~').replace('.','~')
+                                   .replace('\xa0-', '~').replace('\xa0\xa0', '~').replace('.','~').replace('·','~')
                             
                             tempExpList['section'+str(j)] = temp.split('~')
 
@@ -205,11 +204,12 @@ class Indeed(ParseWebsite):
                         body.replace('*', ' ')
                         body = body.encode("utf-8", errors="ignore")
                         spreadRow.append(body)
-                        
-                        spreadRowEncode = [str(i).encode("utf-8", errors="ignore") for i in spreadRow]
+                        print (spreadRow)
+                        # spreadRowEncode = [str(i).encode("utf-8", errors="ignore") for i in spreadRow]
 
                         # write to the spreadsheet
-                        csvwriter.writerow(spreadRowEncode)
+
+                        csvwriter.writerow(spreadRow)
 
 if __name__ == "__main__":
     indeed_home_page = 'http://www.indeed.com/resumes/in-New-York-NY?co=US&rb=dt%3Aba%2Cyoe%3A1-11&start='
