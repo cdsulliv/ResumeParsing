@@ -2,8 +2,7 @@ import requests
 
 url = "http://pdfx.cs.man.ac.uk"
 
-pdfs = ['/home/sajal/Wharton/resumes/American University', '/home/sajal/Wharton/resumes/Austin College 1',
-'/home/sajal/Wharton/resumes/Austin College 2','/home/sajal/Wharton/resumes/Austin College 3','/home/sajal/Wharton/resumes/Bates College']
+pdfs = ['/home/sajal/Wharton/resumes/Boise State Functional']
 
 def pypdfx(filename):
   	fin = open(filename + '.pdf', 'rb')
