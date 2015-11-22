@@ -1,14 +1,5 @@
 import os
-
-def getFiles(dirpath=""):
-	fileset = []
-	for path, dirs, files in os.walk(dirpath):
-	    for f in files:
-	        filepath = os.path.join(dirpath, f)
-	        if " " in filepath:
-	        	filepath = filepath.replace(" ", "\ ")
-	        fileset.append(filepath)
-	return fileset        
+from utilities import getFiles
 
 def pdfToXML(inputfilepath="", outdir=""):
 	file_name_last_index = inputfilepath.index(".")
