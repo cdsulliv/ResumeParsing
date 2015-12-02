@@ -50,12 +50,30 @@ class ParseText(object):
                                       
         return heading_indexes, headings
     
-    def find_bio(self, content):
-        heading_indexes, headings = self.findHeadings(content)
+    def find_bio(self, content, headings, heading_indexes):
         if heading_indexes:
             end_bio_ind = min(heading_indexes)
-            return content[:end_bio_ind], headings
-        return None, headings    
+            bio = content[:end_bio_ind]
+            if bio:
+                return bio
+
+        return "NOT FOUND"
+
+    def find_this(self, content, head, headings, heading_indexes):
+        if headings:
+            for h in range(len(headings)):
+                heading = headings[h]
+                if head in heading.lower():
+                    start_index = heading_indexes[h]
+                    if h+1 <= len(heading_indexes)-1:
+                        next_index = heading_indexes[h+1]
+                        edu = content[start_index:next_index]     
+                    else:
+                        edu = content[start_index:]
+
+                    return edu        
+
+        return "NOT FOUND"        
 
     def readFile(self):
         out = file(self.filepath, "r").read()            
@@ -71,7 +89,7 @@ if __name__ == "__main__":
     fileset = getFiles("/home/shreya/Wharton/XML")
     with open ("split.csv", 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(['filename', 'bio', 'headings'])
+        csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE' ])
         for filepath in fileset:
             index = filepath.index(".") 
             if "xml" in filepath[index:]:
@@ -81,17 +99,19 @@ if __name__ == "__main__":
                 filename = filepath[last_index:]
                 pt = ParseText(filepath)
                 content = pt.readFile()     
-                bio, headings = pt.find_bio(content)
-                print bio, headings
-                if bio:
-                    row.append(filename)
-                    row.append(bio)
-                    row.append(headings)
-                else:
-                    row.append(filename)
-                    row.append("NOT FOUND")
-                    row.append(headings)
-                    
+                heading_indexes, headings = pt.findHeadings(content)
+                bio = pt.find_bio(content, headings, heading_indexes)
+                print "BIO: ", bio
+                print "HEADINGS: ",  headings
+                edu = pt.find_this(content, "education", headings, heading_indexes)
+                exp = pt.find_this(content, "experience", headings, heading_indexes)
+                print "EDUCATION: ", edu
+                print "EXPERIENCE: ", exp 
+                row.append(filename)
+                row.append(headings)    
+                row.append(bio)    
+                row.append(edu)
+                row.append(exp)        
                 csvwriter.writerow(row)
 
     '''filepath = "/home/shreya/Wharton/1.xml"
