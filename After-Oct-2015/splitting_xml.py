@@ -37,7 +37,7 @@ class ParseText(object):
             #print "heading:", line 
             #print "heading3:", line
             if line:
-                heading = re.match(HEAD_PATTERN, line)
+                '''heading = re.match(HEAD_PATTERN, line)
                  
                 if heading and len(line) > 5:
                     print "heading1: ", line
@@ -45,7 +45,7 @@ class ParseText(object):
                     headings.append(line)
                     start_index = content.index(str(bold))
                     heading_indexes.append(start_index)
-                
+                '''
                 #print "!!!", line.strip()
                 prob_head = line.strip().lower() 
                 if prob_head in PROBABLE_HEADINGS and line not in headings:
@@ -94,7 +94,7 @@ class ParseText(object):
 if __name__ == "__main__":
     PROBABLE_HEADINGS = getAllHeadings("set_of_headings.txt")
     fileset = getFiles("/home/shreya/Wharton/XML")
-    with open ("split_v2.csv", 'w') as csvfile:
+    with open ("split_v3.csv", 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE' ])
         for filepath in fileset:
