@@ -10,15 +10,21 @@ from bs4 import BeautifulSoup
 from utilities import getFiles 
 import csv
 
-HEAD_PATTERN = "\S[A-Z \d]+$"
-PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", "certifications", "organizations and activites"]
+HEAD_PATTERN = "\S[A-Z \d / : ]+$" 
+#PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", "certifications", "organizations and activites"]
+
+def getAllHeadings(filename=""):
+    f = open(filename, "r")
+    lines = f.readlines()
+    headings = [line.strip() for line in lines]
+    return headings
 
 class ParseText(object):
     """docstring for ParseTextme"""
     def __init__(self, filepath=""):
         self.filepath = filepath
 
-    def findHeadings(self, content):
+    def findHeadings(self, content, PROBABLE_HEADINGS):
         heading_indexes = []
         headings = []
         #print content
@@ -33,7 +39,7 @@ class ParseText(object):
             if line:
                 heading = re.match(HEAD_PATTERN, line)
                  
-                if heading:
+                if heading and len(line) > 5:
                     print "heading1: ", line
                     #print "bold:", bold
                     headings.append(line)
@@ -86,8 +92,9 @@ class ParseText(object):
     
 
 if __name__ == "__main__":
+    PROBABLE_HEADINGS = getAllHeadings("set_of_headings.txt")
     fileset = getFiles("/home/shreya/Wharton/XML")
-    with open ("split.csv", 'w') as csvfile:
+    with open ("split_v2.csv", 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE' ])
         for filepath in fileset:
@@ -99,7 +106,7 @@ if __name__ == "__main__":
                 filename = filepath[last_index:]
                 pt = ParseText(filepath)
                 content = pt.readFile()     
-                heading_indexes, headings = pt.findHeadings(content)
+                heading_indexes, headings = pt.findHeadings(content, PROBABLE_HEADINGS)
                 bio = pt.find_bio(content, headings, heading_indexes)
                 print "BIO: ", bio
                 print "HEADINGS: ",  headings

@@ -1,38 +1,29 @@
-import csv
-import numpy as np
-import ast 
+"""
+This script reads headings from xml files and writes them to a text file
 
-def readHeadings(filename=''):
-	HEADS =[]
-	with open(filename, 'rb') as csvfile:
-	     csvreader = csv.reader(csvfile, delimiter=',')
-	     for row in csvreader:
-	     	 #print row[2]	
-	         headings = ast.literal_eval(row[2])
-	         #print headings
-	         HEADS.append(headings)
-	#print HEADS
-	#HEADS = np.array(HEADS)
-	#HEADS = HEADS.ravel()
-	#print HEADS
-	HEADS = sum(HEADS, [])
-	print HEADS
-	'''heads = [x.lower() for x in HEADS]
-	print set(heads)
-	return set(heads)
-	'''
+"""
 
-def writeHeadings(headings=[]):
-	f = open("headings.txt", "w")
-	for heading in headings:
-		f.write(heading + "\n")
-	f.close()
-	
+__author__ = "Shreya Pandey"
 
-def controller(filename=''):
-	headings = readHeadings(filename)
-	writeHeadings(headings)
+from utilities import getFiles 
+from splitting_xml import ParseText 
+
+def writeHeadings():
+    f = open("all_headings.txt", 'w')
+    fileset = getFiles("/home/shreya/Wharton/XML")
+    for filepath in fileset:
+        index = filepath.index(".") 
+        if "xml" in filepath[index:]:
+            print filepath
+            pt = ParseText(filepath)
+            content = pt.readFile()     
+            heading_indexes, headings = pt.findHeadings(content)
+            for heading in headings:
+                f.write(heading.encode('ascii', 'ignore') + "\n")
+    
+
+    f.close()
+                
 
 if __name__ == "__main__":
-	filename = "bio.csv"
-	controller(filename)
+    writeHeadings()
