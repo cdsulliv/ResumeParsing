@@ -1,0 +1,338 @@
+Louisiana State University.xml		{u'Louisiana State University (LSU), Baton Rouge, Louisiana  ': {'loc': 'Louisiana', 'arr_pos': 0, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+Tufts University Engineering 1.xml		{u'    Tufts University, Medford, MA ': {'loc': 'Massachusetts', 'arr_pos': 2, 'GPA': u'3.67'}, 'Misc': {'deanslist': True}}
+
+Monclair State University Teacher Education 3.xml		{u'Montclair State University, Montclair, NJ  ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.8'}, 'Misc': {'deanslist': True}}
+
+Brown University 9.xml		{'Misc': {'deanslist': True}, u' Los Alamitos High School, High School Diploma ': {'loc': 'California', 'arr_pos': 8, 'associated_date': u'June 2010'}, u'Los Alamitos Unified School District, Teacher\u2019s Aide ': {'loc': 'California', 'arr_pos': 28}, u'Brown University, B.S. in Environmental Science  ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+Tufts University Engineering 7.xml		{'Misc': {'deanslist': True}, u'Tufts University, Medford, MA ': {'loc': 'Massachusetts', 'arr_pos': 0}}
+
+University of Mary Washington 8.xml		{u'Harrison County High School, Charlotte, NC  ': {'loc': 'North Carolina', 'arr_pos': 7, 'associated_date': u'May 2006', 'GPA': u'3.4'}, u' University of Mary Washington, Fredericksburg, Virginia ': {'loc': 'North Carolina', 'arr_pos': 1, 'associated_date': u'May 2011', 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+Brown University 10.xml		{'Misc': {'deanslist': False}}
+
+Oakland University Reverse Chronological 1.xml		{u'International University, Barcelona, Spain ': {'arr_pos': 15}, u'Oakland University, Rochester, MI ': {'loc': 'Michigan', 'arr_pos': 4}, 'Misc': {'deanslist': True}}
+
+Southwestern University 3.xml		{'Misc': {'deanslist': True}, u'Southwestern University ': {'loc': 'Texas', 'arr_pos': 3}}
+
+Tufts University Engineering 8.xml		{'Misc': {'deanslist': True}, u'Tufts University Medford, MA ': {'loc': 'Massachusetts', 'arr_pos': 0}, u' University of Canterbury, New Zealand  ': {'arr_pos': 3}}
+
+Seattle Pacific University Accounting.xml		{'Misc': {'deanslist': True}, u'Seattle Pacific University, Seattle, WA  ': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'June 2016', 'GPA': u'3.8'}}
+
+Alfred University Psychology.xml		{u'Major: School Psychology ': {'loc': 'Pennsylvania', 'arr_pos': 5, 'associated_date': u'May 2010'}, u'Lehigh University, Bethlehem, PA, May 2010 ': {'loc': 'Pennsylvania', 'arr_pos': 7, 'associated_date': u'May 2010'}, u'Alfred University, Alfred, NY, May 2011   ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}, u'Alfred University, Alfred, NY, May 2012, Initial certification pending ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'May 2012'}}
+
+Emmanuel College 1.xml		{'Misc': {'deanslist': True}}
+
+Union College 3.xml		{'Misc': {'deanslist': False}}
+
+University of Denver Marketing.xml		{'Misc': {'deanslist': True}, u'University of Denver, Denver, CO ': {'loc': 'Colorado', 'arr_pos': 0, 'GPA': u'3.6'}}
+
+Mount Holyoke 3.xml		{u'Mount Holyoke College, South Hadley, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'December 2010', 'GPA': u'3.54'}, 'Misc': {'deanslist': True}, u'Clark University, Worcester, MA   (2006-2007) ': {'loc': 'Massachusetts', 'arr_pos': 8}}
+
+Washington University in St.xml		{'Misc': {'deanslist': True}, u'Washington University in St. Louis, MO': {'loc': 'Missouri', 'arr_pos': 0, 'associated_date': u'May 2014'}, u'University of Queensland, Brisbane, Australia': {'arr_pos': 3}}
+
+Emmanuel College 4.xml		{'Misc': {'deanslist': True}}
+
+UC San Diego 3.xml		{'Misc': {'deanslist': True}}
+
+Boise State Chronological.xml		{'Misc': {'deanslist': False}}
+
+Sterling College.xml		{'Misc': {'deanslist': True}}
+
+Miami of Ohio 4.xml		{'Misc': {'deanslist': True}, u'Miami University, Farmer School of Business - Oxford, OH ': {'loc': 'Ohio', 'arr_pos': 0}}
+
+Seattle Pacific University Dietetics.xml		{u'Seattle Pacific University, anticipated graduation, June 2016 ': {'loc': 'Washington', 'arr_pos': 4, 'associated_date': u'June 2016'}, 'Misc': {'deanslist': True}}
+
+Oakland University Reverse Chronological 2.xml		{u' Oakland Community College, Auburn Hills, MI ': {'loc': 'Michigan', 'arr_pos': 11}, u' Oakland University, Rochester, MI ': {'loc': 'Michigan', 'arr_pos': 1, 'associated_date': u'December 2003'}, 'Misc': {'deanslist': True}}
+
+Austin College 2.xml		{'Misc': {'deanslist': False}}
+
+Bates College.xml		{'Misc': {'deanslist': True}, u' University of Valparaiso  Valparaiso, Chile  ': {'arr_pos': 14}, u' Bates College       Lewiston, ME    ': {'loc': 'Maine', 'arr_pos': 1, 'associated_date': u'May 2011'}}
+
+University of Mary Washington 1.xml		{'Misc': {'deanslist': True}, u'University of Mary Washington, Fredericksburg, VA ': {'loc': 'Virginia', 'arr_pos': 0, 'GPA': u'3.40'}}
+
+Sarah Lawrence College 5.xml		{u'\u2022  Sarah Lawrence College, Bronxville, NY, Bachelor of Arts , anticipated May 2011 ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2011'}, u'\u2022  Sarah Lawrence College in Florence, Florence, Italy, College Semester Abroad, Fall 2009 ': {'arr_pos': 2}, 'Misc': {'deanslist': True}, u'\u2022  American University of Paris, Paris, France, 3 College Credits, Summer 2005  ': {'arr_pos': 3}}
+
+Goodwin College Office Assistant.xml		{'Misc': {'deanslist': True}, u'Goodwin College, East Hartford, CT ': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'May 2015'}, u' The Sawyer School, Manchester, CT ': {'loc': 'Connecticut', 'arr_pos': 9}}
+
+Austin College 3.xml		{'Misc': {'deanslist': False}}
+
+Southwestern University 4.xml		{'Misc': {'deanslist': True}, u'Southwestern University ': {'loc': 'Texas', 'arr_pos': 4}}
+
+Tufts University Engineering 2.xml		{u' Tufts University, Medford, MA  ': {'loc': 'Massachusetts', 'arr_pos': 9, 'GPA': u'3.2'}, 'Misc': {'deanslist': True}}
+
+Miami of Ohio 3.xml		{u'Miami University, Oxford, OH ': {'loc': 'Ohio', 'arr_pos': 0, 'GPA': u'3.86'}, 'Misc': {'deanslist': True}, u'University Honors Program ': {'arr_pos': 9}}
+
+Miami of Ohio 2.xml		{'Misc': {'deanslist': True}}
+
+Brown University 4.xml		{'Misc': {'deanslist': False}}
+
+University of Mary Washington 3.xml		{u'University of Mary Washington, Fredericksburg, VA     ': {'loc': 'Virginia', 'arr_pos': 0, 'GPA': u'3.46'}, 'Misc': {'deanslist': True}}
+
+University of Mary Washington 10.xml		{u'B.S. Business Administration, University of Mary Washington, Fredericksburg, Virginia ': {'loc': 'Virginia', 'arr_pos': 0, 'GPA': u'3.83'}, 'Misc': {'deanslist': True}}
+
+Emmanuel College 2.xml		{'Misc': {'deanslist': True}}
+
+Rochester University 11.xml		{'Misc': {'deanslist': False}}
+
+Southwestern University 8.xml		{'Misc': {'deanslist': False}}
+
+UC San Diego 7.xml		{'Misc': {'deanslist': True}, u'UC San Diego ': {'arr_pos': 0, 'GPA': u'3.25'}}
+
+Emmanuel College 5.xml		{'Misc': {'deanslist': True}}
+
+University of Puget Sound 1.xml		{u'Staff Writer of the Year, The Patriot, North Pole High School                ': {'arr_pos': 41}, u'University Relations, University of Puget Sound, Tacoma, WA ': {'loc': 'Washington', 'arr_pos': 10, 'associated_date': u'September 2006'}, 'Misc': {'deanslist': True}, u'University of Puget Sound, Tacoma, WA   December 2008 ': {'loc': 'Washington', 'arr_pos': 2, 'associated_date': u'December 2008'}, u'University of Aberdeen, Scotland ': {'loc': 'Washington', 'arr_pos': 5, 'associated_date': u'January 2007'}}
+
+Sarah Lawrence College 4.xml		{u'Sarah Lawrence College, Bronxville, NY  ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}}
+
+Tufts University Engineering 5.xml		{'Misc': {'deanslist': False}}
+
+UC San Diego 8.xml		{u'         UC San Diego, expected June 20xx ': {'arr_pos': 3, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}, u'UC San Diego, 20xx ': {'arr_pos': 6}}
+
+Brown University 13.xml		{u' Rhode Island School of Design, RI. ': {'loc': 'Rhode Island', 'arr_pos': 7, 'GPA': u'4.63'}, 'Misc': {'deanslist': True}, u' Brown University, Providence, RI.  ': {'loc': 'Rhode Island', 'arr_pos': 1, 'GPA': u'3.87'}, u' Moses Brown School, Providence, RI   ': {'loc': 'Rhode Island', 'arr_pos': 13, 'GPA': u'4.63'}, u' Brown University, Providence, RI ': {'loc': 'Rhode Island', 'arr_pos': 32}, u'Brown University, Providence, RI ': {'loc': 'Rhode Island', 'arr_pos': 40}}
+
+Eastern Illinois State Management.xml		{u'Eastern Illinois University, Charleston, IL ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2006', 'GPA': u'3.33'}, 'Misc': {'deanslist': True}}
+
+Oglethorpe University Senior.xml		{u'Oglethorpe University  ': {'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.68'}, 'Misc': {'deanslist': True}}
+
+Southwestern University 7.xml		{u' Queen Mary University, London, England ': {'loc': 'Texas', 'arr_pos': 17}, 'Misc': {'deanslist': True}, u'Southwestern University    ': {'loc': 'Texas', 'arr_pos': 8, 'GPA': u'3.9'}, u'Graduate Seminar, African-American Oral Histories, The University of Texas ': {'loc': 'Texas', 'arr_pos': 26}}
+
+Pepperdine University.xml		{'Misc': {'deanslist': True}, u' Pepperdine University, Malibu, CA    ': {'loc': 'California', 'arr_pos': 1}}
+
+Brown University 1.xml		{u'Brown University, Bachelor of Science in Applied Math- Economics, 3.86 GPA ': {'loc': 'Rhode Island', 'arr_pos': 0, 'associated_date': u'May 2012'}, u'Sanskriti School, Science Stream, Science average 93% ': {'arr_pos': 17}, 'Misc': {'deanslist': True}, u'The Shri Ram School ': {'arr_pos': 21}}
+
+West Virginia University Sales.xml		{'Misc': {'deanslist': False}}
+
+Wabash College.xml		{'Misc': {'deanslist': True}, u'Wabash College, Crawfordsville, IN ': {'loc': 'Indiana', 'arr_pos': 10}}
+
+University of Mary Washington 5.xml		{'Misc': {'deanslist': True}, u'University of Mary Washington, Fredericksburg, VA ': {'loc': 'Virginia', 'arr_pos': 2, 'associated_date': u'May 2011'}}
+
+Rochester University 5.xml		{'Misc': {'deanslist': False}}
+
+College of the Holy Cross.xml		{u'College of the Holy Cross, Worcester, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2009'}, u'University of York, York, England ': {'arr_pos': 4}, 'Misc': {'deanslist': True}}
+
+Sarah Lawrence College 2.xml		{'Misc': {'deanslist': True}, u'University of Cambridge, United Kingdom; ASA Study Abroad Program, July 2008 ': {'loc': 'American Samoa', 'arr_pos': 2, 'associated_date': u'July 2008'}, u'Sarah Lawrence College, Bronxville, NY; Bachelor of Arts, anticipated May 2013 ': {'loc': 'American Samoa', 'arr_pos': 0, 'associated_date': u'May 2013'}}
+
+Brown University 20.xml		{u'Brown University, B.A. Music, honors candidate, 3.95/4.0 GPA ': {'loc': 'Rhode Island', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Mount Holyoke 4.xml		{u' Mount Holyoke College, South Hadley, MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2011', 'GPA': u'3.75'}, 'Misc': {'deanslist': True}}
+
+Lehigh University.xml		{'Misc': {'deanslist': False}}
+
+Mount Holyoke 6.xml		{'Misc': {'deanslist': False}}
+
+Seattle Pacific University English.xml		{u'Study Abroad: Spanish Literature, South American University, Buenos Aires, Argentina, Spring, 2016  ': {'arr_pos': 4}, 'Misc': {'deanslist': True}, u'Seattle Pacific University \u2013 Seattle, WA Expected June 2016  ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'June 2016'}}
+
+Union College 5.xml		{'Misc': {'deanslist': True}, u'Union College, Schenectady, NY ': {'loc': 'New York', 'arr_pos': 2, 'associated_date': u'June 2016', 'GPA': u'3.1'}}
+
+Sarah Lawrence College 3.xml		{'Misc': {'deanslist': False}}
+
+Southwestern University 5.xml		{'Misc': {'deanslist': True}, u'Southwestern University ': {'loc': 'Texas', 'arr_pos': 4}}
+
+Rochester University 3.xml		{'Misc': {'deanslist': True}, u' UNIVERSITY OF ROCHESTER, Rochester, NY ': {'loc': 'New York', 'arr_pos': 1, 'GPA': u'3.77'}, u' UNIVERSITY OF ADELAIDE, Adelaide, Australia  ': {'arr_pos': 13}}
+
+Brown University 14.xml		{'Misc': {'deanslist': False}}
+
+Seattle Pacific University Sample Resume List.xml		{'Misc': {'deanslist': False}}
+
+Tufts University Engineering 3.xml		{'Misc': {'deanslist': True}, u' Tufts University, Medford, MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.75'}}
+
+Towson Univeristy Forensic Chemistry.xml		{'Misc': {'deanslist': False}}
+
+Wilkes University 3.xml		{'Misc': {'deanslist': True}, u'Wilkes University, Wilkes-Barre, PA ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'GPA': u'3.5'}}
+
+Union College 8.xml		{'Misc': {'deanslist': True}, u'       Union College, Schenectady, NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'June 2016', 'GPA': u'3.5'}}
+
+Sarah Lawrence College 1.xml		{'Misc': {'deanslist': True}, u' Sarah Lawrence College, Bronxville, NY, Bachelor of Arts, anticipated May 2011 ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2011'}}
+
+Iowa State University Engineering 2.xml		{'Misc': {'deanslist': False}}
+
+Sarah Lawrence College Junior:Senior.xml		{'Misc': {'deanslist': True}, u' Sarah Lawrence College, Bronxville, NY; Bachelor of Arts, anticipated May 2011 ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2011', 'GPA': u'3.7'}}
+
+Tufts University Engineering 6.xml		{'Misc': {'deanslist': True}, u'Tufts University, Medford, MA ': {'loc': 'Mississippi', 'arr_pos': 0, 'GPA': u'3.53'}}
+
+Rochester University 4.xml		{'Misc': {'deanslist': False}}
+
+Rollins College 2.xml		{'Misc': {'deanslist': True}, u'Rollins College, Winter Park, Florida, May 2016 ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.4'}}
+
+Seattle Pacific University Global Development.xml		{'Misc': {'deanslist': True}, u'Seattle Pacific University, Seattle WA ': {'loc': 'Washington', 'arr_pos': 7, 'GPA': u'3.7'}, u'School of Business, Government and Economics ': {'loc': 'Washington', 'arr_pos': 6, 'GPA': u'3.7'}}
+
+Brown University 5.xml		{u'Brown University,  ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}, u' La Jolla Country Day School ': {'loc': 'California', 'arr_pos': 8}}
+
+Wilkes University 2.xml		{'Misc': {'deanslist': False}}
+
+University of Mary Washington 6.xml		{'Misc': {'deanslist': True}, u'Bachelors of Science in Psychology, University of Mary Washington, Fredericksburg, Virginia ': {'loc': 'Virginia', 'arr_pos': 0}}
+
+Austin College 1.xml		{'Misc': {'deanslist': False}}
+
+Southwestern University 1.xml		{'Misc': {'deanslist': True}, u'Southwestern University    ': {'loc': 'Texas', 'arr_pos': 6, 'GPA': u'3.35'}}
+
+Union College 9.xml		{u' Union College \u2013 Schenectady, NY              ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'June 2016', 'GPA': u'3.52'}, 'Misc': {'deanslist': True}}
+
+Northeastern Communications.xml		{u'Northeastern University ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Mount Holyoke 1.xml		{u'Kenyon College, Gambier, OH (Dean\u2019s List 2001-2002) ': {'loc': 'Ohio', 'arr_pos': 8}, u'Mount Holyoke College, South Hadley, MA ': {'loc': 'Ohio', 'arr_pos': 0, 'associated_date': u'May 2010', 'GPA': u'3.75'}, 'Misc': {'deanslist': True}}
+
+Goodwin College Nursing 2.xml		{'Misc': {'deanslist': True}, u'Goodwin College                                                 East Hartford, CT ': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'June 2002'}}
+
+Sarah Lawrence College Sophomore.xml		{'Misc': {'deanslist': True}, u'Sarah Lawrence College, Bronxville, NY, Expected Bachelor of Arts, May 2013 ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.8'}}
+
+Wilkes University Resume Guide.xml		{u' Luzerne County Community College, Nanticoke PA ': {'loc': 'Pennsylvania', 'arr_pos': 17, 'associated_date': u'May 2004'}, 'Misc': {'deanslist': True}, u' Wilkes University, Wilkes-Barre, PA ': {'loc': 'Pennsylvania', 'arr_pos': 9, 'associated_date': u'May 2006', 'GPA': u'3.2'}}
+
+Sarah Lawrence College Recent Grad.xml		{u'Sarah Lawrence College, Bronxville, NY; Bachelor of Arts, May 2009 ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2009'}, u'Wells College, Aurora, NY; 2005-2007 ': {'loc': 'New York', 'arr_pos': 3}, 'Misc': {'deanslist': True}, u'Cornell University, Ithaca, NY; Spring 2007 (Cross-registered while at Wells College) ': {'loc': 'New York', 'arr_pos': 2}}
+
+Union College 6.xml		{u' Union College \u2013 Schenectady, NY             ': {'loc': 'New York', 'arr_pos': 13, 'associated_date': u'June 2017', 'GPA': u'3.53'}, 'Misc': {'deanslist': True}}
+
+Mount Holyoke 2.xml		{u' Mount Holyoke College, South Hadley, MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2006', 'GPA': u'3.66'}, 'Misc': {'deanslist': True}}
+
+West Chester University Science.xml		{u'West Chester University, West Chester, PA ': {'loc': 'Louisiana', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.37'}, 'Misc': {'deanslist': True}}
+
+Brown University 3.xml		{'Misc': {'deanslist': False}}
+
+University of Puget Sound 2.xml		{'Misc': {'deanslist': True}, u' University of Puget Sound, Tacoma, WA  May 2009 ': {'loc': 'Washington', 'arr_pos': 2, 'associated_date': u'May 2009', 'GPA': u'3.4'}}
+
+Wilkes University 1.xml		{'Misc': {'deanslist': True}, u'Wilkes University, Wilkes-Barre, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'GPA': u'3.40'}}
+
+Rochester University 10.xml		{'Misc': {'deanslist': False}}
+
+UC San Diego 6.xml		{u' UC San Diego, June 20xx  ': {'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Princeton University Junior.xml		{'Misc': {'deanslist': True}, u'Princeton University, Princeton, NJ   ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'June 2014', 'GPA': u'3.33'}}
+
+Goodwin College Nursing 1.xml		{u'Goodwin College ': {'arr_pos': 0, 'associated_date': u'June 2016', 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+Brown University 2.xml		{'Misc': {'deanslist': False}}
+
+Mount Holyoke 7.xml		{'Misc': {'deanslist': True}, u'Mount Holyoke College, South Hadley, MA ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2011', 'GPA': u'3.'}, u' Cape Code Community College, West Barnstable, MA  ': {'loc': 'Massachusetts', 'arr_pos': 19, 'associated_date': u'May 2007'}}
+
+Southwestern University 2.xml		{'Misc': {'deanslist': True}, u' Southwestern University ': {'loc': 'Texas', 'arr_pos': 8}}
+
+Wayne State College Math.xml		{u'Wayne State College, Wayne, Nebraska ': {'loc': 'Nebraska', 'arr_pos': 3, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+Sarah Lawrence College First-Year.xml		{'Misc': {'deanslist': True}, u'Sarah Lawrence College, Bronxville, NY ': {'loc': 'Wisconsin', 'arr_pos': 0, 'associated_date': u'May 2014'}, u'Beloit High School, Beloit, WI ': {'loc': 'Wisconsin', 'arr_pos': 5}}
+
+Southwestern University 6.xml		{'Misc': {'deanslist': True}, u'Southwestern University, Georgetown, TX ': {'loc': 'Texas', 'arr_pos': 2, 'GPA': u'3.7'}}
+
+Boise State Functional.xml		{'Misc': {'deanslist': False}}
+
+University of Puget Sound 3.xml		{'Misc': {'deanslist': True}, u'University of Puget Sound, Tacoma, WA   May, 2009 ': {'loc': 'Washington', 'arr_pos': 1}}
+
+Oakland University Functional.xml		{u'Oakland University, Rochester, MI ': {'loc': 'Michigan', 'arr_pos': 0, 'associated_date': u'April 2004'}, 'Misc': {'deanslist': True}}
+
+Miami of Ohio Creative 1.xml		{'Misc': {'deanslist': False}}
+
+Rollins College 3.xml		{u' McCullough High School, Austin, TX ': {'loc': 'Texas', 'arr_pos': 7, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}, u'Rollins College, Winter Park, FL ': {'loc': 'Texas', 'arr_pos': 0, 'associated_date': u'May 2017'}}
+
+Oakland University Scannable.xml		{u'Oakland University, Rochester, MI  ': {'loc': 'Michigan', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Brown University 11.xml		{u'Brown University, B.A. Environmental Studies ': {'loc': 'Rhode Island', 'arr_pos': 7, 'associated_date': u'May 2012', 'GPA': u'3.77'}, 'Misc': {'deanslist': True}}
+
+American University.xml		{u'American University, Kogod School of Business ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.85'}, 'Misc': {'deanslist': True}}
+
+Brown University 7.xml		{'Misc': {'deanslist': False}}
+
+Mount Holyoke 5.xml		{u'Hartford College For Women, University of Hartford ': {'loc': 'Connecticut', 'arr_pos': 13, 'associated_date': u'May 2002'}, 'Misc': {'deanslist': True}, u'Mount Holyoke College ': {'loc': 'Connecticut', 'arr_pos': 2, 'associated_date': u'May 2010'}, u'Student Leadership Award:  Margaret L. McManus Prize for Service to the College ': {'arr_pos': 23}}
+
+Rochester University 12.xml		{'Misc': {'deanslist': False}}
+
+Brown University 18.xml		{u'Beaver Country Day School, Chestnut Hill, MA 4.00 GPA ': {'loc': 'Massachusetts', 'arr_pos': 5, 'associated_date': u'May 2010'}, 'Misc': {'deanslist': True}, u'Brown University, Providence, RI ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+UC San Diego 5.xml		{'Misc': {'deanslist': True}}
+
+Sonoma State University.xml		{'Misc': {'deanslist': True}, u' Sonoma State University, Rohnert Park, CA                                                      ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'May 2016'}}
+
+Miami of Ohio 5.xml		{'Misc': {'deanslist': True}, u'Miami University, Oxford, Ohio ': {'loc': 'Ohio', 'arr_pos': 0, 'GPA': u'3.1'}}
+
+Union College 1.xml		{'Misc': {'deanslist': True}, u'Union College, Schenectady, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'June 2019'}}
+
+Monclair State University Teacher Education 1.xml		{u'Montclair State University, Montclair, NJ  ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.8'}, 'Misc': {'deanslist': True}, u'Major: Family and Child Studies concentration School Settings ': {'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.8'}}
+
+Brown University 12.xml		{'Misc': {'deanslist': True}, u'!Brown University, Bachelor of Arts in Human Biology  ': {'loc': 'Nevada', 'arr_pos': 1}, u'!Institute of Community Health and Promotion at Brown University ': {'loc': 'Nevada', 'arr_pos': 23}}
+
+Rochester University 7.xml		{'Misc': {'deanslist': False}}
+
+UC San Diego 2.xml		{'Misc': {'deanslist': True}, u'UC San Diego   ': {'arr_pos': 2, 'GPA': u'3.45'}}
+
+Iowa State University Engineering 3.xml		{'Misc': {'deanslist': True}}
+
+University of Mary Washington 2.xml		{u'University of Mary Washington, Fredericksburg, Virginia  ': {'loc': 'Virginia', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Brown University 16.xml		{'Misc': {'deanslist': False}}
+
+Goodwin College Administrative Assistant.xml		{u'Goodwin College, East Hartford, CT ': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'May 2002'}, 'Misc': {'deanslist': True}}
+
+Union College 2.xml		{u'High School Diploma, June 2015 ': {'loc': 'Virginia', 'arr_pos': 5, 'associated_date': u'June 2015'}, 'Misc': {'deanslist': True}, u' Newstime Daily, The New School of Northern Virginia, Fairfax, VA           ': {'loc': 'Virginia', 'arr_pos': 9, 'associated_date': u'September 2013'}, u' The New School of Northern Virginia, Fairfax, VA ': {'loc': 'Virginia', 'arr_pos': 4, 'associated_date': u'June 2015'}, u' Union College, Schenectady, NY  ': {'loc': 'Virginia', 'arr_pos': 1, 'associated_date': u'June 2018'}}
+
+Troy University.xml		{'Misc': {'deanslist': True}, u'Troy University, Troy, AL ': {'loc': 'Alabama', 'arr_pos': 1, 'GPA': u'3.3'}}
+
+University of Puget Sound 5.xml		{u' University of Puget Sound, Tacoma, WA,  December 2008 ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'December 2008'}, 'Misc': {'deanslist': True}}
+
+Monclair State University Teacher Education 2.xml		{u'Montclair State University, Montclair, NJ  ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.8'}, 'Misc': {'deanslist': True}}
+
+Vanderbilt Public Policy.xml		{u' The London School of Economics and Political Science, London, UK ': {'arr_pos': 10}, u' University of Cape Town, Cape Town, South Africa ': {'arr_pos': 6}, 'Misc': {'deanslist': True}, u'Vanderbilt University, Nashville, TN ': {'loc': 'Tennessee', 'arr_pos': 0, 'GPA': u'3.45'}}
+
+Tufts University Engineering 4.xml		{'Misc': {'deanslist': True}, u'Tufts University, Medford, MA ': {'loc': 'New Jersey', 'arr_pos': 0, 'GPA': u'3.2'}, u' Ridgedale High School, Ridgedale, NJ, June xxxx ': {'loc': 'New Jersey', 'arr_pos': 7}}
+
+Iowa State University Engineering 1.xml		{'Misc': {'deanslist': True}, u'University of Valencia, Spain  ': {'loc': 'Iowa', 'arr_pos': 4, 'associated_date': u'June 2013'}, u'Iowa State University, College of Engineering, Ames, IA                     August 2011 to January 2012 ': {'loc': 'Iowa', 'arr_pos': 19, 'associated_date': u'August 2011'}, u'Iowa State University, Ames, IA ': {'loc': 'Iowa', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.68'}}
+
+Rochester University 8.xml		{'Misc': {'deanslist': False}}
+
+Brown University 15.xml		{'Misc': {'deanslist': False}}
+
+Xavier University of Lousiana.xml		{u' Xavier University of Louisiana ': {'loc': 'Louisiana', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.0'}, 'Misc': {'deanslist': True}}
+
+University of Mary Washington 9.xml		{u' Bachelors of Science in Biology, University of Mary Washington, Fredericksburg, Virginia ': {'loc': 'Virginia', 'arr_pos': 1, 'GPA': u'3.3'}, 'Misc': {'deanslist': True}}
+
+Brigham Young University Fine Arts.xml		{'Misc': {'deanslist': False}}
+
+Brown University 19.xml		{'Misc': {'deanslist': False}}
+
+Oakland University Reverse Chronological 3.xml		{u"\u2022  Dean's List:  College of Business, 2000-2002 ": {'arr_pos': 19}, 'Misc': {'deanslist': True}, u' Bachelor of Science Degree in Business, December 2002, Wayne State University, Detroit, MI  ': {'loc': 'Michigan', 'arr_pos': 6, 'associated_date': u'December 2002', 'GPA': u'3.5'}, u' Master of Business Administration Degree, May 2005, Oakland University, Rochester, MI ': {'loc': 'Michigan', 'arr_pos': 1, 'associated_date': u'May 2005', 'GPA': u'3.2'}}
+
+Middlebury College Teacher.xml		{u' Middlebury College ': {'loc': 'Vermont', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Brown University 8.xml		{'Misc': {'deanslist': False}}
+
+Union College 7.xml		{u'Albany Medical College, Albany, NY ': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'May 2020'}, u' Union College, Schenectady, NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'June 2016', 'GPA': u'3.7'}, u'Union Graduate College, Schenectady, NY ': {'loc': 'New York', 'arr_pos': 5, 'associated_date': u'June 2017'}, 'Misc': {'deanslist': True}}
+
+Rollins College 1.xml		{'Misc': {'deanslist': True}, u'Rollins College, Winter Park, Florida ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2016'}}
+
+Union College 4.xml		{u'Autonomous Vehicle: Exploring Engineering, Union College, Schenectady, NY, Winter 2012 ': {'loc': 'Massachusetts', 'arr_pos': 27, 'associated_date': u'September 2013'}, u'Union College, Schenectady, NY           ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.67'}, 'Misc': {'deanslist': True}, u'Senior Capstone Project: Robotics Design, Union College, Schenectady, NY, Fall 2014 ': {'loc': 'Massachusetts', 'arr_pos': 19, 'associated_date': u'January 2013'}, u'Member, Baja Club, Union College, Schenectady, NY, January 2013 \u2013 June 2013 ': {'loc': 'Massachusetts', 'arr_pos': 23, 'associated_date': u'January 2013'}}
+
+Emmanuel College 3.xml		{'Misc': {'deanslist': True}}
+
+University of Mary Washington 7.xml		{u' University of Mary Washington (UMW), Fredericksburg, VA, May 20?? ': {'loc': 'Virginia', 'arr_pos': 4, 'GPA': u'3.1'}, 'Misc': {'deanslist': True}}
+
+Southwestern University Functional.xml		{u' Bachelor of Fine Arts in Theatre, Southwestern University, Georgetown, TX, May 20__ ': {'loc': 'Texas', 'arr_pos': 1, 'GPA': u'3.8'}, 'Misc': {'deanslist': True}}
+
+University of Mary Washington 4.xml		{u' University of Mary Washington, Fredericksburg, VA     ': {'loc': 'Virginia', 'arr_pos': 4, 'GPA': u'3.7'}, 'Misc': {'deanslist': True}}
+
+Miami of Ohio 6.xml		{'Misc': {'deanslist': False}}
+
+Wilkes University 6.xml		{'Misc': {'deanslist': False}}
+
+UC San Diego 4.xml		{'Misc': {'deanslist': True}, u'UC San Diego, Current GPA: 3.46  ': {'arr_pos': 2, 'GPA': u'3.46'}, u'San Diego Mesa Community College  ': {'arr_pos': 3}}
+
+Miami of Ohio 1.xml		{u'Miami University | Oxford, Ohio': {'loc': 'Ohio', 'arr_pos': 2, 'associated_date': u'June 2013', 'GPA': u'3.74'}, 'Misc': {'deanslist': True}, u'University Business Honors Program': {'arr_pos': 9, 'associated_date': u'June 2013', 'GPA': u'3.74'}}
+
+Brown University 6.xml		{u'Upper Dublin High School, 4.86 GPA   ': {'loc': 'Pennsylvania', 'arr_pos': 20}, u'Brown University, 3.75 GPA   ': {'loc': 'Pennsylvania', 'arr_pos': 14, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Wilkes University 4.xml		{u' Wherever University, Wilkes-Barre, PA ': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'Misc': {'deanslist': True}}
+
+Rochester University 9.xml		{'Misc': {'deanslist': False}}
+
+University of Puget Sound 4.xml		{u' WFA and CPR training, University of Puget Sound   ': {'arr_pos': 9, 'associated_date': u'August 2006'}, 'Misc': {'deanslist': True}, u'University of Puget Sound, Tacoma, WA ': {'loc': 'Washington', 'arr_pos': 3, 'associated_date': u'May 2009'}}
+
+Winthrop University Economics.xml		{'Misc': {'deanslist': True}, u'Winthrop University, Rock Hill, SC    ': {'loc': 'South Carolina', 'arr_pos': 2, 'associated_date': u'December 2014', 'GPA': u'3.8'}}
+
+Rochester University 2.xml		{'Misc': {'deanslist': False}}
+
+Rochester University 1.xml		{'Misc': {'deanslist': False}}
+
+Rochester University 6.xml		{'Misc': {'deanslist': True}, u' UNIVERSITY OF ROCHESTER, Rochester, NY ': {'loc': 'New York', 'arr_pos': 1}}
+
+Miami of Ohio Creative 2.xml		{'Misc': {'deanslist': False}}
+
+Wilkes University 5.xml		{'Misc': {'deanslist': True}, u'                                Wilkes University Scholarship recipient.  ': {'arr_pos': 2}, u'                                Wilkes University, Wilkes-Barre, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.0'}}
+

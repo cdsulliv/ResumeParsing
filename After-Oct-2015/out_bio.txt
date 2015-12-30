@@ -1,0 +1,338 @@
+Louisiana State University.xml		{'phone': '(225) 578-3202', 'email': 'mtiger5@lsu.edu', 'name': 'Michelle T. Tiger   '}
+
+Tufts University Engineering 1.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Monclair State University Teacher Education 3.xml		{'phone': '973-655-0000', 'email': 'CBayer@gmail.com', 'name': ' Christine Bayer '}
+
+Brown University 9.xml		{'phone': '(401) 863-3326', 'email': 'josiah_carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+Tufts University Engineering 7.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Mary Washington 8.xml		{'phone': '(540) 654-0000', 'email': 'Christy@UMW.edu', 'name': ' Christy Freshman '}
+
+Brown University 10.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Oakland University Reverse Chronological 1.xml		{'phone': '248-555-4321', 'email': 'jadoe@email.com', 'name': 'No Name Found'}
+
+Southwestern University 3.xml		{'phone': '(903) 555-1517', 'email': 'scientiss@southwestern.edu', 'name': 'Seth Scientist '}
+
+Tufts University Engineering 8.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Seattle Pacific University Accounting.xml		{'phone': '206-281-9876', 'email': 'accountanta@spu.edu', 'name': 'ADRIAN ACCOUNTANT '}
+
+Alfred University Psychology.xml		{'phone': '(607) 587-0000', 'email': 'mcnultss@alfred.edu', 'name': ' Serena McNulty '}
+
+Emmanuel College 1.xml		{'phone': '617-646-2266', 'email': 'ryan.jacobs@emmanuel.edu', 'name': 'JACOBS '}
+
+Union College 3.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Denver Marketing.xml		{'phone': '303.888.1234', 'email': 'atm@myemail.com', 'name': 'Angela T. Martinez'}
+
+Mount Holyoke 3.xml		{'phone': '413-555-7890', 'email': 'mclyon@mtholyoke.edu', 'name': ' MARY C. LYON '}
+
+Washington University in St.xml		{'phone': '(314) 555-1234', 'email': 'bnguyen@wustl.edu', 'name': 'Benjamin Nguyen'}
+
+Emmanuel College 4.xml		{'phone': '617-555-7878', 'email': 'kangs@emmanuel.edu', 'name': 'No Name Found'}
+
+UC San Diego 3.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Boise State Chronological.xml		{'phone': '(555) 555-5555', 'email': 'JaneSmith@internet.com', 'name': 'No Name Found'}
+
+Sterling College.xml		{'phone': 'No Phone Found', 'email': 'xxxxx@gmail.com', 'name': 'No Name Found'}
+
+Miami of Ohio 4.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Seattle Pacific University Dietetics.xml		{'phone': '(206)310-8888', 'email': 'ddiet@spu.edu', 'name': 'Edmonds WA, 98020    '}
+
+Oakland University Reverse Chronological 2.xml		{'phone': '248-555-1234', 'email': 'janeadoe@email.com', 'name': 'No Name Found'}
+
+Austin College 2.xml		{'phone': '(903) 813-1245', 'email': 'csmith@austincollege.edu', 'name': ' Charles H. Smith'}
+
+Bates College.xml		{'phone': '207.786-6232', 'email': 'johnbates@bates.edu', 'name': 'JOHN BATES '}
+
+University of Mary Washington 1.xml		{'phone': '000-000-0000', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Sarah Lawrence College 5.xml		{'phone': '(914) 265-2220', 'email': 'lwilliams@gm.slc.edu', 'name': 'LINDA WILLIAMS '}
+
+Goodwin College Office Assistant.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Austin College 3.xml		{'phone': '(903) 813-5013', 'email': 'tperkins@austincollege.edu', 'name': 'Timothy A. Perkins '}
+
+Southwestern University 4.xml		{'phone': '(956) 555-8674', 'email': 'healthch@southwestern.edu', 'name': 'Hannah Healthcare '}
+
+Tufts University Engineering 2.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Miami of Ohio 3.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': ' Paul W. Bishop      '}
+
+Miami of Ohio 2.xml		{'phone': '(513) 523-9000', 'email': 'shoyt@MiamiOH.edu', 'name': 'No Name Found'}
+
+Brown University 4.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Mary Washington 3.xml		{'phone': '540-654-0000', 'email': 'gwalsh@umw.edu', 'name': ' George Walsh '}
+
+University of Mary Washington 10.xml		{'phone': '(540) 654-0000', 'email': 'christyg@umw.edu', 'name': ' Christy Graduate '}
+
+Emmanuel College 2.xml		{'phone': '(617) 555-1234', 'email': 'smithj@emmanuel.edu', 'name': ' JOHN SMITH '}
+
+Rochester University 11.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': ' WANDA'}
+
+Southwestern University 8.xml		{'phone': '(832) 555-7885', 'email': 'penelopePR@gmail.com', 'name': 'Penelope Public Relations '}
+
+UC San Diego 7.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Emmanuel College 5.xml		{'phone': '(123) 456-7891', 'email': 'jdoe@emmanuel.edu', 'name': ' JOHN DOE '}
+
+University of Puget Sound 1.xml		{'phone': '(253)555-5168', 'email': 'kba@ups.edu', 'name': ' Kristina B. Alder'}
+
+Sarah Lawrence College 4.xml		{'phone': '(914) 227-1234', 'email': 'aayoub@gm.slc.edu', 'name': 'No Name Found'}
+
+Tufts University Engineering 5.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+UC San Diego 8.xml		{'phone': '(858) 534-3750', 'email': 'student@ucsd.edu', 'name': 'No Name Found'}
+
+Brown University 13.xml		{'phone': '(401) 863-3326', 'email': 'Josiah_Carberry@brown.edu', 'name': 'JOSIAH CARBERRY '}
+
+Eastern Illinois State Management.xml		{'phone': 'No Phone Found', 'email': 'katiejones@jonesnet.com', 'name': ' Katie Elizabeth Jones '}
+
+Oglethorpe University Senior.xml		{'phone': '(404) 555-6725', 'email': 'kbell3@oglethorpe.edu', 'name': '         Rachel Robinson '}
+
+Southwestern University 7.xml		{'phone': '(512) 555-9696', 'email': 'teachert@southwestern.edu', 'name': 'Tamara Teacher '}
+
+Pepperdine University.xml		{'phone': '(310) 506-4000', 'email': 'Roger.Eager@pepperdine.edu', 'name': 'Roger Eager '}
+
+Brown University 1.xml		{'phone': '(401) 632-7471', 'email': 'josiah_carberry@brown.edu', 'name': 'Josiah Carberry'}
+
+West Virginia University Sales.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Wabash College.xml		{'phone': '(212) 555-1111', 'email': 'superhero@wabash.edu', 'name': ' Clark S. Kent '}
+
+University of Mary Washington 5.xml		{'phone': '540-654-0000', 'email': 'mwash@verizon.net', 'name': ' Mary T. Washington '}
+
+Rochester University 5.xml		{'phone': '(585) 555-6754', 'email': 'Ic002f@mail.rochester.edu', 'name': 'Ken Sultant '}
+
+College of the Holy Cross.xml		{'phone': '508-793-3880', 'email': 'careers@holycross.edu', 'name': 'JULIE WALSH'}
+
+Sarah Lawrence College 2.xml		{'phone': '909-123-4567', 'email': 'aholder@gm.slc.edu', 'name': ' Amelia Holder '}
+
+Brown University 20.xml		{'phone': '(401) 863-3326', 'email': 'josiah_carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+Mount Holyoke 4.xml		{'phone': '413-555-7890', 'email': 'lyon20m@mtholyoke.edu', 'name': 'MARY D. LYON '}
+
+Lehigh University.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Mount Holyoke 6.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'Frances Perkins, page 2 '}
+
+Seattle Pacific University English.xml		{'phone': '(206) 525-5555', 'email': 'englishmajor@spu.edu', 'name': 'Angelica Editor '}
+
+Union College 5.xml		{'phone': '518.555.6060', 'email': 'JobA2@union.edu', 'name': 'Anita Job '}
+
+Sarah Lawrence College 3.xml		{'phone': 'No Phone Found', 'email': 'hoswald@gm.slc.edu', 'name': 'No Name Found'}
+
+Southwestern University 5.xml		{'phone': '512.555.1234', 'email': 'fbiintef@southwestern.edu', 'name': 'No Name Found'}
+
+Rochester University 3.xml		{'phone': '(585) 555-6639', 'email': 'Imar@aol.com', 'name': 'Ima Rochesterian  '}
+
+Brown University 14.xml		{'phone': '(401) 863-3326', 'email': 'josiahcarberry@brown.edu', 'name': 'JOSIAH CARBERRY '}
+
+Seattle Pacific University Sample Resume List.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Tufts University Engineering 3.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Towson Univeristy Forensic Chemistry.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Wilkes University 3.xml		{'phone': '570-555-1234', 'email': 'susan.college@wilkes.edu', 'name': 'No Name Found'}
+
+Union College 8.xml		{'phone': '(518) 555-5656', 'email': 'StanleyM@gmail.com', 'name': 'No Name Found'}
+
+Sarah Lawrence College 1.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Iowa State University Engineering 2.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Sarah Lawrence College Junior:Senior.xml		{'phone': '203-333-1234', 'email': 'jwright@gm.slc.edu', 'name': 'Jacob Wright'}
+
+Tufts University Engineering 6.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Rochester University 4.xml		{'phone': '(585) 555-1111', 'email': 'ure008g@mail.rochester.edu', 'name': 'Simon Early Leaders Award and Scholarship for Students with Potential to Complete MBA Studies.  '}
+
+Rollins College 2.xml		{'phone': '407-646-2195', 'email': 'samjones@rollins.edu', 'name': 'No Name Found'}
+
+Seattle Pacific University Global Development.xml		{'phone': '(425) 584 9308', 'email': 'globalg@spu.edu', 'name': 'No Name Found'}
+
+Brown University 5.xml		{'phone': '(401) 863-3326', 'email': 'Josiah_Carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+Wilkes University 2.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Mary Washington 6.xml		{'phone': '(540) 671-6534', 'email': 'mgraduate@gmail.com', 'name': ' Melissa Graduate '}
+
+Austin College 1.xml		{'phone': '(903) 222-3333', 'email': 'mturner@austincollege.edu', 'name': 'Melissa L. Turner  '}
+
+Southwestern University 1.xml		{'phone': '281-555-1234', 'email': 'businesb@southwestern.edu', 'name': 'Bob Business '}
+
+Union College 9.xml		{'phone': '(607) 555-6868', 'email': 'BoyleR3@union.edu', 'name': 'Robert Boyle      '}
+
+Northeastern Communications.xml		{'phone': '(617) 555-5130', 'email': 'Atwood@yahoo.com', 'name': 'BRIAN ATWOOD '}
+
+Mount Holyoke 1.xml		{'phone': '413-555-7890', 'email': 'lyon20m@mtholyoke.edu', 'name': '1837 Blanchard Student Center , Mount Holyoke College, 50 College Street, South Hadley, MA  01075 '}
+
+Goodwin College Nursing 2.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Sarah Lawrence College Sophomore.xml		{'phone': '(914) 395-0000', 'email': 'dkennedy@slc.edu', 'name': ' DIANE S. KENNEDY '}
+
+Wilkes University Resume Guide.xml		{'phone': '(570)123-4567', 'email': 'Susie.college@wilkes.edu', 'name': ' Susie College '}
+
+Sarah Lawrence College Recent Grad.xml		{'phone': '(914) 914-9149', 'email': 'hmcdonald@hmcdonald.com', 'name': ' HENRY MCDONALD '}
+
+Union College 6.xml		{'phone': '(860) 555-6631', 'email': 'FitzpaT@union.edu', 'name': 'Tara K. Fitzpatrick'}
+
+Mount Holyoke 2.xml		{'phone': '(413) 555-1221', 'email': 'mblyon@mtholyoke.edu', 'name': 'MARY B. LYON '}
+
+West Chester University Science.xml		{'phone': '(550) 555-1234', 'email': 'BuzzF2@yahoo.com', 'name': 'Fran J. Buzza '}
+
+Brown University 3.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Puget Sound 2.xml		{'phone': '253-879-3161', 'email': 'bew@ups.edu', 'name': ' Brian E. Warner'}
+
+Wilkes University 1.xml		{'phone': '570-555-5555', 'email': 'Louis.Armstrong@wilkes.edu', 'name': 'Louis Armstrong '}
+
+Rochester University 10.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+UC San Diego 6.xml		{'phone': '(858) 534-3750', 'email': 'student@ucsd.edu', 'name': 'Craig Veteran Health '}
+
+Princeton University Junior.xml		{'phone': '(609) 234-5678', 'email': 'junior@princeton.edu', 'name': 'No Name Found'}
+
+Goodwin College Nursing 1.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Brown University 2.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Mount Holyoke 7.xml		{'phone': 'No Phone Found', 'email': 'xxxxx@mtholyoke.edu', 'name': 'MARY WOOLLEY LYON '}
+
+Southwestern University 2.xml		{'phone': '214-555-8508', 'email': 'nonprofn@southwestern.edu', 'name': 'Nicole Non-Profit '}
+
+Wayne State College Math.xml		{'phone': '(402) 375-0000', 'email': 'ethanmath@yahoo.com', 'name': 'ETHAN MATH '}
+
+Sarah Lawrence College First-Year.xml		{'phone': '(914) 999-0000', 'email': 'alharrold@slc.edu', 'name': ' Aliana Harrold '}
+
+Southwestern University 6.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Boise State Functional.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Puget Sound 3.xml		{'phone': '(253) 756-8888', 'email': 'bkpeyton@ups.edu', 'name': 'BELINDA K. PEYTON'}
+
+Oakland University Functional.xml		{'phone': '248-555-1234', 'email': 'johndoe@email.edu', 'name': ' John Doe '}
+
+Miami of Ohio Creative 1.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Rollins College 3.xml		{'phone': '512-282-6541', 'email': 'kduncan@rollins.edu', 'name': 'Kimberly Duncan  '}
+
+Oakland University Scannable.xml		{'phone': '248-555-1212', 'email': 'jdoe@email.com', 'name': ' JOHN DOE '}
+
+Brown University 11.xml		{'phone': '(401) 863-3326', 'email': 'josiah_carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+American University.xml		{'phone': '202.555.1212', 'email': 'student@american.edu', 'name': 'Joseph B. Smith '}
+
+Brown University 7.xml		{'phone': '(401) 863 - 3326', 'email': 'Josiah_I_Carberry@Brown.edu', 'name': ' Josiah Carberry '}
+
+Mount Holyoke 5.xml		{'phone': '413-555-7890', 'email': 'fperkins@mtholyoke.edu', 'name': 'FRANCES PERKINS '}
+
+Rochester University 12.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Brown University 18.xml		{'phone': '401-863-3326', 'email': 'Josiah_Carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+UC San Diego 5.xml		{'phone': 'No Phone Found', 'email': 'student@ucsd.edu', 'name': 'Sumin\t\r \xc2\xa0(Ruby)\t\r \xc2\xa0Athlete-\xc2\xad\xe2\x80\x90Business\t\r \xc2\xa0'}
+
+Sonoma State University.xml		{'phone': '(831) 454- 6859', 'email': 'jonesm@seawolf.sonoma.edu', 'name': 'Michelle Jones '}
+
+Miami of Ohio 5.xml		{'phone': '(513)-523-3000', 'email': 'Jordankreger@yahoo.com', 'name': 'Jordan L. Kreger'}
+
+Union College 1.xml		{'phone': '(555) 246-2000', 'email': 'montanaj@union.edu', 'name': ' Joe Montana '}
+
+Monclair State University Teacher Education 1.xml		{'phone': '973-655-0000', 'email': 'smiths@gmail.com', 'name': ' Susan Smith '}
+
+Brown University 12.xml		{'phone': 'No Phone Found', 'email': 'JOSIAH_CARBERRY@BROWN.EDU', 'name': 'No Name Found'}
+
+Rochester University 7.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+UC San Diego 2.xml		{'phone': '(858) 534-3750', 'email': 'student@ucsd.edu', 'name': '9500 Gilman Drive \xe2\x80\xa2 San Diego, CA 92122 \xe2\x80\xa2  (858) 534-3750 \xe2\x80\xa2 student@ucsd.edu '}
+
+Iowa State University Engineering 3.xml		{'phone': '(510)450-0000', 'email': 'Iam.green@iastate.edu', 'name': 'Archer Daniels Midland \xe2\x80\x93 Cedar Rapids, IA '}
+
+University of Mary Washington 2.xml		{'phone': '(540) 654-2574', 'email': 'erin.technology@gmail.com', 'name': ' Erin Technology '}
+
+Brown University 16.xml		{'phone': '401 863 3326', 'email': 'josiah_carberry@brown.edu', 'name': '   Josiah Carberry'}
+
+Goodwin College Administrative Assistant.xml		{'phone': '860-123-4567', 'email': 'name@goodwin.edu', 'name': 'John Applicant '}
+
+Union College 2.xml		{'phone': '276.555.0201', 'email': 'PlantR@union.edu', 'name': 'Robert Plant '}
+
+Troy University.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Puget Sound 5.xml		{'phone': '(253)879-3333', 'email': 'dyw@ups.edu', 'name': ' Dorothy Y. Wheelock '}
+
+Monclair State University Teacher Education 2.xml		{'phone': '973-655-0000', 'email': 'mmiller@gmail.com', 'name': ' Michael Miller '}
+
+Vanderbilt Public Policy.xml		{'phone': '(615) 500-5000', 'email': 'John.smithy.smith@vanderbilt.edu', 'name': 'John Smith '}
+
+Tufts University Engineering 4.xml		{'phone': '617.627.3299', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Iowa State University Engineering 1.xml		{'phone': '(515) 294-0252', 'email': 'bernoulli@iastate.edu', 'name': 'No Name Found'}
+
+Rochester University 8.xml		{'phone': '(518) 555-5555', 'email': 'js002i@mail.rochester.edu', 'name': 'Reese C.V. Fellowship'}
+
+Brown University 15.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Xavier University of Lousiana.xml		{'phone': '(972) 123-4567', 'email': 'imastudent@xula.edu', 'name': 'No Name Found'}
+
+University of Mary Washington 9.xml		{'phone': 'No Phone Found', 'email': 'Julie.Martin@gmail.com', 'name': ' Julie Martin '}
+
+Brigham Young University Fine Arts.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Brown University 19.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Oakland University Reverse Chronological 3.xml		{'phone': '248- 555-4321', 'email': 'jane@email.edu', 'name': ' JANE DOE '}
+
+Middlebury College Teacher.xml		{'phone': '(802) 443-5100', 'email': 'jrandom@middlebury.edu', 'name': 'No Name Found'}
+
+Brown University 8.xml		{'phone': '(401) 863-3326', 'email': 'Josiah_Carberry@brown.edu', 'name': 'Josiah Carberry '}
+
+Union College 7.xml		{'phone': '847-328-7788', 'email': 'VedderE@gmail.com', 'name': 'Eddie Vedder'}
+
+Rollins College 1.xml		{'phone': '407-628-1003', 'email': 'jtimberpond@rollins.edu', 'name': 'JUSTIN TIMBERPOND '}
+
+Union College 4.xml		{'phone': '(555) 867-6577', 'email': 'CadJ@union.edu', 'name': 'Johnny Cad'}
+
+Emmanuel College 3.xml		{'phone': '(773) 238-8112', 'email': 'jwilliams@yahoo.com', 'name': 'Joseph Williams '}
+
+University of Mary Washington 7.xml		{'phone': '540-654-0000', 'email': 'mwash@mail.umw.edu', 'name': ' Mary T. Washington '}
+
+Southwestern University Functional.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Mary Washington 4.xml		{'phone': '540 800 0000', 'email': 'mdiploma@gmail.com', 'name': ' Mary Diploma '}
+
+Miami of Ohio 6.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Wilkes University 6.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+UC San Diego 4.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Miami of Ohio 1.xml		{'phone': '(513) 529-3831', 'email': 'zwithrow@miamioh.edu', 'name': 'Zoe Withrow  '}
+
+Brown University 6.xml		{'phone': '(401) 863-3326', 'email': 'Josiah_Carberry@Brown.edu', 'name': 'No Name Found'}
+
+Wilkes University 4.xml		{'phone': '705-831-1111', 'email': 'Joesph.college@wilkes.edu', 'name': 'Joseph Q. College '}
+
+Rochester University 9.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+University of Puget Sound 4.xml		{'phone': '(253)555-4525', 'email': 'eschiff@ups.edu', 'name': 'Eric Schiff '}
+
+Winthrop University Economics.xml		{'phone': '(803)-555-5550', 'email': 'brianh4@winthrop.edu', 'name': 'Harry W. Bryan '}
+
+Rochester University 2.xml		{'phone': '(585)-777-7777', 'email': 'pp123@u.rochester.edu', 'name': 'Peter Premed '}
+
+Rochester University 1.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Rochester University 6.xml		{'phone': '(585) 555-5434', 'email': 'IGTeacher@hotmail.com', 'name': 'Ima Great Teacher '}
+
+Miami of Ohio Creative 2.xml		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Wilkes University 5.xml		{'phone': '570-888-7777', 'email': 'donna.jones@wilkes.edu', 'name': 'l                                                                  Donna Jones  '}
+
