@@ -13,6 +13,7 @@ awards and recognition
 chronological resume format example 
 experience history 
 professional development 
+professional work experience
 skill sets 
 articles published  
 skills and
@@ -205,7 +206,7 @@ romotions
 universidad de belgrano 
 work history
 projects
-  education 
+education 
 coursework 
 outdoor 
 additional skills: 
@@ -326,7 +327,8 @@ experience:
 ommittee on 
 relevant work experience
 objective 
-other work experience: 
+other work experience:
+other work experience 
 highlights:  
 honors and
 qualifications 
@@ -367,3 +369,4 @@ professional experience
 student teacher
 memberships 
 bjective
+law experience

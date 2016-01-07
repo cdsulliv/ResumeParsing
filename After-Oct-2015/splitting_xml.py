@@ -1,5 +1,6 @@
 """
-This script splits the xml version of resume into major categories
+This script splits the xml and text version of resume into major categories
+and saves it into a csv
 
 """
 
@@ -55,18 +56,20 @@ class ParseText(object):
                     headings.append(line)
                     start_index = content.index(str(bold))
                     heading_indexes.append(start_index)
-            #print content        
-            '''if not headings:
-                self.isXml = False
-                for line in content_list:
-                    #print line
-                    if line.strip() in PROBABLE_HEADINGS:
-                        print "heading3: ", line
-                        headings.append(line)
-                        start_index = content_list.index(line)
-                        heading_indexes.append(start_index)           
+        
+        #print content        
+        if not headings:
+            self.isXml = False
+            for line in content_list:
+                #print line
+                prob_head = line.strip().lower()
+                if prob_head in PROBABLE_HEADINGS and line not in headings:
+                    print "heading3: ", line
+                    headings.append(line)
+                    start_index = content_list.index(line)
+                    heading_indexes.append(start_index)           
                     
-            '''                          
+                                      
         return heading_indexes, headings
     
     def find_bio(self, content, content_list, headings, heading_indexes):
@@ -76,13 +79,13 @@ class ParseText(object):
                 bio = content[:end_bio_ind]
                 if bio:
                     return bio
-        '''else:
+        else:
             if heading_indexes:
                 end_bio_ind = min(heading_indexes)
                 bio_list = content_list[:end_bio_ind]
                 if bio_list:
                     return ''.join(bio_list)
-        '''        
+                
         return "NOT FOUND"
 
     def find_this(self, content, content_list, head, headings, heading_indexes):
@@ -99,7 +102,7 @@ class ParseText(object):
                             edu = content[start_index:]
 
                         return edu        
-        '''else:
+        else:
              if headings:
                 for h in range(len(headings)):
                     heading = headings[h]
@@ -113,7 +116,7 @@ class ParseText(object):
 
 
                         return ''.join(edu_list)                       
-        '''
+        
         return "NOT FOUND"        
 
     def readXmlToString(self):
@@ -158,7 +161,10 @@ if __name__ == "__main__":
                 edu = pt.find_this(content, content_list, "education", headings, heading_indexes)
                 exp = pt.find_this(content, content_list, "experience", headings, heading_indexes)
                 #print "EDUCATION: ", edu
-                #print "EXPERIENCE: ", exp 
+                #print "EXPERIENCE: ", exp
+                if not exp:
+                    exp =  pt.find_this(content, content_list, "history", headings, heading_indexes)
+                
                 row.append(filename)
                 row.append(headings)    
                 row.append(bio)    
