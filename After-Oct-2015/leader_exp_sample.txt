@@ -1,0 +1,66 @@
+<text top="896" left="108" width="309" height="18" font="535">L</span><span class="ft5">EADERSHIP </span><span class="ft4">A</span><span class="ft5">ND </span><span class="ft4">V</span><span class="ft5">OLUNTEER </span><span class="ft4">E</span><span class="ft5">XPERIENCE</text>
+<text top="921" left="148" width="379" height="18" font="546">Future Writers of America, Student Chapter, Member</text>
+<text top="921" left="684" width="132" height="18" font="549">Fall 1997 to Present</text>
+<text top="944" left="148" width="339" height="18" font="555">Austin College Student Assembly, Vice President</text>
+<text top="944" left="652" width="165" height="18" font="560">Fall 1998 to Spring 1999</text>
+<text top="962" left="167" width="427" height="22" font="573">· </span><span class="ft2">Liaison between student assembly and college administration</text>
+<text top="984" left="167" width="322" height="22" font="579">· </span><span class="ft2">Co-chaired Complaint Resolution Committee</text>
+<text top="1011" left="149" width="328" height="18" font="588">Austin College Great Day of Service, Volunteer</text>
+<text top="1011" left="683" width="134" height="18" font="592">Fall 1998, Fall 1999</text>
+
+<text top="946" left="86" width="305" height="20" font="882">L</span><span class="ft5">EADERSHIP </span><span class="ft4">A</span><span class="ft5">CTIVITIES AND </span><span class="ft4">I</span><span class="ft5">NTERESTS</text>
+<text top="975" left="127" width="342" height="20" font="912">Alpha Phi Omega Service Fraternity, President</text>
+<text top="975" left="645" width="163" height="20" font="915">Spring 2002 to present</text>
+<text top="995" left="154" width="255" height="22" font="939">· Active Member since Fall 2000</text>
+<text top="1022" left="127" width="261" height="20" font="959">Los Amigos Spanish Club, Member</text>
+<text top="1022" left="665" width="144" height="20" font="962">Fall 2000 to present</text>
+<text top="1047" left="127" width="248" height="20" font="990">International travel and swimming</text>
+
+<text top="996" left="54" width="298" height="21" font="1134">A</span><span class="ft9">CTIVITIES AND </span><span class="ft2">O</span><span class="ft9">RGANIZATIONS</text>
+<text top="1037" left="162" width="446" height="18" font="1170">Active member of Pi Sigma Epsilon, National Marketing Fraternity</text>
+<text top="1057" left="162" width="534" height="18" font="1213">Member of the National Society of Collegiate Scholars (academic honor society)</text>
+<text top="1078" left="162" width="308" height="18" font="1239">Regular volunteer for the American Red Cross</text>
+
+<text top="849" left="14" width="199" height="16" font="1704">LEADERSHIP EXPERIENCE</text>
+<text top="871" left="14" width="422" height="17" font="1757">Brown!International!Organization,!Lecture!series!coordinator!!</text>
+<text top="871" left="486" width="79" height="17" font="1758">!!!!!!!!!!!!!!!!!!!!!!!!</text>
+<text top="871" left="594" width="294" height="17" font="1780">!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Providence, RI, 2010 ­ 2011</text>
+<text top="895" left="108" width="7" height="15" font="2">·</text>
+<text top="891" left="135" width="482" height="17" font="1850">Organize!lectures!pertaining!to!international!issues!by!prominent!speakers!</text>
+<text top="912" left="14" width="460" height="16" font="1910">Teaching Assistant, Management of Industrial and Nonprofit Organizations</text>
+<text top="912" left="725" width="162" height="16" font="1925">Providence, RI, Fall 2010</text>
+<text top="935" left="108" width="7" height="15" font="2">·</text>
+<text top="931" left="135" width="320" height="17" font="1966">Guide!a!section!of!!students!through!case!studies!.!</text>
+<text top="951" left="14" width="476" height="17" font="2024">Group!Tutor,!Intermediate!Microeconomics,!and!Principles!of!Economics!!</text>
+<text top="951" left="540" width="3" height="17" font="2">!</text>
+<text top="951" left="594" width="3" height="17" font="2">!</text>
+<text top="951" left="648" width="3" height="17" font="2">!</text>
+<text top="951" left="702" width="185" height="17" font="2044">!!!!!!!Providence, RI, Fall 2010</text>
+<text top="972" left="14" width="314" height="17" font="2075">Intramural!soccer,!Captain!and!referee!!</text>
+<text top="972" left="378" width="3" height="17" font="2">!</text>
+<text top="972" left="432" width="3" height="17" font="2">!</text>
+<text top="972" left="486" width="3" height="17" font="2">!</text>
+<text top="972" left="540" width="3" height="17" font="2">!</text>
+<text top="972" left="594" width="296" height="17" font="2100">!!!!!!!!!!!!!!!!!!!Providence,!RI,!Fall!2008@Present!</text>
+<text top="996" left="108" width="7" height="15" font="2">·</text>
+<text top="992" left="135" width="668" height="17" font="2181">Started!own!team!in!fall!2008.!Won!a!tournament!that!year,!and!reached!the!playoffs!the!next!two!years.!</text>
+
+<text top="671" left="61" width="247" height="15" font="759">ACTIVITIES AND LEADERSHIP:</text>
+<text top="690" left="115" width="527" height="15" font="796">Students in Free Enterprise (SIFE), Team Leader, Winthrop University</text>
+<text top="690" left="687" width="138" height="15" font="804">Aug. 2011-Present</text>
+<text top="705" left="142" width="483" height="20" font="834"> Presented project results at regional and national competitions</text>
+<text top="725" left="142" width="445" height="20" font="860"> Won $2,000 in awards for Winthrop University SIFE team</text>
+<text top="768" left="115" width="503" height="15" font="893">Beta Gamma Sigma Honor Society, President, Winthrop University</text>
+<text top="768" left="673" width="153" height="15" font="896">Aug. 2012-May 2013</text>
+<text top="784" left="142" width="504" height="20" font="930"> Coordinated new member inductions, community service projects</text>
+<text top="845" left="61" width="77" height="15" font="934">WRITING:</text>
+<text top="864" left="115" width="454" height="15" font="960">Thesis, Economics of Philanthropy: Trends in Eastern Europe</text>
+<text top="864" left="750" width="74" height="15" font="963">April 2013</text>
+<text top="880" left="142" width="525" height="20" font="991"> Presented at undergraduate research colloquium in Orlando, Florida</text>
+<text top="903" left="115" width="124" height="15" font="998">Grant Proposal,</text>
+<text top="900" left="243" width="234" height="18" font="1012">Bernie Marcus "I Choose" Grant</text>
+<text top="903" left="750" width="74" height="15" font="1015">Feb. 2012</text>
+<text top="919" left="142" width="522" height="20" font="1051"> Wrote and won $5,000 grant on behalf of Rock Hill Girls' Home, Inc.</text>
+<text top="942" left="115" width="447" height="15" font="1083">Annual Report, Winthrop Students in Free Enterprise (SIFE)</text>
+<text top="942" left="737" width="87" height="15" font="1086">March 2012</text>
+<text top="958" left="142" width="506" height="20" font="1119"> Composed report presented at regional and national competitions</text>
