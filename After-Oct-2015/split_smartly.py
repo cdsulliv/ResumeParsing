@@ -8,17 +8,22 @@ seasons = "Spring", "Summer", "Fall", "Autumn", "Winter"
 
 with open('StateAbbreviations.csv', 'rb') as f:
     states = np.array([row for row in csv.reader(f.read().splitlines())])
-abbrevs = states[1:,1]
+abbrevs = '|'.join(['^' + x + '$' for x in states[1:,1]])
+
+
+def islocation(txt):
+    txt = ''.join(e for e in txt if e.isalnum())
+    regx = re.search(re.compile(abbrevs, re.IGNORECASE),txt)
+    return (regx is not None)
+
 
 def isdate(txt):
     ismonth = (True in [i in txt for i in months] )
     isyear = re.search(re.compile('20..'), txt) is not None
     isseason = (True in [i in txt for i in seasons])
-    return (ismonth or isyear or isseason)
+    ispresent = re.search('Present|present', txt) is not None
+    return (ismonth or isyear or isseason or ispresent)
 
-def islocation(txt):
-    txt = ''.join(e for e in txt if e.isalnum())
-    return (txt in abbrevs)
 
 def iscompany(txt):
     return (re.search("Inc|Corp|Ltd|LLC", txt) is not None)
