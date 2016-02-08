@@ -10,7 +10,7 @@ import codecs
 from bs4 import BeautifulSoup
 from nltk.tag.stanford import StanfordNERTagger
 #import nltk.tag.stanford as st
-
+from split_smartly import textsplit
 import os
 
 import numpy as np
@@ -223,8 +223,12 @@ def clean_and_arrange(arr):
             pure_b = []
             for lines in b:
                 if "<b>" not in lines and "</b>" not in  lines and "<text" not in  lines and "<i>" not in  lines and "</i>" not in  lines and "/text>" not in  lines:
-                    if(lines): #Dont enter empty lines
-                        pure_b.append(lines.encode("utf-8").strip())
+                    if(lines) and len(lines.encode("utf-8").strip()) > 1: #Dont enter empty lines and single character lines
+                        #Here calling the function written by Colin
+                        splitted_arr = textsplit(lines)
+                        for x in splitted_arr:
+                            # pure_b.append(lines.encode("utf-8").strip(" ,.-!"))
+                            pure_b.append(x.encode("utf-8").strip(" ,.-!"))
             cleaned_entry.append(pure_b)
         ret_resume.append(cleaned_entry)
     return ret_resume
@@ -256,7 +260,7 @@ for file_inp in files:
 
 
     #Writing final output to csv file
-    file_out = file_inp + "_out"
+    file_out = file_inp + "_out-new"
     with open(file_out+".csv", 'wb') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(['filename','company-1', 'location-1','position-1','date-1', 'all-1', 'company-2', 'location-2','position-2','date-2', 'all-2', 'company-3', 'location-3','position-3','date-3', 'all-3','company-4', 'location-4','position-4','date-4', 'all-4',])
