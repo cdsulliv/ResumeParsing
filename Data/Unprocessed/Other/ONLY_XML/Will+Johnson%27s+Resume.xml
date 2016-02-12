@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="27" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="21" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+<text top="58" left="54" width="171" height="30" font="0">Will Johnson </text>
+<text top="65" left="864" width="19" height="15" font="1">     </text>
+<text top="100" left="54" width="591" height="13" font="2">2530 Buckeye Drive  Rocklin, California 95677  Phone: (916) 521-7279  E-Mail: wjohnson1717@ucla.edu </text>
+<text top="150" left="54" width="103" height="24" font="3">Education </text>
+<text top="191" left="88" width="244" height="16" font="4">University of California, Los Angeles </text>
+<text top="191" left="486" width="4" height="16" font="4"> </text>
+<text top="191" left="540" width="4" height="16" font="4"> </text>
+<text top="191" left="594" width="4" height="16" font="4"> </text>
+<text top="191" left="648" width="219" height="16" font="4">Expected Graduation: June 2015 </text>
+<text top="220" left="88" width="294" height="15" font="1">•  Bachelor of Science, Mechanical Engineering  </text>
+<text top="220" left="432" width="4" height="15" font="1"> </text>
+<text top="220" left="486" width="4" height="15" font="1"> </text>
+<text top="220" left="540" width="4" height="15" font="1"> </text>
+<text top="220" left="594" width="4" height="15" font="1"> </text>
+<text top="220" left="648" width="4" height="15" font="1"> </text>
+<text top="220" left="702" width="4" height="15" font="1"> </text>
+<text top="220" left="756" width="108" height="15" font="1">           GPA: 3.73 </text>
+<text top="257" left="54" width="113" height="24" font="3">Experience </text>
+<text top="298" left="88" width="198" height="18" font="5">ATK Space Systems, Intern</text>
+<text top="300" left="286" width="4" height="16" font="4"> </text>
+<text top="300" left="486" width="4" height="16" font="4"> </text>
+<text top="300" left="540" width="4" height="16" font="4"> </text>
+<text top="300" left="594" width="271" height="16" font="4">        June 2014 through September 2014 </text>
+<text top="329" left="88" width="754" height="15" font="1">•  Performed extensive finite element analysis on reflector molds and reflector mold carts to determine a root cause for failure </text>
+<text top="352" left="88" width="439" height="15" font="1">•  Presented failure analysis report to engineering team and management </text>
+<text top="376" left="88" width="637" height="15" font="1">•  Authored two standard practice documents, one final report, and three manufacturing work instructions </text>
+<text top="399" left="88" width="609" height="15" font="1">•  Prepared test procedure and completed testing for coefficient of friction research and development </text>
+<text top="420" left="75" width="4" height="15" font="1"> </text>
+<text top="456" left="88" width="270" height="18" font="5">Lockheed Martin Corporation, Intern</text>
+<text top="457" left="358" width="4" height="16" font="4"> </text>
+<text top="457" left="486" width="4" height="16" font="4"> </text>
+<text top="457" left="540" width="4" height="16" font="4"> </text>
+<text top="457" left="594" width="271" height="16" font="4">        June 2013 through September 2013 </text>
+<text top="487" left="88" width="389" height="15" font="1">•  Designed and published office website: www.lm-scenergy.com </text>
+<text top="510" left="88" width="365" height="15" font="1">•  Toured customer facilities to identify energy inefficiencies </text>
+<text top="533" left="88" width="445" height="15" font="1">•  Calculated energy savings based on installed energy efficiency measures </text>
+<text top="570" left="54" width="144" height="24" font="3">Relevant Skills </text>
+<text top="613" left="111" width="54" height="19" font="5">Design </text>
+<text top="613" left="205" width="108" height="19" font="5">Manufacturing </text>
+<text top="613" left="344" width="125" height="19" font="5">Systems/Analysis </text>
+<text top="613" left="502" width="122" height="19" font="5">Microsoft Office </text>
+<text top="613" left="658" width="102" height="19" font="5">Programming </text>
+<text top="639" left="111" width="69" height="15" font="1">Solidworks </text>
+<text top="639" left="205" width="68" height="15" font="1">SolidCAM </text>
+<text top="639" left="344" width="67" height="15" font="1">MATLAB </text>
+<text top="639" left="502" width="36" height="15" font="1">Excel </text>
+<text top="639" left="658" width="28" height="15" font="1">C++ </text>
+<text top="661" left="111" width="26" height="15" font="1">NX </text>
+<text top="661" left="205" width="78" height="15" font="1">MasterCAM </text>
+<text top="661" left="344" width="68" height="15" font="1">LabVIEW </text>
+<text top="661" left="502" width="40" height="15" font="1">Word </text>
+<text top="661" left="658" width="49" height="15" font="1">HTML </text>
+<text top="683" left="111" width="55" height="15" font="1">Inventor </text>
+<text top="683" left="205" width="47" height="15" font="1">GD&amp;T </text>
+<text top="683" left="344" width="45" height="15" font="1">Femap </text>
+<text top="683" left="502" width="72" height="15" font="1">Powerpoint </text>
+<text top="683" left="658" width="29" height="15" font="1">CSS </text>
+<text top="706" left="111" width="65" height="15" font="1">AutoCAD </text>
+<text top="723" left="205" width="4" height="15" font="1"> </text>
+<text top="706" left="344" width="76" height="15" font="1">NX Nastran </text>
+<text top="706" left="502" width="54" height="15" font="1">Outlook </text>
+<text top="706" left="658" width="130" height="15" font="1">Adobe Dreamweaver </text>
+<text top="739" left="54" width="92" height="24" font="3">Activities </text>
+<text top="781" left="87" width="256" height="16" font="4">UCLA ASCE Steel Bridge FEA Team </text>
+<text top="781" left="378" width="4" height="16" font="4"> </text>
+<text top="781" left="432" width="4" height="16" font="4"> </text>
+<text top="781" left="486" width="4" height="16" font="4"> </text>
+<text top="781" left="540" width="4" height="16" font="4"> </text>
+<text top="781" left="594" width="4" height="16" font="4"> </text>
+<text top="781" left="648" width="219" height="16" font="4">September 2014 through present </text>
+<text top="810" left="87" width="205" height="16" font="4">UCLA Ultimate Frisbee Team </text>
+<text top="810" left="324" width="4" height="16" font="4"> </text>
+<text top="810" left="378" width="4" height="16" font="4"> </text>
+<text top="810" left="432" width="4" height="16" font="4"> </text>
+<text top="810" left="486" width="380" height="16" font="4">                                       September 2011 through present </text>
+<text top="838" left="87" width="157" height="16" font="4">UCLA Chamber Choir </text>
+<text top="838" left="270" width="4" height="16" font="4"> </text>
+<text top="838" left="324" width="4" height="16" font="4"> </text>
+<text top="838" left="378" width="4" height="16" font="4"> </text>
+<text top="838" left="432" width="4" height="16" font="4"> </text>
+<text top="838" left="486" width="4" height="16" font="4"> </text>
+<text top="838" left="540" width="324" height="16" font="4">                     September 2012 through June 2014 </text>
+<text top="882" left="54" width="86" height="24" font="3">Interests </text>
+<text top="929" left="54" width="99" height="16" font="4">Manufacturing </text>
+<text top="929" left="183" width="49" height="16" font="4">Design </text>
+<text top="929" left="280" width="58" height="16" font="4">Analysis </text>
+<text top="929" left="366" width="112" height="16" font="4">Problem Solving </text>
+<text top="929" left="501" width="65" height="16" font="4">Teaching </text>
+<text top="929" left="600" width="62" height="16" font="4">Learning </text>
+<text top="929" left="706" width="44" height="16" font="4">Music </text>
+<text top="929" left="803" width="46" height="16" font="4">Sports </text>
+<text top="954" left="54" width="4" height="16" font="4"> </text>
+<text top="993" left="54" width="238" height="24" font="3">Awards and Recognition </text>
+<text top="1035" left="88" width="127" height="16" font="4">Dean’s Honor List </text>
+<text top="1035" left="486" width="58" height="16" font="4">              </text>
+<text top="1035" left="594" width="275" height="16" font="4"> July 2012, April 2013, and January 2014  </text>
+<text top="1069" left="88" width="319" height="16" font="4">Air Force Math and Science Student of the Year </text>
+<text top="1069" left="486" width="58" height="16" font="4">              </text>
+<text top="1069" left="594" width="4" height="16" font="4"> </text>
+<text top="1069" left="648" width="4" height="16" font="4"> </text>
+<text top="1069" left="702" width="12" height="16" font="4">   </text>
+<text top="1069" left="756" width="116" height="16" font="4">          June 2011  </text>
+<text top="1096" left="54" width="4" height="16" font="4"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Symbol" color="#000000"/>
+<text top="6" left="423" width="73" height="18" font="0"><b>Justin Lee</b></text>
+<text top="25" left="410" width="98" height="18" font="0"><b>78 Warren St.</b></text>
+<text top="44" left="393" width="133" height="18" font="0"><b>Ramsey, NJ  07446</b></text>
+<text top="63" left="413" width="93" height="18" font="0"><b>201-600-8085</b></text>
+<text top="82" left="372" width="173" height="18" font="0"><b>justinhlee78@gmail.com</b></text>
+<text top="133" left="54" width="101" height="18" font="0"><b>OBJECTIVE:</b></text>
+<text top="152" left="54" width="807" height="17" font="1">To obtain a position in the Computer/Digital forensic that will utilize my educational skills and challenge me while giving unrelenting </text>
+<text top="170" left="54" width="775" height="17" font="1">support to Information Technology for the engineering development, manufacture and maintenance of a company's products and </text>
+<text top="187" left="54" width="48" height="17" font="1">interest.</text>
+<text top="223" left="54" width="105" height="18" font="0"><b>EDUCATION:</b></text>
+<text top="242" left="54" width="269" height="18" font="2">Bloomsburg University of Pennsylvania </text>
+<text top="261" left="54" width="267" height="18" font="2">Bachelor of Science in Digital Forensics</text>
+<text top="279" left="54" width="363" height="19" font="2">Expected Graduation Date: December 2014</text>
+<text top="318" left="54" width="211" height="18" font="0"><b>RELATED COURSEWORK:</b></text>
+<text top="356" left="54" width="800" height="18" font="0"><b>Digital Forensic Software</b> - An extension of Digital Forensics File Systems I and II emphasizing basic and intermediate </text>
+<text top="375" left="54" width="769" height="18" font="2">forensic methodology, including reporting, used on a variety of file systems (FAT, NTFS, HFS, ext2 and ext3) using </text>
+<text top="394" left="54" width="202" height="18" font="2">windows tools and techniques.</text>
+<text top="432" left="54" width="780" height="18" font="0"><b>Advanced Topic in Digital Forensics</b> - A continuation of Forensic Analysis in a Windows Environment emphasizing </text>
+<text top="451" left="54" width="801" height="18" font="2">advanced forensic methodology, including reporting, on a variety of file systems (FAT, NTFS, HFS, ext2 and ext3) using </text>
+<text top="470" left="54" width="336" height="18" font="2">windows tools and techniques and court testimony.</text>
+<text top="508" left="54" width="782" height="18" font="0"><b>Intro Computer Network</b> - A hands-on introduction to concepts and issues of computer networks. Course introduces </text>
+<text top="527" left="54" width="798" height="18" font="2">theoretical issues of general computer networks along with installation and configuration of a simple local area network. </text>
+<text top="546" left="54" width="402" height="18" font="2">Computer and network hardware and software are surveyed. </text>
+<text top="584" left="54" width="792" height="18" font="0"><b>Data Mining</b> - Understand the concepts and issues involved in data mining and learn how to apply current software for </text>
+<text top="603" left="54" width="344" height="18" font="2">tree-structured data analysis to real-world problems.</text>
+<text top="641" left="54" width="113" height="18" font="0"><b>EXPERIENCE:</b></text>
+<text top="679" left="54" width="776" height="18" font="0"><b>Information Technology Intern, </b>Saberpoint, Pompton Plains, NJ                                           May 2013-June 2013     </text>
+<text top="697" left="81" width="8" height="21" font="3"></text>
+<text top="699" left="108" width="240" height="18" font="2">Disassembled parts of the computer </text>
+<text top="719" left="81" width="8" height="21" font="3"></text>
+<text top="721" left="108" width="301" height="18" font="2">Reassembled parts of computer back together</text>
+<text top="740" left="81" width="8" height="21" font="3"></text>
+<text top="742" left="108" width="139" height="18" font="2">Formatted hard disks</text>
+<text top="762" left="81" width="8" height="21" font="3"></text>
+<text top="764" left="108" width="587" height="18" font="2">Assisted IT Manager with organizing computer parts and detecting if they were damaged</text>
+<text top="803" left="54" width="354" height="18" font="0"><b>File Clerk</b>, Mahwah Valley Orthopedic, Mahwah, NJ</text>
+<text top="803" left="432" width="423" height="18" font="2">                                                          June 2009- September 2009</text>
+<text top="821" left="81" width="8" height="21" font="3"></text>
+<text top="823" left="108" width="684" height="18" font="2">Maintained the accuracy and alphabetical ordering of over 2,000 patient files in a busy medical practice</text>
+<text top="843" left="81" width="8" height="21" font="3"></text>
+<text top="845" left="108" width="420" height="18" font="2">Retrieved and updated patience data as requested by office staff</text>
+<text top="864" left="81" width="8" height="21" font="3"></text>
+<text top="866" left="108" width="602" height="18" font="2">Collaborated with doctors in assisting them with any paperwork that needed to be filled out</text>
+<text top="886" left="81" width="8" height="21" font="3"></text>
+<text top="888" left="108" width="462" height="18" font="2">Rearranged files and organized them in an effective way for the office</text>
+<text top="927" left="54" width="65" height="18" font="0"><b>SKILLS:</b></text>
+<text top="946" left="54" width="221" height="18" font="2">Computer Forensics tools (HxD) </text>
+<text top="965" left="54" width="143" height="18" font="2">File Allocation Table </text>
+<text top="984" left="54" width="179" height="18" font="2">Parsing the Partition Table </text>
+<text top="1003" left="54" width="103" height="18" font="2">Data Recovery </text>
+<text top="1022" left="54" width="166" height="18" font="2">Excel, Word, Powerpoint</text>
+<text top="1041" left="54" width="223" height="18" font="2">Software AccessData and EnCase</text>
+<text top="1079" left="54" width="103" height="18" font="0"><b>ACTIVITIES:</b></text>
+<text top="1098" left="54" width="349" height="18" font="2">Member, Digital Forensic Club (Password Cracking)</text>
+<text top="1117" left="54" width="269" height="18" font="2">Volunteer, Salvation Army Family Store </text>
+<text top="1136" left="54" width="324" height="18" font="2">Volunteer, Fardale Trinity Church as a counselor </text>
+<text top="1155" left="54" width="243" height="18" font="2">Member, Disciple Maker Fellowship</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+</page>
+</pdf2xml>

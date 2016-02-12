@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="16" family="Times" color="#000000"/>
+<text top="82" left="386" width="146" height="23" font="0"><b>VICTOR Q. LI</b></text>
+<text top="109" left="223" width="473" height="18" font="1">Local Address: 844 Beacon Street| Boston, MA 02215 | (617) 717-9264</text>
+<text top="128" left="239" width="462" height="18" font="1">Home Address: 396 Moody Street| Akron, OH 44305| (330) 267-4125</text>
+<text top="147" left="397" width="146" height="18" font="1">vicz2216@gmail.com</text>
+<text top="166" left="76" width="92" height="23" font="0"><b>Education</b></text>
+<text top="190" left="76" width="381" height="18" font="2"><b>Boston University College of Engineering</b>, Boston, MA</text>
+<text top="209" left="76" width="785" height="18" font="1">Bachelor of Science, Mechanical Engineering                                                                                                    <b>May 2016</b></text>
+<text top="228" left="76" width="785" height="18" font="1">Recipient of the Boston University Grant- Must maintain 3.0 GPA                                                             <b>2012- Present</b></text>
+<text top="247" left="76" width="129" height="18" font="1">GPA: 3.3 out of 4.0</text>
+<text top="266" left="76" width="756" height="18" font="2"><b>Related Coursework</b>: Electro- Mechanical System Design, Energy and Thermodynamics, Fluid Mechanics, Heat </text>
+<text top="285" left="76" width="742" height="18" font="1">Transfer, Material Science, Mechanics I&amp;II, Mechanics of Materials, Mechanical Vibrations, Instrumentation &amp; </text>
+<text top="304" left="76" width="153" height="18" font="1">Theory of Experiments</text>
+<text top="323" left="76" width="131" height="18" font="2"><b>Academic Projects</b></text>
+<text top="341" left="81" width="8" height="21" font="3"></text>
+<text top="343" left="108" width="729" height="18" font="1">Designed manufacturable gearbox with 1/240 gear ratio and performed tolerance, life, bearing load, and finite </text>
+<text top="363" left="108" width="750" height="18" font="1">element analysis in Solidworks. Satisfied minimum life of 25,000 hours, 50 pound overhung load at output shaft, </text>
+<text top="382" left="108" width="438" height="18" font="1">and maximum input rotational speed of 5000 rotations per minute.</text>
+<text top="400" left="81" width="8" height="21" font="3"></text>
+<text top="402" left="108" width="723" height="18" font="1">Redesigned, manufactured, and tested a prototype based on pillow block load cells of Montalvo Corporation. </text>
+<text top="423" left="108" width="734" height="18" font="1">Replaced strain gauge technology with inexpensive piezoelectric sensors, reducing original manufacturing and </text>
+<text top="442" left="108" width="149" height="18" font="1">assembly time by half.</text>
+<text top="461" left="81" width="610" height="23" font="0"><b>Experience                                                                                                 </b></text>
+<text top="485" left="76" width="785" height="18" font="2"><b>Agira, Boston, MA                                                                                                                     September 2015-Present</b></text>
+<text top="504" left="76" width="621" height="18" font="4"><i><b>Design &amp; Fabrication Intern                                                                                                       </b></i></text>
+<text top="522" left="81" width="8" height="21" font="3"></text>
+<text top="524" left="108" width="688" height="18" font="1">Optimized efficiency of microprism optical array and fabricate system to reduce manufacturing costs of </text>
+<text top="544" left="108" width="703" height="18" font="1">photovoltaic modules by 50% and capital expenditures from $1 billion to $50 million per gigawatt factory.</text>
+<text top="563" left="81" width="8" height="21" font="3"></text>
+<text top="565" left="108" width="657" height="18" font="1">Developed optical system for equal light distribution and concentration in liquid- crystal displays.   </text>
+<text top="585" left="76" width="783" height="18" font="2"><b>Boston University College of Engineering, Boston, MA                                                       September 2015- Present</b></text>
+<text top="604" left="76" width="614" height="18" font="4"><i><b>Research Assistant                                                                                                                      </b></i></text>
+<text top="622" left="81" width="8" height="21" font="3"></text>
+<text top="624" left="108" width="751" height="18" font="1">Predict and control the morphology of soft mechanical structures through the swelling of elastomers and variation</text>
+<text top="644" left="108" width="554" height="18" font="1">in experimental parameters to model aircraft wings, blood vessels, and thin objects. </text>
+<text top="663" left="76" width="783" height="18" font="2"><b>Boston University Department of Astronomy, Boston, MA                                                 September 2013- Present</b></text>
+<text top="682" left="76" width="626" height="18" font="4"><i><b>Research and Design Assistant                      </b></i><b>                                                                               </b></text>
+<text top="701" left="81" width="8" height="23" font="5"></text>
+<text top="703" left="108" width="714" height="20" font="6">Modelled and rapidly prototyped six iterations of aerospace models in two months to exhibit flight </text>
+<text top="725" left="108" width="307" height="20" font="6">principles for educational demonstrations. </text>
+<text top="745" left="81" width="8" height="23" font="5"></text>
+<text top="747" left="108" width="745" height="20" font="6">Iterated through multiple designs and fabrications of a stereoscope based on market products for optics </text>
+<text top="769" left="108" width="628" height="20" font="6">and psychology research to study human depth perception and 3-dimensional viewing. </text>
+<text top="789" left="81" width="8" height="23" font="5"></text>
+<text top="791" left="108" width="702" height="20" font="6">Developed a pseudoscope optical instrument based on binocular vision and prisms funded by the </text>
+<text top="813" left="108" width="660" height="20" font="6">Undergraduate research Opportunities Program to further understand human depth reversal.</text>
+<text top="834" left="76" width="785" height="18" font="2"><b>The Will-Burt Company, Orville, OH                                                                             December 2013- August 2015</b></text>
+<text top="853" left="76" width="788" height="18" font="4"><i><b>Corporate Research and Development Mechanical Engineering Co-op                                                    </b></i><b>                       </b></text>
+<text top="871" left="81" width="8" height="21" font="3"></text>
+<text top="873" left="108" width="754" height="18" font="1">Designed and assembled critical components to a drone defense vehicle in three months as joint project with</text>
+<text top="893" left="108" width="754" height="18" font="1">Northrop Grumman for the Secret Service. Ensured cost of goods did not exceed $23,000 to yield 35% gross</text>
+<text top="912" left="108" width="468" height="18" font="1">margin ratio and successfully tested final product under 60 mph winds.</text>
+<text top="930" left="81" width="8" height="21" font="3"></text>
+<text top="932" left="108" width="737" height="18" font="1">Assembled parts to a pneumatic payload tilting system according to Inventor drawings as a government project </text>
+<text top="953" left="108" width="708" height="18" font="1">for the Naval Surface Warfare Center Dahlgren Division. Successfully passed stress testing beyond normal </text>
+<text top="972" left="108" width="133" height="18" font="1">operating capacity.  </text>
+<text top="991" left="81" width="49" height="23" font="0"><b>Skills</b></text>
+<text top="1014" left="81" width="8" height="21" font="3"></text>
+<text top="1016" left="108" width="714" height="18" font="2"><b>Computer</b>: Adobe Photoshop, Autocad, C++, Creo, Inventor, Matlab, Microsoft Office, Solidworks, Zemax</text>
+<text top="1036" left="81" width="8" height="21" font="3"></text>
+<text top="1038" left="108" width="269" height="18" font="2"><b>Languages</b>: Fluent in Mandarin Chinese</text>
+<text top="1058" left="81" width="84" height="23" font="0"><b>Activities</b></text>
+<text top="1082" left="81" width="778" height="18" font="2"><b>Boston University Rocket Propulsion Group                                                                       September 2012- Present</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="10" family="Symbol" color="#000000"/>
+<text top="84" left="81" width="6" height="16" font="7"></text>
+<text top="82" left="108" width="733" height="18" font="1">Developed a copper combustion chamber for the Lotus liquid engine used on the Starscraper suborbital launch </text>
+<text top="101" left="108" width="351" height="18" font="1">vehicle. Capable of producing 1500 pounds of thrust.</text>
+</page>
+<outline>
+<item page="1">Victor Q. Li</item>
+</outline>
+</pdf2xml>

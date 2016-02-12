@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#000000"/>
+	<fontspec id="1" size="25" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#333333"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="15" family="Times" color="#000000"/>
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+	<fontspec id="9" size="8" family="Times" color="#333333"/>
+	<fontspec id="10" size="12" family="Times" color="#333333"/>
+	<fontspec id="11" size="11" family="Times" color="#999999"/>
+<text top="116" left="54" width="143" height="23" font="0"><b>Austin Solomon</b></text>
+<text top="111" left="197" width="7" height="30" font="1"> </text>
+<text top="119" left="210" width="5" height="20" font="2"> </text>
+<text top="120" left="270" width="172" height="18" font="3">Mobile: (805) 405 ­ 6101 </text>
+<text top="119" left="441" width="5" height="20" font="2"> </text>
+<text top="119" left="473" width="5" height="20" font="2"> </text>
+<text top="147" left="270" width="263" height="18" font="3">Email: austingraysolomon@gmail.com </text>
+<text top="147" left="702" width="4" height="18" font="3"> </text>
+<text top="170" left="54" width="82" height="19" font="4"><b>Objective  </b></text>
+<text top="192" left="108" width="701" height="18" font="3">To obtain a software engineering or product management position that utilizes my technical strengths and </text>
+<text top="213" left="108" width="296" height="18" font="3">experience to advance a development team.  </text>
+<text top="233" left="108" width="8" height="18" font="4"><b>  </b></text>
+<text top="253" left="108" width="765" height="18" font="5">I am looking for an opportunity to contribute in a dynamic, cooperative environment that demands developing both </text>
+<text top="273" left="108" width="345" height="18" font="5">business and technical skill sets to deliver success.   </text>
+<text top="294" left="108" width="4" height="18" font="5"> </text>
+<text top="314" left="54" width="138" height="19" font="4"><b>Work Experience </b></text>
+<text top="334" left="108" width="51" height="18" font="4"><b>ViaSat </b></text>
+<text top="334" left="648" width="4" height="18" font="3"> </text>
+<text top="334" left="702" width="12" height="18" font="3">   </text>
+<text top="357" left="108" width="201" height="18" font="6"><i><b>Software Engineering Intern </b></i></text>
+<text top="356" left="309" width="17" height="23" font="7">​</text>
+<text top="357" left="309" width="207" height="18" font="3">(June 2014 – September 2014) </text>
+<text top="382" left="135" width="8" height="15" font="8">●</text>
+<text top="379" left="162" width="705" height="18" font="3">Utilized agile development to produce a tool suite that changed how ViaSat interacted with firewall traffic </text>
+<text top="399" left="162" width="595" height="18" font="3">within cloud­based networks. Executing in production and open sourced through GitHub. </text>
+<text top="422" left="135" width="8" height="15" font="8">●</text>
+<text top="420" left="162" width="625" height="18" font="3">Designed a web­based platform running on top of the application allowing engineers, network </text>
+<text top="440" left="162" width="679" height="18" font="3">administrators, auditors, and legal representatives to retrieve the personalized information they needed </text>
+<text top="460" left="162" width="495" height="18" font="3">quickly without a complete understanding of the entire, network topology. </text>
+<text top="483" left="135" width="8" height="15" font="8">●</text>
+<text top="480" left="162" width="679" height="18" font="3">Successfully argued for tool’s expansion against founders, engineering executives, and legal directors. </text>
+<text top="503" left="135" width="8" height="15" font="8">●</text>
+<text top="501" left="162" width="688" height="18" font="3">Drastically reduced time required to audit cloud networks from 5 weeks to 5 minutes while maintaining </text>
+<text top="521" left="162" width="571" height="18" font="3">original report’s integrity and correcting for inconsistencies since the previous report.  </text>
+<text top="544" left="135" width="8" height="15" font="8">●</text>
+<text top="541" left="162" width="703" height="18" font="3">Required I teach myself the entire technology stack including Python, Git, SQL (MySQL), and Amazon’s </text>
+<text top="561" left="162" width="330" height="18" font="3">Elastic Compute Cloud/ Virtual Private Network. </text>
+<text top="582" left="108" width="4" height="18" font="3"> </text>
+<text top="602" left="108" width="510" height="18" font="4"><b>California Institute of Telecommunications and Information Technology</b></text>
+<text top="602" left="702" width="4" height="18" font="4"><b> </b></text>
+<text top="602" left="756" width="12" height="18" font="4"><b>  </b> </text>
+<text top="622" left="108" width="156" height="18" font="6"><i><b>Application Developer </b></i></text>
+<text top="621" left="264" width="17" height="23" font="7">​</text>
+<text top="622" left="264" width="206" height="18" font="3">(September 2012 – May 2013) </text>
+<text top="645" left="135" width="8" height="15" font="8">●</text>
+<text top="642" left="162" width="669" height="18" font="3">Promoted from assistant to lead developer in creating a campus­wide, mobile iOS application for the </text>
+<text top="663" left="162" width="244" height="18" font="3">University of California, San Diego. </text>
+<text top="685" left="135" width="8" height="15" font="8">●</text>
+<text top="683" left="162" width="708" height="18" font="3">Coordinated with multiple directors for differential access to the nutritional statistics in their databases in a </text>
+<text top="703" left="162" width="528" height="18" font="3">successful effort to have the application adopted into a research study in Calit2. </text>
+<text top="726" left="135" width="8" height="15" font="8">●</text>
+<text top="723" left="162" width="665" height="18" font="3">Worked with interface developers to create wireframe mockups that integrated with Obj­C backend. </text>
+<text top="746" left="135" width="8" height="15" font="8">●</text>
+<text top="744" left="162" width="620" height="18" font="3">Demanded I teach myself Objective – C in the XCode Integrated Development Environment. </text>
+<text top="764" left="108" width="8" height="18" font="3">  </text>
+<text top="784" left="54" width="84" height="18" font="4"><b>Education </b></text>
+<text top="804" left="108" width="247" height="18" font="4"><b>University of California, San Diego</b></text>
+<text top="804" left="378" width="73" height="18" font="4"><b> GPA: 3.4 </b></text>
+<text top="827" left="135" width="8" height="15" font="8">●</text>
+<text top="825" left="162" width="522" height="18" font="3">Bachelor of Science in Computer Science from Jacob’s School of Engineering </text>
+<text top="847" left="135" width="8" height="15" font="8">●</text>
+<text top="845" left="162" width="382" height="18" font="3">Minor in Business from the Rady School of Management </text>
+<text top="868" left="135" width="8" height="15" font="8">●</text>
+<text top="865" left="162" width="639" height="18" font="3">Team lead and client liedson for Global Teams in Engineering Service through Millennial Tech. </text>
+<text top="888" left="135" width="8" height="15" font="8">●</text>
+<text top="885" left="162" width="597" height="18" font="3">Member/Tutor for The Homeless Charter, Enter the Matrix Course, Sigma Chi Fraternity. </text>
+<text top="906" left="108" width="475" height="18" font="4"><b>Related Engineering Courses:                   Related Business Courses:</b></text>
+<text top="911" left="583" width="3" height="12" font="9"> </text>
+<text top="926" left="135" width="8" height="15" font="8">●</text>
+<text top="925" left="162" width="135" height="17" font="10">Software Engineering </text>
+<text top="924" left="297" width="15" height="20" font="10">​</text>
+<text top="926" left="297" width="61" height="15" font="11">(CSE 110) </text>
+<text top="944" left="135" width="8" height="15" font="8">●</text>
+<text top="943" left="162" width="165" height="17" font="10">Advanced Data Structures  </text>
+<text top="942" left="327" width="15" height="20" font="10">​</text>
+<text top="944" left="327" width="61" height="15" font="11">(CSE 100) </text>
+<text top="962" left="135" width="8" height="15" font="8">●</text>
+<text top="961" left="162" width="216" height="17" font="10">Design and Analysis of Algorithms </text>
+<text top="960" left="378" width="15" height="20" font="10">​</text>
+<text top="962" left="378" width="61" height="15" font="11">(CSE 101) </text>
+<text top="980" left="135" width="8" height="15" font="8">●</text>
+<text top="979" left="162" width="130" height="17" font="10">Computer Networks  </text>
+<text top="978" left="292" width="15" height="20" font="10">​</text>
+<text top="980" left="292" width="57" height="15" font="11">(CSE 123)</text>
+<text top="983" left="349" width="5" height="12" font="9">  </text>
+<text top="926" left="486" width="8" height="15" font="8">●</text>
+<text top="925" left="513" width="163" height="17" font="10">Organizational Leadership </text>
+<text top="924" left="676" width="15" height="20" font="10">​</text>
+<text top="926" left="676" width="66" height="15" font="11">(MGT 164) </text>
+<text top="944" left="486" width="8" height="15" font="8">●</text>
+<text top="943" left="513" width="131" height="17" font="10">Innovation to Market </text>
+<text top="942" left="644" width="15" height="20" font="10">​</text>
+<text top="944" left="644" width="76" height="15" font="11">(MGT 121A) </text>
+<text top="962" left="486" width="8" height="15" font="8">●</text>
+<text top="961" left="513" width="224" height="17" font="10">Product Marketing and Management </text>
+<text top="960" left="737" width="15" height="20" font="10">​</text>
+<text top="962" left="737" width="66" height="15" font="11">(MGT 103) </text>
+<text top="980" left="486" width="8" height="15" font="8">●</text>
+<text top="979" left="513" width="155" height="17" font="10">Global Business Strategy </text>
+<text top="978" left="668" width="15" height="20" font="10">​</text>
+<text top="980" left="668" width="66" height="15" font="11">(MGT 112) </text>
+<text top="997" left="449" width="3" height="15" font="11"> </text>
+<text top="1013" left="54" width="112" height="19" font="4"><b>Technologies </b></text>
+<text top="1034" left="108" width="76" height="18" font="4"><b>Languages</b></text>
+<text top="1033" left="184" width="17" height="22" font="3">​</text>
+<text top="1034" left="184" width="655" height="18" font="3">: Proficient­ Java, C, C++, Python, SQL, Objective­C. Experience­HTML/CSS, JavaScript/JQuery </text>
+<text top="1056" left="108" width="129" height="18" font="4"><b>Systems/ Software</b></text>
+<text top="1056" left="237" width="17" height="22" font="3">​</text>
+<text top="1056" left="237" width="469" height="18" font="3">: Unix, Linux, AWS, Git/GitHub/Bitbucket, Xcode, VMWare, Eclipse </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="15" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+<text top="110" left="375" width="168" height="16" font="0">Justin Neill Blythe</text>
+<text top="150" left="418" width="81" height="13" font="1">Atlanta, GA</text>
+<text top="168" left="390" width="139" height="13" font="1">jblythe29@gmail.com</text>
+<text top="186" left="411" width="96" height="13" font="1">(404)-788-3518</text>
+<text top="225" left="108" width="72" height="13" font="1">Summary</text>
+<text top="225" left="248" width="562" height="13" font="1">Specific experience in organizing, problem solving, and communicating status, progress</text>
+<text top="243" left="248" width="562" height="13" font="1">and timely completion of assigned projects; demonstrated proficiency in prioritizing</text>
+<text top="261" left="248" width="562" height="13" font="1">tasks to meet deadlines; adapts readily to new challenges; grasps and applies new</text>
+<text top="279" left="248" width="431" height="13" font="1">procedures quickly; highly-motivated, detail-oriented team player.</text>
+<text top="320" left="108" width="72" height="13" font="1">Objective</text>
+<text top="320" left="248" width="562" height="13" font="1">To obtain an entry-level position as a software engineer where my computational and</text>
+<text top="338" left="248" width="562" height="13" font="1">problem solving skills combined with a strong mathematical background will be applied.</text>
+<text top="378" left="108" width="76" height="13" font="1">Education</text>
+<text top="378" left="248" width="477" height="13" font="1">B.S. in Physics, Georgia Institute of Technology, Atlanta, GA, May 2013</text>
+<text top="396" left="248" width="193" height="13" font="1">GPA 3.7 in major, 3.1 overall</text>
+<text top="436" left="108" width="41" height="13" font="1">Work</text>
+<text top="454" left="108" width="83" height="13" font="1">Experience</text>
+<text top="436" left="248" width="524" height="13" font="1">Graduate Teaching Assistant, Georgia Institute of Technology, Atlanta, GA</text>
+<text top="454" left="248" width="138" height="13" font="1">Fall 2013 - May 2015</text>
+<text top="471" left="271" width="539" height="14" font="1">• Taught Physics I and Physics II labs; received high remarks from most students</text>
+<text top="490" left="286" width="139" height="13" font="1">in previous semesters</text>
+<text top="507" left="271" width="539" height="14" font="1">• Mentor and tutor students enrolled in Physics I and II in the Clough Undergrad-</text>
+<text top="526" left="286" width="161" height="13" font="1">uate Learning Commons</text>
+<text top="543" left="271" width="180" height="14" font="1">• Proctor and grade exams</text>
+<text top="580" left="248" width="240" height="13" font="1">Intern, AnswerRocket, Atlanta, GA</text>
+<text top="580" left="721" width="89" height="13" font="1">Summer 2014</text>
+<text top="597" left="271" width="539" height="14" font="1">• Project initiated to design and implement a Python-based automated regression</text>
+<text top="616" left="286" width="39" height="13" font="1">model</text>
+<text top="633" left="271" width="539" height="14" font="1">• Program design was to pull from the Git server when a new version of the code</text>
+<text top="652" left="286" width="524" height="13" font="1">was uploaded; if errors detected, an email would be sent to the quality control</text>
+<text top="670" left="286" width="67" height="13" font="1">supervisor</text>
+<text top="687" left="271" width="539" height="14" font="1">• Studies of results over time indicated the program should have been implemented</text>
+<text top="705" left="286" width="367" height="13" font="1">server-side allowing submission of accurate error reports</text>
+<text top="746" left="108" width="68" height="13" font="1">Research</text>
+<text top="746" left="248" width="413" height="13" font="1">Student Researcher, Naval Research Lab, Washington, D.C.</text>
+<text top="746" left="721" width="89" height="13" font="1">Summer 2013</text>
+<text top="763" left="271" width="539" height="14" font="1">• Used the Long Wavelength Array 1 (LWA-1) in New Mexico to observe approxi-</text>
+<text top="782" left="286" width="177" height="13" font="1">mately 80 pulsars remotely</text>
+<text top="799" left="271" width="539" height="14" font="1">• Studied pulse broadening in pulsar B0950+08, allowing us to approximate the</text>
+<text top="818" left="286" width="133" height="13" font="1">sensitivity of LWA-1</text>
+<text top="835" left="271" width="539" height="14" font="1">• Pulsar search and initial analysis was done by PRESTO (written in C); further</text>
+<text top="854" left="286" width="186" height="13" font="1">analysis was done in Python</text>
+<text top="871" left="271" width="324" height="15" font="1">• Reference: <a href="http://arxiv.org/abs/1410.7422">http://arxiv.org/abs/1410.7422</a></text>
+<text top="907" left="248" width="535" height="13" font="1">Undergraduate Researcher, Center for Relativistic Astrophysics, Atlanta, GA</text>
+<text top="925" left="248" width="151" height="13" font="1">Fall 2012 - Spring 2013</text>
+<text top="942" left="271" width="539" height="14" font="1">• Built a computational model of radiative transfer in neutron star atmospheres</text>
+<text top="961" left="286" width="373" height="13" font="1">assuming local thermodynamic and radiative equilibrium</text>
+<text top="978" left="271" width="539" height="14" font="1">• The front-end was written in Python and the heavy calculations were carried out</text>
+<text top="997" left="286" width="157" height="13" font="1">in C functions for speed</text>
+<text top="1014" left="271" width="505" height="14" font="1">• Coding style based off the paper “Best Practices for Scientific Computing”</text>
+<text top="1032" left="271" width="539" height="14" font="1">• SCons used to build the program; Bitbucket used for a versioning system; Doxy-</text>
+<text top="1051" left="286" width="229" height="13" font="1">gen used to document the program</text>
+<text top="1068" left="271" width="522" height="14" font="1">• Less than one percent convergence achieved with proper boundary conditions</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+<text top="113" left="108" width="73" height="13" font="1">Academic</text>
+<text top="131" left="108" width="54" height="13" font="1">Honors</text>
+<text top="113" left="248" width="554" height="13" font="1">Dean’s List of Distinguished Students, Georgia Institute of Technology, all semesters</text>
+<text top="131" left="248" width="392" height="13" font="1">Graduated Highest Honors, Georgia Institute of Technology</text>
+<text top="148" left="248" width="390" height="13" font="1">Certificate in Astrophysics, Georgia Institute of Technology</text>
+<text top="166" left="248" width="378" height="13" font="1">Naval Research Enterprise Internship Program Fellowship</text>
+<text top="207" left="108" width="64" height="13" font="1">Personal</text>
+<text top="225" left="108" width="74" height="13" font="1">Interests/</text>
+<text top="243" left="108" width="72" height="13" font="1">Activities</text>
+<text top="207" left="248" width="175" height="13" font="1">Backpacking and Camping</text>
+<text top="225" left="248" width="28" height="13" font="1">Golf</text>
+<text top="243" left="248" width="42" height="13" font="1">Soccer</text>
+<text top="261" left="248" width="35" height="13" font="1">Xbox</text>
+<text top="301" left="108" width="76" height="13" font="1">Computer</text>
+<text top="319" left="108" width="40" height="13" font="1">Skills</text>
+<text top="297" left="257" width="73" height="13" font="1">Languages:</text>
+<text top="297" left="386" width="129" height="13" font="1">Bash, C, Fortran, L</text>
+<text top="297" left="510" width="9" height="9" font="2">A</text>
+<text top="297" left="516" width="85" height="16" font="1">TEX, Python</text>
+<text top="316" left="257" width="60" height="13" font="1">Software:</text>
+<text top="316" left="386" width="228" height="13" font="1">Mathematica, MATLAB, Vim, Git</text>
+<text top="334" left="257" width="62" height="13" font="1">Platform:</text>
+<text top="334" left="386" width="240" height="13" font="1">Macintosh (Mac), Ubuntu, Windows</text>
+<text top="352" left="257" width="111" height="13" font="1">Web Framework:</text>
+<text top="352" left="386" width="119" height="13" font="1">Django (beginner)</text>
+<text top="391" left="108" width="58" height="13" font="1">GitHub</text>
+<text top="393" left="248" width="220" height="12" font="1"><a href="https://github.com/jbbskinny">https://github.com/jbbskinny</a></text>
+</page>
+</pdf2xml>

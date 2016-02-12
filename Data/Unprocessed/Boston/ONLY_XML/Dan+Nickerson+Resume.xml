@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#0000ff"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#16355c"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="14" family="Symbol" color="#000000"/>
+<text top="68" left="361" width="197" height="24" font="0"><b>DAN NICKERSON</b></text>
+<text top="92" left="347" width="225" height="19" font="1"><a href="mailto:daniel.nickerson@tufts.edu">daniel.nickerson@tufts.edu</a></text>
+<text top="111" left="216" width="485" height="19" font="2">11 Garfield Ave | Somerville, MA 02145      (860)-449-4414</text>
+<text top="149" left="74" width="117" height="21" font="3"><b>EDUCATION</b></text>
+<text top="170" left="74" width="261" height="19" font="4"><i><b>Tufts University</b></i>, Medford, MA</text>
+<text top="190" left="74" width="411" height="19" font="2">Bachelor of Science in Mechanical Engineering     </text>
+<text top="190" left="614" width="141" height="19" font="2">                           </text>
+<text top="209" left="74" width="179" height="19" font="2">Graduation May 2015</text>
+<text top="228" left="74" width="160" height="19" font="2">Minor in Economics</text>
+<text top="247" left="74" width="305" height="19" font="5"><b>GPA: </b>3.18 Dean’s List 5/8 semesters</text>
+<text top="286" left="74" width="331" height="19" font="4"><i><b>The Williams School</b></i>, New London, CT</text>
+<text top="286" left="668" width="128" height="19" font="2">      September </text>
+<text top="305" left="74" width="129" height="19" font="2">2007-May 2011</text>
+<text top="345" left="74" width="361" height="21" font="3"><b>RELEVANT COURSES AND PROJECTS</b></text>
+<text top="366" left="74" width="755" height="19" font="2">Power Generation Systems, Manufacturing Processes, Modern Quality Control, Engineering </text>
+<text top="385" left="74" width="674" height="19" font="2">Materials, Machine Design, Mechanical Design and Fabrication, Inventive Design, </text>
+<text top="404" left="74" width="726" height="19" font="2">Engineering Graphics, Fluid Mechanics, Thermodynamics, Heat Transfer, Dynamics and </text>
+<text top="424" left="74" width="714" height="19" font="2">Vibrations, Mechanical Statics and Dynamics, System Dynamics and Controls, Intro to </text>
+<text top="443" left="74" width="327" height="19" font="2">Computer Science, Financial Economics</text>
+<text top="462" left="74" width="739" height="19" font="4"><i><b>Senior Design Project: </b></i>Researched, designed, and fabricated a working prototype of a </text>
+<text top="481" left="74" width="533" height="19" font="2">thermoelectric cooling boot for horses to help fight off laminitis. </text>
+<text top="542" left="74" width="194" height="21" font="3"><b>WORK EXPERIENCE</b></text>
+<text top="563" left="74" width="248" height="19" font="5"><b>BeON Home</b>, Cambridge, MA</text>
+<text top="563" left="614" width="212" height="19" font="2">    Summer 2014 – March </text>
+<text top="582" left="74" width="42" height="19" font="2">2015</text>
+<text top="601" left="74" width="251" height="19" font="6"><i>Mechanical Engineering Intern</i></text>
+<text top="621" left="128" width="8" height="21" font="7"></text>
+<text top="622" left="155" width="664" height="19" font="2">Designed and edited mechanical and electrical LED light bulb parts, assemblies </text>
+<text top="642" left="155" width="227" height="19" font="2">and drawings in SolidWorks</text>
+<text top="661" left="128" width="8" height="21" font="7"></text>
+<text top="663" left="155" width="613" height="19" font="2">Assisted the Principal Engineer in the design and testing of LED light bulb </text>
+<text top="683" left="155" width="102" height="19" font="2">components</text>
+<text top="721" left="74" width="442" height="19" font="5"><b>New England Science and Sailing, </b>Stonington, CT</text>
+<text top="741" left="74" width="768" height="19" font="6"><i>Small Craft Waterfront Director/Race Coach<b> </b></i><b>                                                                      </b></text>
+<text top="760" left="74" width="117" height="19" font="2">Summer 2013</text>
+<text top="779" left="128" width="8" height="21" font="7"></text>
+<text top="780" left="155" width="333" height="19" font="2">Presided over all on-the-water programs</text>
+<text top="800" left="74" width="749" height="19" font="6"><i>Sailing Instructor/Race Coach</i><b>                                                                                        </b></text>
+<text top="820" left="74" width="246" height="19" font="2">Summer 2009-2012<b>              </b></text>
+<text top="839" left="128" width="8" height="21" font="7"></text>
+<text top="840" left="155" width="439" height="19" font="2">Developed daily/weekly lesson plans with co-workers</text>
+<text top="860" left="128" width="8" height="21" font="7"></text>
+<text top="862" left="155" width="642" height="19" font="2">Taught kids ages 6-17 on the basics of sailing through advanced racing topics</text>
+<text top="906" left="74" width="69" height="21" font="3"><b>SKILLS</b></text>
+<text top="927" left="74" width="302" height="19" font="5"><b>Applications: </b>SolidWorks, AutoCAD</text>
+<text top="946" left="74" width="437" height="19" font="5"><b>Programming: </b>C++, Mathcad, MATLAB, LabView, R</text>
+<text top="990" left="74" width="111" height="21" font="3"><b>ACTIVITIES</b></text>
+<text top="1011" left="74" width="523" height="19" font="5"><b>Tufts Varsity Sailing: </b>Current Captain, Member 2011-Present</text>
+<text top="1030" left="128" width="8" height="21" font="7"></text>
+<text top="1032" left="155" width="521" height="19" font="2">Dedicated 30-40 hours/week to practice, meetings, and events</text>
+<text top="1052" left="74" width="253" height="19" font="5"><b>ASME: </b>Member, 2013-Present</text>
+<text top="1071" left="74" width="530" height="19" font="5"><b>ATO of Massachusetts: </b> Member, House Manager, 2012-2014</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="67" left="128" width="8" height="21" font="7"></text>
+<text top="69" left="155" width="631" height="19" font="2">Repair and improve fraternity house; fix and hang doors, repair and replace </text>
+<text top="89" left="155" width="211" height="19" font="2">appliances, refinish floors</text>
+<text top="108" left="128" width="8" height="21" font="7"></text>
+<text top="110" left="155" width="525" height="19" font="2">Communicate with contractors to schedule major house repairs</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="17" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="13" family="Symbol" color="#000000"/>
+<text top="108" left="401" width="116" height="21" font="0">David Sarker</text>
+<text top="131" left="309" width="160" height="21" font="0">Staten Island, NY </text>
+<text top="129" left="469" width="8" height="23" font="1"></text>
+<text top="132" left="477" width="5" height="19" font="2"> </text>
+<text top="131" left="482" width="127" height="21" font="0">718-612-5345</text>
+<text top="154" left="357" width="205" height="21" font="0">Dsarker27@gmail.com</text>
+<text top="217" left="372" width="14" height="23" font="3"><b>C</b></text>
+<text top="221" left="386" width="57" height="18" font="4"><b>AREER</b></text>
+<text top="217" left="444" width="23" height="23" font="3"><b> O</b></text>
+<text top="221" left="467" width="79" height="18" font="4"><b>BJECTIVE</b></text>
+<text top="246" left="108" width="634" height="19" font="2">An entry level software engineering position with a company seeking strong </text>
+<text top="265" left="108" width="331" height="19" font="2">analytical, coding, and debugging skills.</text>
+<text top="332" left="407" width="13" height="23" font="3"><b>E</b></text>
+<text top="336" left="421" width="91" height="18" font="4"><b>DUCATION</b></text>
+<text top="366" left="108" width="465" height="19" font="2">The City University of New York, College of Staten Island</text>
+<text top="385" left="108" width="572" height="19" font="2">Bachelors of Science Degree in Computer Science/Mathematics 2015</text>
+<text top="404" left="108" width="277" height="19" font="2">GPA: 3.44; Dean’s List 2013-2015</text>
+<text top="423" left="108" width="37" height="19" font="2">       </text>
+<text top="483" left="428" width="14" height="23" font="3"><b>S</b></text>
+<text top="487" left="442" width="49" height="18" font="4"><b>KILLS</b></text>
+<text top="507" left="135" width="8" height="21" font="5"></text>
+<text top="508" left="162" width="183" height="19" font="2">Experienced with Java</text>
+<text top="528" left="135" width="8" height="21" font="5"></text>
+<text top="529" left="162" width="401" height="19" font="2">Knowledgeable in MySQL, Git,  C++, and Python</text>
+<text top="550" left="135" width="8" height="21" font="5"></text>
+<text top="551" left="162" width="419" height="19" font="2">Basic understanding in HTML, CSS, JavaScript, PHP</text>
+<text top="571" left="135" width="8" height="21" font="5"></text>
+<text top="573" left="162" width="320" height="19" font="2">Ability to quickly learn new technology</text>
+<text top="593" left="135" width="8" height="21" font="5"></text>
+<text top="594" left="162" width="238" height="19" font="2">Strong problem-solving skills</text>
+<text top="614" left="135" width="8" height="21" font="5"></text>
+<text top="616" left="162" width="214" height="19" font="2">Self-motivated and driven</text>
+<text top="683" left="346" width="7" height="23" font="3"><b>I</b></text>
+<text top="687" left="353" width="101" height="18" font="4"><b>NTERNSHIP</b></text>
+<text top="683" left="454" width="20" height="23" font="3"><b> E</b></text>
+<text top="687" left="474" width="98" height="18" font="4"><b>XPERIENCE</b></text>
+<text top="706" left="108" width="409" height="19" font="2">CUNY-DOE IT, Staten Island Technical High School</text>
+<text top="706" left="756" width="53" height="19" font="2">9/14 - </text>
+<text top="727" left="108" width="37" height="19" font="2">7/15</text>
+<text top="747" left="108" width="153" height="19" font="6"><i>IT Specialist Intern</i></text>
+<text top="768" left="135" width="8" height="21" font="5"></text>
+<text top="769" left="162" width="573" height="19" font="2">Troubleshot instructional hardware, laptops, desktops, smart boards, </text>
+<text top="789" left="162" width="124" height="19" font="2">projectors, etc.</text>
+<text top="809" left="135" width="8" height="21" font="5"></text>
+<text top="810" left="162" width="625" height="19" font="2">Monitored mobile device management system and handled all iPad related </text>
+<text top="830" left="162" width="51" height="19" font="2">issues</text>
+<text top="849" left="135" width="7" height="20" font="7"></text>
+<text top="849" left="162" width="606" height="19" font="2">Worked on the local server and updated user information and restrictions</text>
+<text top="869" left="135" width="8" height="21" font="5"></text>
+<text top="870" left="162" width="608" height="19" font="2">Collaborated with students, teachers, and staff members to find the best </text>
+<text top="891" left="162" width="375" height="19" font="2">technological solutions to everyday problems</text>
+<text top="957" left="414" width="14" height="23" font="3"><b>P</b></text>
+<text top="961" left="429" width="75" height="18" font="4"><b>ROJECTS</b></text>
+<text top="980" left="108" width="220" height="19" font="2">https://github.com/dsarker</text>
+<text top="980" left="486" width="162" height="19" font="2">Travel Game – Java </text>
+<text top="980" left="702" width="5" height="19" font="2"> </text>
+<text top="1001" left="162" width="369" height="19" font="2">Pong – Java Sunshine – Android Weather App</text>
+<text top="1001" left="594" width="134" height="19" font="2">Hangman – Java</text>
+<text top="1021" left="216" width="151" height="19" font="2">ATM – Java            </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+<text top="108" left="412" width="95" height="23" font="0"><b>Taylor Falk</b></text>
+<text top="131" left="401" width="117" height="20" font="1"> (203) 733­9337</text>
+<text top="152" left="373" width="172" height="20" font="1">taylor.falk3@gmail.com</text>
+<text top="172" left="108" width="98" height="21" font="2"><b>EDUCATION</b></text>
+<text top="216" left="108" width="700" height="21" font="2"><b>University of Connecticut</b> Storrs, CT                                           September 2011 – May 2015</text>
+<text top="237" left="108" width="459" height="20" font="1">Bachelor of Science in Environmental Science, GPA: 3.45/4.00</text>
+<text top="258" left="108" width="285" height="20" font="1">Honors Sophomore Award, Dean's List</text>
+<text top="278" left="108" width="169" height="21" font="2"><b>Relevant Coursework</b></text>
+<text top="300" left="108" width="668" height="20" font="1">Methods of Field Ecology, Environmental Health, Object Oriented Design and Programming</text>
+<text top="341" left="108" width="163" height="21" font="2"><b>WORK EXPERIENCE</b></text>
+<text top="384" left="108" width="187" height="21" font="2"><b>Wegrzyn Lab </b>Storrs, CT<b> </b></text>
+<text top="385" left="378" width="73" height="20" font="1">                </text>
+<text top="385" left="486" width="323" height="20" font="1">                                   January 2015­Present</text>
+<text top="406" left="108" width="150" height="20" font="1">Bioinformatics Intern</text>
+<text top="429" left="81" width="8" height="16" font="1"></text>
+<text top="426" left="108" width="530" height="20" font="1">Processed quality control on RNA reads and analyzed genomic material.</text>
+<text top="450" left="81" width="8" height="16" font="1"></text>
+<text top="447" left="108" width="611" height="20" font="1">Compared multiple variant calling pipelines to determine best choice for the sample.</text>
+<text top="471" left="81" width="8" height="16" font="1"></text>
+<text top="468" left="108" width="334" height="20" font="1">Generated maps and visualized data using R.</text>
+<text top="509" left="108" width="326" height="21" font="2"><b>Candlewood Lake Authority</b> Sherman, CT </text>
+<text top="510" left="540" width="253" height="20" font="1">                June 2014 ­August 2014</text>
+<text top="531" left="108" width="117" height="20" font="1">Volunteer Intern</text>
+<text top="554" left="81" width="8" height="16" font="1"></text>
+<text top="551" left="108" width="463" height="20" font="1">Monitored various lake measurements at different stratifications</text>
+<text top="575" left="81" width="8" height="16" font="1"></text>
+<text top="572" left="108" width="540" height="20" font="1">Identified and tallied invasive species, zebra mussels, from water samples</text>
+<text top="596" left="81" width="8" height="16" font="1"></text>
+<text top="593" left="108" width="396" height="20" font="1">Monitored potential toxic algal blooms for public safety</text>
+<text top="634" left="108" width="354" height="21" font="2"><b>UITS, University of Connecticut</b> Storrs, CT      </text>
+<text top="635" left="486" width="322" height="20" font="1">              November 2012 – September 2013</text>
+<text top="656" left="108" width="225" height="20" font="1">Network Engineering Assistant</text>
+<text top="679" left="81" width="8" height="16" font="1"></text>
+<text top="676" left="108" width="578" height="20" font="1">Monitored the computer traffic for the school, analyzing the load on the network</text>
+<text top="699" left="81" width="8" height="16" font="1"></text>
+<text top="697" left="108" width="471" height="20" font="1">Acted as assistant Gatekeeper and assigned static IP addresses</text>
+<text top="738" left="108" width="217" height="21" font="2"><b>LEADERSHIP EXPERIENCE</b></text>
+<text top="782" left="108" width="698" height="21" font="2"><b>UConnPIRG </b>Storrs, CT                                                                    September 2013 – May 2014</text>
+<text top="806" left="81" width="8" height="16" font="1"></text>
+<text top="804" left="108" width="658" height="20" font="1">Event Coordinator for the Bigger Better Bottle Bill initiative, a campaign run by students to </text>
+<text top="824" left="108" width="327" height="20" font="1">increase recycling in the state of Connecticut</text>
+<text top="848" left="81" width="8" height="16" font="1"></text>
+<text top="845" left="108" width="694" height="20" font="1">Organized events such as movie screenings and public tabling, as well as “The Waste Whale,” </text>
+<text top="866" left="108" width="656" height="20" font="1">an event to build a whale out of plastic to raise awareness about pollution affecting wildlife</text>
+<text top="907" left="108" width="241" height="21" font="2"><b>WHUS – 91.7 FM </b>Storrs, CT       </text>
+<text top="907" left="378" width="32" height="20" font="1">       </text>
+<text top="907" left="432" width="9" height="20" font="1">  </text>
+<text top="907" left="594" width="215" height="20" font="1">   September, 2013 – Present</text>
+<text top="931" left="81" width="8" height="16" font="1"></text>
+<text top="928" left="108" width="690" height="20" font="1">Radio DJ, hosted a live show on air, responsible for broadcasting to listeners locally and online</text>
+<text top="951" left="81" width="8" height="16" font="1"></text>
+<text top="949" left="108" width="378" height="20" font="1">Producing public talk shows using studio equipment</text>
+<text top="990" left="108" width="59" height="21" font="2"><b>SKILLS</b></text>
+<text top="1034" left="108" width="687" height="20" font="1">R and RStudio, Shiny, ggplot, Next Generation Sequencing, Microsoft Office, Adobe Audition, </text>
+<text top="1055" left="108" width="206" height="20" font="1">Linux Desktop, Linux Server</text>
+</page>
+</pdf2xml>

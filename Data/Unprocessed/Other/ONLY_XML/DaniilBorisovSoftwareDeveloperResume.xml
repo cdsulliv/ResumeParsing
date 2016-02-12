@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="34" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+<text top="42" left="324" width="276" height="41" font="0"><b>Daniil Borisov </b></text>
+<text top="93" left="72" width="780" height="17" font="1"> 509-768-2849 | daniilborisov@gmail.com | www.linkedin.com/in/daniilborisov | https://github.com/DaniilBorisov  </text>
+<text top="111" left="878" width="3" height="15" font="2"> </text>
+<text top="151" left="282" width="354" height="19" font="3"><b>ENTRY-LEVEL SOFTWARE DEVELOPER </b></text>
+<text top="180" left="54" width="767" height="17" font="1">Recent graduate with a BS in Computer Science, meticulous problem solver with an eye for aesthetics and an ear for </text>
+<text top="200" left="54" width="770" height="17" font="1">customer expectations. Known for creating and implementing project solutions to improve product quality and time </text>
+<text top="220" left="54" width="74" height="17" font="1">efficiency. <b> </b></text>
+<text top="266" left="403" width="113" height="19" font="3"><b>EDUCATION </b></text>
+<text top="294" left="54" width="242" height="17" font="4"><b>Eastern Washington University</b></text>
+<text top="294" left="296" width="15" height="20" font="1">​</text>
+<text top="294" left="296" width="158" height="17" font="1">, Cheney WA, Aug 2015 </text>
+<text top="321" left="54" width="275" height="17" font="5"><i>Bachelor of Science in Computer Science</i> </text>
+<text top="355" left="398" width="122" height="19" font="3"><b>EXPERIENCE </b></text>
+<text top="383" left="54" width="275" height="17" font="4"><b>Farm Credit Financial Partners Inc.</b></text>
+<text top="383" left="329" width="15" height="20" font="1">​</text>
+<text top="383" left="329" width="240" height="17" font="1">, Spokane WA, Jun 2015 - Aug 2015 </text>
+<text top="410" left="54" width="184" height="17" font="5"><i>Software Developer Intern </i></text>
+<text top="437" left="108" width="581" height="17" font="1">Implemented changes to existing C# apps in Visual Studio to include new functionality. </text>
+<text top="464" left="108" width="394" height="17" font="1">Presented multiple project versions during clients meeting. </text>
+<text top="491" left="108" width="412" height="17" font="1">Created stored procedures, query statements and SQL scripts. </text>
+<text top="518" left="108" width="359" height="17" font="1">Wrote tests for web based application form generator. </text>
+<text top="551" left="54" width="209" height="17" font="4"><b>General Dynamics - Itronix</b></text>
+<text top="551" left="263" width="15" height="20" font="1">​</text>
+<text top="551" left="263" width="289" height="17" font="1">, Spokane Valley WA, Jun 2006 - Jun 2009 </text>
+<text top="578" left="54" width="198" height="17" font="5"><i>Computer Repair Technician </i></text>
+<text top="605" left="108" width="283" height="17" font="1">Troubleshot and Repaired rugged laptops. </text>
+<text top="632" left="108" width="560" height="17" font="1">Designed step by step service repair manual that is used in training new technicians. </text>
+<text top="674" left="411" width="98" height="19" font="3"><b>PROJECTS </b></text>
+<text top="703" left="54" width="131" height="17" font="4"><b>www.pixilit.com </b></text>
+<text top="703" left="185" width="15" height="20" font="1">​</text>
+<text top="703" left="185" width="179" height="17" font="5"><i>(CSS, JavaScript, Drupal)</i> </text>
+<text top="730" left="108" width="388" height="17" font="1">Final project for EWU. Team lead and frontend developer. </text>
+<text top="757" left="54" width="196" height="17" font="4"><b>Database Developer Tool </b></text>
+<text top="757" left="250" width="15" height="20" font="1">​</text>
+<text top="757" left="250" width="266" height="17" font="5"><i>(C#, XAML, SQL Server, Visual Studio)</i> </text>
+<text top="784" left="108" width="629" height="17" font="1">GUI tool to compare, create scripts and backup database table using Excel file and SQL scripts. </text>
+<text top="811" left="54" width="149" height="17" font="4"><b>Role Playing Game </b></text>
+<text top="811" left="203" width="15" height="20" font="1">​</text>
+<text top="811" left="203" width="103" height="17" font="5"><i>(Java, Eclipse)</i> </text>
+<text top="838" left="108" width="595" height="17" font="1">Team project for Design Pattern class to showcase and better understand design patterns. </text>
+<text top="865" left="54" width="257" height="17" font="4"><b>Poker Timer for Windows Phone </b></text>
+<text top="865" left="311" width="15" height="20" font="1">​</text>
+<text top="865" left="311" width="251" height="17" font="5"><i>(C#, XAML, Microsoft Visual Studio)</i> </text>
+<text top="892" left="108" width="702" height="17" font="1">Small Windows Phone app that tracks time, ante and blinds for game of poker. Done as final class project. </text>
+<text top="934" left="425" width="69" height="19" font="3"><b>SKILLS </b></text>
+<text top="963" left="54" width="508" height="17" font="1">LANGUAGES: Java, C#, HTML, XML, .NET, JavaScript, CSS, SQL, C, UML  </text>
+<text top="990" left="54" width="234" height="17" font="1">DATABASES: SQL Server, mySQL  </text>
+<text top="1017" left="54" width="419" height="17" font="1">VERSION CONTROL: Team Foundation Server (TFS), GitHub </text>
+<text top="1044" left="54" width="344" height="17" font="1">SOFTWARE: Visual Studio 2013, Netbeans, Eclipse </text>
+<text top="1071" left="54" width="436" height="17" font="1">CONCEPTS: OOD (Object Oriented Design), OOP, Agile, SCRUM </text>
+<text top="1098" left="54" width="253" height="17" font="1">PLATFORMS: Windows, Unix/Linux  </text>
+<text top="1125" left="54" width="394" height="17" font="1">HOBBIES: Woodworking, Poker. (http://goo.gl/mmG7pV) </text>
+</page>
+</pdf2xml>

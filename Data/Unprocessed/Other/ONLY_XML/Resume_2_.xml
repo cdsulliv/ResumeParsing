@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="31" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+	<fontspec id="3" size="19" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000000"/>
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+	<fontspec id="10" size="13" family="Symbol" color="#000000"/>
+	<fontspec id="11" size="14" family="Times" color="#000000"/>
+<text top="68" left="328" width="261" height="45" font="0"><b>Darya Moshref</b></text>
+<text top="117" left="327" width="265" height="20" font="1">11 Whitewood, Aliso Viejo CA 92656</text>
+<text top="139" left="266" width="165" height="20" font="1">Phone: 949-939-6770 </text>
+<text top="146" left="431" width="8" height="10" font="2"></text>
+<text top="139" left="439" width="214" height="20" font="1"> Email: daryasea@yahoo.com</text>
+<text top="189" left="299" width="321" height="28" font="3"><b>E L E C T R I C A L   E NG I N E E R</b></text>
+<text top="227" left="139" width="637" height="22" font="4"><i>A Flexible team member seeking an Entry-Level Position in Electrical Engineering</i></text>
+<text top="266" left="87" width="743" height="20" font="5"><b>Recent Electrical engineering BS graduate, specialized in optoelectronics and semiconductors </b></text>
+<text top="288" left="87" width="693" height="20" font="5"><b>and Biomedical minor and with 2 year experience as a electrical test engineering intern</b> </text>
+<text top="309" left="87" width="739" height="20" font="1">Possess the analytical abilities and technical skills necessary for engineering innovative designs and </text>
+<text top="329" left="87" width="696" height="20" font="1">applications. Solid understanding of electrical engineering theory, experience in automation of </text>
+<text top="349" left="87" width="93" height="20" font="1">testing tools.</text>
+<text top="399" left="405" width="15" height="28" font="3"><b>E</b></text>
+<text top="403" left="420" width="94" height="23" font="6"><b>DUCATION</b></text>
+<text top="444" left="87" width="309" height="20" font="1">UNIVERSITY OF CALIFORNIA IRVINE, CA</text>
+<text top="468" left="87" width="420" height="20" font="5"><b>Bachelor of Science in Electrical Engineering, </b>6/2014</text>
+<text top="500" left="87" width="8" height="18" font="7"></text>
+<text top="499" left="114" width="84" height="21" font="8"><i><b>Activities: </b></i></text>
+<text top="506" left="198" width="8" height="10" font="2"></text>
+<text top="499" left="206" width="260" height="20" font="1"> Society of Women Engineers (SWE)</text>
+<text top="527" left="87" width="8" height="18" font="7"></text>
+<text top="526" left="114" width="695" height="21" font="8"><i><b>Senior Magnetic tweezers Design Project:</b> </i>Completed design of a device to assist Biomedical </text>
+<text top="548" left="114" width="696" height="20" font="1">and cell researchers to control the current and monitor the movement of microscopic particles </text>
+<text top="568" left="114" width="292" height="20" font="1">using LabView and MATLAB programs. </text>
+<text top="590" left="87" width="8" height="18" font="7"></text>
+<text top="589" left="114" width="549" height="21" font="8"><i><b>Languages: </b></i>Fluent in Persian, solid speaking and writing skill in German<i><b> </b></i></text>
+<text top="639" left="399" width="15" height="28" font="3"><b>E</b></text>
+<text top="644" left="414" width="105" height="23" font="6"><b>XPERIENCE</b></text>
+<text top="684" left="87" width="273" height="20" font="1">TOWERJAZZ, NEWPORT BEACH, CA</text>
+<text top="704" left="87" width="254" height="20" font="9"><i>Semiconductor wafer manufacturer.</i></text>
+<text top="732" left="87" width="348" height="20" font="5"><b>Electrical Engineer Intern, </b>7/2012 to present</text>
+<text top="757" left="87" width="716" height="20" font="1">Automation of cascade testers and hardware such as spectrum analyzer, Agilent 4156 and signal </text>
+<text top="777" left="87" width="689" height="20" font="1">generators using LabView programming to automate wafer and package level test procedures. </text>
+<text top="807" left="87" width="114" height="21" font="8"><i><b>Contributions:</b></i></text>
+<text top="838" left="114" width="7" height="20" font="10"></text>
+<text top="837" left="141" width="660" height="20" font="1">Performing various QA and reliability tests on wafers, analyzing and reporting the data to </text>
+<text top="861" left="141" width="75" height="20" font="1">engineers.</text>
+<text top="882" left="114" width="7" height="20" font="10"></text>
+<text top="881" left="141" width="662" height="20" font="1">Responsible for writing programs in LabView and MATLAB to assist the engineers in R&amp;D </text>
+<text top="904" left="141" width="243" height="20" font="1">department Data manipulation.  </text>
+<text top="925" left="114" width="7" height="20" font="10"></text>
+<text top="924" left="141" width="687" height="20" font="1">Improving the image sensor measurement software by MATLAB such as dark noise reduction </text>
+<text top="948" left="141" width="287" height="20" font="1">and eliminating bouncing frame effects</text>
+<text top="969" left="114" width="7" height="20" font="10"></text>
+<text top="968" left="141" width="665" height="20" font="1">Conducting tests on semiconductor packages and manipulation of their behavior. Such as </text>
+<text top="992" left="141" width="275" height="20" font="1">Beta degradation and reliability tests.</text>
+<text top="1012" left="114" width="7" height="20" font="10"></text>
+<text top="1012" left="141" width="526" height="20" font="1">Small layout projects using cadence under senior engineers supervision</text>
+<text top="1033" left="87" width="186" height="23" font="11"><i><b>Research Experience:</b></i></text>
+<text top="1057" left="114" width="7" height="20" font="10"></text>
+<text top="1056" left="141" width="435" height="20" font="1">UCI DIFFUSE OPTICAL TOPOGRAPHY RESEARCH GROUP</text>
+<text top="1077" left="141" width="220" height="20" font="1">March 2012 – November 2012</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="65" left="141" width="687" height="20" font="1">Worked with senior students to design a bandpass filter and a signal amplifier for the Diffuse </text>
+<text top="88" left="141" width="691" height="20" font="1">Optical Tomography system that is used to detect cancerous tumors in Dr. Gulsen’s Lab in UC</text>
+<text top="111" left="141" width="429" height="20" font="1">Irvine’s Tu and Yuen Center for Functional Onco-Imaging. </text>
+<text top="132" left="114" width="7" height="20" font="10"></text>
+<text top="131" left="141" width="259" height="20" font="1">CALPLUG RESEARCH GROUP, UCI</text>
+<text top="152" left="141" width="221" height="20" font="1">March 2012 – December 2013</text>
+<text top="172" left="141" width="687" height="20" font="1">- Organizing a report to introduce new terminologies for different power states of a set top box</text>
+<text top="195" left="141" width="689" height="20" font="1">based on both national and international standards in order to generalize and unify the terms</text>
+<text top="218" left="141" width="153" height="20" font="1">used in the industry.</text>
+<text top="306" left="345" width="15" height="28" font="3"><b>T</b></text>
+<text top="311" left="359" width="113" height="23" font="6"><b>ECHNOLOGY</b></text>
+<text top="306" left="472" width="21" height="28" font="3"><b> S</b></text>
+<text top="311" left="493" width="81" height="23" font="6"><b>UMMARY</b></text>
+<text top="335" left="87" width="716" height="20" font="1">Failure analysis skills, technical report, data manipulation, LabView, MATLAB, FPGA C and C++, </text>
+<text top="355" left="87" width="567" height="20" font="1">Cadence, and Excel, Word, verbal and writing fluency in Persian and German</text>
+</page>
+</pdf2xml>

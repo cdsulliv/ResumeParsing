@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#5e5e5e"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#7a7a7a"/>
+<text top="285" left="165" width="65" height="24" font="0">Profile</text>
+<text top="314" left="165" width="568" height="17" font="1">Dedicated student, with passion for creating startling events and inventing </text>
+<text top="332" left="165" width="587" height="17" font="1">branding ideas for a life changing company. Provides a long background in all </text>
+<text top="349" left="165" width="543" height="17" font="1">aspects of the public relations industry, including writing, planning, and </text>
+<text top="367" left="165" width="613" height="17" font="1">budgeting. Determined to learn as much as possible through peers, mentors, and</text>
+<text top="384" left="165" width="155" height="17" font="1">future management.</text>
+<text top="417" left="165" width="117" height="24" font="0">Experience</text>
+<text top="446" left="165" width="591" height="14" font="2"><b>PUBLIC RELATIONS INTERN, IMAGINATION DIGITAL MARKETING; GLASSBORO, NJ — 2015</b></text>
+<text top="463" left="165" width="604" height="17" font="1">Redesigned company website and maintained social media accounts. Delivered </text>
+<text top="480" left="165" width="584" height="17" font="1">media kits and contact lists for customers. Analyzed current competitors and </text>
+<text top="498" left="165" width="232" height="17" font="1">provided detailed media plans.</text>
+<text top="530" left="165" width="593" height="14" font="2"><b>MAIN OFFICE ASSISTANT, ROWAN RECREATIONAL CENTER; GLASSBORO, NJ — 2012-2014</b></text>
+<text top="547" left="165" width="613" height="17" font="1">Greet members of the gym with strong, effective customer service skills. Finalize </text>
+<text top="566" left="165" width="606" height="17" font="1">cash, check, and credit card transactions via telephone or face to face. Promote </text>
+<text top="585" left="165" width="588" height="17" font="1">memberships, group fitness classes and nutrition services. Maintain excellent </text>
+<text top="605" left="165" width="616" height="17" font="1">knowledge of the facility, its history and current events about the facility/campus </text>
+<text top="624" left="165" width="564" height="17" font="1">at all times. Use timely judgement when faced with dissatisfied customers.</text>
+<text top="657" left="165" width="481" height="14" font="2"><b>SPECIAL EVENTS INTERN, NEWARK MUSEUM; NEWARK, NJ — 2010-2012</b></text>
+<text top="673" left="165" width="581" height="17" font="1">Assisted Director of Special Events. Directed catering and decorating staff to </text>
+<text top="691" left="165" width="611" height="17" font="1">assigned positions.Designed and called for printing of menus, place cards, event </text>
+<text top="708" left="165" width="598" height="17" font="1">directions, etc. Assisted in planning events such as birthday parties, weddings, </text>
+<text top="726" left="165" width="607" height="17" font="1">anniversary parties, exhibit launches, etc. Submitted a final report of the details </text>
+<text top="743" left="165" width="547" height="17" font="1">of each event. Constructed a scrapbook of pictures from events to show </text>
+<text top="761" left="165" width="605" height="17" font="1">prospective customers. Manually designed table setting and various decorations</text>
+<text top="778" left="165" width="104" height="24" font="0">Education</text>
+<text top="808" left="165" width="526" height="17" font="1">Rowan University, Glassboro, NJ — Bachelors in Public Relations, 2015</text>
+<text top="840" left="165" width="54" height="24" font="0">Skills</text>
+<text top="869" left="165" width="587" height="17" font="1">Event planning, public relations, event management, Facebook, social media, </text>
+<text top="887" left="165" width="560" height="17" font="1">social networking, public speaking, PowerPoint, media relations, blogging, </text>
+<text top="904" left="165" width="564" height="17" font="1">Microsoft Office, Instagram, Twitter, Tumblr, strategic communications, etc.</text>
+</page>
+<outline>
+<item page="1">Profile</item>
+<item page="1">Experience</item>
+<outline>
+<item page="1">public relations intern, imagination digital marketing; glassboro, NJ — 2015</item>
+<item page="1">Main office assistant, rowan recreational center; glassboro, nj — 2012-2014</item>
+<item page="1">special events intern, newark museum; newark, nj — 2010-2012</item>
+</outline>
+<item page="1">Education</item>
+<item page="1">Skills</item>
+</outline>
+</pdf2xml>

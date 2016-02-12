@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="25" family="Times" color="#000000"/>
+	<fontspec id="1" size="16" family="Times" color="#000000"/>
+	<fontspec id="2" size="19" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+<text top="55" left="343" width="231" height="30" font="0"><b>Wesley Eagleburger</b></text>
+<text top="100" left="195" width="116" height="20" font="1">PO Box 141392</text>
+<text top="120" left="182" width="143" height="20" font="1">Spokane WA 99214</text>
+<text top="100" left="551" width="193" height="20" font="1">weagleburger@netzero.net</text>
+<text top="120" left="597" width="102" height="20" font="1">509-990-5068</text>
+<text top="155" left="413" width="92" height="23" font="2"><b>Education</b></text>
+<text top="193" left="162" width="244" height="20" font="3"><b>Eastern Washington University,</b></text>
+<text top="193" left="432" width="90" height="20" font="1">Cheney, WA</text>
+<text top="213" left="216" width="181" height="20" font="1">B.S. Applied Technology</text>
+<text top="213" left="594" width="77" height="20" font="1">2008-2011</text>
+<text top="234" left="216" width="30" height="20" font="1">   M</text>
+<text top="237" left="246" width="266" height="17" font="4">inors: Communications, Computer Science  </text>
+<text top="237" left="594" width="58" height="17" font="4">  GPA 3.5</text>
+<text top="269" left="162" width="228" height="20" font="3"><b>Spokane Community College,</b></text>
+<text top="269" left="432" width="98" height="20" font="1">Spokane, WA</text>
+<text top="289" left="216" width="315" height="20" font="1">A.A.S. Network Design and Administration</text>
+<text top="289" left="594" width="78" height="20" font="1">2004-2008</text>
+<text top="307" left="216" width="14" height="20" font="1">   </text>
+<text top="310" left="230" width="268" height="17" font="4">Certificates: Web Design, Computer Science</text>
+<text top="310" left="594" width="62" height="17" font="4">   GPA 3.7</text>
+<text top="327" left="216" width="224" height="20" font="1">A.A.S. Electronics Technology</text>
+<text top="327" left="594" width="78" height="20" font="1">1975-1978</text>
+<text top="362" left="162" width="265" height="20" font="3"><b>Recent Technical Courses Include:</b></text>
+<text top="382" left="182" width="11" height="20" font="1">o</text>
+<text top="383" left="203" width="123" height="17" font="4">CISCO Networking </text>
+<text top="403" left="203" width="61" height="17" font="4">Academy </text>
+<text top="419" left="182" width="11" height="20" font="1">o</text>
+<text top="421" left="203" width="129" height="17" font="4">Desktop Certification</text>
+<text top="382" left="421" width="11" height="20" font="1">o</text>
+<text top="383" left="441" width="122" height="17" font="4">Server Certification </text>
+<text top="402" left="421" width="11" height="20" font="1">o</text>
+<text top="404" left="441" width="124" height="17" font="4">Project Management</text>
+<text top="423" left="421" width="11" height="20" font="1">o</text>
+<text top="424" left="441" width="75" height="17" font="4">DBMS/SQL</text>
+<text top="382" left="659" width="11" height="20" font="1">o</text>
+<text top="383" left="680" width="74" height="17" font="4">HTML/PHP</text>
+<text top="402" left="659" width="11" height="20" font="1">o</text>
+<text top="404" left="680" width="110" height="17" font="4">Quality Assurance</text>
+<text top="444" left="162" width="333" height="20" font="3"><b>Comp TIA A+ and Network+ Certifications</b></text>
+<text top="478" left="397" width="124" height="23" font="2"><b>Work History</b></text>
+<text top="516" left="162" width="98" height="20" font="3"><b>F5 Networks</b></text>
+<text top="516" left="324" width="288" height="20" font="1">1322 N Whitman Ln,<b> </b>Liberty Lake, WA</text>
+<text top="516" left="648" width="123" height="20" font="1">08/2011-07/2012</text>
+<text top="537" left="216" width="117" height="20" font="1">Technical Intern</text>
+<text top="571" left="216" width="11" height="20" font="1">o</text>
+<text top="572" left="243" width="562" height="17" font="4">Design and develop testing software using XHTML, PHP, MSQL and other web technologies</text>
+<text top="606" left="162" width="441" height="20" font="3"><b>Rockwood Clinic P.S.,</b> 400 East Fifth Avenue, Spokane, WA</text>
+<text top="606" left="648" width="124" height="20" font="1">09/1997-10/2004</text>
+<text top="626" left="216" width="261" height="20" font="1">Systems Support Specialist /Analyst</text>
+<text top="661" left="216" width="9" height="17" font="4">o</text>
+<text top="661" left="243" width="393" height="17" font="4">Lead support technician for Information Technology Department.</text>
+<text top="680" left="216" width="9" height="17" font="4">o</text>
+<text top="679" left="243" width="546" height="17" font="4">Installation, troubleshooting, repair and upgrades of desktop and server operating systems, </text>
+<text top="697" left="243" width="324" height="17" font="4">applications and hardware (Microsoft, UNIX, OS400)</text>
+<text top="716" left="216" width="9" height="17" font="4">o</text>
+<text top="715" left="243" width="356" height="17" font="4">Network printer installation configuration and maintenance</text>
+<text top="734" left="216" width="9" height="17" font="4">o</text>
+<text top="733" left="243" width="311" height="17" font="4">Implemented Helpdesk and problem documentation</text>
+<text top="753" left="216" width="9" height="17" font="4">o</text>
+<text top="752" left="243" width="499" height="17" font="4">LAN/WAN infrastructure Planning, design, purchasing, installation, upgrades, and </text>
+<text top="770" left="243" width="428" height="17" font="4">documentation for over ten sites. Move enterprise from SNA to TCP/IP</text>
+<text top="788" left="216" width="9" height="17" font="4">o</text>
+<text top="787" left="243" width="490" height="17" font="4">Evaluation, recommendation and purchasing of new server and desktop platforms</text>
+<text top="807" left="216" width="9" height="17" font="4">o</text>
+<text top="806" left="243" width="475" height="17" font="4">Back office operations including active directory, E-Mail, security and backups</text>
+<text top="825" left="216" width="9" height="17" font="4">o</text>
+<text top="824" left="243" width="452" height="17" font="4">Vendor and Contractor management and support for hardware and software</text>
+<text top="864" left="162" width="460" height="20" font="3"><b>Alpha Microsystems</b>, E. 9922 Montgomery Ave, Spokane, WA</text>
+<text top="864" left="648" width="124" height="20" font="1">07/1996-09/1997</text>
+<text top="884" left="216" width="269" height="20" font="1">Engineer In Charge /Office Manager </text>
+<text top="919" left="216" width="9" height="17" font="4">o</text>
+<text top="919" left="257" width="311" height="17" font="4">Network, computer and peripheral service and sales</text>
+<text top="936" left="216" width="11" height="20" font="1">o</text>
+<text top="938" left="257" width="499" height="17" font="4">Managed Spokane office, purchasing, staff scheduling, subcontractor management </text>
+<text top="971" left="162" width="58" height="20" font="3"><b>I.B.M., </b></text>
+<text top="971" left="432" width="102" height="20" font="1">Spokane, WA </text>
+<text top="971" left="594" width="124" height="20" font="1">04/1989-06/1996</text>
+<text top="992" left="216" width="170" height="20" font="1">SR Customer Engineer </text>
+<text top="1027" left="216" width="9" height="17" font="4">o</text>
+<text top="1026" left="257" width="553" height="17" font="4">Repair, installation, preventive maintenance and upgrades of servers, desktop and midrange </text>
+<text top="1045" left="257" width="447" height="17" font="4">equipment; including printers, tape drives, networks and other peripherals.</text>
+<text top="1063" left="216" width="9" height="17" font="4">o</text>
+<text top="1062" left="257" width="504" height="17" font="4">Lead Brokerage and Banking specialist for Eastern Washington, Idaho and Montana</text>
+<text top="1081" left="216" width="9" height="17" font="4">o</text>
+<text top="1081" left="257" width="124" height="17" font="4">Project Management</text>
+</page>
+</pdf2xml>

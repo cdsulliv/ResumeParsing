@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="18" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="3" family="Times" color="#000000"/>
+	<fontspec id="6" size="3" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+	<fontspec id="8" size="9" family="Times" color="#000000"/>
+<text top="1" left="459" width="5" height="23" font="0"><b> </b></text>
+<text top="25" left="378" width="168" height="23" font="0"><b>Julian W. E. Noye </b></text>
+<text top="49" left="27" width="102" height="16" font="1"><b>915 Airport Rd </b></text>
+<text top="49" left="378" width="4" height="16" font="1"><b> </b></text>
+<text top="49" left="516" width="4" height="16" font="1"><b> </b></text>
+<text top="49" left="593" width="140" height="16" font="1"><b>jwe.noye@gmail.com </b></text>
+<text top="66" left="27" width="161" height="16" font="1"><b>Williamsburg, PA 16693 </b></text>
+<text top="66" left="378" width="4" height="16" font="1"><b> </b></text>
+<text top="66" left="625" width="107" height="16" font="1"><b>(814) 937 – 7406 </b></text>
+<text top="83" left="27" width="3" height="13" font="2"><b> </b></text>
+<text top="97" left="27" width="109" height="18" font="3"><b>EDUCATION </b> </text>
+<text top="116" left="27" width="233" height="18" font="4">The Pennsylvania State University </text>
+<text top="135" left="27" width="417" height="18" font="4">Bachelor of Science, Security and Risk Analysis, August 2014 </text>
+<text top="154" left="27" width="317" height="18" font="4">Concentration: Information and Cyber Security </text>
+<text top="173" left="27" width="1" height="6" font="5"> </text>
+<text top="180" left="27" width="148" height="18" font="3"><b>CERTIFICATIONS</b> </text>
+<text top="203" left="54" width="649" height="16" font="4">•  IA Certificate - Information Systems Security (INFOSEC) Professionals (NSTISSI No. 4011) </text>
+<text top="219" left="27" width="1" height="6" font="5"> </text>
+<text top="226" left="27" width="163" height="18" font="3"><b>COURSE PROJECTS</b> </text>
+<text top="249" left="54" width="811" height="16" font="4">•  Performed a Security Risk Assessment on the network infrastructure for a local company using ISO 31000 framework </text>
+<text top="269" left="54" width="617" height="16" font="4">•  Acted as the project leader in a group project to develop a computer repair shop database </text>
+<text top="285" left="81" width="801" height="18" font="4">Utilized Linux MySQL server and linked it to WordPress Content Management System as a Web Interface to input data  </text>
+<text top="309" left="54" width="790" height="16" font="4">•  Researched software solutions and implemented a DMZ network using Linux and Windows client and server OSes </text>
+<text top="329" left="54" width="829" height="16" font="4">•  Created a data forensic workstation and performed data acquisitions recovering deleted data and data in hidden partitions </text>
+<text top="349" left="54" width="634" height="16" font="4">•  Developed a policy manual for a mock company which included EISPs, ISSPs, and SysSPs </text>
+<text top="369" left="54" width="639" height="16" font="4">•  Calculated a sample Risk Assessment using campus assets, risks, threats, and vulnerabilities </text>
+<text top="389" left="54" width="633" height="16" font="4">•  Developed a project plan to prepare students for the Collegiate Cyber Defense Competition<b> </b></text>
+<text top="405" left="27" width="1" height="6" font="6"><b> </b></text>
+<text top="412" left="27" width="208" height="18" font="3"><b>RELEVANT EXPERIENCE </b></text>
+<text top="431" left="27" width="520" height="18" font="3"><b>Systems Administrator Intern – Plymouth Tube Company, </b>Salisbury, MD </text>
+<text top="450" left="27" width="173" height="18" font="4">May 2014 – August 2014 </text>
+<text top="473" left="54" width="612" height="16" font="4">•  Managed network with Microsoft Windows Server 2003/2008 on VMware ESXi Server </text>
+<text top="494" left="54" width="13" height="18" font="7">• </text>
+<text top="492" left="80" width="424" height="18" font="4">Optimized Windows Server Group Policy for improved security</text>
+<text top="490" left="504" width="5" height="20" font="7"> </text>
+<text top="515" left="54" width="614" height="16" font="4">•  Installed and configured programmable logic controller software for Allen-Bradley PLC </text>
+<text top="535" left="54" width="563" height="16" font="4">•  Implemented digital signage on network to display current company information </text>
+<text top="551" left="27" width="1" height="6" font="5"> </text>
+<text top="558" left="27" width="520" height="18" font="3"><b>Systems Administrator Intern – Plymouth Tube Company, </b>Salisbury, MD </text>
+<text top="577" left="27" width="173" height="18" font="4">May 2013 – August 2013 </text>
+<text top="600" left="54" width="612" height="16" font="4">•  Managed network with Microsoft Windows Server 2003/2008 on VMware ESXi Server </text>
+<text top="620" left="54" width="607" height="16" font="4">•  Recovered critical data from document imaging system and then rebuilt it with RAID 1 </text>
+<text top="641" left="54" width="533" height="16" font="4">•  Inventoried computer assets to spreadsheet and salvaged useful unused PCs  </text>
+<text top="661" left="54" width="304" height="16" font="4">•  Replaced damaged Avaya IP Office PBX </text>
+<text top="681" left="54" width="394" height="16" font="4">•  Researched alternative Open Source software solutions </text>
+<text top="696" left="81" width="1" height="6" font="5"> </text>
+<text top="704" left="27" width="717" height="18" font="3"><b>Systems Administrator Intern - Penn State Altoona Security and Risk Analysis Program, </b>Altoona, PA </text>
+<text top="722" left="27" width="173" height="18" font="4">May 2012 – August 2012 </text>
+<text top="746" left="54" width="832" height="16" font="4">•  Implemented CentOs Linux Imaging Server to simultaneously image 35 laptops with Windows 7, Windows Server 2008, </text>
+<text top="762" left="81" width="452" height="18" font="4">and Linux partitions with software required for student in-class labs </text>
+<text top="785" left="54" width="607" height="16" font="4">•  Implemented Asterisk SIP Server and Cisco IP Phones linked to Google Voice account </text>
+<text top="805" left="54" width="822" height="16" font="4">•  Acted as team player to redesign virtual server network environment for remote access via the university network while </text>
+<text top="821" left="81" width="444" height="18" font="4">restricting student VM network access to a second private network </text>
+<text top="844" left="54" width="524" height="16" font="4">•  Configured a Cisco 2900 series router for student VMware network access </text>
+<text top="864" left="54" width="807" height="16" font="4">•  Implemented a backend VLAN switch for IP storage and VMware management networks only, effectively separating </text>
+<text top="880" left="81" width="284" height="18" font="4">them from the student VM network access </text>
+<text top="903" left="54" width="693" height="16" font="4">•  Implemented Dell PowerVault storage array using RAID 5 for shared iSCSI virtual machine storage </text>
+<text top="924" left="54" width="516" height="16" font="4">•  Upgraded BIOS and ESXi to version 5.0 on four Dell PowerEdge servers </text>
+<text top="939" left="27" width="1" height="6" font="5"> </text>
+<text top="946" left="27" width="522" height="18" font="3"><b>Residential Computing Technician - Penn State Mont Alto,</b> Mont Alto, PA </text>
+<text top="965" left="27" width="173" height="18" font="4">August 2010 – May 2011 </text>
+<text top="989" left="54" width="384" height="16" font="4">•  Provided tier 1 support for faculty, staff, and students </text>
+<text top="1009" left="54" width="643" height="16" font="4">•  Configured TCP/IP settings to connect students to the Penn State network in Residence halls </text>
+<text top="1029" left="54" width="397" height="16" font="4">•  Troubleshot Residence hall room's Internet connectivity</text>
+<text top="1030" left="451" width="3" height="13" font="8"> </text>
+<text top="1049" left="54" width="511" height="16" font="4">•  Setup appointments to meet with students with computer software issues </text>
+<text top="1065" left="54" width="1" height="6" font="5"> </text>
+<text top="1072" left="27" width="101" height="18" font="3"><b>ACTIVITIES</b> </text>
+<text top="1091" left="27" width="429" height="18" font="4">Collegiate Cyber Defense Competition, Participant, 2012 - 2014 </text>
+<text top="1110" left="27" width="408" height="18" font="4">Security and Risk Analysis Club, Vice President, 2012 - 2013</text>
+<text top="1108" left="435" width="5" height="20" font="7"> </text>
+</page>
+</pdf2xml>

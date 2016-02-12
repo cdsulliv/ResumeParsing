@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="Times" color="#000000"/>
+	<fontspec id="1" size="19" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+<text top="68" left="76" width="117" height="17" font="0">202 Deerfield Lane</text>
+<text top="85" left="76" width="157" height="17" font="0">Newark, New York 14513</text>
+<text top="103" left="76" width="143" height="17" font="0">Phone:  (315) 573-3473</text>
+<text top="69" left="332" width="271" height="23" font="1"><b>DANIEL JAMES HARRIS</b></text>
+<text top="93" left="360" width="215" height="20" font="2">Email: djharris@alum.rpi.edu</text>
+<text top="137" left="76" width="77" height="18" font="3"><b>Objective:</b> </text>
+<text top="137" left="216" width="425" height="18" font="4">A full time job in the field of electrical or computer engineering.</text>
+<text top="175" left="76" width="78" height="18" font="3"><b>Education:</b></text>
+<text top="175" left="216" width="347" height="18" font="3"><b>Rensselaer Polytechnic Institute</b>, Troy, New York. </text>
+<text top="175" left="670" width="50" height="18" font="4">5/2006 </text>
+<text top="194" left="216" width="180" height="18" font="4">B.S. Electrical Engineering</text>
+<text top="213" left="238" width="303" height="18" font="4">   and Computer and Systems Engineering.     </text>
+<text top="213" left="670" width="89" height="18" font="4">GPA 3.83/4.0</text>
+<text top="232" left="216" width="144" height="18" font="4">Related Coursework:<i> </i></text>
+<text top="251" left="216" width="532" height="18" font="5"><i>Communications Systems:</i> Theory of analog and digital communication systems.</text>
+<text top="270" left="216" width="487" height="18" font="5"><i>Discrete Time Systems:</i> Discrete time communications and control theory.</text>
+<text top="289" left="216" width="593" height="18" font="5"><i>Network Programming: </i>Programming for network communication in Windows and Unix.</text>
+<text top="327" left="76" width="63" height="18" font="3"><b>Projects:</b></text>
+<text top="327" left="216" width="223" height="18" font="3"><b>Microprocessor Systems Design</b></text>
+<text top="327" left="670" width="116" height="18" font="4">9/2005 – 12/2005</text>
+<text top="346" left="238" width="582" height="18" font="4">Worked in a four person team to design a plotter that could draw shapes based on input</text>
+<text top="365" left="238" width="155" height="18" font="4">to a computer program.</text>
+<text top="403" left="216" width="249" height="18" font="3"><b>Introduction to Engineering Design</b></text>
+<text top="403" left="670" width="116" height="18" font="4">9/2004 – 12/2004</text>
+<text top="422" left="238" width="582" height="18" font="4">Worked on nine person team to design and build a machine to deliver balls to targets on</text>
+<text top="441" left="238" width="137" height="18" font="4">a fixed playing field.</text>
+<text top="479" left="216" width="332" height="18" font="3"><b>Laboratory Introduction to Embedded Control</b></text>
+<text top="479" left="670" width="116" height="18" font="4">8/2003 – 12/2003</text>
+<text top="498" left="238" width="582" height="18" font="4">Worked on a two person team to program a ‘smart car’ to follow a predefined track</text>
+<text top="517" left="238" width="321" height="18" font="4">using embedded control with Motorola 68HC11.</text>
+<text top="555" left="76" width="84" height="18" font="3"><b>Experience:</b></text>
+<text top="555" left="216" width="418" height="18" font="3"><b>Westinghouse Electric Company, </b>Monroeville, Pennsylvania.</text>
+<text top="555" left="670" width="108" height="18" font="4">5/2005 – 8/2005</text>
+<text top="574" left="238" width="483" height="18" font="4">• Helped integrate and test new version of a software distribution system </text>
+<text top="593" left="238" width="526" height="18" font="4">• Maintained and supported application packages used throughout the company.</text>
+<text top="631" left="216" width="286" height="18" font="3"><b>ViaHealth of Wayne</b>, Newark, New York. </text>
+<text top="631" left="670" width="46" height="18" font="4">7/2003</text>
+<text top="650" left="238" width="282" height="18" font="4">• Assisted with filing and relaying reports  </text>
+<text top="688" left="216" width="306" height="18" font="3"><b>Wayne Central Schools</b>, Ontario, New York, </text>
+<text top="688" left="670" width="46" height="18" font="4">7/2003</text>
+<text top="706" left="238" width="301" height="18" font="4">• Cleaned and updated laboratory computers  </text>
+<text top="744" left="76" width="85" height="18" font="3"><b>Leadership:</b></text>
+<text top="744" left="216" width="258" height="18" font="6"><i><b>The Rensselaer Polytechnic</b></i><b>, Troy NY</b></text>
+<text top="744" left="670" width="116" height="18" font="4">1/2003 – 12/2005</text>
+<text top="763" left="216" width="185" height="18" font="4">Composing Editor – 2 years</text>
+<text top="782" left="238" width="259" height="18" font="4">• Helped integrate new design software</text>
+<text top="801" left="238" width="249" height="18" font="4">• Oversaw general layout of the paper</text>
+<text top="820" left="238" width="241" height="18" font="4">• Lead committee for quality control</text>
+<text top="839" left="238" width="164" height="18" font="4">• Trained new personnel </text>
+<text top="877" left="76" width="59" height="18" font="3"><b>Awards:</b></text>
+<text top="877" left="238" width="420" height="18" font="4">• Dean’s List 8 of 8 semesters, Rensselaer Polytechnic Institute </text>
+<text top="896" left="238" width="336" height="18" font="4">• AP Scholar with Distinction – The College Board</text>
+<text top="915" left="238" width="342" height="18" font="4">• NYS Education Academic Excellence Scholarship</text>
+<text top="953" left="76" width="44" height="18" font="3"><b>Skills:</b></text>
+<text top="953" left="216" width="177" height="18" font="5"><i>Platforms</i>: Windows, Unix</text>
+<text top="972" left="216" width="265" height="18" font="5"><i>Languages</i>: C/C++, Java, Perl, and PHP</text>
+<text top="991" left="216" width="595" height="18" font="5"><i>Applications</i>: Pspice, Maple, Matlab, Solidworks, InDesign, Photoshop, Illustrator, Word, </text>
+<text top="1010" left="216" width="38" height="18" font="4">Excel</text>
+<text top="1048" left="76" width="50" height="18" font="4">9/29/06</text>
+</page>
+</pdf2xml>

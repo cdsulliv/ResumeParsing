@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="13" family="Times" color="#000080"/>
+	<fontspec id="3" size="19" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+	<fontspec id="8" size="14" family="Times" color="#333333"/>
+	<fontspec id="9" size="14" family="Times" color="#000000"/>
+<text top="85" left="384" width="151" height="27" font="0"><b>ETHAN BASS</b></text>
+<text top="123" left="287" width="200" height="17" font="1"><i>Chicago, IL • (646) 785-9575 •<a href="mailto:ethanbass@gmail.com"> </a></i></text>
+<text top="123" left="487" width="143" height="17" font="2"><a href="mailto:ethanbass@gmail.com"><i>ethanbass@gmail.com</i></a></text>
+<text top="169" left="396" width="127" height="23" font="3"><b>EDUCATION</b></text>
+<text top="209" left="85" width="201" height="20" font="4"><b>The University of Chicago</b></text>
+<text top="209" left="723" width="91" height="20" font="4"><b>Chicago, IL</b></text>
+<text top="233" left="85" width="267" height="18" font="5"> Bachelors of Science in Chemistry </text>
+<text top="231" left="353" width="12" height="18" font="6">– </text>
+<text top="230" left="365" width="157" height="20" font="5">Completed June 2013</text>
+<text top="255" left="85" width="235" height="18" font="5"> Graduated with general honors</text>
+<text top="290" left="390" width="137" height="23" font="3"><b>EXPERIENCE</b></text>
+<text top="334" left="91" width="241" height="20" font="4"><b>Aloha Medicinals Incorporated</b></text>
+<text top="355" left="91" width="272" height="20" font="7"><i>Spawn-Making Intern</i> – January 2015</text>
+<text top="334" left="699" width="127" height="20" font="4"><b>Carson City, NV</b></text>
+<text top="384" left="91" width="10" height="18" font="8">• </text>
+<text top="384" left="101" width="460" height="18" font="6">Practiced tissue culture techniques, substrate preparation, inoculation,</text>
+<text top="403" left="91" width="404" height="18" font="6">       packaging of spawn, and maintenance of fungal cultures.</text>
+<text top="430" left="91" width="223" height="20" font="4"><b>Cedar Concepts Corporation</b></text>
+<text top="451" left="91" width="434" height="20" font="7"><i>Quality Control Chemist – </i>October 2013 to September 2014</text>
+<text top="430" left="699" width="131" height="20" font="4"><b>         Chicago, IL</b></text>
+<text top="480" left="91" width="635" height="18" font="8">• Monitored and adjusted chemical reactions by wet and instrumental analysis, including HPLC,</text>
+<text top="498" left="105" width="446" height="18" font="8">   FT-IR, UV-  VIS, Karl Fischer, and Brookfield viscometer assays.</text>
+<text top="517" left="91" width="344" height="18" font="6">• Maintained and operated analytical instruments to </text>
+<text top="517" left="436" width="263" height="18" font="8">GMP, GLP and ISO 9001 requirements.</text>
+<text top="536" left="91" width="621" height="18" font="6">• Researched the development of new products and improved existing products and processes.</text>
+<text top="564" left="91" width="397" height="20" font="4"><b>Department of Molecular Genetics and Cell Biology</b></text>
+<text top="584" left="91" width="382" height="20" font="7"><i>Research Assistant</i> – December 2011 to August 2013</text>
+<text top="564" left="699" width="131" height="20" font="4"><b>         Chicago, IL</b></text>
+<text top="613" left="91" width="623" height="18" font="6">• Designed and engineered mutations in recombinant DNA from <i>H. sapiens </i>and <i>P. falciparum</i>.</text>
+<text top="632" left="91" width="692" height="18" font="6">• Maintained insect cell lines and expressed recombinant proteins using a baculovirus expression system.</text>
+<text top="651" left="91" width="587" height="18" font="6">• Prepared microbiological media, buffers, competent <i>E. coli </i>cells and other lab supplies.</text>
+<text top="678" left="91" width="464" height="20" font="4"><b>International Genetically Engineered Machines Competition</b></text>
+<text top="699" left="91" width="289" height="20" font="7"><i>Team Member – </i>March to October 2013</text>
+<text top="678" left="699" width="131" height="20" font="4"><b>         Chicago, IL</b></text>
+<text top="728" left="91" width="700" height="18" font="6">• Designed and implemented a strategy for the isolation of recombinant DNA for expression in <i>B. subtilis</i>.</text>
+<text top="747" left="91" width="490" height="18" font="6">• Planned assays for the detection and quantification of keratinase activity.</text>
+<text top="788" left="313" width="292" height="23" font="3"><b>LABORATORY TECHNIQUES</b></text>
+<text top="833" left="165" width="10" height="18" font="6">• </text>
+<text top="832" left="175" width="153" height="20" font="5">HPLC operation and </text>
+<text top="852" left="165" width="91" height="20" font="5">maintenance</text>
+<text top="874" left="165" width="10" height="18" font="6">• </text>
+<text top="873" left="175" width="43" height="20" font="5">FT-IR</text>
+<text top="895" left="165" width="10" height="18" font="6">• </text>
+<text top="894" left="175" width="158" height="20" font="5">UV/VIS spectroscopy</text>
+<text top="916" left="165" width="10" height="18" font="6">• </text>
+<text top="914" left="175" width="151" height="20" font="5">Karl Fischer titration</text>
+<text top="936" left="165" width="10" height="18" font="6">• </text>
+<text top="935" left="175" width="166" height="20" font="5">Brookfield viscometer </text>
+<text top="833" left="354" width="10" height="18" font="6">• </text>
+<text top="832" left="363" width="139" height="20" font="5">DNA isolation and </text>
+<text top="852" left="354" width="54" height="20" font="5">cloning</text>
+<text top="874" left="354" width="10" height="18" font="6">• </text>
+<text top="873" left="363" width="144" height="20" font="5">Plasmid preparation</text>
+<text top="895" left="354" width="10" height="18" font="6">• </text>
+<text top="894" left="363" width="162" height="20" font="5">PCR and site-directed </text>
+<text top="914" left="354" width="89" height="20" font="5">mutagenesis</text>
+<text top="936" left="354" width="10" height="18" font="6">• </text>
+<text top="935" left="363" width="127" height="20" font="5">Gibson Assembly</text>
+<text top="957" left="354" width="10" height="18" font="6">• </text>
+<text top="956" left="363" width="171" height="20" font="5">DNA sequence analysis</text>
+<text top="833" left="543" width="10" height="18" font="6">• </text>
+<text top="832" left="553" width="163" height="20" font="5">Insect cell culture and </text>
+<text top="852" left="543" width="85" height="20" font="5">transfection</text>
+<text top="874" left="543" width="10" height="18" font="6">• </text>
+<text top="873" left="553" width="168" height="20" font="5">Protein expression and </text>
+<text top="894" left="543" width="84" height="20" font="5">purification</text>
+<text top="916" left="543" width="10" height="18" font="6">• </text>
+<text top="914" left="553" width="84" height="20" font="5">SDS-PAGE</text>
+<text top="936" left="543" width="10" height="18" font="6">• </text>
+<text top="935" left="553" width="119" height="20" font="5">Western blotting</text>
+<text top="998" left="357" width="203" height="23" font="3"><b>COMPUTER SKILLS</b></text>
+<text top="1038" left="85" width="708" height="18" font="6">     • Microsoft and Open Office     • Matlab   • R     • Adobe Photoshop     • Adobe Illustrator   • Sequencher</text>
+<text top="1057" left="173" width="549" height="18" font="6">• ApE     • ImageJ     • PHREEQC     • PyMol     • NCBI and Pub Med databases     </text>
+</page>
+</pdf2xml>

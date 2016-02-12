@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="13" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="25" family="Times" color="#000000"/>
+<image top="88" left="53" width="33" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_1.png"/>
+<image top="88" left="86" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_2.png"/>
+<image top="88" left="171" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_3.png"/>
+<image top="88" left="257" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_4.png"/>
+<image top="88" left="343" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_5.png"/>
+<image top="88" left="429" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_6.png"/>
+<image top="88" left="515" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_7.png"/>
+<image top="88" left="600" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_8.png"/>
+<image top="88" left="686" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_9.png"/>
+<image top="88" left="772" width="86" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_10.png"/>
+<image top="88" left="858" width="28" height="13" src="/home/shreya/Wharton/NEW/NewYork/XML/Krisin+Delbridge+Resume-1_11.png"/>
+<text top="88" left="54" width="4" height="16" font="0"> </text>
+<text top="121" left="54" width="4" height="19" font="0"> </text>
+<text top="157" left="61" width="33" height="19" font="1"><b>Exp</b></text>
+<text top="472" left="61" width="4" height="17" font="2"> </text>
+<text top="683" left="61" width="4" height="17" font="2"> </text>
+<text top="699" left="61" width="35" height="19" font="1"><b>Edu</b></text>
+<text top="844" left="61" width="28" height="18" font="3"><b>Vol</b></text>
+<text top="1004" left="61" width="4" height="18" font="2"> </text>
+<text top="1024" left="61" width="26" height="18" font="3"><b>Ski</b></text>
+<text top="1043" left="61" width="33" height="18" font="2">Com</text>
+<text top="1060" left="61" width="26" height="18" font="2">Lea</text>
+<text top="1080" left="54" width="4" height="19" font="0"> </text>
+<text top="157" left="83" width="80" height="19" font="1"><b>perience </b></text>
+<text top="180" left="88" width="86" height="18" font="3"><b>Purfek Sto</b></text>
+<text top="198" left="88" width="90" height="18" font="2">Intern/Assis</text>
+<text top="215" left="88" width="86" height="18" font="2">New York Ci</text>
+<text top="235" left="115" width="57" height="20" font="0">  Incr</text>
+<text top="255" left="115" width="57" height="20" font="0">  Incr</text>
+<text top="275" left="142" width="31" height="19" font="0">and </text>
+<text top="294" left="115" width="60" height="20" font="0">  Asse</text>
+<text top="314" left="115" width="60" height="20" font="0">  Plan</text>
+<text top="335" left="115" width="61" height="20" font="0">  Crea</text>
+<text top="355" left="115" width="57" height="20" font="0">  Imp</text>
+<text top="375" left="142" width="38" height="19" font="0">mark</text>
+<text top="394" left="115" width="60" height="20" font="0">  Man</text>
+<text top="414" left="142" width="32" height="19" font="0">appl</text>
+<text top="433" left="115" width="62" height="20" font="0">  Coor</text>
+<text top="453" left="142" width="30" height="19" font="0">Ope</text>
+<text top="487" left="88" width="89" height="18" font="3"><b>Recreation</b></text>
+<text top="507" left="115" width="63" height="20" font="0">  Deve</text>
+<text top="527" left="115" width="57" height="20" font="0">  Rou</text>
+<text top="547" left="142" width="38" height="19" font="0">discu</text>
+<text top="566" left="115" width="63" height="20" font="0">  Deve</text>
+<text top="586" left="142" width="37" height="19" font="0">unde</text>
+<text top="605" left="115" width="61" height="20" font="0">  Crea</text>
+<text top="625" left="142" width="37" height="19" font="0">learn</text>
+<text top="644" left="115" width="62" height="20" font="0">  Emp</text>
+<text top="664" left="142" width="35" height="19" font="0">the c</text>
+<text top="699" left="84" width="70" height="19" font="1"><b>ucation </b></text>
+<text top="722" left="88" width="96" height="18" font="3"><b>Hampton U</b></text>
+<text top="740" left="88" width="90" height="18" font="3"><b>BS, Busine</b></text>
+<text top="758" left="115" width="63" height="19" font="2">  Mem</text>
+<text top="776" left="115" width="61" height="19" font="2">  Cour</text>
+<text top="793" left="115" width="61" height="19" font="2">  Cour</text>
+<text top="811" left="115" width="61" height="19" font="2">  Cour</text>
+<text top="844" left="83" width="93" height="18" font="3"><b>lunteer/Int</b></text>
+<text top="862" left="115" width="59" height="19" font="2">  VISI</text>
+<text top="881" left="142" width="34" height="18" font="2">local</text>
+<text top="898" left="142" width="29" height="18" font="2">butt</text>
+<text top="914" left="115" width="59" height="19" font="2">  Sum</text>
+<text top="933" left="142" width="32" height="18" font="2">yout</text>
+<text top="950" left="142" width="35" height="18" font="2">grow</text>
+<text top="966" left="115" width="65" height="19" font="2">  Outw</text>
+<text top="985" left="142" width="30" height="18" font="2">Maz</text>
+<text top="1024" left="82" width="29" height="18" font="3"><b>ills </b></text>
+<text top="1043" left="80" width="92" height="18" font="2">mputer Profi</text>
+<text top="1060" left="79" width="104" height="18" font="2">adership, Com</text>
+<text top="180" left="163" width="94" height="18" font="3"><b>orm Group</b> </text>
+<text top="198" left="171" width="87" height="18" font="2">stant to Gen</text>
+<text top="215" left="169" width="51" height="18" font="2">ity, NY </text>
+<text top="236" left="165" width="100" height="19" font="0">reased sales b</text>
+<text top="257" left="165" width="95" height="19" font="0">reased brand</text>
+<text top="275" left="169" width="69" height="19" font="0"> off-line.  </text>
+<text top="296" left="167" width="94" height="19" font="0">essed ratings</text>
+<text top="316" left="165" width="99" height="19" font="0">nned and neg</text>
+<text top="336" left="167" width="94" height="19" font="0">ated an offici</text>
+<text top="356" left="172" width="90" height="19" font="0">lemented an</text>
+<text top="375" left="171" width="38" height="19" font="0">kets. </text>
+<text top="395" left="165" width="93" height="19" font="0">naged all soc</text>
+<text top="414" left="169" width="93" height="19" font="0">lications and</text>
+<text top="434" left="170" width="90" height="19" font="0">rdinated mo</text>
+<text top="453" left="171" width="69" height="19" font="0">n House. </text>
+<text top="487" left="166" width="96" height="18" font="3"><b>nal Coordin</b></text>
+<text top="508" left="170" width="87" height="19" font="0">eloped inter</text>
+<text top="528" left="172" width="89" height="19" font="0">tinely met w</text>
+<text top="547" left="171" width="87" height="19" font="0">uss solution</text>
+<text top="567" left="170" width="89" height="19" font="0">eloped and i</text>
+<text top="586" left="170" width="91" height="19" font="0">erstanding o</text>
+<text top="606" left="167" width="90" height="19" font="0">ated and enf</text>
+<text top="625" left="169" width="41" height="19" font="0">ning. </text>
+<text top="645" left="167" width="92" height="19" font="0">ployed activi</text>
+<text top="664" left="169" width="82" height="19" font="0">classroom. </text>
+<text top="722" left="171" width="87" height="18" font="3"><b>University</b></text>
+<text top="740" left="169" width="96" height="18" font="3"><b>ess Manage</b></text>
+<text top="759" left="164" width="98" height="18" font="2">mber of Foren</text>
+<text top="777" left="169" width="91" height="18" font="2">rsework in M</text>
+<text top="795" left="170" width="87" height="18" font="2">rsework in F</text>
+<text top="812" left="169" width="95" height="18" font="2">rsework in Pu</text>
+<text top="844" left="170" width="60" height="18" font="3"><b>terests </b></text>
+<text top="864" left="168" width="95" height="18" font="2">IONS Service</text>
+<text top="881" left="171" width="90" height="18" font="2">l parks on th</text>
+<text top="898" left="171" width="89" height="18" font="2">e, Montana. </text>
+<text top="916" left="160" width="106" height="18" font="2">mmerSearch A</text>
+<text top="933" left="168" width="96" height="18" font="2">th developme</text>
+<text top="950" left="165" width="35" height="18" font="2">wth.<b> </b></text>
+<text top="968" left="169" width="91" height="18" font="2">ward Bound </text>
+<text top="985" left="172" width="93" height="18" font="2">ama, Washin</text>
+<text top="1043" left="172" width="89" height="18" font="2">cient, MS Of</text>
+<text top="1060" left="168" width="96" height="18" font="2">mmunication</text>
+<text top="105" left="291" width="54" height="16" font="4">215 Hals</text>
+<text top="198" left="248" width="97" height="18" font="2">neral Manage</text>
+<text top="236" left="256" width="94" height="19" font="0">by launching</text>
+<text top="257" left="251" width="93" height="19" font="0">d awareness </text>
+<text top="296" left="254" width="91" height="19" font="0">s and other f</text>
+<text top="316" left="255" width="95" height="19" font="0">gotiated med</text>
+<text top="336" left="256" width="88" height="19" font="0">ial company</text>
+<text top="356" left="252" width="92" height="19" font="0">nd evolved h</text>
+<text top="395" left="251" width="95" height="19" font="0">cial media pr</text>
+<text top="414" left="252" width="97" height="19" font="0">d message bo</text>
+<text top="434" left="251" width="101" height="19" font="0">onthly and qu</text>
+<text top="487" left="251" width="94" height="18" font="3"><b>nator/ Tuto</b></text>
+<text top="508" left="257" width="87" height="19" font="0">esting cours</text>
+<text top="528" left="249" width="99" height="19" font="0">with students</text>
+<text top="547" left="258" width="16" height="19" font="0">s. </text>
+<text top="567" left="254" width="97" height="19" font="0">implemented</text>
+<text top="586" left="252" width="93" height="19" font="0">of course ma</text>
+<text top="606" left="251" width="92" height="19" font="0">forced child-</text>
+<text top="645" left="254" width="97" height="19" font="0">ities and tech</text>
+<text top="722" left="248" width="13" height="18" font="3"><b>y</b> </text>
+<text top="740" left="255" width="56" height="18" font="3"><b>ement</b> </text>
+<text top="759" left="253" width="91" height="18" font="2">nsics Debate </text>
+<text top="777" left="245" width="102" height="18" font="2">Marketing and</text>
+<text top="795" left="257" width="91" height="18" font="2">inance and A</text>
+<text top="812" left="255" width="96" height="18" font="2">ublic Relation</text>
+<text top="864" left="255" width="94" height="18" font="2">e Adventures</text>
+<text top="881" left="251" width="103" height="18" font="2">he Blackfeet N</text>
+<text top="898" left="257" width="12" height="18" font="2">   </text>
+<text top="916" left="255" width="95" height="18" font="2">Alumni - A le</text>
+<text top="933" left="256" width="91" height="18" font="2">ent non-prof</text>
+<text top="968" left="256" width="88" height="18" font="2"> - Restoratio</text>
+<text top="985" left="256" width="94" height="18" font="2">ngton near N</text>
+<text top="1043" left="256" width="94" height="18" font="2">ffice Suite,  C</text>
+<text top="1060" left="255" width="93" height="18" font="2">n Skills, Cust</text>
+<text top="105" left="339" width="92" height="16" font="4">sey Street, Bro</text>
+<text top="198" left="338" width="14" height="18" font="2">er</text>
+<text top="197" left="353" width="4" height="19" font="0"> </text>
+<text top="236" left="341" width="88" height="19" font="0">g the Purfek</text>
+<text top="257" left="340" width="89" height="19" font="0"> by augment</text>
+<text top="296" left="340" width="103" height="19" font="0">factors of com</text>
+<text top="316" left="340" width="91" height="19" font="0">dia buys, inc</text>
+<text top="336" left="336" width="99" height="19" font="0">y page on Fac</text>
+<text top="356" left="335" width="100" height="19" font="0">high-impact s</text>
+<text top="395" left="339" width="91" height="19" font="0">rograms, inc</text>
+<text top="414" left="340" width="53" height="19" font="0">oards.  </text>
+<text top="434" left="342" width="91" height="19" font="0">uarterly mar</text>
+<text top="487" left="335" width="22" height="18" font="3"><b>or </b></text>
+<text top="508" left="338" width="95" height="19" font="0">se plans to m</text>
+<text top="528" left="340" width="88" height="19" font="0">s' parents re</text>
+<text top="567" left="341" width="92" height="19" font="0">d interesting</text>
+<text top="586" left="337" width="62" height="19" font="0">aterials. </text>
+<text top="606" left="344" width="90" height="19" font="0">based hands</text>
+<text top="645" left="341" width="89" height="19" font="0">hniques to e</text>
+<text top="759" left="339" width="50" height="18" font="2"> Team  </text>
+<text top="777" left="338" width="92" height="18" font="2">d Advertising</text>
+<text top="795" left="338" width="84" height="18" font="2">Accounting </text>
+<text top="812" left="342" width="20" height="18" font="2">ns </text>
+<text top="864" left="342" width="87" height="18" font="2">s - Servicing</text>
+<text top="881" left="342" width="90" height="18" font="2">Native Amer</text>
+<text top="916" left="342" width="89" height="18" font="2">eadership or</text>
+<text top="933" left="342" width="86" height="18" font="2">fit that offer</text>
+<text top="968" left="336" width="98" height="18" font="2">on of backpac</text>
+<text top="985" left="338" width="97" height="18" font="2">North Cascad</text>
+<text top="1043" left="339" width="92" height="18" font="2">Customer Re</text>
+<text top="1060" left="342" width="91" height="18" font="2">tomer Servic</text>
+<text top="105" left="423" width="94" height="16" font="4">ooklyn, NY 112</text>
+<text top="236" left="420" width="98" height="19" font="0">k Academy m</text>
+<text top="257" left="429" width="86" height="19" font="0">ing relevant</text>
+<text top="296" left="428" width="90" height="19" font="0">mpetitors to</text>
+<text top="316" left="424" width="94" height="19" font="0">cluding TV, r</text>
+<text top="336" left="427" width="88" height="19" font="0">cebook to fa</text>
+<text top="356" left="428" width="89" height="19" font="0">strategies to</text>
+<text top="395" left="422" width="95" height="19" font="0">cluding Inter</text>
+<text top="434" left="427" width="88" height="19" font="0">rketing and </text>
+<text top="508" left="419" width="96" height="19" font="0">meet academ</text>
+<text top="528" left="428" width="88" height="19" font="0">garding in-c</text>
+<text top="567" left="425" width="95" height="19" font="0">g and interac</text>
+<text top="606" left="427" width="88" height="19" font="0">s-on curricu</text>
+<text top="645" left="421" width="101" height="19" font="0">encourage stu</text>
+<text top="777" left="422" width="12" height="18" font="2">g </text>
+<text top="864" left="421" width="94" height="18" font="2">g neighborho</text>
+<text top="881" left="426" width="93" height="18" font="2">rican tribe re</text>
+<text top="916" left="425" width="94" height="18" font="2">rganization a</text>
+<text top="933" left="428" width="93" height="18" font="2">s scholarship</text>
+<text top="968" left="427" width="96" height="18" font="2">cking and hik</text>
+<text top="985" left="425" width="91" height="18" font="2">de Mountain</text>
+<text top="1043" left="424" width="99" height="18" font="2">elationship M</text>
+<text top="1060" left="426" width="95" height="18" font="2">ce, Creative a</text>
+<text top="105" left="510" width="95" height="16" font="4">216 - 347- 204</text>
+<text top="236" left="505" width="109" height="19" font="0">marketing cam</text>
+<text top="257" left="510" width="96" height="19" font="0">t blogs, confe</text>
+<text top="296" left="509" width="96" height="19" font="0">o help develo</text>
+<text top="316" left="512" width="95" height="19" font="0">radio, print a</text>
+<text top="336" left="507" width="97" height="19" font="0">acilitate inter</text>
+<text top="356" left="508" width="94" height="19" font="0">o target new </text>
+<text top="395" left="511" width="91" height="19" font="0">rnet forums,</text>
+<text top="434" left="511" width="91" height="19" font="0"> community </text>
+<text top="508" left="501" width="104" height="19" font="0">mic, intellectu</text>
+<text top="528" left="510" width="95" height="19" font="0">class issues a</text>
+<text top="567" left="513" width="90" height="19" font="0">ctive learnin</text>
+<text top="606" left="506" width="100" height="19" font="0">ulum to prom</text>
+<text top="645" left="514" width="89" height="19" font="0">udent learni</text>
+<text top="864" left="508" width="100" height="18" font="2">oods, farms, a</text>
+<text top="881" left="512" width="93" height="18" font="2">eservation in</text>
+<text top="916" left="511" width="89" height="18" font="2">and a nation</text>
+<text top="933" left="513" width="90" height="18" font="2">p opportunit</text>
+<text top="968" left="515" width="91" height="18" font="2">king trails in</text>
+<text top="985" left="508" width="25" height="18" font="2">ns. </text>
+<text top="1043" left="509" width="94" height="18" font="2">Management</text>
+<text top="1060" left="513" width="87" height="18" font="2">and Critical </text>
+<text top="54" left="635" width="59" height="31" font="5"><b>Kris</b></text>
+<text top="105" left="597" width="89" height="16" font="4">4- 8691 (C) - </text>
+<text top="158" left="670" width="4" height="19" font="0"> </text>
+<text top="181" left="672" width="20" height="18" font="2">No</text>
+<text top="236" left="600" width="64" height="19" font="0">mpaign. </text>
+<text top="257" left="599" width="91" height="19" font="0">erences, and</text>
+<text top="296" left="596" width="102" height="19" font="0">op effective m</text>
+<text top="316" left="600" width="86" height="19" font="0">and digital. </text>
+<text top="336" left="598" width="92" height="19" font="0">raction with </text>
+<text top="356" left="598" width="89" height="19" font="0"> business op</text>
+<text top="395" left="597" width="92" height="19" font="0">, blogs, socia</text>
+<text top="434" left="599" width="93" height="19" font="0"> events, such</text>
+<text top="489" left="646" width="43" height="18" font="2">Augus</text>
+<text top="508" left="596" width="95" height="19" font="0">ual and socia</text>
+<text top="528" left="597" width="92" height="19" font="0">and learning</text>
+<text top="567" left="594" width="94" height="19" font="0">ng mediums </text>
+<text top="606" left="592" width="96" height="19" font="0">mote student</text>
+<text top="645" left="598" width="96" height="19" font="0">ing and build</text>
+<text top="700" left="670" width="4" height="19" font="0"> </text>
+<text top="864" left="600" width="31" height="18" font="2">and </text>
+<text top="881" left="595" width="59" height="18" font="2">n Heart </text>
+<text top="916" left="592" width="26" height="18" font="2">nal </text>
+<text top="933" left="599" width="54" height="18" font="2">ties for </text>
+<text top="968" left="597" width="13" height="18" font="2">n </text>
+<text top="1024" left="670" width="4" height="18" font="2"> </text>
+<text top="1043" left="597" width="95" height="18" font="2">t, Search Eng</text>
+<text top="1060" left="597" width="73" height="18" font="2"> Thinking </text>
+<text top="54" left="681" width="97" height="31" font="5"><b>stin De</b></text>
+<text top="105" left="683" width="91" height="16" font="4"> Delbridge.Kri</text>
+<text top="181" left="684" width="96" height="18" font="2">ovember 2014</text>
+<text top="257" left="680" width="98" height="19" font="0">d events both</text>
+<text top="296" left="684" width="92" height="19" font="0">marketing st</text>
+<text top="336" left="686" width="87" height="19" font="0"> customers. </text>
+<text top="356" left="677" width="94" height="19" font="0">pportunities </text>
+<text top="395" left="681" width="92" height="19" font="0">al networkin</text>
+<text top="434" left="682" width="97" height="19" font="0">h as Purfek A</text>
+<text top="489" left="682" width="95" height="18" font="2">st 2013 to Dec</text>
+<text top="508" left="682" width="94" height="19" font="0">al needs of st</text>
+<text top="528" left="680" width="92" height="19" font="0">g interruptio</text>
+<text top="567" left="684" width="94" height="19" font="0"> to increase s</text>
+<text top="606" left="683" width="97" height="19" font="0">t interest and</text>
+<text top="645" left="685" width="89" height="19" font="0">d communit</text>
+<text top="1043" left="684" width="91" height="18" font="2">gine Marketi</text>
+<text top="54" left="763" width="99" height="31" font="5"><b>elbridg</b></text>
+<text top="105" left="770" width="88" height="16" font="4">istin@gmail.c</text>
+<text top="181" left="771" width="86" height="18" font="2">4 to Current</text>
+<text top="180" left="857" width="4" height="19" font="0"> </text>
+<text top="257" left="768" width="69" height="19" font="0">h on-line </text>
+<text top="296" left="770" width="71" height="19" font="0">trategies. </text>
+<text top="336" left="769" width="4" height="19" font="0"> </text>
+<text top="356" left="771" width="65" height="19" font="0">and new </text>
+<text top="395" left="763" width="22" height="19" font="0">ng </text>
+<text top="434" left="768" width="71" height="19" font="0">Academy </text>
+<text top="489" left="770" width="87" height="18" font="2">cember 2013</text>
+<text top="488" left="857" width="4" height="19" font="0"> </text>
+<text top="508" left="771" width="64" height="19" font="0">tudents. </text>
+<text top="528" left="764" width="48" height="19" font="0">ons to </text>
+<text top="567" left="771" width="59" height="19" font="0">student </text>
+<text top="606" left="771" width="84" height="19" font="0">d receptive </text>
+<text top="645" left="768" width="69" height="19" font="0">ty within </text>
+<text top="723" left="790" width="67" height="18" font="2">May 2014</text>
+<text top="722" left="857" width="4" height="19" font="0"> </text>
+<text top="845" left="857" width="4" height="18" font="2"> </text>
+<text top="864" left="857" width="4" height="18" font="2"> </text>
+<text top="1043" left="771" width="31" height="18" font="2">ing, </text>
+<text top="54" left="846" width="38" height="31" font="5"><b>ge </b></text>
+<text top="105" left="857" width="24" height="16" font="4">om </text>
+<text top="180" left="856" width="4" height="19" font="0"> </text>
+<text top="488" left="856" width="4" height="19" font="0"> </text>
+<text top="722" left="856" width="4" height="19" font="0"> </text>
+<text top="845" left="856" width="4" height="18" font="2"> </text>
+<text top="864" left="856" width="4" height="18" font="2"> </text>
+</page>
+</pdf2xml>

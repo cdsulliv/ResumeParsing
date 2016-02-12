@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="20" family="Times" color="#000000"/>
+	<fontspec id="1" size="16" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#0000ff"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="16" family="Times" color="#000000"/>
+	<fontspec id="7" size="13" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Symbol" color="#000000"/>
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+<text top="82" left="391" width="137" height="25" font="0">Eric J. Waddell</text>
+<text top="111" left="108" width="158" height="20" font="1">7701 Leeds Manor Ct</text>
+<text top="111" left="708" width="102" height="20" font="1">703-321-3377</text>
+<text top="131" left="108" width="202" height="20" font="1">Fairfax Station, VA 22039   </text>
+<text top="131" left="579" width="231" height="20" font="2">Eric.james.waddell@gmail.com</text>
+<text top="169" left="108" width="68" height="18" font="3"><b>Objective</b></text>
+<text top="169" left="312" width="364" height="20" font="1">Employment in a computer science or related field</text>
+<text top="190" left="107" width="152" height="17" font="4"><b>Education and Honors</b></text>
+<text top="189" left="339" width="8" height="23" font="5"></text>
+<text top="191" left="366" width="400" height="20" font="6"><b>Bachelor of Science in Computer Science, June 2009</b></text>
+<text top="213" left="312" width="340" height="17" font="7">Carnegie Mellon University, Pittsburgh, Pennsylvania</text>
+<text top="231" left="339" width="7" height="21" font="8"></text>
+<text top="233" left="366" width="173" height="17" font="7">National Merit Semifinalist</text>
+<text top="252" left="107" width="79" height="18" font="3"><b>Experience</b></text>
+<text top="271" left="107" width="97" height="17" font="7">I<b>BM Australia</b></text>
+<text top="289" left="107" width="134" height="17" font="7">Melbourne, Australia</text>
+<text top="307" left="107" width="185" height="17" font="7">Architecture and Portal team </text>
+<text top="326" left="107" width="45" height="17" font="7">intern<b>, </b></text>
+<text top="344" left="107" width="157" height="17" font="7">May 2008 - August 2008</text>
+<text top="270" left="339" width="7" height="21" font="8"></text>
+<text top="272" left="366" width="442" height="17" font="7">Team   member   of   Architecture   and   Portal   teams   for   TruEnergy</text>
+<text top="292" left="366" width="169" height="17" font="7">systems integration project</text>
+<text top="309" left="339" width="7" height="21" font="8"></text>
+<text top="311" left="366" width="339" height="17" font="7">Utilized Java to develop Customer Self Service Portal</text>
+<text top="330" left="339" width="7" height="21" font="8"></text>
+<text top="332" left="366" width="430" height="17" font="7">Developed Ant Scripts to facilitate the continuous integration of the </text>
+<text top="351" left="366" width="118" height="17" font="7">Self Service Portal</text>
+<text top="368" left="339" width="7" height="21" font="8"></text>
+<text top="370" left="366" width="421" height="17" font="7">Performed analysis of infrastructure to ensure sufficient data flow, </text>
+<text top="390" left="366" width="131" height="17" font="7">memory, and storage</text>
+<text top="408" left="107" width="97" height="17" font="4"><b>IBM Australia</b></text>
+<text top="426" left="107" width="134" height="17" font="7">Melbourne, Australia</text>
+<text top="444" left="107" width="149" height="17" font="7">Business Analyst intern</text>
+<text top="462" left="107" width="157" height="17" font="7">May 2007 - August 2007</text>
+<text top="407" left="339" width="7" height="21" font="8"></text>
+<text top="409" left="366" width="442" height="17" font="7">Team member of the business analyst team for TruEnergy systems</text>
+<text top="428" left="366" width="116" height="17" font="7">integration project</text>
+<text top="446" left="339" width="7" height="21" font="8"></text>
+<text top="448" left="366" width="334" height="17" font="7">Gathered requirements for later software deployment</text>
+<text top="466" left="339" width="7" height="21" font="8"></text>
+<text top="468" left="366" width="440" height="17" font="7">Participated in an Oracle Customer Care and Billing Seminar for later</text>
+<text top="488" left="366" width="206" height="17" font="7">instruction of TruEnergy trainers</text>
+<text top="505" left="339" width="7" height="21" font="8"></text>
+<text top="507" left="366" width="357" height="17" font="7">Helped plan tranformation of current business rules into </text>
+<text top="526" left="366" width="155" height="17" font="7">specifications for coding</text>
+<text top="544" left="107" width="55" height="17" font="4"><b>Projects</b></text>
+<text top="562" left="339" width="7" height="20" font="8"></text>
+<text top="563" left="366" width="442" height="17" font="7">Developed   a   number   of   language   technology   tools   using   python</text>
+<text top="582" left="366" width="64" height="17" font="7">including:</text>
+<text top="600" left="339" width="7" height="20" font="8"></text>
+<text top="601" left="366" width="209" height="17" font="7">A series of part of speech taggers</text>
+<text top="619" left="339" width="7" height="20" font="8"></text>
+<text top="620" left="366" width="116" height="17" font="7">A series of parsers</text>
+<text top="639" left="339" width="7" height="20" font="8"></text>
+<text top="640" left="366" width="220" height="17" font="7">A distributional similarity analyzer</text>
+<text top="658" left="339" width="7" height="20" font="8"></text>
+<text top="659" left="366" width="184" height="17" font="7">A question answering system</text>
+<text top="679" left="107" width="153" height="17" font="4"><b>Technical and Related </b></text>
+<text top="697" left="107" width="83" height="17" font="4"><b>Coursework</b></text>
+<text top="714" left="339" width="7" height="21" font="8"></text>
+<text top="716" left="366" width="217" height="17" font="7">Introduction to Computer Systems</text>
+<text top="735" left="339" width="7" height="21" font="8"></text>
+<text top="737" left="366" width="371" height="17" font="7">Artificial Intelligence Representation and Problem Solving</text>
+<text top="755" left="339" width="7" height="21" font="8"></text>
+<text top="757" left="366" width="285" height="17" font="7">Fundamental Data Structures and Algorithms</text>
+<text top="776" left="339" width="7" height="21" font="8"></text>
+<text top="778" left="366" width="283" height="17" font="7">Great Theoretical Ideas in Computer Science</text>
+<text top="796" left="339" width="7" height="21" font="8"></text>
+<text top="798" left="366" width="117" height="17" font="7">System Skills in C</text>
+<text top="817" left="339" width="7" height="21" font="8"></text>
+<text top="819" left="366" width="242" height="17" font="7">Principles of Programming Languages</text>
+<text top="837" left="339" width="7" height="21" font="8"></text>
+<text top="839" left="366" width="221" height="17" font="7">Introduction to Computer Graphics</text>
+<text top="858" left="339" width="7" height="21" font="8"></text>
+<text top="860" left="366" width="185" height="17" font="7">Natural Language Processing</text>
+<text top="879" left="107" width="37" height="17" font="4"><b>Skills</b></text>
+<text top="897" left="339" width="7" height="20" font="8"></text>
+<text top="898" left="366" width="319" height="17" font="7">Programming Languages: Java, C, C++, Python, Perl</text>
+<text top="916" left="339" width="7" height="21" font="8"></text>
+<text top="918" left="366" width="193" height="17" font="7">Webdesign: HTML, Javascript</text>
+<text top="937" left="339" width="7" height="21" font="8"></text>
+<text top="939" left="366" width="132" height="17" font="7">Proficient in Spanish</text>
+<text top="957" left="339" width="7" height="21" font="8"></text>
+<text top="959" left="366" width="73" height="17" font="7">Linux/Unix</text>
+<text top="978" left="339" width="7" height="21" font="8"></text>
+<text top="980" left="366" width="33" height="17" font="7">GDB</text>
+<text top="999" left="339" width="7" height="21" font="8"></text>
+<text top="1000" left="366" width="43" height="17" font="7">Simics</text>
+<text top="1019" left="339" width="7" height="21" font="8"></text>
+<text top="1021" left="366" width="50" height="17" font="7">Eclipse </text>
+<text top="1040" left="339" width="7" height="21" font="8"></text>
+<text top="1042" left="366" width="98" height="17" font="7">IBM ClearCase</text>
+<text top="1060" left="339" width="7" height="21" font="8"></text>
+<text top="1062" left="366" width="89" height="17" font="7">Oracle CC&amp;B</text>
+<text top="1081" left="107" width="63" height="17" font="4"><b>Activities</b></text>
+<text top="1117" left="357" width="203" height="17" font="9"><i>References provided upon request</i></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="81" left="339" width="7" height="21" font="8"></text>
+<text top="83" left="366" width="181" height="17" font="7">Tae Kwon Do 1st Dan Black</text>
+<text top="1117" left="357" width="203" height="17" font="9"><i>References provided upon request</i></text>
+</page>
+</pdf2xml>

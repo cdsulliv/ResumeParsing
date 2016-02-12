@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="34" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#0000ff"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+<text top="111" left="266" width="386" height="49" font="0"><b>Pedram Charepoo, EIT</b></text>
+<text top="161" left="279" width="360" height="22" font="1"><b>1005 Burycove Lane, Lawrenceville, GA 30043</b></text>
+<text top="185" left="408" width="103" height="22" font="1"><b>678-925-0390</b></text>
+<text top="208" left="341" width="237" height="22" font="2"><a href="mailto:Pedram.charepoo@gmail.com"><b>Pedram.charepoo@gmail.com</b></a></text>
+<text top="279" left="61" width="93" height="24" font="3"><b>Education:</b></text>
+<text top="281" left="223" width="319" height="22" font="4">Georgia Institute of Technology, Atlanta, GA</text>
+<text top="305" left="223" width="16" height="24" font="3"><b> </b>- </text>
+<text top="307" left="239" width="315" height="22" font="4">Bachelor of Science: Electrical Engineering</text>
+<text top="331" left="223" width="404" height="22" font="4"> - Concentration:  Power systems and Electromagnetics</text>
+<text top="355" left="223" width="89" height="22" font="4"> - GPA: 3.35</text>
+<text top="378" left="223" width="452" height="22" font="4"> - Honors: Eta Kappa Nu, Gamma Beta Phi, Delta Epsilon Iota</text>
+<text top="402" left="223" width="632" height="22" font="4"> - Scholarships: John Staton Sr Endowed Fund, IEEE Scholarship for Power Engineers</text>
+<text top="449" left="61" width="77" height="24" font="3"><b>Projects:</b></text>
+<text top="450" left="223" width="632" height="22" font="1"><b> </b>- Programmed a pulse width modulator an Altera DE-2 board using a Cyclone II FPGA</text>
+<text top="473" left="223" width="15" height="24" font="3"><b>   </b></text>
+<text top="475" left="238" width="458" height="22" font="4">allowing for 1024 bits of resolution for speed control of a motor.</text>
+<text top="499" left="223" width="630" height="22" font="4"> - Designed a website an coded a PHP module as part of my senior design project that</text>
+<text top="522" left="169" width="5" height="22" font="4"> </text>
+<text top="522" left="223" width="580" height="22" font="4">   allows for a doctor to log in and submit prescriptions for patients directly to the</text>
+<text top="546" left="223" width="589" height="22" font="4">   assisted living center they belong to in order to cut down on the time it takes for</text>
+<text top="569" left="223" width="368" height="22" font="4">   prescriptions to be filled and get to the residents.</text>
+<text top="593" left="223" width="616" height="22" font="4"> - Designed an operational amplifier to provide a specified gain using current mirrors,</text>
+<text top="617" left="223" width="415" height="22" font="4">   differential amplifiers and simple BJT’s and MOSFETS.</text>
+<text top="640" left="223" width="375" height="22" font="4"> - Have had several projects designing signal filters.</text>
+<text top="664" left="223" width="613" height="22" font="4"> - Have experience designing transmission networks and impedance matching using</text>
+<text top="688" left="223" width="586" height="22" font="4">   both stub matching and lumped element methods to minimize signal reflection.</text>
+<text top="735" left="61" width="53" height="24" font="3"><b>Skills:</b></text>
+<text top="736" left="223" width="517" height="22" font="4">Software: MATLAB, AutoCAD, Quartus II, Multisim, VLAB, PowerWorld</text>
+<text top="761" left="223" width="173" height="22" font="4">Programming: C, VHDL</text>
+<text top="784" left="223" width="414" height="22" font="4">Creativity Suites: Microsoft Office, Adobe Creativity Suite</text>
+<text top="808" left="223" width="331" height="22" font="4">Web Design: HTML, XML, PHP, Joomla CMS</text>
+<text top="832" left="223" width="322" height="22" font="4">Foreign Languages: German, Farsi(Persian)</text>
+<text top="855" left="223" width="602" height="22" font="4">Communication: Technical Reports, Proposals, Oral Presentations to large groups.</text>
+<text top="903" left="61" width="643" height="24" font="3"><b>Instrumentation:  </b>- Spectrum analyzers for measuring wireless signal strength</text>
+<text top="929" left="223" width="593" height="24" font="5"> - Experience using oscilloscopes, multi-meters, and function generators to</text>
+<text top="955" left="169" width="20" height="24" font="5">    </text>
+<text top="955" left="223" width="259" height="24" font="5">   troubleshoot prototype circuits.</text>
+<text top="980" left="223" width="310" height="24" font="5"> - Experienced with using a solder iron.</text>
+<text top="1006" left="223" width="584" height="24" font="5"> - Have experience building and troubleshooting Doppler direction finders.</text>
+<text top="1032" left="223" width="624" height="24" font="5"> - Experience building radar detectors that operate at the 4.9GHz WiMax band.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="61" width="81" height="24" font="3"><b>Interests:</b></text>
+<text top="137" left="223" width="619" height="22" font="4">Electromagnetics, wireless transmission, transmission theory, RF engineering, power</text>
+<text top="161" left="223" width="587" height="22" font="4">systems analysis and engineering, dynamic control of feedback systems, electric</text>
+<text top="185" left="223" width="602" height="22" font="4">energy conversion, motors, team leading, group projects, operations management,</text>
+<text top="209" left="223" width="453" height="22" font="4">design projects, technical research, and product development.</text>
+<text top="307" left="61" width="102" height="24" font="3"><b>Experience:</b></text>
+<text top="309" left="223" width="298" height="22" font="4">Wright Industries (August 2011- Present)</text>
+<text top="333" left="277" width="301" height="22" font="4">- Position: Electrical Engineering Intern</text>
+<text top="357" left="277" width="580" height="22" font="4">- Responsibilities: Design, test, and troubleshoot, direction finding equipment </text>
+<text top="380" left="304" width="411" height="22" font="4">operating on several different bands (UHF, WiMax, VHF)</text>
+<text top="404" left="277" width="562" height="22" font="4">- Used spectrum analyzer to measure wireless signal strengths at different </text>
+<text top="428" left="304" width="90" height="22" font="4">frequencies.</text>
+<text top="475" left="223" width="312" height="22" font="4">AutoCheck Plus (May 2009 - August 2009)</text>
+<text top="499" left="277" width="349" height="22" font="4">- Position: Mechanic and Emissions Inspector</text>
+<text top="522" left="277" width="537" height="22" font="4">- Responsibilities: Perform routine and emergency repairs on customer </text>
+<text top="546" left="304" width="297" height="22" font="4">vehicles as well as emission inspections.</text>
+<text top="569" left="277" width="528" height="22" font="4">- Used a variety of testing and troubleshooting tools and equipment to </text>
+<text top="593" left="304" width="362" height="22" font="4">determine cause of problems in customer vehicle.</text>
+<text top="640" left="223" width="285" height="22" font="4">Airflotek Inc. (May 2005 - August 2009)</text>
+<text top="664" left="277" width="479" height="22" font="4">- Position: Shipping/Receiving Clerk and Cleanroom Technician</text>
+<text top="688" left="277" width="575" height="22" font="4">- Responsibilities: (Clerk) Receive orders and prepare wholesale HEPA filter </text>
+<text top="711" left="304" width="504" height="22" font="4">orders for shipment to customers, installing necessary HEPEX bags. </text>
+<text top="735" left="304" width="540" height="22" font="4">(Technician) Assemble, wire, and troubleshoot Fan/Filter Cleanroom units.</text>
+<text top="782" left="61" width="204" height="24" font="3"><b>Activities &amp; Leadership:</b></text>
+<text top="832" left="223" width="480" height="21" font="5">Gentiva Assisted Living Community Service Program:</text>
+<text top="855" left="277" width="5" height="22" font="4">-</text>
+<text top="855" left="304" width="544" height="21" font="5">Served as a visitor to the assisted living centers/homes and </text>
+<text top="877" left="304" width="487" height="21" font="5">spent time with the residents, majority of which were </text>
+<text top="898" left="304" width="190" height="21" font="5">Alzheimer’s patients.</text>
+<text top="940" left="223" width="303" height="21" font="5">Junior Youth Enrichment Program:</text>
+<text top="962" left="277" width="5" height="22" font="4">-</text>
+<text top="963" left="304" width="547" height="21" font="5">Served as a mentor and tutor to junior youth (middle school </text>
+<text top="984" left="304" width="231" height="21" font="5">aged) in Gwinnett County</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+</page>
+</pdf2xml>

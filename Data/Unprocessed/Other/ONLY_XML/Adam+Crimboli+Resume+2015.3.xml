@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Times" color="#000000"/>
+	<fontspec id="1" size="43" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="27" family="Times" color="#000000"/>
+	<fontspec id="4" size="18" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+	<fontspec id="6" size="16" family="Times" color="#000000"/>
+	<fontspec id="7" size="13" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000000"/>
+	<fontspec id="9" size="18" family="Times" color="#000000"/>
+<text top="64" left="72" width="272" height="47" font="0">Adam Crimboli</text>
+<text top="59" left="345" width="11" height="54" font="1"> </text>
+<text top="63" left="469" width="137" height="22" font="2">751 Stratford Dr. </text>
+<text top="86" left="415" width="187" height="22" font="2">State College, PA 16801</text>
+<text top="75" left="602" width="7" height="36" font="3"> </text>
+<text top="63" left="733" width="117" height="22" font="2">(724) 610-8581 </text>
+<text top="86" left="637" width="213" height="22" font="2">adamcrimboli@gmail.com </text>
+<text top="132" left="72" width="93" height="24" font="4"><b>Education</b></text>
+<text top="135" left="166" width="4" height="20" font="5"> </text>
+<text top="132" left="221" width="505" height="22" font="6"><b>BS - Mechanical Engineering            BS - Nuclear Engineering </b></text>
+<text top="154" left="221" width="475" height="22" font="2">Cumulative GPA: 3.97/4.00                Graduation: May 2014 </text>
+<text top="187" left="221" width="587" height="18" font="7">The Pennsylvania State University, Schreyer Honors College: University Park<i>,</i> PA 16802 </text>
+<text top="206" left="221" width="441" height="18" font="7">Undergraduate Thesis: Bomb Disposal Robot Testing &amp; Validation</text>
+<text top="203" left="662" width="5" height="22" font="6"><b> </b></text>
+<text top="245" left="72" width="108" height="24" font="4"><b>Leadership </b></text>
+<text top="249" left="181" width="4" height="20" font="5"> </text>
+<text top="245" left="221" width="308" height="18" font="7">Penn State LeaderShape Institute: Spring 2013 </text>
+<text top="264" left="221" width="607" height="18" font="7">American Society of Mechanical Engineers, PSU Chapter Treasurer: Fall 2013 – Spring 2014 </text>
+<text top="283" left="221" width="392" height="18" font="7">Team Leader Positions – Engineering Curriculum Projects: </text>
+<text top="301" left="219" width="432" height="19" font="7">  Senior Design: Nuclear Reactor Core Fluidic Miniaturization </text>
+<text top="320" left="219" width="263" height="19" font="7">  Engineering Design: Sand Vacuum </text>
+<text top="339" left="219" width="432" height="19" font="7">  Microcomputer Interfacing: Magnetic Fluid Tonal Visualizer </text>
+<text top="359" left="219" width="442" height="19" font="7">  Nuclear Reactor Design: Neutronics Computational Modeling </text>
+<text top="399" left="72" width="124" height="24" font="4"><b>Employment</b> </text>
+<text top="399" left="221" width="498" height="18" font="7">Intern: Ford Motor Company: Powertrain and Vehicle Interactive Controls </text>
+<text top="418" left="221" width="363" height="18" font="7">Research &amp; Advanced Engineering          Dearborn, MI </text>
+<text top="445" left="72" width="119" height="20" font="5">5/2014 – 8/2014</text>
+<text top="442" left="191" width="5" height="24" font="9"> </text>
+<text top="445" left="219" width="369" height="19" font="7">  Tested electronic truck-trailer backup assist system </text>
+<text top="464" left="219" width="311" height="19" font="7">  Batch processed multi-variable simulation </text>
+<text top="483" left="219" width="389" height="19" font="7">  Presented statistical results using Six Sigma standards </text>
+<text top="512" left="72" width="5" height="24" font="9"> </text>
+<text top="512" left="221" width="523" height="18" font="7">Researcher: Applied Research Laboratory at the Pennsylvania State University </text>
+<text top="530" left="221" width="526" height="18" font="7">Embedded Hardware/Software Systems and Applications     State College, PA </text>
+<text top="558" left="72" width="119" height="20" font="5">5/2013 – 5/2014</text>
+<text top="554" left="191" width="5" height="24" font="9"> </text>
+<text top="557" left="219" width="306" height="19" font="7">  Created bomb disposal robot test method </text>
+<text top="576" left="219" width="315" height="19" font="7">  Ran robots and collected performance data </text>
+<text top="596" left="219" width="12" height="20" font="5"> </text>
+<text top="598" left="246" width="305" height="18" font="7">Analyzed and presented data using MATLAB</text>
+<text top="626" left="72" width="5" height="24" font="9"> </text>
+<text top="626" left="221" width="533" height="18" font="7">Intern: Westinghouse Electric Company: Steam Generator Design &amp; Analysis      </text>
+<text top="644" left="221" width="364" height="18" font="7">Nuclear Operations                                      Madison, PA </text>
+<text top="672" left="72" width="119" height="20" font="5">5/2012 – 8/2012</text>
+<text top="668" left="191" width="5" height="24" font="9"> </text>
+<text top="671" left="219" width="488" height="19" font="7">  Collated and interpreted steam generator pipe corrosion information </text>
+<text top="690" left="219" width="404" height="19" font="7">  Created corrosion “map” and presented to management </text>
+<text top="710" left="219" width="12" height="20" font="5"> </text>
+<text top="712" left="246" width="270" height="18" font="7">Prepared technical reports for customers</text>
+<text top="714" left="516" width="4" height="16" font="5"> </text>
+<text top="730" left="219" width="492" height="19" font="7">  Digitized and updated department steam generator reference manual </text>
+<text top="750" left="219" width="12" height="20" font="5"> </text>
+<text top="752" left="246" width="375" height="18" font="7">Modeled and virtually stress-tested internal components</text>
+<text top="710" left="72" width="4" height="20" font="5"> </text>
+<text top="731" left="72" width="119" height="20" font="5">5/2011 – 8/2011</text>
+<text top="727" left="191" width="5" height="24" font="4"><b> </b></text>
+<text top="792" left="72" width="59" height="24" font="4"><b>Skills</b> </text>
+<text top="791" left="221" width="91" height="18" font="8"><i>Select Classes:</i> </text>
+<text top="810" left="221" width="95" height="18" font="7">Game Theory </text>
+<text top="829" left="221" width="113" height="18" font="7">Control Systems </text>
+<text top="847" left="221" width="132" height="18" font="7">Robot Applications </text>
+<text top="792" left="518" width="4" height="18" font="7"> </text>
+<text top="810" left="518" width="123" height="18" font="7">Technical Writing </text>
+<text top="829" left="518" width="207" height="18" font="7">Modeling of Dynamic Systems </text>
+<text top="848" left="518" width="222" height="18" font="7">Instrumentation &amp; Measurement </text>
+<text top="886" left="221" width="105" height="18" font="8"><i>Computer Skills: </i></text>
+<text top="908" left="221" width="69" height="18" font="7">MATLAB </text>
+<text top="926" left="221" width="64" height="18" font="7">Simulink </text>
+<text top="887" left="363" width="4" height="18" font="7"> </text>
+<text top="908" left="363" width="61" height="18" font="7">Arduino </text>
+<text top="927" left="363" width="71" height="18" font="7">AutoCAD </text>
+<text top="887" left="518" width="4" height="18" font="7"> </text>
+<text top="908" left="518" width="54" height="18" font="7">ANSYS </text>
+<text top="927" left="518" width="82" height="18" font="7">SolidWorks </text>
+<text top="887" left="660" width="4" height="18" font="7"> </text>
+<text top="906" left="660" width="123" height="18" font="7">Adobe Photoshop </text>
+<text top="924" left="660" width="78" height="18" font="7">Adobe CS5 </text>
+<text top="966" left="72" width="5" height="24" font="4"><b> </b></text>
+<text top="966" left="221" width="174" height="18" font="8"><i>Extra-curricular Activities:  </i></text>
+<text top="984" left="221" width="271" height="18" font="7">Alpha Nu Sigma Nuclear Honor Society </text>
+<text top="1003" left="221" width="177" height="18" font="7">American Nuclear Society </text>
+<text top="1022" left="221" width="212" height="18" font="7">Leonhard Engineering Scholars </text>
+<text top="966" left="518" width="4" height="18" font="7"> </text>
+<text top="985" left="518" width="225" height="18" font="7">Penn State Ballroom Dance Team </text>
+<text top="1004" left="518" width="79" height="18" font="7">Chess Club </text>
+<text top="1022" left="518" width="95" height="18" font="7">Billiards Club </text>
+<text top="1061" left="72" width="129" height="24" font="4"><b>Volunteering </b></text>
+<text top="1061" left="221" width="611" height="18" font="7">iCouldBe.org – <i>“The mission of iCouldBe is to provide at-risk middle and high school students with </i></text>
+<text top="1079" left="221" width="589" height="18" font="8"><i>an online community of professional mentors, empowering teens to stay in school, plan for future </i></text>
+<text top="1098" left="221" width="173" height="18" font="8"><i>careers, and achieve in life.”</i> </text>
+</page>
+</pdf2xml>

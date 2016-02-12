@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="28" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="13" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+<text top="60" left="378" width="163" height="37" font="0">Abhishek Bali</text>
+<text top="97" left="108" width="697" height="20" font="1">_____________________________________________________________________________________</text>
+<text top="117" left="182" width="554" height="18" font="2">Phone: (201) 208-8262; Email: abtcbali@gmail.com; 466 Wayne Street Apt 7, Jersey City, NJ</text>
+<text top="135" left="108" width="694" height="18" font="2">_____________________________________________________________________________________________</text>
+<text top="153" left="108" width="79" height="22" font="3"><b>OBJECTIVE</b></text>
+<text top="175" left="108" width="657" height="18" font="2">To secure a position within Chemical Engineering in a well-established organization that will lead to a lasting </text>
+<text top="194" left="108" width="483" height="18" font="2">relationship offering an opportunity to contribute, while growing professionally.</text>
+<text top="212" left="108" width="694" height="18" font="2">_____________________________________________________________________________________________</text>
+<text top="230" left="108" width="89" height="22" font="3"><b>EDUCATION</b></text>
+<text top="252" left="108" width="164" height="18" font="2">B.S., Chemical Engineering </text>
+<text top="252" left="648" width="77" height="18" font="4"><b>August 2014</b></text>
+<text top="271" left="108" width="489" height="18" font="2">School of Engineering, Rutgers University, New Brunswick, NJ      Major GPA: 3.25</text>
+<text top="289" left="108" width="694" height="18" font="2">_____________________________________________________________________________________________</text>
+<text top="307" left="108" width="117" height="22" font="3"><b>PROJECT WORK</b></text>
+<text top="329" left="108" width="513" height="18" font="4"><b>“Methanol Oxidation to Produce Acetic Acid,” Team Leader, Design and Economics </b></text>
+<text top="329" left="648" width="139" height="18" font="4"><b>Fall 2013 - Spring 2014</b></text>
+<text top="348" left="135" width="7" height="18" font="2">•</text>
+<text top="348" left="162" width="607" height="18" font="2">Modeled a chemical plant on ASPEN Plus that utilizes methane to produce acetic acid and electricity</text>
+<text top="366" left="136" width="668" height="18" font="2">• Reactor design, separation processes such as cryogenic distillation, heat recovery steam generation cycles </text>
+<text top="384" left="161" width="354" height="18" font="2">and refrigeration cycles were built via Aspen Plus software</text>
+<text top="402" left="136" width="670" height="18" font="2">• Packed Bed Reactors, distillation columns, heat exchangers, turbines, compressors, liquid-liquid extraction </text>
+<text top="421" left="161" width="270" height="18" font="2">and decanters were some of the blocks used</text>
+<text top="439" left="135" width="7" height="18" font="2">•</text>
+<text top="439" left="162" width="407" height="18" font="2">Modeled plant was analyzed economically to maximize profitability</text>
+<text top="466" left="108" width="242" height="18" font="4"><b>“Liquid Level Control,” Process Control </b></text>
+<text top="466" left="648" width="73" height="18" font="4"><b>Spring 2014</b></text>
+<text top="485" left="135" width="7" height="18" font="2">•</text>
+<text top="485" left="162" width="407" height="18" font="2">Labview software was used to analyze liquid height and PID control</text>
+<text top="503" left="135" width="7" height="18" font="2">•</text>
+<text top="503" left="162" width="506" height="18" font="2">Matlab software was utilized to assist in obtaining valve coefficient and rangeability</text>
+<text top="521" left="135" width="7" height="18" font="2">•</text>
+<text top="521" left="162" width="372" height="18" font="2">Varied liquid flow via valves and air flow via pneumatic valves</text>
+<text top="540" left="135" width="7" height="18" font="2">•</text>
+<text top="540" left="162" width="228" height="18" font="2">Presented results to a panel of judges</text>
+<text top="567" left="108" width="259" height="18" font="4"><b>“Falling Film Evaporator,” Process Control </b></text>
+<text top="567" left="648" width="73" height="18" font="4"><b>Spring 2014</b></text>
+<text top="585" left="135" width="7" height="18" font="2">•</text>
+<text top="585" left="162" width="549" height="18" font="2">Purified various mixtures of Ethanol and Water using the Falling Film Evaporator apparatus</text>
+<text top="604" left="135" width="7" height="18" font="2">•</text>
+<text top="604" left="162" width="493" height="18" font="2">Monitored and varied temperature, liquid flow via valves and pressure via pumps</text>
+<text top="622" left="135" width="7" height="18" font="2">•</text>
+<text top="622" left="162" width="467" height="18" font="2">Organized, analyzed, and presented results to interdepartmental committees</text>
+<text top="649" left="108" width="275" height="18" font="4"><b>“Air Separation Unit,” Design and Economics</b></text>
+<text top="649" left="648" width="73" height="18" font="4"><b>Spring 2014</b></text>
+<text top="671" left="135" width="5" height="15" font="2">•</text>
+<text top="669" left="162" width="379" height="18" font="2">Aspen Plus software was used to design an Air Separation Unit</text>
+<text top="691" left="135" width="5" height="15" font="2">•</text>
+<text top="688" left="162" width="635" height="18" font="2">Modeled a series of heat exchangers and cryogenic distillation columns to cool various streams and heat </text>
+<text top="707" left="162" width="58" height="18" font="2">up others</text>
+<text top="728" left="135" width="5" height="15" font="2">•</text>
+<text top="726" left="162" width="542" height="18" font="2">Achieved high recovery of oxygen using multiple heat exchangers and distillation columns</text>
+<text top="748" left="135" width="5" height="15" font="2">•</text>
+<text top="745" left="162" width="228" height="18" font="2">Presented results to a panel of judges</text>
+<text top="764" left="108" width="687" height="18" font="2">____________________________________________________________________________________________</text>
+<text top="782" left="108" width="91" height="22" font="3"><b>EXPERIENCE</b></text>
+<text top="804" left="108" width="326" height="18" font="4"><b>New Jersey City University, Intern, Applied Research </b></text>
+<text top="804" left="648" width="131" height="18" font="4"><b>July 2007 - June 2008</b></text>
+<text top="822" left="135" width="7" height="18" font="2">•</text>
+<text top="822" left="162" width="575" height="18" font="2">Synthesis and Purification of Microwave-Assisted Petasis Reaction to create substituted amines</text>
+<text top="841" left="135" width="7" height="18" font="2">•</text>
+<text top="841" left="162" width="560" height="18" font="2">Used multiple purification techniques such as Flash Chromatography, crystallization, and TLC</text>
+<text top="859" left="135" width="7" height="18" font="2">•</text>
+<text top="859" left="162" width="228" height="18" font="2">Presented results to a panel of judges</text>
+<text top="877" left="108" width="687" height="18" font="2">____________________________________________________________________________________________</text>
+<text top="895" left="108" width="47" height="22" font="3"><b>SKILLS</b></text>
+<text top="918" left="135" width="7" height="18" font="2">•</text>
+<text top="918" left="162" width="372" height="18" font="2">Strong communication, problem-solving, and leadership skills</text>
+<text top="936" left="135" width="7" height="18" font="2">•</text>
+<text top="936" left="162" width="164" height="18" font="2">Bilingual: English and Hindi</text>
+<text top="954" left="135" width="7" height="18" font="2">•</text>
+<text top="954" left="162" width="454" height="18" font="2">Proficient in Aspen Plus, ChemCAD, Matlab, and Microsoft Office Programs</text>
+<text top="972" left="135" width="7" height="18" font="2">•</text>
+<text top="972" left="162" width="610" height="18" font="2">Experience with MS, IR, NMR, GCMS, HPLC, Flash Chromatography, Thin-Layer Chromatography, and </text>
+<text top="991" left="162" width="244" height="18" font="2">Preparatory Thin-Layer Chromatography</text>
+<text top="1009" left="108" width="694" height="18" font="2">_____________________________________________________________________________________________</text>
+<text top="1027" left="108" width="188" height="20" font="5"><b>ACTIVITIES/ACHIEVEMENTS</b></text>
+<text top="1047" left="135" width="7" height="18" font="2">•</text>
+<text top="1047" left="162" width="463" height="18" font="2">Member of the American Institute of Chemical Engineers Fall 2012 – Present</text>
+<text top="1066" left="135" width="7" height="18" font="2">•</text>
+<text top="1066" left="162" width="137" height="18" font="2">Deans List Spring 2014</text>
+<text top="1084" left="135" width="7" height="18" font="2">•</text>
+<text top="1084" left="162" width="628" height="18" font="2">Involved in the following community service projects: Breast Cancer Walk, Hoboken Sandy Relief Effort, </text>
+<text top="1102" left="162" width="351" height="18" font="2">Volunteer for week long rebuild project in Asbury Park, NJ</text>
+</page>
+</pdf2xml>

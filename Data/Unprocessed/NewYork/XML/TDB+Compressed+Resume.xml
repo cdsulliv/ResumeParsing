@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+<image top="0" left="0" width="918" height="1188" src="/home/shreya/Wharton/NEW/NewYork/XML/TDB+Compressed+Resume-1_1.jpg"/>
+<image top="0" left="0" width="918" height="1188" src="/home/shreya/Wharton/NEW/NewYork/XML/TDB+Compressed+Resume-1_2.jpg"/>
+<image top="0" left="0" width="918" height="1188" src="/home/shreya/Wharton/NEW/NewYork/XML/TDB+Compressed+Resume-1_3.jpg"/>
+</page>
+</pdf2xml>

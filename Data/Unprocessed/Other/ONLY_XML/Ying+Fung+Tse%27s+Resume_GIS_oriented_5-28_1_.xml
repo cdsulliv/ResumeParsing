@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Times" color="#4471c4"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#0462c1"/>
+	<fontspec id="3" size="12" family="Times" color="#4471c4"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+	<fontspec id="6" size="12" family="Times" color="#000000"/>
+	<fontspec id="7" size="12" family="Symbol" color="#000000"/>
+<text top="22" left="302" width="325" height="36" font="0"><b>TSE, YING FUNG </b></text>
+<text top="62" left="134" width="456" height="15" font="1">1902 Henry St. Apt. D, Berkeley, CA 94704 | (310) 424-8421 |<a href="mailto:tse_aragorn@hotmail.com"> </a></text>
+<text top="62" left="590" width="194" height="15" font="2"><a href="mailto:tse_aragorn@hotmail.com">tse_aragorn@hotmail.com</a></text>
+<text top="62" left="784" width="5" height="15" font="1"><a href="mailto:tse_aragorn@hotmail.com"> </a></text>
+<text top="92" left="43" width="89" height="13" font="3"><b>EDUCATION </b></text>
+<text top="109" left="43" width="227" height="13" font="4"><b>University of California, Berkeley </b></text>
+<text top="106" left="270" width="208" height="16" font="4"><b>– College of Letters &amp; Science</b> </text>
+<text top="125" left="43" width="824" height="13" font="6"><i>Bachelor of Arts, Double Major in Geography and Economics</i>                                                                  Graduation Date: Dec 2013 </text>
+<text top="138" left="50" width="7" height="17" font="7"></text>
+<text top="142" left="57" width="113" height="13" font="5">  Emphasis: <b>GIS </b></text>
+<text top="156" left="50" width="7" height="17" font="7"></text>
+<text top="160" left="57" width="801" height="13" font="5">  <b>Relevant Coursework</b>: Geographic Information System, Cartographic Representation, Photogrammetry &amp; Remote Sensing, </text>
+<text top="176" left="70" width="228" height="13" font="5">Basic Engineering Design Graphics </text>
+<text top="202" left="43" width="145" height="13" font="3"><b>WORK EXPERIENCE </b></text>
+<text top="220" left="43" width="832" height="13" font="4"><b>GIS Cartographer Intern</b>, Eureka Cartography, Berkeley, CA                                                                                Mar 2014 - Present </text>
+<text top="234" left="50" width="7" height="17" font="7"></text>
+<text top="238" left="57" width="799" height="13" font="5">  Assisted the company to develop a new product line which emphasizes market analysis such as site selection and customer </text>
+<text top="251" left="70" width="512" height="16" font="5">profiling so as to strengthen and enlarge company’s competitiveness and market </text>
+<text top="267" left="50" width="7" height="17" font="7"></text>
+<text top="271" left="57" width="4" height="13" font="5"> </text>
+<text top="269" left="70" width="798" height="16" font="5">Customized business analysis maps for company’s portfolios by incorporating cost-profit, demand-supply concepts into spatial </text>
+<text top="288" left="70" width="124" height="13" font="5">analysis in ArcGIS  </text>
+<text top="301" left="50" width="7" height="17" font="7"></text>
+<text top="305" left="57" width="809" height="13" font="5">  Improved the appearance of dull, scientific GIS maps by inserting artistic, detailed, original features such as custom icons and </text>
+<text top="322" left="70" width="362" height="13" font="5">hand-drawn buildings in Adobe Illustrator and Photoshop </text>
+<text top="335" left="50" width="7" height="17" font="7"></text>
+<text top="339" left="57" width="725" height="13" font="5">  Built custom, interactive maps using online mapping platforms such as ArcGIS Online and Google Maps Engine  </text>
+<text top="361" left="43" width="754" height="13" font="4"><b>GIS Lab Intern</b>, University of California, Berkeley, CA                                                                                         Jan 2014 </text>
+<text top="358" left="797" width="78" height="16" font="5">– May 2014 </text>
+<text top="374" left="50" width="7" height="17" font="7"></text>
+<text top="379" left="57" width="805" height="13" font="5">  Minimized labor resources on repetitive and time-consuming map making processes by developing Python script to automate </text>
+<text top="395" left="70" width="324" height="13" font="5">various geoprocessing tasks and MXD file creation </text>
+<text top="408" left="50" width="7" height="17" font="7"></text>
+<text top="412" left="57" width="753" height="13" font="5">  Facilitated the progress of specific projects by customizing multifarious tools in ArcMap via Python and ModelBuilder  </text>
+<text top="426" left="50" width="7" height="17" font="7"></text>
+<text top="430" left="57" width="4" height="13" font="5"> </text>
+<text top="427" left="70" width="777" height="16" font="5">Enhanced students’ GIS skills by demonstrating geocoding, geo-referencing, TIN creation, raster and vector data modeling </text>
+<text top="443" left="50" width="7" height="17" font="7"></text>
+<text top="447" left="57" width="4" height="13" font="5"> </text>
+<text top="444" left="70" width="775" height="16" font="5">Raised the utility and attractiveness of students’ map projects by advising students in terms of practicality and cartographic </text>
+<text top="463" left="70" width="83" height="13" font="5">aestheticism </text>
+<text top="477" left="50" width="7" height="17" font="7"></text>
+<text top="481" left="57" width="655" height="13" font="5">  Held two 2-hour help sessions every week to assist upper-division students on their GIS assignments </text>
+<text top="503" left="43" width="762" height="13" font="4"><b>GIS Technician Intern</b>, GIS Data Resources Inc., San Rafael, CA                                                                       Jun 2013 </text>
+<text top="500" left="805" width="74" height="16" font="5">– Oct 2013 </text>
+<text top="516" left="50" width="7" height="17" font="7"></text>
+<text top="520" left="57" width="240" height="13" font="5">  Maintained the currency of New Yor</text>
+<text top="518" left="297" width="538" height="16" font="5">k state’s  911 emergency system by analyzing and updating the geodatabases of the </text>
+<text top="537" left="70" width="208" height="13" font="5">dispatching centers in New York </text>
+<text top="550" left="50" width="7" height="17" font="7"></text>
+<text top="554" left="57" width="320" height="13" font="5">  Designed diverse SQL layers in ArcMap to identi</text>
+<text top="552" left="377" width="497" height="16" font="5">fy and rectify spatial data errors in New York’s 911 emergency system in order </text>
+<text top="571" left="70" width="378" height="13" font="5">to assure geographic precision of digitalized address points </text>
+<text top="584" left="50" width="7" height="17" font="7"></text>
+<text top="588" left="57" width="787" height="13" font="5">  Ensured data quality to meet industrial standards and prevented original databases from degradation by executing QA/QC </text>
+<text top="604" left="70" width="258" height="13" font="5">repetitiously using Microsoft SQL Server </text>
+<text top="618" left="50" width="7" height="17" font="7"></text>
+<text top="622" left="57" width="747" height="13" font="5">  Enabled geodatabases to be edited and used simultaneously by multiple users through conducting version creation, </text>
+<text top="638" left="70" width="318" height="13" font="5">reconciliation and post in an ArcSDE environment </text>
+<text top="651" left="50" width="7" height="17" font="7"></text>
+<text top="655" left="57" width="694" height="13" font="5">  Improved the efficiency of 911 emergency system by performing address point digitalization and verification </text>
+<text top="678" left="43" width="757" height="13" font="4"><b>Economics and Math Tutor</b>, El Camino College, Torrance, CA                                                                          Jun 2010 </text>
+<text top="675" left="800" width="78" height="16" font="5">– May 2011 </text>
+<text top="691" left="50" width="7" height="17" font="7"></text>
+<text top="695" left="57" width="280" height="13" font="5">  Facilitated in-class discussion sections by </text>
+<text top="692" left="337" width="200" height="16" font="5">addressing students’ questions </text>
+<text top="708" left="50" width="7" height="17" font="7"></text>
+<text top="712" left="57" width="687" height="13" font="5">  Organized after-class tutorial sections to clarify the concepts and materials from lectures and problem sets </text>
+<text top="726" left="50" width="7" height="17" font="7"></text>
+<text top="730" left="57" width="4" height="13" font="5"> </text>
+<text top="727" left="70" width="747" height="16" font="5">Consolidated students’ Economics knowledge by designing creative learning tools including flow charts and diagrams  </text>
+<text top="755" left="43" width="81" height="13" font="3"><b>PROJECTS </b></text>
+<text top="774" left="43" width="834" height="13" font="4"><b>Study of Crop Type Distribution in Tippecanoe, IN                                 </b>                                                                            Nov 2013 </text>
+<text top="787" left="50" width="7" height="17" font="7"></text>
+<text top="791" left="57" width="640" height="13" font="5">  Aligned an AVIRIS image of the specific region with a crop-type reference map by Geo-referencing </text>
+<text top="804" left="50" width="7" height="17" font="7"></text>
+<text top="809" left="57" width="784" height="13" font="5">  Displayed the landscape in 3D and carried out 3D analysis by creating TIN data from a NED file of the region in ArcScene </text>
+<text top="822" left="50" width="7" height="17" font="7"></text>
+<text top="826" left="57" width="746" height="13" font="5">  Visualized crop type distribution on a map by computing NDVI to conduct supervised classification in ENVI software </text>
+<text top="848" left="43" width="834" height="13" font="4"><b>Study of Demographic Relocation Patterns and Determinants in Oakland, CA                                     </b>                          Nov 2012 </text>
+<text top="862" left="50" width="7" height="17" font="7"></text>
+<text top="866" left="57" width="795" height="13" font="5">  Utilized Network Analysis in ArcMap to calculate service areas of the top four determinants including Bart stations, Buddhist </text>
+<text top="882" left="70" width="283" height="13" font="5">temples, Chinese marketplaces and schools </text>
+<text top="895" left="50" width="7" height="17" font="7"></text>
+<text top="899" left="57" width="789" height="13" font="5">  Determined the best locations for settlement by creating and weighting the travel time zones from each determinants using </text>
+<text top="916" left="70" width="190" height="13" font="5">Suitability Analysis in ArcMap </text>
+<text top="929" left="50" width="7" height="17" font="7"></text>
+<text top="933" left="57" width="816" height="13" font="5">  Marketed our map products for low, medium and high-income customers by incorporating housing price data into the weighting </text>
+<text top="950" left="70" width="186" height="13" font="5">system in Suitability Analysis </text>
+<text top="975" left="43" width="234" height="13" font="3"><b>EXTRA CURRICULAR ACTIVITIES </b></text>
+<text top="993" left="43" width="757" height="13" font="4"><b>Cantonese DeCal Teaching Staff</b>, University of California, Berkeley, CA                                                           Jan 2013 </text>
+<text top="991" left="800" width="78" height="16" font="5">– May 2013 </text>
+<text top="1007" left="50" width="7" height="17" font="7"></text>
+<text top="1011" left="57" width="558" height="13" font="5">  Taught a class of 30 students the basic Cantonese vocabulary, grammar and phrases </text>
+<text top="1024" left="50" width="7" height="17" font="7"></text>
+<text top="1028" left="57" width="4" height="13" font="5"> </text>
+<text top="1026" left="70" width="551" height="16" font="5">Designed appropriate curriculum to ensure the students’ efficient learning of the dialect </text>
+<text top="1041" left="50" width="7" height="17" font="7"></text>
+<text top="1046" left="57" width="812" height="13" font="5">  Introduced and better integrated the Cantonese-speaking community in the Bay Area with UC Berkeley by planning originative </text>
+<text top="1062" left="70" width="414" height="13" font="5">field trips and performing community service with DeCal students </text>
+<text top="1087" left="43" width="132" height="13" font="3"><b>SKILLS SUMMARY </b></text>
+<text top="1103" left="50" width="7" height="17" font="7"></text>
+<text top="1107" left="57" width="764" height="13" font="5">  <b>Software</b>: Proficiency in ArcGIS 10.1 or later, AutoCAD, Adobe Illustrator and Photoshop, ENVI, Microsoft Office Suite </text>
+<text top="1120" left="50" width="7" height="17" font="7"></text>
+<text top="1124" left="57" width="500" height="13" font="5">  <b>Computer Languages</b>: Proficiency in CSS, HTML, JavaScript, Python, SQL </text>
+<text top="1137" left="50" width="7" height="17" font="7"></text>
+<text top="1142" left="57" width="374" height="13" font="5">  <b>Languages</b>: Fluent in English, Mandarin and Cantonese </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="88" family="Times" color="#231f20"/>
+	<fontspec id="1" size="23" family="Times" color="#e6292f"/>
+	<fontspec id="2" size="16" family="Times" color="#231f20"/>
+	<fontspec id="3" size="16" family="Times" color="#231f20"/>
+<text top="21" left="95" width="429" height="127" font="0">Ben Cathey</text>
+<text top="113" left="102" width="381" height="37" font="1">Front-End Developer/UX Designer</text>
+<text top="72" left="551" width="107" height="26" font="2">316 680 5324</text>
+<text top="121" left="551" width="167" height="26" font="2">ben@bencathey.com</text>
+<text top="90" left="551" width="169" height="37" font="1">bencathey.com</text>
+<text top="216" left="121" width="111" height="37" font="1">Education</text>
+<text top="327" left="112" width="121" height="37" font="1">Experience</text>
+<text top="745" left="134" width="98" height="37" font="1">Software</text>
+<text top="894" left="112" width="121" height="37" font="1">Languages</text>
+<text top="216" left="272" width="182" height="26" font="3"><b>John Brown University</b></text>
+<text top="238" left="272" width="437" height="25" font="2">B.S. with a major in Design with an emphasis on web. Not </text>
+<text top="259" left="272" width="290" height="25" font="2">technically completed at this moment. </text>
+<text top="322" left="271" width="297" height="26" font="3"><b>Wolters Kluwer CCH - Web Designer</b></text>
+<text top="344" left="271" width="194" height="26" font="2">August 2014- April 2015</text>
+<text top="745" left="272" width="54" height="25" font="2">Aptana</text>
+<text top="766" left="272" width="80" height="25" font="2">Wordpress</text>
+<text top="788" left="272" width="82" height="25" font="2">Photoshop</text>
+<text top="809" left="272" width="70" height="25" font="2">Illustrator</text>
+<text top="831" left="272" width="224" height="25" font="2">Team Foundation Server (TFS)</text>
+<text top="894" left="272" width="45" height="25" font="2">HTML</text>
+<text top="916" left="272" width="82" height="25" font="2">CSS (SCSS)</text>
+<text top="937" left="272" width="50" height="25" font="2">Jquery</text>
+<text top="959" left="272" width="119" height="25" font="2">Some Javascript</text>
+<text top="980" left="272" width="80" height="25" font="2">Some PHP</text>
+<text top="547" left="271" width="270" height="26" font="3"><b>High Touch Technologies - Intern</b></text>
+<text top="568" left="271" width="185" height="26" font="2">May 2014-August 2014</text>
+<text top="370" left="271" width="310" height="25" font="2">▪Worked with clients to modify templates</text>
+<text top="392" left="271" width="322" height="25" font="2">▪Worked with clients to create custom sites</text>
+<text top="413" left="271" width="153" height="25" font="2">▪Created a Template</text>
+<text top="435" left="271" width="405" height="25" font="2">▪Worked with a developer to add features to the CMS</text>
+<text top="457" left="271" width="428" height="25" font="2">▪Contributed to better responsive design across the CMS</text>
+<text top="478" left="271" width="347" height="25" font="2">▪Overhauled a large site to make it responsive</text>
+<text top="500" left="271" width="281" height="25" font="2">▪Modified Wordpress page templates</text>
+<text top="594" left="270" width="231" height="25" font="2">▪Added responsiveness to sites</text>
+<text top="616" left="270" width="252" height="25" font="2">▪Updated content on several sites</text>
+<text top="637" left="270" width="407" height="25" font="2">▪Worked with kats.org to figure out what features and </text>
+<text top="659" left="270" width="429" height="25" font="2">functionality were needed (Member levels, payment, etc.)</text>
+<text top="680" left="270" width="398" height="25" font="2">▪Organized and uploaded all the content for kats.org</text>
+</page>
+</pdf2xml>

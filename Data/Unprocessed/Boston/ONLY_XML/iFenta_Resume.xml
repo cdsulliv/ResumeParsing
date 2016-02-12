@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="28" family="Times" color="#000000"/>
+	<fontspec id="1" size="1" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="11" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="1" family="Times" color="#000000"/>
+	<fontspec id="8" size="2" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#000000"/>
+	<fontspec id="10" size="12" family="Symbol" color="#000000"/>
+	<fontspec id="11" size="1" family="Times" color="#000000"/>
+<text top="60" left="377" width="172" height="28" font="0"><b>Isaac Fenta </b></text>
+<text top="89" left="459" width="1" height="3" font="1"><b> </b></text>
+<text top="95" left="215" width="188" height="14" font="2">518 Beacon St. Boston, MA </text>
+<text top="92" left="403" width="304" height="17" font="2">02215 • 301-974-2999 • ifenta@alum.mit.edu </text>
+<text top="112" left="54" width="84" height="15" font="3"><b>Education </b></text>
+<text top="133" left="54" width="281" height="14" font="4"><b>Massachusetts Institute of Technology</b> </text>
+<text top="133" left="378" width="58" height="14" font="2">            </text>
+<text top="133" left="486" width="4" height="14" font="2"> </text>
+<text top="133" left="540" width="4" height="14" font="2"> </text>
+<text top="133" left="594" width="4" height="14" font="2"> </text>
+<text top="133" left="648" width="4" height="14" font="2"> </text>
+<text top="133" left="702" width="4" height="14" font="2"> </text>
+<text top="133" left="756" width="108" height="14" font="2">Cambridge, MA<b> </b></text>
+<text top="151" left="54" width="626" height="14" font="2">Bachelor of Science in Mechanical Engineering w/ concentration in Robotics and Theater Arts </text>
+<text top="151" left="702" width="4" height="14" font="2"> </text>
+<text top="151" left="756" width="150" height="14" font="2">         June 2015           </text>
+<text top="168" left="54" width="173" height="14" font="2">Cumulative GPA: 3.8/5.0  </text>
+<text top="185" left="54" width="804" height="12" font="5"><b>Relevant coursework:</b> Engineering System Development, Product Engineering Process, Electronics for Mechanical Systems, Design </text>
+<text top="201" left="54" width="801" height="12" font="6">and Manufacturing, Robotics: Science and Systems, Measurement and Instrumentation, Dynamics and Control, Bio-inspired Robotics </text>
+<text top="214" left="54" width="1" height="3" font="7"> </text>
+<text top="220" left="54" width="43" height="14" font="4"><b>Skills </b></text>
+<text top="239" left="54" width="802" height="14" font="4"><b>      Computer</b> C, C++, Python, MATLAB, LabVIEW, SolidWorks, Arduino, Raspberry Pi, Qt Creator, LCM, ROS, TKinter </text>
+<text top="256" left="54" width="792" height="14" font="4"><b>      Hands-on </b>Trained to work in a machine shop, laser cutter, water jet, mill, lathe, 3D Prototyping, circuit components </text>
+<text top="271" left="54" width="1" height="3" font="7"> </text>
+<text top="277" left="54" width="93" height="15" font="3"><b>Experience </b></text>
+<text top="296" left="54" width="1" height="4" font="8"><b> </b></text>
+<text top="303" left="80" width="249" height="14" font="4"><b>New Valence Robotics (NVBOTS)   </b></text>
+<text top="303" left="378" width="4" height="14" font="4"><b> </b></text>
+<text top="303" left="432" width="4" height="14" font="4"><b> </b></text>
+<text top="303" left="486" width="4" height="14" font="4"><b> </b></text>
+<text top="303" left="540" width="92" height="14" font="4"><b>                      </b></text>
+<text top="303" left="648" width="33" height="14" font="4"><b>        </b></text>
+<text top="303" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="303" left="756" width="169" height="14" font="4"><b>       </b>Boston, MA<b>               </b></text>
+<text top="321" left="80" width="207" height="14" font="9"><i>Mechanical Engineering Intern</i> </text>
+<text top="321" left="324" width="4" height="14" font="2"> </text>
+<text top="321" left="378" width="4" height="14" font="2"> </text>
+<text top="321" left="432" width="4" height="14" font="2"> </text>
+<text top="321" left="486" width="4" height="14" font="2"> </text>
+<text top="321" left="540" width="4" height="14" font="2"> </text>
+<text top="321" left="594" width="4" height="14" font="2"> </text>
+<text top="321" left="648" width="21" height="14" font="2">     </text>
+<text top="321" left="702" width="4" height="14" font="2"> </text>
+<text top="321" left="756" width="112" height="14" font="2">    January 2015<b> </b></text>
+<text top="336" left="54" width="1" height="3" font="1"><b> </b></text>
+<text top="338" left="108" width="7" height="18" font="10"></text>
+<text top="343" left="115" width="4" height="14" font="2"> </text>
+<text top="343" left="135" width="723" height="14" font="2">Controlled robot with variety of sensors on Arduino to help make the lesson plan for the high school students </text>
+<text top="357" left="108" width="7" height="18" font="10"></text>
+<text top="361" left="115" width="4" height="14" font="2"> </text>
+<text top="361" left="135" width="691" height="14" font="2">Developed lesson plans so high school students can easily learn how to operate and build a small robot </text>
+<text top="375" left="108" width="7" height="18" font="10"></text>
+<text top="379" left="115" width="4" height="14" font="2"> </text>
+<text top="379" left="135" width="550" height="14" font="2">Designed and printed a robot chassis and wheel with SolidWorks to be 3D printed  </text>
+<text top="393" left="108" width="7" height="18" font="10"></text>
+<text top="398" left="115" width="4" height="14" font="2"> </text>
+<text top="398" left="135" width="541" height="14" font="2">Delivered technical reports of tolerance data and in-depth robot parts dimensions </text>
+<text top="412" left="54" width="1" height="3" font="7"> </text>
+<text top="418" left="54" width="465" height="14" font="4"><b>      MIT Nano-Photonics and 3D Nano-Manufacturing Laboratory  </b></text>
+<text top="418" left="540" width="4" height="14" font="4"><b> </b></text>
+<text top="418" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="418" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="418" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="418" left="756" width="108" height="14" font="2">Cambridge, MA<b> </b></text>
+<text top="435" left="54" width="300" height="14" font="9"><i>      Mechanical Engineering Research Intern </i></text>
+<text top="435" left="378" width="4" height="14" font="9"><i> </i></text>
+<text top="435" left="432" width="4" height="14" font="9"><i> </i></text>
+<text top="435" left="486" width="4" height="14" font="9"><i> </i></text>
+<text top="435" left="540" width="4" height="14" font="9"><i> </i></text>
+<text top="435" left="594" width="4" height="14" font="9"><i> </i></text>
+<text top="435" left="648" width="116" height="14" font="9"><i>          </i>June 2014 </text>
+<text top="432" left="764" width="109" height="17" font="2">– August 2014<i>   </i></text>
+<text top="450" left="54" width="1" height="3" font="11"><i> </i></text>
+<text top="453" left="108" width="7" height="18" font="10"></text>
+<text top="457" left="115" width="4" height="14" font="2"> </text>
+<text top="457" left="135" width="723" height="14" font="2">Designed, fabricated, and prototyped a new type of 3D printer to test different printing materials and features </text>
+<text top="471" left="108" width="7" height="18" font="10"></text>
+<text top="475" left="115" width="4" height="14" font="2"> </text>
+<text top="475" left="135" width="563" height="14" font="2">Coded 3D printer system in LabVIEW to integrate multiple components of the printer </text>
+<text top="489" left="108" width="7" height="18" font="10"></text>
+<text top="494" left="115" width="4" height="14" font="2"> </text>
+<text top="494" left="135" width="580" height="14" font="2">Created a User Interface (UI) in LabVIEW to test and calibrate actuators of the system  </text>
+<text top="508" left="108" width="1" height="3" font="7"> </text>
+<text top="514" left="54" width="201" height="14" font="4"><b>      MIT Media Laboratories  </b></text>
+<text top="514" left="270" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="324" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="378" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="432" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="486" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="540" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="514" left="756" width="108" height="14" font="2">Cambridge, MA<b> </b></text>
+<text top="531" left="54" width="251" height="14" font="9"><i>      Product Design Research Intern</i>   </text>
+<text top="531" left="324" width="4" height="14" font="2"> </text>
+<text top="531" left="378" width="4" height="14" font="2"> </text>
+<text top="531" left="432" width="4" height="14" font="2"> </text>
+<text top="531" left="486" width="4" height="14" font="2"> </text>
+<text top="531" left="540" width="4" height="14" font="2"> </text>
+<text top="531" left="594" width="4" height="14" font="2"> </text>
+<text top="531" left="648" width="116" height="14" font="2">          June 2012 </text>
+<text top="529" left="764" width="101" height="17" font="2">– August 2012 </text>
+<text top="546" left="54" width="1" height="3" font="7"> </text>
+<text top="549" left="108" width="7" height="18" font="10"></text>
+<text top="553" left="115" width="4" height="14" font="2"> </text>
+<text top="553" left="135" width="721" height="14" font="2">Designed additional applications for the FlickInk project. The FlickInk project is a pen which memorizes what </text>
+<text top="571" left="135" width="363" height="14" font="2">you write, and you can flick the image onto a monitor.  </text>
+<text top="585" left="108" width="7" height="18" font="10"></text>
+<text top="589" left="115" width="4" height="14" font="2"> </text>
+<text top="589" left="135" width="716" height="14" font="2">The concepts brainstormed developed the Lightbytes system: an installation of window blinds that opens its </text>
+<text top="606" left="135" width="497" height="14" font="2">flaps depending on what image was received and the light coming through </text>
+<text top="620" left="108" width="7" height="18" font="10"></text>
+<text top="624" left="115" width="4" height="14" font="2"> </text>
+<text top="624" left="135" width="353" height="14" font="2">Winner of the IF Design Award in 2014: LIGHTBYTE </text>
+<text top="639" left="54" width="1" height="3" font="7"> </text>
+<text top="645" left="54" width="70" height="15" font="3"><b>Projects </b></text>
+<text top="654" left="54" width="25" height="14" font="4"><b>      </b></text>
+<text top="662" left="79" width="1" height="3" font="1"><b> </b></text>
+<text top="668" left="54" width="504" height="14" font="4"><b>      MIT System Development Class Project w/ MIT Lincoln Laboratory  </b></text>
+<text top="668" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="668" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="668" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="668" left="756" width="112" height="14" font="2">Cambridge, MA  </text>
+<text top="685" left="54" width="220" height="14" font="2">      <i>Product Engineer Student</i>     </text>
+<text top="685" left="324" width="4" height="14" font="2"> </text>
+<text top="685" left="378" width="4" height="14" font="2"> </text>
+<text top="685" left="432" width="4" height="14" font="2"> </text>
+<text top="685" left="486" width="4" height="14" font="2"> </text>
+<text top="685" left="540" width="4" height="14" font="2"> </text>
+<text top="685" left="594" width="4" height="14" font="2"> </text>
+<text top="685" left="648" width="135" height="14" font="2">        February 2015 </text>
+<text top="682" left="783" width="102" height="17" font="2">– May 2015      </text>
+<text top="700" left="108" width="7" height="18" font="10"></text>
+<text top="704" left="115" width="4" height="14" font="2"> </text>
+<text top="704" left="135" width="700" height="14" font="2">Collaborated in a team of 20+ people to build, and test an Unmanned Aerial Vehicle (UAV) Charging Pod </text>
+<text top="718" left="108" width="7" height="18" font="10"></text>
+<text top="722" left="115" width="4" height="14" font="2"> </text>
+<text top="722" left="135" width="701" height="14" font="2">Linked different modules in our Pod together using LCM for ease in communicating between the modules </text>
+<text top="736" left="108" width="7" height="18" font="10"></text>
+<text top="740" left="115" width="4" height="14" font="2"> </text>
+<text top="740" left="135" width="731" height="14" font="2">Designed a UI to help users control our charging pod with ease in python based tkinter and c based qt creator </text>
+<text top="754" left="108" width="7" height="18" font="10"></text>
+<text top="759" left="115" width="4" height="14" font="2"> </text>
+<text top="759" left="135" width="669" height="14" font="2">Controlled servos and sensor data with Arduino and raspberry pi to control the Pods docking system </text>
+<text top="773" left="108" width="7" height="18" font="10"></text>
+<text top="777" left="115" width="4" height="14" font="2"> </text>
+<text top="777" left="135" width="718" height="14" font="2">Initiated communication with raspberry pi and Arduino through serial connection to send data between them </text>
+<text top="791" left="108" width="7" height="18" font="10"></text>
+<text top="795" left="115" width="4" height="14" font="2"> </text>
+<text top="795" left="135" width="641" height="14" font="2">Coded sockets to send data and files from the pod to the UI so the user can live stream the data </text>
+<text top="812" left="54" width="310" height="14" font="4"><b>      MIT Product Engineering Class Project</b>  </text>
+<text top="812" left="378" width="4" height="14" font="2"> </text>
+<text top="812" left="432" width="4" height="14" font="2"> </text>
+<text top="812" left="486" width="4" height="14" font="2"> </text>
+<text top="812" left="540" width="4" height="14" font="2"> </text>
+<text top="812" left="594" width="4" height="14" font="2"> </text>
+<text top="812" left="648" width="4" height="14" font="2"> </text>
+<text top="812" left="702" width="4" height="14" font="2"> </text>
+<text top="812" left="756" width="108" height="14" font="2">Cambridge, MA </text>
+<text top="829" left="54" width="220" height="14" font="9"><i>      Product Engineer Student</i>    </text>
+<text top="829" left="324" width="4" height="14" font="2"> </text>
+<text top="829" left="378" width="4" height="14" font="2"> </text>
+<text top="829" left="432" width="4" height="14" font="2"> </text>
+<text top="829" left="486" width="4" height="14" font="2"> </text>
+<text top="829" left="540" width="4" height="14" font="2"> </text>
+<text top="829" left="594" width="148" height="14" font="2">        September 2013 </text>
+<text top="826" left="742" width="126" height="17" font="2">– December 2013  </text>
+<text top="844" left="108" width="7" height="18" font="10"></text>
+<text top="848" left="115" width="4" height="14" font="2"> </text>
+<text top="848" left="135" width="561" height="14" font="2">Collaborated in team of 16-20 people to design, test, and produce a drill bit identifier </text>
+<text top="862" left="108" width="7" height="18" font="10"></text>
+<text top="866" left="115" width="4" height="14" font="2"> </text>
+<text top="866" left="135" width="686" height="14" font="2">Developed different ideas of products that our team could present as a prototype in a final presentation </text>
+<text top="880" left="108" width="7" height="18" font="10"></text>
+<text top="884" left="115" width="4" height="14" font="2"> </text>
+<text top="884" left="135" width="681" height="14" font="2">Wired and coded display screens using Arduino and raspberry pi to view output in our drill bit identifier </text>
+<text top="898" left="108" width="7" height="18" font="10"></text>
+<text top="903" left="115" width="4" height="14" font="2"> </text>
+<text top="903" left="135" width="691" height="14" font="2">Soldered microcontrollers, regulators, switches, and power components onto a PCB for condensed look </text>
+<text top="920" left="54" width="186" height="14" font="4"><b>Leadership and Activities </b></text>
+<text top="937" left="54" width="1" height="3" font="7"> </text>
+<text top="943" left="54" width="234" height="14" font="4"><b>      Sigma Phi Epsilon Fraternity </b></text>
+<text top="943" left="324" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="378" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="432" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="486" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="540" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="943" left="756" width="111" height="14" font="4"><b>       </b>Boston, MA </text>
+<text top="960" left="54" width="339" height="14" font="9"><i>      VP Communications and Work Week Manager </i></text>
+<text top="960" left="432" width="4" height="14" font="9"><i> </i></text>
+<text top="960" left="486" width="4" height="14" font="9"><i> </i></text>
+<text top="960" left="540" width="4" height="14" font="9"><i> </i></text>
+<text top="960" left="594" width="4" height="14" font="9"><i> </i></text>
+<text top="960" left="648" width="218" height="14" font="9"><i>         </i>September 2010 - Present </text>
+<text top="974" left="108" width="7" height="18" font="10"></text>
+<text top="978" left="115" width="4" height="14" font="2"> </text>
+<text top="978" left="135" width="633" height="14" font="2">Organized list of events, and placed them all on a google calendar for the whole chapter to see </text>
+<text top="992" left="108" width="7" height="18" font="10"></text>
+<text top="997" left="115" width="4" height="14" font="2"> </text>
+<text top="997" left="135" width="490" height="14" font="2">Worked with a budget to make improvements around our fraternity house </text>
+<text top="1014" left="135" width="4" height="14" font="2"> </text>
+<text top="1031" left="54" width="223" height="14" font="4"><b>      MIT Sport Taekwondo Club </b></text>
+<text top="1031" left="324" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="378" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="432" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="486" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="540" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="1031" left="756" width="108" height="14" font="2">Cambridge, MA </text>
+<text top="1048" left="54" width="284" height="14" font="9"><i>      Assistant Instructor and Team Captain </i></text>
+<text top="1048" left="378" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="432" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="486" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="540" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="594" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="648" width="4" height="14" font="9"><i> </i></text>
+<text top="1048" left="702" width="95" height="14" font="2">January 2011 </text>
+<text top="1045" left="797" width="68" height="17" font="2">– Present </text>
+<text top="1065" left="54" width="4" height="14" font="2"> </text>
+<text top="1083" left="54" width="183" height="14" font="4"><b>      MIT Dramashop Club  </b></text>
+<text top="1083" left="270" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="324" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="378" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="432" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="486" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="540" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="594" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="648" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="702" width="4" height="14" font="4"><b> </b></text>
+<text top="1083" left="756" width="108" height="14" font="2">Cambridge, MA </text>
+<text top="1100" left="54" width="68" height="14" font="9"><i>      Actor  </i></text>
+<text top="1100" left="162" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="216" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="270" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="324" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="378" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="432" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="486" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="540" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="594" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="648" width="4" height="14" font="9"><i> </i></text>
+<text top="1100" left="702" width="95" height="14" font="2">January 2015 </text>
+<text top="1097" left="797" width="68" height="17" font="2">– Present </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#1154cc"/>
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#1154cc"/>
+<text top="110" left="392" width="134" height="16" font="0"><b>Vincent A. Campione</b></text>
+<text top="110" left="527" width="4" height="17" font="1"> </text>
+<text top="130" left="365" width="187" height="16" font="2"><a href="http://h/"><b>campione.vincent@gmail.com</b></a></text>
+<text top="130" left="552" width="4" height="17" font="1"><a href="http://h/"> </a></text>
+<text top="150" left="108" width="90" height="16" font="3">16 Oriole Road</text>
+<text top="150" left="540" width="156" height="16" font="3">Cell Phone (845)633­0746</text>
+<text top="150" left="696" width="4" height="17" font="1"> </text>
+<text top="170" left="108" width="169" height="16" font="3">New City, New York, 10956</text>
+<text top="170" left="540" width="196" height="16" font="4"><a href="http://h/">linkedin.com/in/vincentcampione</a></text>
+<text top="171" left="736" width="4" height="17" font="1"><a href="http://h/"> </a></text>
+<text top="193" left="108" width="698" height="17" font="1">___________________________________________________________________________________</text>
+<text top="193" left="806" width="4" height="16" font="4"><a href="http://h/"> </a></text>
+<text top="213" left="108" width="69" height="16" font="0"><b>Education:</b></text>
+<text top="213" left="177" width="4" height="17" font="1"> </text>
+<text top="233" left="108" width="350" height="16" font="3">University of Massachusetts Amherst ­ Sept. 2011­ Present </text>
+<text top="234" left="461" width="4" height="17" font="1"> </text>
+<text top="254" left="108" width="321" height="16" font="3">Major: Computer Science (2015 Bachelors of Science)</text>
+<text top="254" left="429" width="4" height="17" font="1"> </text>
+<text top="274" left="108" width="535" height="16" font="3">Clarkstown High School North ­ Regents Diploma with Advanced Designation, June 2011 </text>
+<text top="294" left="108" width="655" height="16" font="3">_________________________________________________________________________________________ </text>
+<text top="317" left="108" width="4" height="17" font="1"> </text>
+<text top="337" left="108" width="207" height="16" font="0"><b>PRIOR WORK EXPERIENCE: </b></text>
+<text top="357" left="108" width="146" height="16" font="3">CA Technologies­ Intern</text>
+<text top="357" left="540" width="143" height="16" font="3">June 2014­August 2014 </text>
+<text top="377" left="108" width="108" height="16" font="3">Unigo LLC­Intern</text>
+<text top="377" left="486" width="140" height="16" font="3">June 2013­August 2013</text>
+<text top="378" left="626" width="4" height="17" font="1"> </text>
+<text top="398" left="108" width="215" height="16" font="3">Northeast Floor Covering­ Salesman</text>
+<text top="398" left="486" width="158" height="16" font="3">December 2009­June 2013</text>
+<text top="398" left="648" width="4" height="17" font="1"> </text>
+<text top="420" left="108" width="701" height="17" font="1">___________________________________________________________________________________ </text>
+<text top="440" left="108" width="4" height="16" font="3"> </text>
+<text top="461" left="108" width="187" height="16" font="0"><b>Languages and Frameworks:</b> </text>
+<text top="481" left="135" width="9" height="16" font="3">●</text>
+<text top="481" left="162" width="30" height="16" font="3">Java </text>
+<text top="501" left="135" width="9" height="16" font="3">●</text>
+<text top="501" left="162" width="62" height="16" font="3">Javascript </text>
+<text top="521" left="135" width="9" height="16" font="3">●</text>
+<text top="521" left="162" width="76" height="16" font="3">HTML/CSS </text>
+<text top="542" left="135" width="9" height="16" font="3">●</text>
+<text top="542" left="162" width="52" height="16" font="3">Angular </text>
+<text top="564" left="108" width="701" height="17" font="1">___________________________________________________________________________________ </text>
+<text top="587" left="108" width="4" height="17" font="1"> </text>
+<text top="607" left="108" width="186" height="16" font="0"><b>RELEVANT EXPERIENCE:</b></text>
+<text top="607" left="294" width="4" height="17" font="1"> </text>
+<text top="627" left="108" width="627" height="16" font="3">CA Technologies: Worked on a scrum team on a brand new product. Helped build the UI using angular.js. </text>
+<text top="647" left="162" width="611" height="16" font="3"> Participated in design meetings.  Worked with UI specialists and the team to create a friendly UI for the</text>
+<text top="668" left="162" width="90" height="16" font="3"> new project.   </text>
+<text top="688" left="108" width="626" height="16" font="3">Unigo LLC: Performed QA/QC for their software products as an intern.  Worked on Fast Forward project, </text>
+<text top="708" left="162" width="564" height="16" font="3">written in C# using the asp.net framework.  Minor Debugging work.  Answered support emails. </text>
+<text top="708" left="729" width="4" height="17" font="1"> </text>
+<text top="728" left="108" width="652" height="16" font="3">Computer Science 320: Project based class at Umass.  Worked on a project with a team of other students using </text>
+<text top="749" left="162" width="117" height="16" font="3">express.js and jade. </text>
+<text top="769" left="108" width="680" height="16" font="3">Computer Science 326: Project based class at Umass. Built a website to help learn languages.  Worked with a team  </text>
+<text top="789" left="162" width="599" height="16" font="3">of other students to bring the vision of the project to life.  Project built on a node.js server and Jquery. </text>
+<text top="809" left="108" width="655" height="16" font="3">_________________________________________________________________________________________ </text>
+<text top="832" left="108" width="4" height="17" font="1"> </text>
+<text top="852" left="108" width="177" height="16" font="0"><b>GENERAL EXPERIENCE:</b></text>
+<text top="852" left="285" width="4" height="17" font="1"> </text>
+<text top="872" left="108" width="630" height="16" font="3">Northeast Floor Covering: managed and maintained inventory.  Kept store organized and clean.  Interfaced </text>
+<text top="893" left="108" width="179" height="16" font="3">with customers to make sales. </text>
+<text top="893" left="290" width="4" height="17" font="1"> </text>
+<text top="915" left="108" width="701" height="17" font="1">___________________________________________________________________________________ </text>
+<text top="938" left="108" width="4" height="17" font="1"> </text>
+<text top="958" left="108" width="81" height="16" font="0"><b>PROJECTS:</b></text>
+<text top="958" left="189" width="4" height="17" font="1"> </text>
+<text top="978" left="108" width="546" height="16" font="3">Fast Forward: Facebook app written using the asp.net framework done while at Unigo LLC.  </text>
+<text top="998" left="108" width="703" height="16" font="3">CA Technologies: Worked with Angular.js to create user friendly interfaces for a web application. Developed code that </text>
+<text top="1019" left="108" width="671" height="16" font="3">was demonstrated at the end of each sprint.  Worked on a scrum team with several software engineers and another </text>
+<text top="1039" left="108" width="189" height="16" font="3">intern to develop a new product<a href="mailto:Jordan@unigo.com">.</a></text>
+<text top="1039" left="297" width="4" height="17" font="1"><a href="mailto:Jordan@unigo.com"> </a></text>
+</page>
+</pdf2xml>

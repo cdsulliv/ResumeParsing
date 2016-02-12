@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="25" family="Times" color="#000000"/>
+	<fontspec id="1" size="25" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+	<fontspec id="8" size="14" family="Times" color="#000000"/>
+	<fontspec id="9" size="16" family="Times" color="#000000"/>
+<text top="32" left="402" width="141" height="27" font="0"><b>Anisha Desai</b> </text>
+<text top="62" left="331" width="258" height="17" font="2">1828 Cameron Hills Ct. Fremont, CA 94539 </text>
+<text top="81" left="57" width="7" height="17" font="2">  </text>
+<text top="81" left="349" width="243" height="17" font="2">(510)529-5402 <a href="mailto:anishad@berkeley.edu">/ anishad@berkeley.edu</a> </text>
+<text top="81" left="879" width="4" height="17" font="2"> </text>
+<text top="103" left="59" width="79" height="17" font="3"><b>EDUCATION</b> </text>
+<text top="124" left="59" width="217" height="17" font="3"><b>University of California, Berkeley </b></text>
+<text top="124" left="796" width="66" height="17" font="3"><b>May 2015</b> </text>
+<text top="143" left="59" width="374" height="17" font="3"><b>B.A , (ISF) Computer Science, Economics, Electrical Engineering</b> </text>
+<text top="163" left="59" width="410" height="14" font="4"><b>CSUA (Computer Science Undergraduate Association) Member</b> </text>
+<text top="180" left="59" width="193" height="17" font="3"><b>Mission San Jose High School </b></text>
+<text top="180" left="793" width="69" height="17" font="3"><b>June 2011</b> </text>
+<text top="201" left="57" width="8" height="15" font="2">  </text>
+<text top="196" left="99" width="8" height="20" font="6"></text>
+<text top="201" left="107" width="4" height="15" font="2"> </text>
+<text top="200" left="135" width="142" height="17" font="2">Cumulative GPA: 3.92 </text>
+<text top="200" left="879" width="4" height="17" font="2"> </text>
+<text top="222" left="59" width="218" height="17" font="3"><b>WORK &amp; LEADERSHIPEXPERIENCE</b> </text>
+<text top="246" left="59" width="75" height="18" font="7"><b>Facebook </b></text>
+<text top="247" left="742" width="146" height="17" font="2">Sept 2015 – Oct 2015 </text>
+<text top="267" left="118" width="780" height="17" font="2">Project through Koru. Worked with Facebook Product Operations Team in data analytics and expansion of a product </text>
+<text top="287" left="104" width="366" height="17" font="2">and presented the feedback for the developers team.  </text>
+<text top="308" left="59" width="42" height="18" font="7"><b>Flock </b></text>
+<text top="309" left="757" width="132" height="17" font="2">Jan 2015 – July 2015 </text>
+<text top="329" left="59" width="173" height="17" font="8"><i>CEO and Product Manager</i> </text>
+<text top="348" left="120" width="767" height="17" font="2">Founded a startup called Flock in which we are purely a mentorship platform for career advice. Along with another UC </text>
+<text top="368" left="120" width="767" height="17" font="2">Berkeley student, I have worked on the front and back-end web development along with being in charge of the  entire </text>
+<text top="388" left="120" width="517" height="17" font="2">product. Languages used: <b>HTML, CSS, JavaScript, PHP, SQL, FB and TWITTER API</b> </text>
+<text top="408" left="59" width="69" height="18" font="7"><b>IdeasBox </b></text>
+<text top="410" left="738" width="135" height="17" font="2">Sept 2014- Dec 2014 </text>
+<text top="429" left="59" width="177" height="17" font="8"><i>Mobile and Web Developer</i> </text>
+<text top="449" left="120" width="747" height="17" font="2">IdeasBox provides individuals and communities isolated by disaster the tools to read, write, create and communicate </text>
+<text top="469" left="120" width="693" height="17" font="2">in which I am the lead developer for the upcoming mobile app.  Languages used: <b>Xcode, HTML, CSS, C, Swift</b> </text>
+<text top="489" left="59" width="89" height="18" font="7"><b>ServiceNow </b></text>
+<text top="490" left="754" width="125" height="17" font="2">May 2014- Present </text>
+<text top="510" left="59" width="218" height="17" font="8"><i>Technical Support Engineer Intern</i> </text>
+<text top="529" left="121" width="722" height="17" font="2">Worked with the back-end databases and the TSE Engineers to resolve cases. Worked with UAT Design and Cisco </text>
+<text top="549" left="120" width="709" height="17" font="2">Phase Finesse Systems. Worked under engineers to create an effective mobile app in both android and iOS and </text>
+<text top="569" left="120" width="657" height="17" font="2">provided help in RSA approvals with all the engineers and product managers.  Languages used: <b>Python</b> </text>
+<text top="590" left="59" width="77" height="18" font="7"><b>Emmunify </b></text>
+<text top="591" left="756" width="122" height="17" font="2">June 2014-Present </text>
+<text top="611" left="59" width="251" height="17" font="8"><i>Web Developer and Android Developer</i> </text>
+<text top="630" left="121" width="740" height="17" font="2">Created a whole new website for emmunify.org, an organization centered around building an android app to  help </text>
+<text top="650" left="120" width="741" height="17" font="2">track vaccination throughout rural areas of developing countries. Worked with the Software Engineers during the </text>
+<text top="670" left="120" width="626" height="17" font="2">build phase to build the android app. Plans to launch in August 2014. Languages used: <b>HTML, CSS</b> </text>
+<text top="690" left="59" width="287" height="18" font="7"><b>Lawrence Berkeley National Laboratory </b></text>
+<text top="692" left="722" width="157" height="17" font="2">January 2014- May2014 </text>
+<text top="711" left="59" width="248" height="17" font="8"><i>Software Developer and Testing Intern</i> </text>
+<text top="731" left="121" width="755" height="17" font="2">Worked with the IT Department during the “build” and “testing” phase of their new database- LETS in which I worked </text>
+<text top="751" left="124" width="548" height="17" font="2">wrote scripts in SQL to optimize efficiency within new database. Langauges used: <b>SQL</b> </text>
+<text top="771" left="59" width="75" height="18" font="7"><b>CommPre </b></text>
+<text top="772" left="717" width="153" height="17" font="2">June 2012- August 2012 </text>
+<text top="792" left="59" width="118" height="17" font="8"><i>Marketing Analyst</i> </text>
+<text top="807" left="86" width="8" height="20" font="6"></text>
+<text top="812" left="94" width="5" height="15" font="2"> </text>
+<text top="812" left="113" width="754" height="17" font="2">Interned for a public policy and health firm to advocate for a particular proposition regarding drug use within the </text>
+<text top="831" left="113" width="118" height="17" font="2">Alameda County. </text>
+<text top="850" left="59" width="139" height="17" font="3"><b>PERSONAL PROJECTS:</b> </text>
+<text top="870" left="59" width="762" height="16" font="4"><b>3-D Printing – </b>Worked with Google Sketchup and CAD to printvarious objectedthrough 3DPrinting. (Imagesmay be seenper request) </text>
+<text top="889" left="59" width="812" height="16" font="4"><b>Snap! </b>–Workedin Javascripton developing the software for students taking the main Computer Sciencecourse at UCBerkeley. Snap! Is avisual, </text>
+<text top="908" left="59" width="596" height="16" font="5">drag-and-drop programming language formerlyknown as BYOB.  Languages used: <b>Ruby on Rails, Python</b> </text>
+<text top="927" left="59" width="785" height="16" font="4"><b>Hadoop/MapReduce</b>- Project using MapReduce and Hadoop framework involving finding the co-occurrence rate of all words </text>
+<text top="947" left="59" width="716" height="16" font="5">associated with a target word across several hundreds to thousands of documents. Languages used: <b>Objective C</b> </text>
+<text top="966" left="59" width="806" height="16" font="4"><b>Matrix Multiply Parallelization </b>– optimized a single precision AB matrix multiply using SSE Instructions, loop ordering, register </text>
+<text top="985" left="59" width="366" height="16" font="5">blocking and loop unrolling. Languages used: <b>Objective C</b> </text>
+<text top="1005" left="59" width="97" height="18" font="7"><b>LEADERSHIP:</b> </text>
+<text top="1025" left="59" width="753" height="16" font="4"><b>UC Berkeley Raas Captain- </b>Founded UC Berkeley Raas(dance team) in August 2011 and led the entire financial and personal </text>
+<text top="1045" left="59" width="300" height="16" font="5">aspects of the team to competitions nation-wide </text>
+<text top="1064" left="59" width="697" height="16" font="4"><b>UC Berkeley Dil Se Manager – </b>Captain and Finance Manager of UC Berkeley’s premier South Asian Acapella Team. </text>
+<text top="1084" left="59" width="54" height="18" font="7"><b>SKILLS:</b> </text>
+<text top="1105" left="59" width="440" height="16" font="4"><b>Technical: </b>Web Services, Java, Linux, Python, HTML5, CSS3, Javascript, C </text>
+<text top="1124" left="59" width="352" height="16" font="4"><b>Design</b>: Photoshop, Illustrator, Dreamweaver,  Storyboard </text>
+<text top="1143" left="59" width="174" height="16" font="4"><b>Data</b>: STATA, R, SQL, Python </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="10" family="Times" color="#000000"/>
+<text top="116" left="129" width="3" height="12" font="10"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Symbol" color="#000000"/>
+<text top="76" left="351" width="216" height="28" font="0">Alexandra Duritza</text>
+<text top="104" left="289" width="340" height="17" font="1">2409 Riverside Terrace Manasquan, NJ 08736</text>
+<text top="121" left="371" width="177" height="17" font="1">alexduritza@gmail.com</text>
+<text top="139" left="401" width="117" height="17" font="1">(732) 618-0094</text>
+<text top="177" left="108" width="97" height="19" font="2"><b>OBJECTIVE</b></text>
+<text top="196" left="108" width="699" height="19" font="3">To exceed expectation as a manufacturing specialist within the Pharmaceutical field.</text>
+<text top="233" left="108" width="107" height="19" font="2"><b>EDUCATION</b></text>
+<text top="252" left="108" width="441" height="19" font="3">Boston University College of Engineering, Boston, MA</text>
+<text top="271" left="108" width="470" height="19" font="3">Bachelor of Science in Biomedical Engineering May 2006</text>
+<text top="308" left="108" width="202" height="19" font="2"><b>Related Course Work:</b></text>
+<text top="327" left="108" width="164" height="19" font="3">Systems Physiology</text>
+<text top="327" left="486" width="232" height="19" font="3">Signals and Systems in BME</text>
+<text top="327" left="756" width="47" height="19" font="3">Stats </text>
+<text top="346" left="108" width="95" height="19" font="3">and Quality</text>
+<text top="365" left="108" width="201" height="19" font="3">Intro to Medical Imaging</text>
+<text top="365" left="432" width="160" height="19" font="3">Solid Biomechanics</text>
+<text top="365" left="648" width="104" height="19" font="3">Engineering </text>
+<text top="384" left="108" width="76" height="19" font="3">Economy</text>
+<text top="404" left="108" width="351" height="19" font="3">Natural Computation &amp; Biological Systems</text>
+<text top="404" left="486" width="193" height="19" font="3">Control System in BME </text>
+<text top="423" left="162" width="184" height="19" font="3">Entrepreneurship-BME</text>
+<text top="460" left="108" width="217" height="19" font="2"><b>Senior Research Thesis</b></text>
+<text top="479" left="108" width="673" height="19" font="2"><b>“Development of Vibrating Sandals to Enhance Sensorimotor Function” </b></text>
+<text top="498" left="189" width="8" height="21" font="4"></text>
+<text top="499" left="216" width="573" height="19" font="3">Designed and developed vibrating sandals to improve gait variability.</text>
+<text top="519" left="189" width="8" height="21" font="4"></text>
+<text top="521" left="216" width="578" height="19" font="3">Determined if through the addition of noise stride-to-stride variability </text>
+<text top="541" left="216" width="159" height="19" font="3">could be reduced.  </text>
+<text top="560" left="189" width="8" height="21" font="4"></text>
+<text top="562" left="216" width="550" height="19" font="3">Applied a mechanical vibration (a white noise signal, produced by </text>
+<text top="582" left="216" width="492" height="19" font="3">linear actuators) to plantar surface of the foot by using the </text>
+<text top="601" left="216" width="393" height="19" font="3">phenomenon known as Stochastic Resonance.  </text>
+<text top="620" left="189" width="8" height="21" font="4"></text>
+<text top="621" left="216" width="537" height="19" font="3">Acquired pressure readings using Force sensing resistors (FSRs), </text>
+<text top="642" left="216" width="535" height="19" font="3">accompanied with a Data Acquisition Board (DAQ), LabView and </text>
+<text top="661" left="216" width="258" height="19" font="3">circuitry during the gait cycle.  </text>
+<text top="680" left="189" width="8" height="21" font="4"></text>
+<text top="681" left="216" width="574" height="19" font="3">Analyzed gait cycle data points including mean stride time, standard </text>
+<text top="702" left="216" width="424" height="19" font="3">deviation and coefficient of variation using MatLab.</text>
+<text top="721" left="189" width="8" height="21" font="4"></text>
+<text top="722" left="216" width="591" height="19" font="3">Senior Project included formal proposal, final report, oral presentations,</text>
+<text top="742" left="216" width="568" height="19" font="3">and experience in FDA regulatory and intellectual property issues of </text>
+<text top="762" left="216" width="77" height="19" font="3">products.</text>
+<text top="798" left="108" width="246" height="19" font="2"><b>SUMMARY OF EXPERIENCE</b></text>
+<text top="817" left="108" width="397" height="19" font="2"><b>Center for BioDynamics, Boston University</b></text>
+<text top="837" left="108" width="309" height="19" font="3">Research Intern; May 2005-May 2006</text>
+<text top="856" left="189" width="8" height="21" font="4"></text>
+<text top="857" left="216" width="532" height="19" font="3">Worked closely in association with the Afferent Corporation® to </text>
+<text top="877" left="216" width="535" height="19" font="3">conduct research, collect and analyze data designed to improve </text>
+<text top="897" left="216" width="132" height="19" font="3">balance control.</text>
+<text top="916" left="108" width="526" height="19" font="2"><b>Auditory Neurophysiology Laboratory, Boston University</b></text>
+<text top="935" left="108" width="505" height="19" font="3">Research Intern (SURF Program), September-December 2003</text>
+<text top="954" left="189" width="8" height="21" font="4"></text>
+<text top="955" left="216" width="506" height="19" font="3">Trained gerbils for auditory advancements. (Animal Certified)</text>
+<text top="976" left="189" width="8" height="21" font="4"></text>
+<text top="977" left="216" width="530" height="19" font="3">Conducted experimental studies of the neuronal circuitry in the </text>
+<text top="997" left="216" width="144" height="19" font="3">cochlear nucleus.</text>
+<text top="1016" left="189" width="8" height="21" font="4"></text>
+<text top="1018" left="216" width="591" height="19" font="3">Analyzed and recorded techniques used to study responses of neurons </text>
+<text top="1038" left="216" width="193" height="19" font="3">to acoustic stimulation.</text>
+<text top="1057" left="108" width="647" height="19" font="2"><b>Division of Traffic Safety and Engineering, </b>Freehold, NJ June-August 2003</text>
+<text top="1076" left="189" width="8" height="21" font="4"></text>
+<text top="1078" left="216" width="569" height="19" font="3">Performed general drafting duties and comparison analysis of traffic </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="76" left="216" width="122" height="19" font="3">signal devices.</text>
+<text top="95" left="189" width="8" height="21" font="4"></text>
+<text top="96" left="216" width="581" height="19" font="3">Assisted in field duties such as taking field measurements, inspecting </text>
+<text top="116" left="216" width="503" height="19" font="3">contractors’ work and layout of proposed traffic engineering </text>
+<text top="136" left="216" width="124" height="19" font="3">improvements.</text>
+<text top="172" left="108" width="232" height="19" font="2"><b>COMPUTER PROFICIENCY</b></text>
+<text top="191" left="108" width="683" height="19" font="3">MicrosoftOffice, C++, MatLab, MathCad, LabView, Psplice, Cadence, Dreamweaver</text>
+<text top="228" left="108" width="274" height="19" font="2"><b>PROFESSIONAL AFFILIATIONS</b></text>
+<text top="247" left="108" width="644" height="19" font="3">Boston University Society of Women Engineers, Boston University Biomedical </text>
+<text top="267" left="108" width="165" height="19" font="3">Engineering Society</text>
+<text top="305" left="227" width="464" height="19" font="2"><b>REFERENCES WILL BE FURNISHED UPON REQUEST</b></text>
+</page>
+</pdf2xml>

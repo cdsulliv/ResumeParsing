@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#333333"/>
+	<fontspec id="1" size="16" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#333333"/>
+	<fontspec id="3" size="12" family="Times" color="#333333"/>
+<image top="267" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_1.jpg"/>
+<image top="293" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_2.jpg"/>
+<image top="319" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_3.jpg"/>
+<image top="346" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_4.jpg"/>
+<image top="372" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_5.jpg"/>
+<image top="484" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_6.jpg"/>
+<image top="510" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_7.jpg"/>
+<image top="537" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_8.jpg"/>
+<image top="563" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_9.jpg"/>
+<image top="589" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_10.jpg"/>
+<image top="650" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_11.jpg"/>
+<image top="676" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_12.jpg"/>
+<image top="736" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_13.jpg"/>
+<image top="762" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_14.jpg"/>
+<image top="857" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_15.jpg"/>
+<image top="884" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_16.jpg"/>
+<image top="910" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_17.jpg"/>
+<image top="1005" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_18.jpg"/>
+<image top="1031" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_19.jpg"/>
+<image top="1092" left="54" width="30" height="20" src="/home/shreya/Wharton/NEW/NEW_XML/Allan+Beckman+Resume--gd_2_-1_20.jpg"/>
+<text top="57" left="395" width="129" height="17" font="0"><b>Allan Beckman</b></text>
+<text top="58" left="524" width="5" height="16" font="1"> </text>
+<text top="77" left="317" width="283" height="14" font="2">11232 Cresson Street, Norwalk, CA 90650</text>
+<text top="76" left="600" width="5" height="16" font="1"> </text>
+<text top="79" left="54" width="5" height="16" font="1"> </text>
+<text top="95" left="317" width="284" height="14" font="2">(562) 508-6255 email: beckmana@uci.edu</text>
+<text top="93" left="600" width="5" height="16" font="1"> </text>
+<text top="112" left="300" width="317" height="14" font="3"><b>______________________________________</b></text>
+<text top="110" left="617" width="5" height="16" font="1"> </text>
+<text top="129" left="54" width="94" height="14" font="3"><b>EDUCATION:</b></text>
+<text top="127" left="148" width="5" height="16" font="1"> </text>
+<text top="145" left="54" width="5" height="16" font="1"> </text>
+<text top="164" left="54" width="471" height="14" font="2">Bachelor of Science, Computer Science, Degree anticipated April 2015</text>
+<text top="162" left="525" width="5" height="16" font="1"> </text>
+<text top="165" left="54" width="5" height="16" font="1"> </text>
+<text top="181" left="54" width="265" height="14" font="2">University of California Irvine, Irvine, CA</text>
+<text top="179" left="319" width="5" height="16" font="1"> </text>
+<text top="183" left="54" width="5" height="16" font="1"> </text>
+<text top="198" left="54" width="127" height="14" font="2">Current GPA 3.733</text>
+<text top="197" left="182" width="5" height="16" font="1"> </text>
+<text top="213" left="54" width="5" height="16" font="1"> </text>
+<text top="232" left="54" width="58" height="14" font="3"><b>SKILLS:</b></text>
+<text top="231" left="112" width="5" height="16" font="1"> </text>
+<text top="252" left="54" width="5" height="16" font="1"> </text>
+<text top="272" left="73" width="281" height="14" font="2">Proficient in Object-Oriented programming</text>
+<text top="271" left="354" width="5" height="16" font="1"> </text>
+<text top="281" left="54" width="5" height="16" font="1"> </text>
+<text top="298" left="73" width="216" height="14" font="2">Proficient in Java, C# and XAML</text>
+<text top="297" left="289" width="5" height="16" font="1"> </text>
+<text top="307" left="54" width="5" height="16" font="1"> </text>
+<text top="324" left="73" width="491" height="14" font="2">Intermediate experience with Agile and the software development process</text>
+<text top="323" left="565" width="5" height="16" font="1"> </text>
+<text top="334" left="54" width="5" height="16" font="1"> </text>
+<text top="351" left="73" width="330" height="14" font="2">Beginner in C, C++, HTML, PHP, Javascript, SQL</text>
+<text top="349" left="404" width="5" height="16" font="1"> </text>
+<text top="360" left="54" width="5" height="16" font="1"> </text>
+<text top="377" left="73" width="426" height="14" font="2">Proficient in Microsoft Visual Studio, TFS and Code Collaborator</text>
+<text top="375" left="500" width="5" height="16" font="1"> </text>
+<text top="395" left="54" width="5" height="16" font="1"> </text>
+<text top="415" left="54" width="153" height="14" font="3"><b>WORK EXPERIENCE:</b></text>
+<text top="413" left="207" width="5" height="16" font="1"> </text>
+<text top="433" left="54" width="5" height="16" font="1"> </text>
+<text top="451" left="54" width="671" height="14" font="3"><b>Software Development Intern for Invensys/Schneider Electric, Lake Forest, CA, February 2014 </b></text>
+<text top="464" left="54" width="67" height="17" font="3"><b>– Present</b></text>
+<text top="465" left="122" width="5" height="16" font="1"> </text>
+<text top="475" left="54" width="5" height="16" font="1"> </text>
+<text top="493" left="72" width="428" height="14" font="2">Worked as a software developer to develop a Next Gen Product </text>
+<text top="517" left="72" width="502" height="14" font="2">Participated as a SCRUM team member and attended agile team meetings </text>
+<text top="541" left="72" width="266" height="14" font="2">WPF Development using MVVM pattern</text>
+<text top="540" left="338" width="5" height="16" font="1"> </text>
+<text top="552" left="54" width="5" height="16" font="1"> </text>
+<text top="568" left="73" width="389" height="14" font="2">Learned agile methods and software development process</text>
+<text top="566" left="463" width="5" height="16" font="1"> </text>
+<text top="577" left="54" width="5" height="16" font="1"> </text>
+<text top="594" left="73" width="254" height="14" font="2">TFS, Visual Studio, Code Collaborator</text>
+<text top="592" left="328" width="5" height="16" font="1"> </text>
+<text top="612" left="54" width="5" height="16" font="1"> </text>
+<text top="632" left="54" width="456" height="14" font="3"><b>Programming Intern for DreamItAlive.com, Irvine, CA, July 2013 </b></text>
+<text top="629" left="511" width="128" height="17" font="3"><b>– September 2013</b></text>
+<text top="630" left="639" width="5" height="16" font="1"> </text>
+<text top="638" left="54" width="5" height="16" font="1"> </text>
+<text top="655" left="73" width="361" height="14" font="2">Created admin pages that accessed website database</text>
+<text top="653" left="435" width="5" height="16" font="1"> </text>
+<text top="663" left="54" width="5" height="16" font="1"> </text>
+<text top="681" left="73" width="345" height="14" font="2">Authored test cases for website using Selenium IDE</text>
+<text top="679" left="419" width="5" height="16" font="1"> </text>
+<text top="699" left="54" width="5" height="16" font="1"> </text>
+<text top="718" left="54" width="442" height="14" font="3"><b>AppJam+ Mentor, Tiger Woods Learning Center, August 2012 </b></text>
+<text top="716" left="496" width="123" height="17" font="3"><b>– November 2012</b></text>
+<text top="717" left="620" width="5" height="16" font="1"> </text>
+<text top="725" left="54" width="5" height="16" font="1"> </text>
+<text top="741" left="73" width="504" height="14" font="2">Assisted Middle-School students in the development of mobile android apps</text>
+<text top="740" left="577" width="5" height="16" font="1"> </text>
+<text top="750" left="54" width="5" height="16" font="1"> </text>
+<text top="767" left="73" width="334" height="14" font="2">Developed lesson plans for a class of 20 students.</text>
+<text top="766" left="408" width="5" height="16" font="1"> </text>
+<text top="786" left="54" width="5" height="16" font="1"> </text>
+<text top="805" left="54" width="173" height="14" font="3"><b>PERSONAL PROJECTS:</b></text>
+<text top="804" left="227" width="5" height="16" font="1"> </text>
+<text top="821" left="54" width="5" height="16" font="1"> </text>
+<text top="840" left="54" width="386" height="14" font="3"><b>Online Computer Game, Currently under Development</b></text>
+<text top="838" left="441" width="5" height="16" font="1"> </text>
+<text top="849" left="54" width="5" height="16" font="1"> </text>
+<text top="864" left="73" width="466" height="19" font="2">Vertical platform game with a Spongebob theme, working with 3 other </text>
+<text top="887" left="73" width="525" height="19" font="2">students Becoming familiar with Phaser framework APIs and writing Javascript </text>
+<text top="909" left="73" width="467" height="19" font="2">Authored a game design document to capture the game requirements.</text>
+<text top="912" left="540" width="5" height="16" font="1"> </text>
+<text top="933" left="54" width="5" height="16" font="1"> </text>
+<text top="953" left="54" width="202" height="14" font="3"><b>LEADERSHIP EXPERIENCE:</b></text>
+<text top="951" left="257" width="5" height="16" font="1"> </text>
+<text top="968" left="54" width="5" height="16" font="1"> </text>
+<text top="987" left="54" width="569" height="14" font="3"><b>Executive Officer of Christian Students at UCI Club, Irvine, CA, September 2012 </b></text>
+<text top="984" left="623" width="67" height="17" font="3"><b>– Present</b></text>
+<text top="986" left="691" width="5" height="16" font="1"> </text>
+<text top="996" left="54" width="5" height="16" font="1"> </text>
+<text top="1013" left="73" width="490" height="13" font="2">Coordinated with members of club to plan events and book rooms Scheduled </text>
+<text top="1037" left="73" width="414" height="13" font="2">weekly meetings to discuss future events and direction of the club</text>
+<text top="1035" left="488" width="5" height="16" font="1"> </text>
+<text top="1056" left="54" width="5" height="16" font="1"> </text>
+<text top="1074" left="54" width="232" height="14" font="3"><b>AWARDS AND ACHIEVEMENTS:</b></text>
+<text top="1072" left="286" width="5" height="16" font="1"> </text>
+<text top="1080" left="54" width="5" height="16" font="1"> </text>
+<text top="1097" left="73" width="489" height="14" font="2">Dean's Honor List at UCI - Fall 2011, Spring 2012, Fall 2012, Winter 2013</text>
+<text top="1095" left="562" width="5" height="16" font="1"> </text>
+</page>
+</pdf2xml>

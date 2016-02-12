@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+<text top="108" left="135" width="200" height="24" font="0"><b>Dirk R. Van Hook</b></text>
+<text top="132" left="135" width="180" height="19" font="1">2209 Old Creek Circle</text>
+<text top="152" left="135" width="165" height="19" font="1">Pittsburg, CA 94565</text>
+<text top="171" left="135" width="245" height="19" font="1">Home Phone: (925) 439-5495</text>
+<text top="190" left="135" width="227" height="19" font="1">Cell Phone: (925) 698-2188</text>
+<text top="209" left="135" width="235" height="19" font="1">Email: dirkvh@sbcglobal.net</text>
+<text top="281" left="135" width="248" height="19" font="2"><b>POSITION   DESIRED:</b>  Teller</text>
+<text top="319" left="189" width="5" height="19" font="1"> </text>
+<text top="339" left="135" width="107" height="19" font="2"><b>EDUCATION</b></text>
+<text top="358" left="189" width="480" height="19" font="1">2012-2013      Certificate in Video Post-Production, BAVC</text>
+<text top="377" left="189" width="566" height="19" font="1">1999-2003 Bachelor of Science in Advertising, University of Florida</text>
+<text top="415" left="135" width="128" height="19" font="2"><b>EMPLOYMENT</b></text>
+<text top="435" left="189" width="42" height="19" font="3"><i>2013</i></text>
+<text top="435" left="297" width="368" height="19" font="3"><i> Post-Production Intern, From the Ground Up</i></text>
+<text top="454" left="270" width="490" height="19" font="1">Creating podcasts using Final Cut to promote an upcoming </text>
+<text top="473" left="270" width="480" height="19" font="1">documentary about urban gardening and victory gardens.</text>
+<text top="531" left="189" width="405" height="19" font="3"><i>2011-2012 Freelance Videographer, XoS Digital</i></text>
+<text top="550" left="270" width="497" height="19" font="1">Recorded high school football games and uploaded footage </text>
+<text top="569" left="270" width="508" height="19" font="1">and rosters for college scouts. Shoot, edit, and produce DVDs</text>
+<text top="588" left="270" width="112" height="19" font="1">for weddings.</text>
+<text top="646" left="189" width="355" height="19" font="3"><i>2004-2012 Senior Teller, Bank of America</i></text>
+<text top="665" left="270" width="497" height="19" font="1">Processed transactions, assisted business clients with large </text>
+<text top="684" left="270" width="486" height="19" font="1">cash deposits, opened or closed banking center, balanced </text>
+<text top="703" left="270" width="492" height="19" font="1">ATMs and vault, led teller line, checked and scanned proof, </text>
+<text top="723" left="270" width="466" height="19" font="1">and sent proof for delivery via FedEx. Attained Award of </text>
+<text top="742" left="270" width="414" height="19" font="1">Excellence for high sales and balancing accuracy. </text>
+<text top="799" left="189" width="42" height="19" font="3"><i>2005</i></text>
+<text top="799" left="297" width="308" height="19" font="3"><i>Freelance Writer, Contra Costa Times</i></text>
+<text top="819" left="270" width="499" height="19" font="1">Reported local high school football games. Submitted game </text>
+<text top="838" left="270" width="404" height="19" font="1">summaries and statistics before tight deadlines. </text>
+<text top="876" left="135" width="120" height="19" font="2"><b>REFERENCES</b></text>
+<text top="915" left="189" width="341" height="19" font="1">Karla Johnson, Bank of America Manager </text>
+<text top="934" left="189" width="191" height="19" font="1">Phone: (925) 917-9435</text>
+<text top="972" left="189" width="316" height="19" font="1">Stacy Cervantes, wedding video client</text>
+<text top="991" left="189" width="191" height="19" font="1">Phone: (925) 642-5589</text>
+<text top="1030" left="189" width="347" height="19" font="1">Chantel Evans, Bank of America Manager </text>
+<text top="1049" left="189" width="191" height="19" font="1">Phone: (925) 642-5589</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="127" left="189" width="398" height="19" font="1">Aileen Lew, Bank of America Assistant Manager </text>
+<text top="146" left="189" width="191" height="19" font="1">Phone: (707) 853-9032</text>
+<text top="185" left="189" width="508" height="19" font="1">Oscar Morquecho, Bank of America Sales &amp; Service Specialist</text>
+<text top="204" left="189" width="191" height="19" font="1">Phone: (925) 783-6300</text>
+</page>
+<outline>
+<item page="1">EDUCATION</item>
+<item page="1">EMPLOYMENT</item>
+<item page="1">REFERENCES</item>
+</outline>
+</pdf2xml>

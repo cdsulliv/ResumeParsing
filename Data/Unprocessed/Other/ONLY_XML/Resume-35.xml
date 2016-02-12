@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="20" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+<text top="109" left="356" width="205" height="25" font="0">Elizabeth D Rosner</text>
+<text top="142" left="393" width="132" height="18" font="1">3970 Winterset Ct</text>
+<text top="161" left="360" width="197" height="18" font="1">West Bloomfield, MI 48323</text>
+<text top="180" left="408" width="103" height="18" font="1">917-385-3681</text>
+<text top="199" left="382" width="154" height="18" font="1">rosnerliz@gmail.com</text>
+<text top="248" left="108" width="93" height="18" font="1">OBJECTIVE</text>
+<text top="276" left="108" width="187" height="18" font="1">To obtain a sales position</text>
+<text top="325" left="108" width="163" height="18" font="1">WORK EXPERIENCE</text>
+<text top="353" left="108" width="275" height="18" font="1">The Savvy Navigator, New York, NY</text>
+<text top="372" left="108" width="42" height="18" font="2"><i>Intern</i></text>
+<text top="353" left="676" width="134" height="18" font="1">01/2015 - 05/2015</text>
+<text top="392" left="131" width="267" height="18" font="1">Sold luxury travel tours to customers</text>
+<text top="412" left="131" width="315" height="18" font="1">Arranged pre-trip dinner parties and events</text>
+<text top="447" left="108" width="184" height="18" font="1">Best Buy, New York, NY</text>
+<text top="466" left="108" width="117" height="18" font="2"><i>Sales Associate</i></text>
+<text top="447" left="676" width="134" height="18" font="1">09/2013 - 11/2014</text>
+<text top="501" left="108" width="272" height="18" font="1">New York University, New York, NY</text>
+<text top="520" left="108" width="200" height="18" font="2"><i>Admissions Representative</i></text>
+<text top="501" left="676" width="134" height="18" font="1">08/2012 - 06/2013</text>
+<text top="540" left="131" width="343" height="18" font="1">Provided campus tours to prospective students</text>
+<text top="560" left="131" width="600" height="18" font="1">Contacted alumni via phone and email to ask for donations to the scholarship fund</text>
+<text top="595" left="108" width="198" height="18" font="1">Albion College, Albion, MI</text>
+<text top="614" left="108" width="79" height="18" font="2"><i>Fundraiser</i></text>
+<text top="595" left="676" width="134" height="18" font="1">08/2011 - 05/2012</text>
+<text top="634" left="131" width="528" height="18" font="1">Contacted alumni over the phone to discuss donating to the college fund</text>
+<text top="683" left="108" width="98" height="18" font="1">EDUCATION</text>
+<text top="711" left="108" width="281" height="18" font="1">New York University  New York, NY  </text>
+<text top="730" left="108" width="72" height="18" font="1">Marketing</text>
+<text top="711" left="722" width="88" height="18" font="1">2012 - 2015</text>
+<text top="765" left="108" width="246" height="18" font="1">Clonlara School  Ann Arbor, MI  </text>
+<text top="765" left="722" width="88" height="18" font="1">2007 - 2011</text>
+<text top="814" left="108" width="59" height="18" font="1">SKILLS</text>
+<text top="843" left="131" width="205" height="18" font="1">Proficient in Microsoft Office</text>
+</page>
+</pdf2xml>

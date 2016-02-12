@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="28" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+<text top="65" left="249" width="420" height="28" font="0">KATHERINE O’CONNOR</text>
+<text top="108" left="302" width="78" height="15" font="1">US Citizen</text>
+<text top="108" left="398" width="218" height="15" font="1">Eligible for Security Clearance</text>
+<text top="131" left="330" width="125" height="15" font="1">(631) · 487 · 1585</text>
+<text top="131" left="474" width="114" height="15" font="1">katoco@mit.edu</text>
+<text top="171" left="76" width="117" height="15" font="1">EDUCATION</text>
+<text top="199" left="100" width="315" height="15" font="1">Massachusetts Institute of Technology</text>
+<text top="199" left="769" width="73" height="15" font="1">June 2014</text>
+<text top="219" left="100" width="471" height="15" font="1">B.S. in Mechanical Engineering - Control Information &amp; Robotics</text>
+<text top="249" left="120" width="184" height="15" font="1">• Concentration: Writing</text>
+<text top="279" left="120" width="710" height="15" font="1">• Coursework: Design &amp; Manufacturing, Dynamics &amp; Control, Microcomputer Project Laboratory</text>
+<text top="317" left="76" width="194" height="15" font="1">WORK EXPERIENCE</text>
+<text top="345" left="100" width="226" height="15" font="1">Voxel8, Hardware Engineer</text>
+<text top="345" left="444" width="112" height="15" font="1">Somerville, MA</text>
+<text top="345" left="652" width="185" height="15" font="1">October 2014-March 2015</text>
+<text top="370" left="87" width="584" height="15" font="1">· Conceptualized, tested, and prototyped new parts for multi-material 3D printer</text>
+<text top="392" left="87" width="399" height="15" font="1">· Operated, tested, and debugged early-stage prototype</text>
+<text top="414" left="87" width="602" height="15" font="1">· Designed demo parts to exhibit the printer’s capabilities to clients and researchers</text>
+<text top="454" left="100" width="337" height="15" font="1">Understory Weather, Engineering Intern</text>
+<text top="454" left="501" width="112" height="15" font="1">Somerville, MA</text>
+<text top="454" left="646" width="191" height="15" font="1">June 2014-September 2014</text>
+<text top="478" left="87" width="755" height="15" font="1">· Designed and fabricated electromechanical test equipment, including a linear actuator and a pneumatic</text>
+<text top="500" left="100" width="507" height="15" font="1">propulsion system, for callibration and ruggedness testing of prototype</text>
+<text top="521" left="87" width="755" height="15" font="1">· Used Solidworks to spec out requirements and working with suppliers and manufacturers to deliver</text>
+<text top="542" left="100" width="109" height="15" font="1">necessary parts</text>
+<text top="581" left="100" width="262" height="15" font="1">Vishwa Robotics, Design Intern</text>
+<text top="581" left="454" width="114" height="15" font="1">Cambridge, MA</text>
+<text top="581" left="664" width="173" height="15" font="1">January 2014-June 2014</text>
+<text top="605" left="87" width="733" height="15" font="1">· Worked on a project to build a powered robotic exoskeleton for a project sponsored by the US Navy</text>
+<text top="628" left="87" width="755" height="15" font="1">· Modeled parts in Solidworks and constructed prototypes with a 3D printer and homemade thermoformer</text>
+<text top="667" left="100" width="737" height="15" font="1">MIT Architecture Department, Undergrad Researcher Cambridge, MA May 2013-August 2013</text>
+<text top="692" left="87" width="641" height="15" font="1">· Helped develop the next generation of Hyposurface, a 3D dynamic architectural surface</text>
+<text top="714" left="87" width="546" height="15" font="1">· Wrote motion control algorithms and ran tests for electric linear actuators</text>
+<text top="760" left="76" width="100" height="15" font="1">PROJECTS</text>
+<text top="788" left="100" width="293" height="15" font="1">Microcomputer Project Laboratory</text>
+<text top="788" left="648" width="188" height="15" font="1">February 2014 - May 2014</text>
+<text top="814" left="100" width="365" height="15" font="1">Designed and built a CNC-controlled etch-a-sketch</text>
+<text top="835" left="87" width="636" height="15" font="1">· Laser cut gears and a frame to attach the knobs of the etch-a-sketch to stepper motors</text>
+<text top="857" left="87" width="731" height="15" font="1">· Designed and constructed a circuit to allow the stepper motors to be controlled by a microprocessor</text>
+<text top="880" left="87" width="599" height="15" font="1">· Wrote assembly code capable of drawing any arbitrary shape on the etch-a-sketch</text>
+<text top="919" left="100" width="279" height="15" font="1">The Product Engineering Process</text>
+<text top="919" left="598" width="239" height="15" font="1">September 2013 - December 2013</text>
+<text top="944" left="87" width="623" height="15" font="1">· Collaborated on a team to develop a therapeutic robot targeted at dementia patients</text>
+<text top="966" left="87" width="471" height="15" font="1">· Wrote control algorithms in python for realistic, lifelike motions</text>
+<text top="988" left="87" width="421" height="15" font="1">· Team’s prototype was ranked highest quality in the class</text>
+<text top="1034" left="76" width="65" height="15" font="1">SKILLS</text>
+<text top="1065" left="100" width="204" height="15" font="1">Programming Languages</text>
+<text top="1065" left="326" width="457" height="15" font="1">Python, C, LATEX, experience with Java, C++, Arduino Basic</text>
+<text top="1085" left="100" width="71" height="15" font="1">Software</text>
+<text top="1085" left="326" width="536" height="15" font="1">Solidworks, Mathcad, experience with MATLAB, LabView, OpenCV, ROS</text>
+<text top="1106" left="100" width="81" height="15" font="1">Hardware</text>
+<text top="1106" left="326" width="537" height="15" font="1">3D printer, lathe, CNC milling machine, laser cutter, basic woodshop tools</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000009"/>
+	<fontspec id="5" size="13" family="Times" color="#000009"/>
+	<fontspec id="6" size="13" family="Symbol" color="#000009"/>
+	<fontspec id="7" size="13" family="Symbol" color="#000000"/>
+<text top="72" left="325" width="268" height="28" font="0"><b>Jorge Alberto Reyes</b></text>
+<text top="100" left="184" width="550" height="17" font="1">40 Curtis Road | Revere, MA 02151|reyes647@gmail.com | 857-919-7658</text>
+<text top="143" left="54" width="117" height="21" font="2"><b>EDUCATION</b></text>
+<text top="164" left="54" width="405" height="17" font="1">Wentworth Institute of Technology (WIT), Boston, MA  </text>
+<text top="164" left="702" width="124" height="17" font="1">          <b>Exp. Apr </b></text>
+<text top="181" left="54" width="42" height="17" font="3"><b>2016</b></text>
+<text top="199" left="54" width="392" height="17" font="3"><b>Bachelor of Science in Biomedical Engineering</b></text>
+<text top="199" left="810" width="48" height="17" font="1">          </text>
+<text top="216" left="54" width="103" height="17" font="3"><b>GPA: 3.2/4.0</b></text>
+<text top="234" left="54" width="801" height="17" font="1">Relevant Coursework: Biomechanics, Engineering Mechanics, Anatomy &amp; Physiology I &amp; II, Medical Device </text>
+<text top="251" left="54" width="85" height="17" font="1">&amp; Systems </text>
+<text top="268" left="54" width="189" height="21" font="2"><b>TECHNICAL SKILLS</b></text>
+<text top="290" left="54" width="755" height="17" font="3"><b>Biological Laboratory Experience</b>: Tissue Cultures, shRNA transfection, Preparation of Solutions, </text>
+<text top="307" left="54" width="754" height="17" font="1">Immunofluorescence, Protein electrophoresis, Western Blotting, NMR Spectroscopy, PCR, Subcloning</text>
+<text top="324" left="54" width="787" height="17" font="3"><b>Computer Programs: </b>SolidWorks, AutoCAD, LabVIEW, MatLab, Microsoft Office, C++, R Programming, </text>
+<text top="342" left="54" width="71" height="17" font="1">Chenomx</text>
+<text top="359" left="54" width="792" height="17" font="3"><b>Electrical Laboratory Experience: </b>Digital Multimeter (DMM), Oscilloscope, TI Microcontrollers, Analog </text>
+<text top="377" left="54" width="766" height="17" font="1">and Digital Circuit Design, Breadboard/Data acquisition board, Function generator, Power supply, and </text>
+<text top="394" left="54" width="96" height="17" font="1">Strain gauge</text>
+<text top="412" left="54" width="751" height="17" font="3"><b>Medical Device Experience: </b>Vernier sensors, including EMG, EKG/ECG, pulse oximeter and blood </text>
+<text top="429" left="54" width="98" height="17" font="1">pressure cuf</text>
+<text top="447" left="54" width="315" height="17" font="3"><b>Language: </b>Fluent in English and Spanish</text>
+<text top="464" left="54" width="221" height="21" font="2"><b>RELATED EXPERIENCE</b></text>
+<text top="485" left="54" width="360" height="17" font="4"><b>Cerebral Palsy Walking Aid</b>, WIT, Boston, MA</text>
+<text top="485" left="540" width="138" height="17" font="5">                             </text>
+<text top="485" left="756" width="70" height="17" font="5">        <b>Jan </b></text>
+<text top="503" left="54" width="140" height="17" font="4"><b>2015 – Aug 2015</b></text>
+<text top="520" left="54" width="143" height="17" font="5">Senior Design I &amp; II</text>
+<text top="538" left="81" width="7" height="20" font="6"></text>
+<text top="539" left="108" width="461" height="17" font="5">Developed a new gait trainer for children with cerebral palsy </text>
+<text top="557" left="81" width="7" height="20" font="6"></text>
+<text top="558" left="108" width="462" height="17" font="5">Utilized SolidWorks and Working Model to design a 3-D model</text>
+<text top="577" left="81" width="7" height="20" font="7"></text>
+<text top="578" left="108" width="747" height="17" font="1">Wrote the technical approach in the design report, which includes the requirements for the design, </text>
+<text top="596" left="108" width="36" height="17" font="1">cost,</text>
+<text top="614" left="108" width="706" height="17" font="1">concepts, customer needs, and weight, using input from physical trainer at Boston Children’s </text>
+<text top="631" left="108" width="61" height="17" font="1">Hospital</text>
+<text top="649" left="54" width="794" height="17" font="3"><b>Cancer Research Assistant Intern</b>, TUFTS UNIVERSITY, Dental and Medical School, Boston, MA           </text>
+<text top="666" left="54" width="804" height="17" font="3"><b>Jun 2014 – Present</b>                                                                                                                                        </text>
+<text top="684" left="81" width="7" height="20" font="7"></text>
+<text top="685" left="108" width="632" height="17" font="1">Observed &amp; maintained two diferent types of cancer cells that were used at the lab</text>
+<text top="703" left="81" width="7" height="20" font="7"></text>
+<text top="705" left="108" width="743" height="17" font="1">Preformed lentivirus-medicated shRNA transfection for the characterization of proteins involved in </text>
+<text top="723" left="108" width="89" height="17" font="1">endocytosis</text>
+<text top="740" left="81" width="7" height="20" font="7"></text>
+<text top="742" left="108" width="678" height="17" font="1">Analyzed metabolic profile of two cancer cell types by using Nuclear Magnetic Resonance </text>
+<text top="760" left="108" width="283" height="17" font="1">Spectroscopy for two cancer varieties</text>
+<text top="777" left="54" width="499" height="17" font="3"><b>Peritoneal Dialysis Catheter Port</b>, WIT, Accelerate, Boston, MA</text>
+<text top="777" left="594" width="138" height="17" font="1">                             </text>
+<text top="777" left="810" width="38" height="17" font="1">        </text>
+<text top="795" left="54" width="160" height="17" font="3"><b>Apr 2014 – Present</b></text>
+<text top="812" left="54" width="183" height="17" font="1">Anatomy &amp; Physiology II</text>
+<text top="830" left="81" width="7" height="20" font="7"></text>
+<text top="831" left="108" width="734" height="17" font="1">Designing a peritoneal dialysis catheter port as part of an ongoing  interdisciplinary team project </text>
+<text top="849" left="81" width="7" height="20" font="7"></text>
+<text top="851" left="108" width="740" height="17" font="1">Successfully pitched the project through Accelerate, an innovation and entrepreneurship program </text>
+<text top="869" left="108" width="21" height="17" font="1">for</text>
+<text top="887" left="108" width="400" height="17" font="1">funding to start prototyping, testing, and researching</text>
+<text top="904" left="54" width="212" height="21" font="2"><b>ACADEMIC PROJECTS</b></text>
+<text top="925" left="54" width="105" height="17" font="3"><b>Colorimeter</b> </text>
+<text top="925" left="378" width="204" height="17" font="1">                                           </text>
+<text top="925" left="702" width="135" height="17" font="1">        <b>Sep 2014 – </b></text>
+<text top="942" left="54" width="78" height="17" font="3"><b>Dec 2014</b></text>
+<text top="960" left="54" width="295" height="17" font="1">Microcontrollers &amp; Embedded Systems </text>
+<text top="977" left="81" width="7" height="20" font="7"></text>
+<text top="979" left="108" width="683" height="17" font="1">Designed colorimeter structure through SolidWorks and Soldered mini printed circuit board</text>
+<text top="997" left="108" width="219" height="17" font="1">with a variety of components</text>
+<text top="1014" left="81" width="7" height="20" font="7"></text>
+<text top="1016" left="108" width="522" height="17" font="1">Collaborated with a large group to assemble colorimeter components</text>
+<text top="1034" left="54" width="377" height="17" font="3"><b>Additive Manufacturing Applied to Anatomy</b> </text>
+<text top="1034" left="540" width="323" height="17" font="1">                                         <b>Nov 2013 - Dec</b></text>
+<text top="1052" left="54" width="42" height="17" font="3"><b>2013</b></text>
+<text top="1069" left="54" width="183" height="17" font="1">Anatomy &amp; Physiology I </text>
+<text top="1086" left="81" width="7" height="20" font="7"></text>
+<text top="1088" left="108" width="740" height="17" font="1">Designed the masseter muscle on Solid Works, printed out a 3D model, and wrote technical report</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="72" left="54" width="147" height="17" font="3"><b>Mass Conversion</b> </text>
+<text top="72" left="540" width="317" height="17" font="1">                                       <b>Mar 2012 - Apr </b></text>
+<text top="90" left="54" width="42" height="17" font="3"><b>2012</b></text>
+<text top="107" left="54" width="296" height="17" font="1">Intro to Engineering and Design            </text>
+<text top="125" left="81" width="7" height="20" font="7"></text>
+<text top="126" left="108" width="703" height="17" font="1">Built load cell with strain gauge and used as a mass to convert prices for supermarkets, then </text>
+<text top="144" left="108" width="143" height="17" font="1">created a LabView </text>
+<text top="162" left="108" width="391" height="17" font="1">program that calculated measurements as outcome</text>
+<text top="179" left="54" width="127" height="21" font="2"><b>LEADERSHIP</b></text>
+<text top="200" left="54" width="404" height="17" font="3"><b>Treasurer</b>, Society of Hispanic Professional Engineer </text>
+<text top="200" left="648" width="185" height="17" font="1">                                       </text>
+<text top="218" left="54" width="184" height="17" font="3"><b>Sept 2013 – Aug 2015</b></text>
+<text top="235" left="81" width="7" height="20" font="7"></text>
+<text top="237" left="108" width="631" height="17" font="1">Allocated funds based on yearly events, while monitoring and updating budget plan</text>
+<text top="255" left="81" width="7" height="20" font="7"></text>
+<text top="256" left="108" width="580" height="17" font="1">Took lead in meeting, events, and provide support to other e-board members</text>
+<text top="275" left="27" width="453" height="17" font="1">    <b>Orientation Leader</b>, Wentworth Institute of Technology</text>
+<text top="275" left="594" width="266" height="17" font="1">                                       <b>Aug 2012</b></text>
+<text top="292" left="27" width="459" height="17" font="3"><b>&amp; Aug 2013</b>                                                                            </text>
+<text top="309" left="81" width="7" height="20" font="7"></text>
+<text top="311" left="108" width="734" height="17" font="1">Provided guidance to freshmen during orientation, facilitate small group conversations related to </text>
+<text top="329" left="108" width="376" height="17" font="1">Wentworth                                                  policies</text>
+<text top="347" left="27" width="302" height="17" font="1">    <b>Wentworth Leadership Program</b> </text>
+<text top="347" left="648" width="212" height="17" font="1">                                       <b>Jan</b></text>
+<text top="364" left="27" width="148" height="17" font="3"><b>2012 - Aug 2013</b>  </text>
+<text top="381" left="81" width="7" height="20" font="7"></text>
+<text top="383" left="108" width="720" height="17" font="1">Established awareness of important leadership skills for my engineering career including group </text>
+<text top="401" left="108" width="77" height="17" font="1">dynamics,</text>
+<text top="419" left="108" width="431" height="17" font="1">ethical decision making, and professional communication</text>
+<text top="436" left="54" width="148" height="21" font="2"><b>PUBLICATIONS</b></text>
+<text top="457" left="54" width="793" height="17" font="1">1. Bingham, E., Kamlarz, S., Safari, S., Tay, R., Reyes, J., Baleja, J., and <b>Alt-Holland, A.</b> Dab2-E-cadherin </text>
+<text top="474" left="54" width="779" height="17" font="1">Duo: A New Role in Squamous Cell Carcinoma Development. American Association for Dental Research </text>
+<text top="492" left="54" width="280" height="17" font="1">conference, Boston, MA, March 2015.</text>
+<text top="509" left="54" width="797" height="17" font="3"><b>2.</b> Safari, S., Kamlarz, S., Bingham, E., Tay, R., Reyes, J., Baleja, J., and <b>Alt-Holland, A.</b> Dab2-Dependent </text>
+<text top="527" left="54" width="787" height="17" font="1">Modulation of the Tumor Microenvironment can Promote Cancer Development. American Association for </text>
+<text top="544" left="54" width="408" height="17" font="1">Dental Research conference, Boston, MA, March 2015.</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="18" family="Times" color="#000000"/>
+	<fontspec id="1" size="18" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#0000ff"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="15" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+<text top="165" left="385" width="131" height="18" font="0"><b>Andrey Tenne</b> </text>
+<text top="186" left="360" width="175" height="15" font="2">andrey10e425@gmail.com</text>
+<text top="186" left="535" width="4" height="15" font="3"> </text>
+<text top="205" left="379" width="142" height="15" font="3">20 Rotherwood Road </text>
+<text top="223" left="380" width="138" height="15" font="3">Newton, MA  02459 </text>
+<text top="242" left="392" width="116" height="15" font="3">(508) 333 – 3348 </text>
+<text top="260" left="132" width="4" height="13" font="4"> </text>
+<text top="277" left="132" width="587" height="15" font="3">University graduate with interest and experience in working with digital circuits seeking a </text>
+<text top="296" left="132" width="635" height="15" font="3">challenging full–time position in electrical engineering to expand hands–on experience in design, </text>
+<text top="314" left="132" width="302" height="15" font="3">production, and testing of electronics devices. </text>
+<text top="332" left="132" width="4" height="13" font="4"> </text>
+<text top="350" left="132" width="45" height="16" font="5"><b>Skills </b></text>
+<text top="370" left="132" width="633" height="15" font="6"><b>Hardware</b>: working experience with Verilog and VHDL, skilled with FPGAs (Altera Cyclone II </text>
+<text top="388" left="132" width="613" height="15" font="3">and Xilinx Spartan 3A), hands–on experience with circuit testing using various lab equipment </text>
+<text top="406" left="132" width="510" height="15" font="3">(multimeters, DC power supplies, oscilloscopes), and through–hole soldering. </text>
+<text top="425" left="132" width="4" height="15" font="3"> </text>
+<text top="443" left="132" width="614" height="15" font="6"><b>Applications:</b> skilled with ModelSim, Quartus II, Xilinx ISE, OrCAD Pspice, and AutoCAD, </text>
+<text top="462" left="132" width="569" height="15" font="3">proficient with Microsoft Word, Excel, and PowerPoint, familiar with Microsoft Visio. </text>
+<text top="480" left="132" width="4" height="15" font="3"> </text>
+<text top="499" left="132" width="429" height="15" font="6"><b>Software</b>: skilled with C/C++ and MATLAB, familiar with Java. </text>
+<text top="517" left="132" width="4" height="13" font="4"> </text>
+<text top="535" left="132" width="88" height="16" font="5"><b>Experience </b></text>
+<text top="554" left="132" width="214" height="15" font="6"><b>A/D Precision</b>, <b>Newton, MA</b>   </text>
+<text top="554" left="395" width="4" height="15" font="3"> </text>
+<text top="554" left="448" width="4" height="15" font="3"> </text>
+<text top="554" left="500" width="4" height="15" font="3"> </text>
+<text top="554" left="553" width="214" height="15" font="3"> October 2012 – December 2012 </text>
+<text top="573" left="132" width="140" height="15" font="7"><i>FPGA Design Intern</i> </text>
+<text top="587" left="132" width="605" height="20" font="3">·  Created time–of–day clock with numerical output displayed on a VGA monitor and with </text>
+<text top="611" left="159" width="229" height="15" font="3">options to reset clock and set time. </text>
+<text top="625" left="132" width="628" height="20" font="3">·  Designed and built a circuit that counts number of pulses from an external signal source and </text>
+<text top="649" left="159" width="224" height="15" font="3">displays results on a VGA screen. </text>
+<text top="663" left="132" width="601" height="20" font="3">·  Gained skills in using an FPGA to output data to a VGA port and synchronizing a VGA </text>
+<text top="687" left="159" width="196" height="15" font="3">monitor to prevent flickering. </text>
+<text top="705" left="132" width="4" height="13" font="4"> </text>
+<text top="722" left="132" width="231" height="15" font="6"><b>LTX – Credence, Norwood, MA  </b></text>
+<text top="722" left="395" width="4" height="15" font="6"><b> </b></text>
+<text top="722" left="448" width="4" height="15" font="6"><b> </b></text>
+<text top="722" left="500" width="4" height="15" font="6"><b> </b></text>
+<text top="722" left="553" width="214" height="15" font="6"><b>          </b>January 2011 – May 2011 </text>
+<text top="741" left="132" width="138" height="15" font="7"><i>EE Hardware Intern</i> </text>
+<text top="755" left="132" width="436" height="20" font="3">·  Created block diagrams of a test circuit using Microsoft Visio. </text>
+<text top="775" left="132" width="492" height="20" font="3">·  Measured noise figure and gain of amplifiers with a spectrum analyzer. </text>
+<text top="794" left="132" width="630" height="20" font="3">·  Was responsible for testing circuit boards using a software–controlled test system to identify </text>
+<text top="818" left="159" width="115" height="15" font="3">defective boards. </text>
+<text top="832" left="132" width="616" height="20" font="3">·  Analyzed signal lines and pin connections for parasitic capacitances in a multilayer circuit </text>
+<text top="856" left="159" width="45" height="15" font="3">board. </text>
+<text top="874" left="132" width="4" height="13" font="4"> </text>
+<text top="891" left="132" width="166" height="15" font="6"><b>Zoran, Burlington, MA</b> </text>
+<text top="891" left="343" width="4" height="15" font="3"> </text>
+<text top="891" left="395" width="4" height="15" font="3"> </text>
+<text top="891" left="448" width="4" height="15" font="3"> </text>
+<text top="891" left="500" width="4" height="15" font="3"> </text>
+<text top="891" left="553" width="214" height="15" font="3">          January 2010 – June 2010<b> </b></text>
+<text top="910" left="132" width="125" height="15" font="7"><i>Software Engineer</i> </text>
+<text top="924" left="132" width="612" height="20" font="3">·  Performed isolations of reproducible printer code bugs using a Linux – based debugger to </text>
+<text top="948" left="159" width="302" height="15" font="3">pinpoint the root cause of a reported problem. </text>
+<text top="962" left="132" width="536" height="20" font="3">·  Designed, developed, and implemented test cases to cause erroneous printout. </text>
+<text top="982" left="132" width="385" height="20" font="3">·  Was responsible for keeping online bug log up to date. </text>
+<text top="1005" left="132" width="4" height="13" font="4"> </text>
+<text top="1023" left="132" width="110" height="16" font="5"><b>Other Projects</b></text>
+<text top="1025" left="242" width="4" height="13" font="4"> </text>
+<text top="1043" left="132" width="294" height="15" font="6"><b>FPGA – Interfaced Temperature Monitor</b> </text>
+<text top="1057" left="132" width="612" height="20" font="3">·  Designed an FPGA interface to read data from a high – precision temperature sensor with </text>
+<text top="1080" left="159" width="446" height="15" font="3">output periodically displayed on several seven – segment indicators. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="163" left="132" width="4" height="13" font="4"> </text>
+<text top="181" left="132" width="81" height="16" font="5"><b>Education </b></text>
+<text top="200" left="132" width="261" height="15" font="6"><b>Northeastern University, </b>Boston, MA<b> </b></text>
+<text top="218" left="132" width="433" height="15" font="7"><i>Bachelor of Science in Electrical Engineering</i>,<i> Magna cum Laude</i> </text>
+<text top="218" left="605" width="12" height="15" font="3">   </text>
+<text top="218" left="658" width="107" height="15" font="3">         May 2013 </text>
+<text top="237" left="132" width="74" height="15" font="3">GPA: 3.58 </text>
+<text top="255" left="132" width="611" height="15" font="3">Honors / Awards: Dean’s List, Dean’s Scholarship, member of Eta Kappa Nu (HKN) Honors </text>
+<text top="274" left="132" width="56" height="15" font="3">Society. </text>
+<text top="292" left="132" width="619" height="15" font="3">Capstone Project: PARABed (Partially Articulated Rest Assistant Bed) – created and tested an </text>
+<text top="311" left="132" width="170" height="15" font="3">FPGA – based subsystem </text>
+<text top="325" left="132" width="630" height="20" font="3">·  Configured an Altera Cyclone II FPGA to control flashing of LEDs that functioned as visual </text>
+<text top="349" left="159" width="136" height="15" font="3">triggers for an EEG. </text>
+<text top="363" left="132" width="585" height="20" font="3">·  Implemented SPI communication to receive LED flash pattern parameters from CPU. </text>
+<text top="387" left="132" width="4" height="13" font="4"> </text>
+<text top="405" left="132" width="69" height="16" font="5"><b>Personal </b></text>
+<text top="424" left="132" width="341" height="15" font="3">Foreign Languages: fluent Russian, level 3 Spanish. </text>
+<text top="442" left="132" width="4" height="15" font="3"> </text>
+</page>
+</pdf2xml>

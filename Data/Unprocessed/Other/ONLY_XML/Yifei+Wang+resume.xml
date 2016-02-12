@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="25" family="Times" color="#000000"/>
+	<fontspec id="1" size="25" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="9" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+	<fontspec id="6" size="13" family="Times" color="#000000"/>
+	<fontspec id="7" size="13" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#222222"/>
+	<fontspec id="10" size="16" family="Times" color="#000000"/>
+<text top="55" left="395" width="135" height="30" font="0"><b>Yifei Wang</b> </text>
+<text top="84" left="100" width="4" height="18" font="2"> </text>
+<text top="103" left="318" width="284" height="13" font="3">1009 Benito Ave, Apt #E, Alhambra, California 94704 US </text>
+<text top="116" left="353" width="215" height="13" font="3">4087079716 | yifeiwang2013@berkeley.edu </text>
+<text top="136" left="404" width="110" height="20" font="4"><b>EDUCATION</b></text>
+<text top="138" left="514" width="4" height="16" font="5"> </text>
+<text top="169" left="108" width="707" height="17" font="6"><b>University  of California  Berkeley                                                                                                 Berkeley,  CA</b></text>
+<text top="188" left="108" width="408" height="17" font="6"><b>Degree</b>:                Bachelor,  Mathematics,  Applied <i><b>GPA: 3.52</b></i> </text>
+<text top="207" left="108" width="113" height="17" font="6"><b>Coursework</b>:      </text>
+<text top="209" left="224" width="437" height="16" font="5">Exploratory Data Analysis and Visualization; Computing  with Data; Data </text>
+<text top="225" left="224" width="432" height="16" font="5">Structure  and Programming  Methodology; Structure and Interpretation of </text>
+<text top="243" left="224" width="480" height="16" font="5">Computer Programs; Mathematics Statistics and Data Analysis; Real and Complex </text>
+<text top="260" left="224" width="186" height="16" font="5">Analysis;  Numerical  Analysis; </text>
+<text top="296" left="333" width="260" height="20" font="4"><b>QUALIFICATIONS SUMMARY</b></text>
+<text top="299" left="592" width="4" height="16" font="5"> </text>
+<text top="340" left="108" width="692" height="17" font="6"><b>Programming</b>:    Skilled in programming  in SQL, VBA, Python, Java, R; familiar with Unix, Scheme, C </text>
+<text top="363" left="108" width="564" height="17" font="6"><b>Computer</b>:          Experienced  in using MS Excel, MS Word, MS PowerPoint, Matlab </text>
+<text top="382" left="100" width="4" height="16" font="5"> </text>
+<text top="399" left="417" width="89" height="20" font="4"><b>PROJECT </b></text>
+<text top="437" left="100" width="139" height="17" font="6"><b>Yelp Maps (Python) </b></text>
+<text top="459" left="127" width="11" height="15" font="5">•  </text>
+<text top="456" left="154" width="643" height="17" font="9">Create a visualization of restaurant ratings using machine learning and the Yelp academic dataset</text>
+<text top="456" left="798" width="4" height="16" font="5"> </text>
+<text top="477" left="127" width="554" height="15" font="7">•   Construct visualization with Voronoi Diagram which segmented cities into regions<b> </b></text>
+<text top="497" left="127" width="13" height="18" font="10">•  </text>
+<text top="496" left="154" width="667" height="17" font="7">Analyze data to find pattern and improve performance by techniques and concepts from machine learning</text>
+<text top="494" left="821" width="5" height="20" font="10"> </text>
+<text top="514" left="100" width="4" height="17" font="6"><b> </b></text>
+<text top="532" left="100" width="213" height="17" font="6"><b>A Scheme Interpreter (Python) </b></text>
+<text top="553" left="127" width="662" height="15" font="7">•   Implemented an interpreter for a subset of the Scheme programming language by using Python with </text>
+<text top="568" left="154" width="391" height="17" font="7">mutually recursive eval-apply function as its underlying core.<b> </b></text>
+<text top="586" left="100" width="4" height="17" font="6"><b> </b></text>
+<text top="605" left="100" width="262" height="17" font="6"><b>Gitlet - Version Control System (Java) </b></text>
+<text top="627" left="127" width="10" height="14" font="5">•  </text>
+<text top="624" left="154" width="648" height="16" font="5">Implemented a version control system to mimics features of git which save snapshot of files at different points in </text>
+<text top="642" left="154" width="506" height="16" font="5">time in order to handle everything from small to large project with speed and efficiency  </text>
+<text top="660" left="154" width="4" height="16" font="5"> </text>
+<text top="677" left="100" width="237" height="17" font="6"><b>BML Traffic Model Simulation(R) </b></text>
+<text top="698" left="127" width="594" height="15" font="7">•   Implemented a cellular automation which exhibits phase transitions and self-organization<b> </b></text>
+<text top="717" left="127" width="672" height="15" font="7">•   Construct simulation function to improve performance in large base and test the density with 10,000+ </text>
+<text top="732" left="154" width="80" height="17" font="7">simulations <b> </b></text>
+<text top="751" left="100" width="4" height="16" font="5"> </text>
+<text top="768" left="400" width="123" height="20" font="4"><b>EXPERIENCE </b></text>
+<text top="806" left="100" width="242" height="17" font="6"><b>VXI Global Solution | Los Angeles </b></text>
+<text top="806" left="370" width="4" height="17" font="6"><b> </b></text>
+<text top="806" left="424" width="75" height="17" font="6"><b>                  </b></text>
+<text top="806" left="532" width="4" height="17" font="6"><b> </b></text>
+<text top="806" left="586" width="219" height="17" font="6"><b>        September  2015 – Present </b></text>
+<text top="824" left="100" width="188" height="17" font="6"><b>  Financial Analysis Intern </b></text>
+<text top="844" left="108" width="647" height="16" font="5">•   Create Funding Log which record and organize all financial statement files in one Excel window by VBA  </text>
+<text top="862" left="108" width="659" height="16" font="5">•   Prepare monthly project level which analyze financial KPI on both year-on-year and quarter on quarter basis </text>
+<text top="879" left="459" width="5" height="20" font="4"><b> </b></text>
+<text top="898" left="100" width="382" height="17" font="6"><b> Letter of Science College of UC Berkeley | Berkeley   </b></text>
+<text top="898" left="532" width="275" height="17" font="6"><b>                 January  2015 – August  2015 </b></text>
+<text top="916" left="100" width="139" height="17" font="6"><b>  Grader and Tutor </b></text>
+<text top="936" left="108" width="362" height="16" font="5">•   Grade homework and quiz in class of Numerical Analysis </text>
+<text top="954" left="108" width="484" height="16" font="5">•   Lab assistant in class of the structure and Interpretation of Computer Programs </text>
+<text top="972" left="154" width="4" height="16" font="5"> </text>
+<text top="987" left="100" width="5" height="20" font="10"> </text>
+<text top="990" left="105" width="703" height="17" font="6"><b>Yifei &amp; Wenjun Partnership  | Berkeley  CA                                          December  2013 – December  2014 </b></text>
+<text top="1010" left="108" width="370" height="16" font="5">•   Traded used cars between  Los Angeles  and San Francisco </text>
+<text top="1028" left="108" width="675" height="16" font="5">•   Evaluated  the value of target used cars and negotiated  with individual  private seller to purchase  under budget </text>
+<text top="1046" left="108" width="671" height="16" font="5">•   Maintained  and delivered  used cars to San Francisco  and created sales strategy  to sell them to private buyers </text>
+<text top="1064" left="108" width="4" height="16" font="5"> </text>
+<text top="1082" left="100" width="4" height="16" font="5"> </text>
+</page>
+</pdf2xml>

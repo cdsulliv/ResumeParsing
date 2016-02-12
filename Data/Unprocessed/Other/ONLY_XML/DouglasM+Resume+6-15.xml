@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="25" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+<text top="54" left="54" width="332" height="31" font="0"><b>Mallory Faye Douglas</b></text>
+<text top="94" left="54" width="474" height="19" font="1"><b>820 E Montclair St, Apt 616, Springfield, MO 65807</b></text>
+<text top="115" left="54" width="189" height="19" font="1"><b>Cell: (618) 791-2435</b></text>
+<text top="115" left="270" width="369" height="19" font="1"><b>Email: mallory.faye.douglas@gmail.com</b></text>
+<text top="138" left="94" width="96" height="21" font="2"><b>Summary</b></text>
+<text top="174" left="94" width="768" height="19" font="3">Recent college graduate with passion to help people in crisis. Graduated with a Bachelors of </text>
+<text top="198" left="94" width="743" height="19" font="3">Science in Family and Human Services. Seeking employment in the human services field. </text>
+<text top="222" left="94" width="768" height="19" font="3">Highly motivated and enthusiastic worker with excellent communication skills who is able to </text>
+<text top="246" left="94" width="283" height="19" font="3">meet the needs of clients in crisis.</text>
+<text top="247" left="377" width="5" height="17" font="4"> </text>
+<text top="305" left="94" width="112" height="21" font="2"><b>Experience</b></text>
+<text top="341" left="94" width="677" height="17" font="5"><b>Northwest Arkansas Women’s Shelter, Rogers, AR October, 2014- January, 2015</b></text>
+<text top="366" left="94" width="131" height="19" font="3">Advocate Intern</text>
+<text top="390" left="94" width="769" height="19" font="3">Met client’s general needs, answered hotline calls, updated client database, processed client</text>
+<text top="414" left="94" width="714" height="19" font="3">intake and exit interviews. Improved the system for checking in client’s children. Took </text>
+<text top="438" left="94" width="765" height="19" font="3">initiative to help address client’s personal needs, so that they were more prepared to depart</text>
+<text top="462" left="94" width="137" height="19" font="3">from the shelter.</text>
+<text top="501" left="94" width="296" height="17" font="5"><b>Genesis House, Siloam Springs, AR</b></text>
+<text top="501" left="418" width="201" height="17" font="5"><b>July, 2014-August, 2014</b></text>
+<text top="525" left="94" width="158" height="19" font="3">Case Worker Intern</text>
+<text top="549" left="94" width="730" height="19" font="3">Shadowed the caseworker, observed client interviews, analyzed specific client needs to </text>
+<text top="573" left="94" width="753" height="19" font="3">ensure they were fulfilled correctly. Excelled in knowledge of resources available to enable </text>
+<text top="597" left="94" width="178" height="19" font="3">the client to succeed.</text>
+<text top="656" left="94" width="101" height="21" font="2"><b>Education</b></text>
+<text top="692" left="94" width="373" height="19" font="1"><b>John Brown University Graduated: 2015</b></text>
+<text top="719" left="94" width="402" height="19" font="3">Bachelor of Science: Family and Human Services</text>
+<text top="743" left="94" width="307" height="19" font="3">Emphasis in Child and Family Studies</text>
+<text top="782" left="94" width="479" height="19" font="3">Certification- Prepare and Enrich Relationship Assessment</text>
+<text top="841" left="94" width="54" height="21" font="2"><b>Skills</b></text>
+<text top="877" left="94" width="280" height="19" font="3">Outstanding communication skills</text>
+<text top="901" left="94" width="171" height="19" font="3">Excellent office skills</text>
+<text top="925" left="94" width="126" height="19" font="3">Ability to adapt</text>
+<text top="949" left="94" width="193" height="19" font="3">Intentionally consistent</text>
+<text top="973" left="94" width="270" height="19" font="3">Excels when working with others</text>
+<text top="997" left="94" width="242" height="19" font="3">Exceeds at conflict resolution</text>
+</page>
+<outline>
+<item page="1">Summary</item>
+<item page="1">Experience</item>
+<outline>
+<item page="1">Northwest Arkansas Women’s Shelter, Rogers, AR October, 2014- January, 2015</item>
+<item page="1">Genesis House, Siloam Springs, AR July, 2014-August, 2014</item>
+</outline>
+<item page="1">Education</item>
+<outline>
+<item page="1">John Brown University Graduated: 2015</item>
+</outline>
+<item page="1">Skills</item>
+</outline>
+</pdf2xml>

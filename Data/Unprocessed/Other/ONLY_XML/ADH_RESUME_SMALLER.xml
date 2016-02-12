@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="495" width="360">
+	<fontspec id="0" size="4" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_1.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_2.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_3.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_4.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_5.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_6.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_7.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_8.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_9.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_10.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_11.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_12.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_13.jpg"/>
+<image top="0" left="0" width="360" height="495" src="/home/shreya/Wharton/NEW/NEW_XML/ADH_RESUME_SMALLER-1_14.jpg"/>
+</page>
+</pdf2xml>

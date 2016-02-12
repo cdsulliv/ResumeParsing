@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="70" family="Times" color="#003300"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="14" family="Times" color="#003300"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#003300"/>
+	<fontspec id="6" size="12" family="Times" color="#003300"/>
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+<text top="73" left="147" width="389" height="81" font="0"><b>Joel Reindel </b></text>
+<text top="154" left="169" width="332" height="19" font="1">Joel.Reindel@gmail.com | http://lnkd.in/ThBNJ2 </text>
+<text top="72" left="637" width="3" height="15" font="2"> </text>
+<text top="88" left="637" width="65" height="19" font="3"><b>Address: </b></text>
+<text top="106" left="637" width="110" height="17" font="4">7131 S. Moore Ct. </text>
+<text top="123" left="637" width="121" height="17" font="4">Littleton, CO 80127 </text>
+<text top="140" left="637" width="66" height="17" font="4">303-933-48</text>
+<text top="172" left="54" width="5" height="20" font="5"><b> </b></text>
+<text top="195" left="54" width="14" height="20" font="5"><b>O</b></text>
+<text top="198" left="68" width="73" height="17" font="6"><b>BJECTIVE</b></text>
+<text top="195" left="142" width="5" height="20" font="5"><b> </b></text>
+<text top="219" left="54" width="755" height="19" font="1">Work an entry level electrical engineering position in the fields of digital systems design, embedded systems design, or </text>
+<text top="237" left="54" width="737" height="19" font="1">hardware design, where I can utilize my technical skills and personal strengths to solve problems for the consumer. </text>
+<text top="256" left="54" width="4" height="17" font="4"> </text>
+<text top="273" left="54" width="16" height="20" font="5"><b>W</b></text>
+<text top="275" left="70" width="32" height="17" font="6"><b>ORK</b></text>
+<text top="273" left="103" width="17" height="20" font="5"><b> E</b></text>
+<text top="275" left="120" width="94" height="17" font="6"><b>XPERIENCE </b></text>
+<text top="298" left="54" width="157" height="19" font="7"><b>EchoStar, Aurora, CO </b></text>
+<text top="317" left="54" width="367" height="19" font="1">Intern to VP of Information Technology   Summer 2012 </text>
+<text top="335" left="68" width="623" height="19" font="1"> Conceptualized hardware configuration for a new kind of high density, low cost storage server. </text>
+<text top="354" left="68" width="756" height="19" font="1"> Utilized various computer hardware solutions to develop a layout optimized for storage capacity, cooling and cost.   </text>
+<text top="374" left="68" width="760" height="19" font="1"> Fabricated Custom prototype/proof of concept server, and aided in the software and network level implementation. </text>
+<text top="393" left="54" width="267" height="19" font="7"><b>National Cinemedia, Centennial, CO  </b></text>
+<text top="411" left="54" width="266" height="19" font="1">IT Intern,  Summer 2010   Summer 2011 </text>
+<text top="430" left="68" width="789" height="19" font="1"> Aided IT technical analysts in troubleshooting computer issues through collaboration, research and personal knowledge.  </text>
+<text top="449" left="68" width="772" height="19" font="1"> Communicated with users in person and on the phone, to guide base level diagnostics and coordinate user down time. </text>
+<text top="468" left="68" width="548" height="19" font="1"> Combined broken, like model, computers into operational units for redeployment.  </text>
+<text top="487" left="54" width="4" height="19" font="1"> </text>
+<text top="506" left="54" width="12" height="20" font="5"><b>A</b></text>
+<text top="509" left="66" width="72" height="17" font="6"><b>CADEMIC</b></text>
+<text top="506" left="138" width="16" height="20" font="5"><b> P</b></text>
+<text top="509" left="153" width="59" height="17" font="6"><b>ROJECT</b></text>
+<text top="506" left="212" width="17" height="20" font="5"><b> E</b></text>
+<text top="509" left="230" width="91" height="17" font="6"><b>XPERIENCE</b></text>
+<text top="506" left="321" width="5" height="20" font="5"><b> </b></text>
+<text top="529" left="54" width="328" height="19" font="7"><b>Senior Design Project   </b>August 2013 – May 2014 </text>
+<text top="548" left="68" width="638" height="19" font="1"> Worked on real world design problem for Rockline Industries; automated wet wipe tub unloader. </text>
+<text top="567" left="68" width="699" height="19" font="1"> Responsibilities included: overall design team work, electrical portions of design, part of final design paper. </text>
+<text top="586" left="54" width="329" height="19" font="7"><b>Junior Design Project</b>   January 2013 – May 2013 </text>
+<text top="605" left="68" width="714" height="19" font="1"> Took a product through the design lifecycle, including: building prototype, manual and other documentation. </text>
+<text top="624" left="68" width="801" height="19" font="1"> Responsibilities included: part of proposal, design and synthesis of electrical components, lead programmer, design testing. </text>
+<text top="645" left="54" width="511" height="19" font="7"><b>FORTRAN Computation Program Conversion </b>  October 2012 – May 2013 </text>
+<text top="664" left="68" width="764" height="19" font="1"> Worked for physics professor to convert theoretical particle physics computation program from FORTRAN into C.  </text>
+<text top="683" left="68" width="717" height="19" font="1"> Helped professor to understand how the C code synthesized FORTRAN code, as he was not familiar with C. </text>
+<text top="702" left="54" width="4" height="19" font="7"><b> </b></text>
+<text top="724" left="54" width="9" height="20" font="5"><b>S</b></text>
+<text top="726" left="63" width="43" height="17" font="6"><b>KILLS</b></text>
+<text top="724" left="106" width="5" height="20" font="5"><b> </b></text>
+<text top="747" left="68" width="748" height="19" font="1"> VHDL, C, C++, C#, Python, Bash, Quartus II, LTSPICE, MATLAB, Mathcad, SolidWorks and MS Office Suite. </text>
+<text top="766" left="68" width="779" height="19" font="1"> Lab Work: Altera DE2 FPGA, TI MSP430 Launchpad, Oscilloscope, Waveform Generator, PSU, Digital Multi-meter.  </text>
+<text top="785" left="68" width="631" height="19" font="1"> Circuit Building Skills: digital and simple analog circuit design, soldering and component testing. </text>
+<text top="805" left="54" width="5" height="20" font="5"><b> </b></text>
+<text top="828" left="54" width="12" height="20" font="5"><b>C</b></text>
+<text top="831" left="66" width="31" height="17" font="6"><b>LUB</b></text>
+<text top="828" left="97" width="16" height="20" font="5"><b> A</b></text>
+<text top="831" left="114" width="62" height="17" font="6"><b>CTIVITY</b></text>
+<text top="828" left="176" width="5" height="20" font="5"><b> </b></text>
+<text top="851" left="68" width="783" height="19" font="1"> Co-Leader of SASS (Students Against Sex Slavery) – Focuses on raising awareness of, and ending, sex slavery in the US. </text>
+<text top="870" left="68" width="791" height="19" font="1"> Was part of IEEE Chapter on Campus – Discusses IEEE activities and general tech news, also host IEEE competitions. </text>
+<text top="889" left="68" width="712" height="19" font="1"> Was active member in JBU Automotive Club – Auto enthusiast, auto care events, auto maintenance training. </text>
+<text top="909" left="54" width="4" height="17" font="4"> </text>
+<text top="925" left="54" width="13" height="20" font="5"><b>E</b></text>
+<text top="928" left="67" width="84" height="17" font="6"><b>DUCATION</b></text>
+<text top="925" left="151" width="5" height="20" font="5"><b> </b></text>
+<text top="949" left="54" width="409" height="19" font="1">John Brown University (ABET accredited), Siloam Springs, AR<b> </b></text>
+<text top="949" left="540" width="146" height="19" font="1">Graduated:<b>  </b>May 2014<b> </b></text>
+<text top="967" left="54" width="358" height="19" font="1">BS in Engineering, Electrical/Computer Concentration </text>
+<text top="967" left="540" width="273" height="19" font="1">Overall/Major GPA:  3.2 / 3.3 (4.0 scale)  </text>
+<text top="986" left="54" width="4" height="17" font="4"> </text>
+<text top="1003" left="54" width="15" height="20" font="5"><b>N</b></text>
+<text top="1006" left="69" width="77" height="17" font="6"><b>OTEABLE </b></text>
+<text top="1003" left="146" width="12" height="20" font="5"><b>C</b></text>
+<text top="1006" left="158" width="98" height="17" font="6"><b>OURSEWORK</b></text>
+<text top="1003" left="256" width="5" height="20" font="5"><b> </b></text>
+<text top="1026" left="54" width="726" height="19" font="1">Embedded Systems, Advanced Computer Programming, Engineering Economics, International Problem Solving </text>
+<text top="1045" left="54" width="4" height="19" font="1"> </text>
+<text top="1063" left="54" width="4" height="19" font="1"> </text>
+</page>
+</pdf2xml>

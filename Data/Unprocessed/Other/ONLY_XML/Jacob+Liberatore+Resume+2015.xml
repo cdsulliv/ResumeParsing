@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="35" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="15" family="Times" color="#000000"/>
+	<fontspec id="3" size="19" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="19" family="Times" color="#000000"/>
+	<fontspec id="6" size="15" family="Times" color="#000000"/>
+	<fontspec id="7" size="15" family="Times" color="#000000"/>
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+<text top="106" left="106" width="310" height="33" font="0"><b>Jacob Liberatore</b></text>
+<text top="140" left="106" width="108" height="13" font="1">1981 15th Street</text>
+<text top="133" left="219" width="5" height="23" font="2"><i>·</i></text>
+<text top="140" left="229" width="30" height="13" font="1">Troy</text>
+<text top="133" left="265" width="5" height="23" font="2"><i>·</i></text>
+<text top="140" left="275" width="65" height="13" font="1">NY 12180</text>
+<text top="130" left="344" width="6" height="28" font="3"><i>·</i></text>
+<text top="140" left="355" width="160" height="13" font="1">jliberatore92@gmail.com</text>
+<text top="136" left="521" width="110" height="19" font="4"><i>· </i>(607) 743-7643</text>
+<text top="171" left="106" width="94" height="19" font="5">Education</text>
+<text top="199" left="106" width="336" height="16" font="6"><b>Rensselaer Polytechnic Institute </b>(RPI)</text>
+<text top="202" left="753" width="59" height="12" font="8">May 2015</text>
+<text top="220" left="106" width="174" height="12" font="8">B.S. Mechanical Engineering</text>
+<text top="236" left="106" width="52" height="12" font="8">GPA 3.1</text>
+<text top="266" left="106" width="101" height="19" font="5">Experience</text>
+<text top="293" left="106" width="166" height="16" font="6"><b>Engineering Intern</b></text>
+<text top="296" left="278" width="105" height="12" font="8">Zak Incorporated</text>
+<text top="296" left="694" width="117" height="12" font="8">July 2013 - Present</text>
+<text top="311" left="129" width="435" height="17" font="9"><i>• </i>Used SolidWorks to design shipping crates for large GE turbine parts</text>
+<text top="330" left="129" width="385" height="17" font="9"><i>• </i>Produced data sheets from CAD drawings for quality control</text>
+<text top="350" left="129" width="442" height="17" font="9"><i>• </i>Analyzed machining labor hour variance to determine eﬃciency trends</text>
+<text top="380" left="106" width="69" height="16" font="6"><b>Laborer</b></text>
+<text top="382" left="182" width="123" height="13" font="1">B&amp;B Construction</text>
+<text top="383" left="661" width="150" height="12" font="8">June 2012 - August 2012</text>
+<text top="398" left="129" width="398" height="17" font="9"><i>• </i>Poured concrete floors and foundations for residential buildings</text>
+<text top="432" left="106" width="195" height="19" font="5">Relevant Coursework</text>
+<text top="459" left="106" width="321" height="16" font="6"><b>Manufacturing Processes &amp; Systems</b></text>
+<text top="477" left="129" width="408" height="17" font="9"><i>• </i>Performed extensive research on various manufacturing processes</text>
+<text top="496" left="129" width="682" height="17" font="9"><i>• </i>Created a technical data package for the manufacturing of a complex snow globe and pitched the product to a</text>
+<text top="516" left="144" width="104" height="12" font="8">panel of sponsors</text>
+<text top="543" left="106" width="296" height="16" font="6"><b>General Manufacturing Processes</b></text>
+<text top="561" left="129" width="265" height="17" font="9"><i>• </i>Studied all major types of manufacturing</text>
+<text top="580" left="129" width="416" height="17" font="9"><i>• </i>Performed research on data collection for manufacturing processes</text>
+<text top="610" left="106" width="247" height="16" font="6"><b>Computer Aided Machining</b></text>
+<text top="628" left="129" width="549" height="17" font="9"><i>• </i>Studied aspects of machining, including speeds and feeds, tool types, and machine types</text>
+<text top="647" left="129" width="606" height="17" font="9"><i>• </i>Wrote code for the machining of small aluminum parts using Haas machines, utilizing Mastercam</text>
+<text top="678" left="106" width="169" height="16" font="6"><b>Additional Courses</b></text>
+<text top="699" left="106" width="247" height="12" font="8">Manufacturing Processes &amp; Systems Lab</text>
+<text top="715" left="106" width="126" height="12" font="8">Combustion Systems</text>
+<text top="745" left="106" width="155" height="19" font="5">Notable Projects</text>
+<text top="772" left="106" width="332" height="16" font="6"><b>Formula SAE, Rensselaer Motorsport</b></text>
+<text top="775" left="663" width="148" height="12" font="8">August 2012 - May 2014</text>
+<text top="790" left="129" width="325" height="17" font="9"><i>• </i>Engine, Drivetrain, and Electrical Project Manager</text>
+<text top="809" left="129" width="347" height="17" font="9"><i>• </i>Designed and built fuel subsystem for the 2013 racecar</text>
+<text top="829" left="129" width="315" height="17" font="9"><i>• </i>Machined and fabricated various parts for the car</text>
+<text top="863" left="106" width="49" height="19" font="5">Skills</text>
+<text top="890" left="115" width="50" height="12" font="8">NX Cad</text>
+<text top="890" left="252" width="68" height="12" font="8">SolidWorks</text>
+<text top="890" left="468" width="48" height="12" font="8">MatLab</text>
+<text top="890" left="552" width="67" height="12" font="8">Mastercam</text>
+<text top="906" left="115" width="119" height="12" font="8">VISUAL Enterprise</text>
+<text top="906" left="252" width="197" height="12" font="8">Microsoft Oﬃce, including Excel</text>
+<text top="906" left="468" width="67" height="12" font="8">Windows 7</text>
+<text top="934" left="106" width="205" height="19" font="5">Activities and Awards</text>
+<text top="960" left="106" width="267" height="12" font="8">Steward, Chi Phi Fraternity, Theta Chapter</text>
+<text top="960" left="725" width="87" height="12" font="8">2014 - Present</text>
+<text top="976" left="106" width="271" height="12" font="8">Killington Mountain Campus Representative</text>
+<text top="976" left="725" width="87" height="12" font="8">2013 - Present</text>
+<text top="992" left="106" width="102" height="12" font="8">Dean’s List, RPI</text>
+<text top="992" left="725" width="87" height="12" font="8">2011 - Present</text>
+<text top="1009" left="106" width="337" height="12" font="8">Brother of the Year, Chi Phi Fraternity, Theta Chapter</text>
+<text top="1009" left="743" width="69" height="12" font="8">2013 - 2014</text>
+<text top="1025" left="106" width="283" height="12" font="8">Star Scout Rank of the Boy Scouts of America</text>
+<text top="1025" left="743" width="69" height="12" font="8">2005 - 2007</text>
+</page>
+</pdf2xml>

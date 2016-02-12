@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Symbol" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+	<fontspec id="6" size="16" family="Times" color="#000000"/>
+<text top="76" left="392" width="134" height="23" font="0"><b>Mina Doroudi</b></text>
+<text top="100" left="76" width="145" height="18" font="1">5875 Brookgreen Rd</text>
+<text top="100" left="292" width="551" height="18" font="1">                                                                                     mina.doroudi@gmail.com</text>
+<text top="118" left="76" width="132" height="18" font="1"> Atlanta, GA 30328</text>
+<text top="118" left="616" width="131" height="18" font="1">           U.S. Citizen</text>
+<text top="137" left="76" width="108" height="18" font="1">(404)-545-1671</text>
+<text top="173" left="76" width="93" height="18" font="2"><b>OBJECTIVE</b></text>
+<text top="192" left="76" width="760" height="18" font="1">Seeking an <b>entry-level full time</b> job beginning August 2007 in the field of Computer and Network Security or </text>
+<text top="210" left="76" width="163" height="18" font="1">Software Development.</text>
+<text top="246" left="76" width="97" height="18" font="2"><b>EDUCATION</b></text>
+<text top="265" left="76" width="324" height="18" font="3"><b>Georgia Institute of Technology</b>, Atlanta, GA</text>
+<text top="265" left="724" width="88" height="18" font="1">August 2007</text>
+<text top="283" left="76" width="316" height="18" font="3"><b>Bachelor of Science in Computer Science </b></text>
+<text top="302" left="76" width="102" height="18" font="1">Concentration:</text>
+<text top="302" left="211" width="162" height="18" font="3"><b>Discrete Mathematics</b></text>
+<text top="320" left="76" width="114" height="18" font="1">Specializations: </text>
+<text top="320" left="211" width="400" height="18" font="1">Computers and Network Security, Computer Networking, </text>
+<text top="338" left="211" width="326" height="18" font="1">Theoretical Computer Science and Databases.</text>
+<text top="356" left="76" width="198" height="18" font="1">Major GPA: 3.30, Deans List</text>
+<text top="374" left="76" width="59" height="18" font="2"><b>SKILLS</b></text>
+<text top="393" left="76" width="112" height="18" font="3"><b>Programming: </b></text>
+<text top="393" left="238" width="580" height="18" font="1">Proficient in Java, C, SQL, Lex, shell programming (bash), Squeak, Scheme, CVS, </text>
+<text top="411" left="238" width="509" height="18" font="1">HTML, and Math related projects. Experienced with network applications.</text>
+<text top="429" left="76" width="480" height="18" font="3"><b>Operating Systems:  </b>Familiar with UNIX/Linux, Windows, and Mac.</text>
+<text top="448" left="76" width="82" height="18" font="3"><b>Additional:</b></text>
+<text top="448" left="238" width="569" height="18" font="1">Experienced with cryptography and its proofs. Proficient in<b> </b>techniques of rigorous </text>
+<text top="466" left="238" width="395" height="18" font="1">argumentation, and the reading and the writing of proofs.</text>
+<text top="502" left="76" width="93" height="18" font="3"><b>Languages: </b></text>
+<text top="502" left="238" width="144" height="18" font="1">Native Farsi speaker</text>
+<text top="538" left="76" width="106" height="18" font="2"><b>EXPERIENCE</b></text>
+<text top="557" left="76" width="517" height="18" font="3"><b>Intern, IBM Internet Security Systems, </b>Atlanta, GA (Jan 2007 – present)</text>
+<text top="575" left="76" width="7" height="21" font="4"></text>
+<text top="577" left="130" width="467" height="18" font="1">Building Wiki websites for Managed Security Systems department. </text>
+<text top="595" left="76" width="7" height="21" font="4"></text>
+<text top="597" left="130" width="696" height="18" font="1">Help with Mathematics and Statistics for preparing the reports for quarterly audit of all live Managed </text>
+<text top="617" left="103" width="184" height="18" font="1">Security Services devices.</text>
+<text top="653" left="76" width="543" height="18" font="3"><b>Research Assistantship, Georgia Tech College of Computing</b>, Atlanta, GA</text>
+<text top="671" left="76" width="732" height="18" font="1">Networking Security and Anomaly Detection, working with Prof Wenke Lee (May 2005 – December 2005)</text>
+<text top="689" left="103" width="733" height="17" font="5"><i>PAYL 2-Gram</i> (Privacy-Preserving Payload Based): Wrote a bash script to split pcap files into 5 pieces., to </text>
+<text top="707" left="103" width="218" height="18" font="1">be able to use for the research.</text>
+<text top="726" left="103" width="710" height="17" font="5"><i>Anomaly Detection of WWW:</i> Wrote a lex script to produce a grammar for HTTP for use in the research.</text>
+<text top="744" left="76" width="705" height="18" font="1">Network Security and Social Phishing, Intel Scholar Opportunity Program(January 2006 – May 2006).</text>
+<text top="762" left="103" width="737" height="18" font="1">Analyzed social networks such as Facebook to observe how attackers access sensitive information of the </text>
+<text top="780" left="76" width="47" height="18" font="1">users. </text>
+<text top="798" left="76" width="453" height="18" font="1">Cryptography<b> </b>working with Prof Yan Ding (July 2006 – Dec 2006)</text>
+<text top="816" left="103" width="387" height="18" font="1">learned Zero knowledge proof aspects of Cryptography,</text>
+<text top="835" left="76" width="711" height="18" font="1">Coupling Parallel Applications in a Dynamic Environment GT-CERCS group ( Center for Experimental </text>
+<text top="853" left="76" width="739" height="18" font="1">Research in Computer Systems) working  with Prof Matthew Wolf and Pro0066 Karsten Schwan (January </text>
+<text top="871" left="76" width="119" height="18" font="1">2007 – present ).</text>
+<text top="889" left="103" width="731" height="18" font="1">Researched and Designed Efficient way of mapping from N-D spaces to 1-D through <i>Hilbert Space Filling </i></text>
+<text top="907" left="76" width="50" height="17" font="5"><i>curves</i>. </text>
+<text top="925" left="76" width="107" height="18" font="1">Steganography</text>
+<text top="924" left="183" width="5" height="20" font="6"> </text>
+<text top="925" left="187" width="201" height="18" font="1">(January 2005 – May 2005). </text>
+<text top="944" left="103" width="522" height="18" font="1">Learned, implemented and presented different methods of steganography  </text>
+<text top="980" left="76" width="647" height="18" font="3"><b>Math Tutor, </b>Georgia Perimeter College Math Lab, Dunwoody, GA (August 2003 – May 2004)</text>
+<text top="997" left="76" width="7" height="21" font="4"></text>
+<text top="999" left="130" width="239" height="18" font="1">Tutor student in college level math</text>
+<text top="1037" left="76" width="226" height="18" font="2"><b>ACHIEVEMENTS/ACTIVITIES</b></text>
+<text top="1056" left="76" width="762" height="18" font="3"><b>Intel Scholar Opportunity Program</b>, undergraduate research program founded by Intel Corporation              </text>
+<text top="1074" left="76" width="169" height="18" font="1">(Aug 2003 – May 2006).</text>
+<text top="1092" left="76" width="583" height="18" font="3"><b>REU Computer Science</b>, Funded for research from NSF (January 2007 – present).</text>
+<text top="1110" left="76" width="420" height="18" font="1">Secretary, Iranian Student Association (Fall 2006 – present) </text>
+</page>
+<outline>
+<item page="1">OBJECTIVE</item>
+<item page="1">EDUCATION</item>
+<item page="1">SKILLS</item>
+<outline>
+<item page="1">EXPERIENCE</item>
+</outline>
+</outline>
+</pdf2xml>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#0462c1"/>
+<text top="112" left="432" width="58" height="13" font="0"><b>JIE LIN </b></text>
+<text top="129" left="376" width="171" height="13" font="1">Cell phone: (646) 309-1158 </text>
+<text top="146" left="366" width="92" height="13" font="1">Email address<a href="mailto:g.lin@live.com">: </a></text>
+<text top="146" left="459" width="93" height="13" font="2"><a href="mailto:g.lin@live.com">g.lin@live.com</a></text>
+<text top="146" left="552" width="4" height="13" font="1"><a href="mailto:g.lin@live.com"> </a></text>
+<text top="163" left="356" width="210" height="13" font="1">Linkedin: linkedin.com/in/jielin27 </text>
+<text top="180" left="369" width="185" height="13" font="1">GitHub: github.com/jielin-jlin </text>
+<text top="198" left="108" width="112" height="13" font="0"><b>Current Address </b></text>
+<text top="198" left="270" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="324" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="378" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="432" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="486" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="540" width="4" height="13" font="0"><b> </b></text>
+<text top="198" left="594" width="185" height="13" font="0"><b>            Permanent Address </b></text>
+<text top="215" left="108" width="112" height="13" font="1">17 Heath Street    </text>
+<text top="215" left="270" width="4" height="13" font="1"> </text>
+<text top="215" left="324" width="4" height="13" font="1"> </text>
+<text top="215" left="378" width="4" height="13" font="1"> </text>
+<text top="215" left="432" width="4" height="13" font="1"> </text>
+<text top="215" left="486" width="4" height="13" font="1"> </text>
+<text top="215" left="540" width="4" height="13" font="1"> </text>
+<text top="215" left="594" width="4" height="13" font="1"> </text>
+<text top="215" left="648" width="151" height="13" font="1">1161 Myrtle Ave apt 2A </text>
+<text top="232" left="108" width="127" height="13" font="1">Buffalo, NY, 14214  </text>
+<text top="232" left="270" width="4" height="13" font="1"> </text>
+<text top="232" left="324" width="4" height="13" font="1"> </text>
+<text top="232" left="378" width="4" height="13" font="1"> </text>
+<text top="232" left="432" width="4" height="13" font="1"> </text>
+<text top="232" left="486" width="4" height="13" font="1"> </text>
+<text top="232" left="540" width="4" height="13" font="1"> </text>
+<text top="232" left="594" width="4" height="13" font="1"> </text>
+<text top="232" left="648" width="131" height="13" font="1">Brooklyn, NY 11206 </text>
+<text top="249" left="108" width="4" height="13" font="1"> </text>
+<text top="267" left="108" width="95" height="13" font="0"><b>EDUCATION </b></text>
+<text top="284" left="108" width="363" height="13" font="0"><b>University at Buffalo, The State University of New York </b></text>
+<text top="301" left="108" width="242" height="13" font="1">Bachelor of Science, Computer Science </text>
+<text top="318" left="108" width="190" height="13" font="1">Degree Anticipated: May 2015 </text>
+<text top="336" left="108" width="4" height="13" font="1"> </text>
+<text top="353" left="108" width="70" height="13" font="0"><b>AWARDS </b></text>
+<text top="368" left="135" width="173" height="16" font="1">o  National Honor Society<b> </b></text>
+<text top="385" left="135" width="209" height="16" font="1">o  International Business Award </text>
+<text top="405" left="108" width="4" height="13" font="1"> </text>
+<text top="422" left="108" width="58" height="13" font="0"><b>SKILLS </b></text>
+<text top="437" left="135" width="485" height="16" font="1">o  <b>Languages: </b>Java, C, C++, Android SDK, Python, SQL, PHP, Prolog, SML<b> </b></text>
+<text top="454" left="135" width="341" height="16" font="1">o  <b>Operating Systems:</b> Windows, Mac, UNIX, Linux<b> </b></text>
+<text top="471" left="135" width="274" height="16" font="1">o  <b>Software:</b> MS Office, Adobe photoshop<b> </b></text>
+<text top="489" left="135" width="548" height="16" font="1">o  <b>Foreign Languages: </b>Bilingual - Chinese (Mandarin, Cantonese &amp; Fujianese)/English </text>
+<text top="508" left="108" width="4" height="13" font="1"> </text>
+<text top="526" left="108" width="82" height="13" font="0"><b>PROJECTS </b></text>
+<text top="543" left="108" width="539" height="13" font="0"><b>Distributed Chat System, spring 2014 </b>- github.com/jielin-jlin/Distributed-Chat-System </text>
+<text top="558" left="135" width="651" height="16" font="1">o  Created a Distributed Chat System using Java.  This system has one server and allows arbitrary number </text>
+<text top="577" left="162" width="648" height="13" font="1">clients to chat with one another.  A private system to chat with friends instead of using public chat systems.<b> </b></text>
+<text top="591" left="108" width="327" height="17" font="0"><b>G’s Calculator - </b>github.com/jielin-jlin/G-sCalculator<b> </b></text>
+<text top="609" left="135" width="640" height="16" font="1">o  First android app I ever created.  I made this app to get hands on experience with the Android SDK to </text>
+<text top="629" left="162" width="324" height="13" font="1">prepare for a much more difficult android application<b> </b></text>
+<text top="646" left="108" width="214" height="13" font="0"><b>Point - </b>github.com/jielin-jlin/Point </text>
+<text top="661" left="135" width="651" height="16" font="1">o  An Android application that enables communities to schedule and find local recreational activities.  We </text>
+<text top="681" left="162" width="625" height="13" font="1">initially started this project to address the social challenge of finding workout partners or teammates for </text>
+<text top="698" left="162" width="118" height="13" font="1">recreational sports. </text>
+<text top="713" left="135" width="658" height="16" font="1">o  I was the team leader of a group consisted of 5 people participating in a virtual hackathon which lasted 2 </text>
+<text top="732" left="162" width="45" height="13" font="1">weeks. </text>
+<text top="750" left="108" width="306" height="13" font="0"><b>REM Puzzle</b> - github.com/jielin-jlin/REM-Puzzle </text>
+<text top="765" left="135" width="622" height="16" font="1">o  An alarm made using Arduino that is designed to help people get better sleep, and wake up feeling </text>
+<text top="784" left="162" width="635" height="13" font="1">refreshed.  Calculates the maximum amount of REM sleep possible of time available and enforces puzzle </text>
+<text top="801" left="162" width="155" height="13" font="1">solving to shut off alarm. </text>
+<text top="819" left="108" width="4" height="13" font="1"> </text>
+<text top="836" left="108" width="198" height="13" font="0"><b>RELEVANT EXPERIENCES </b></text>
+<text top="853" left="108" width="201" height="13" font="0"><b>National Academy Foundation </b></text>
+<text top="870" left="108" width="152" height="13" font="1">218 West 40th St 5th FL </text>
+<text top="888" left="108" width="137" height="13" font="1">New York, NY 10018 </text>
+<text top="905" left="108" width="242" height="13" font="0"><b>Information Technology Intern, 2011 </b></text>
+<text top="920" left="135" width="321" height="16" font="1">o  Assisted IT staff with day to day responsibilities<b> </b></text>
+<text top="937" left="135" width="276" height="16" font="1">o  Interactional interfacing user community<b> </b></text>
+<text top="954" left="135" width="679" height="16" font="1">o  Rebuild PC by; reinstalling windows, build base image, install software, customize image and saving image<b> </b></text>
+<text top="972" left="135" width="395" height="16" font="1">o  Recorded and updated inventory, organized equipment room<b> </b></text>
+<text top="989" left="135" width="341" height="16" font="1">o  Created user manuals for technologies in the office <b> </b></text>
+<text top="1006" left="135" width="169" height="16" font="1">o  Hardware maintenance<b> </b></text>
+<text top="1023" left="135" width="267" height="16" font="1">o  Researched details on academy courses<b> </b></text>
+<text top="1041" left="135" width="172" height="16" font="1">o  Created network cables<b> </b></text>
+</page>
+</pdf2xml>

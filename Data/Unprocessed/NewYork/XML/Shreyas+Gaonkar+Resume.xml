@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="19" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="2" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#0000ff"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="8" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000000"/>
+	<fontspec id="9" size="10" family="Times" color="#000000"/>
+	<fontspec id="10" size="16" family="Times" color="#000000"/>
+	<fontspec id="11" size="10" family="Times" color="#000000"/>
+	<fontspec id="12" size="14" family="Times" color="#000000"/>
+	<fontspec id="13" size="16" family="Symbol" color="#000000"/>
+<text top="22" left="54" width="5" height="16" font="0"> </text>
+<text top="34" left="367" width="192" height="25" font="1"><b>SHREYAS GAONKAR</b></text>
+<text top="42" left="558" width="4" height="15" font="2"><b> </b></text>
+<text top="59" left="462" width="1" height="4" font="3"> </text>
+<text top="52" left="462" width="5" height="16" font="0"> </text>
+<text top="68" left="229" width="143" height="18" font="0">1019 S Oakley Blvd </text>
+<text top="65" left="372" width="8" height="20" font="4"></text>
+<text top="69" left="379" width="5" height="16" font="0"> </text>
+<text top="68" left="384" width="132" height="18" font="0">Chicago, IL 60612 </text>
+<text top="65" left="516" width="8" height="20" font="4"></text>
+<text top="69" left="524" width="5" height="16" font="0"> </text>
+<text top="68" left="528" width="107" height="18" font="0">312-478-9915 </text>
+<text top="65" left="635" width="8" height="20" font="4"></text>
+<text top="69" left="643" width="5" height="16" font="0"><a href="mailto:sgaonk2@uic.edu"> </a></text>
+<text top="68" left="647" width="135" height="18" font="5"><a href="mailto:sgaonk2@uic.edu">sgaonk2@uic.edu </a></text>
+<text top="91" left="147" width="82" height="17" font="6">                    <a href="http://www.shreyasg.com/">  </a></text>
+<text top="90" left="230" width="193" height="18" font="5"><a href="http://www.shreyasg.com/">http://www.shreyasg.com</a></text>
+<text top="90" left="423" width="4" height="18" font="0"><a href="http://www.shreyasg.com/"> </a></text>
+<text top="90" left="427" width="351" height="18" font="5">                      https://github.com/shreyasgaonkar</text>
+<text top="90" left="778" width="4" height="18" font="0"> </text>
+<text top="110" left="54" width="2" height="10" font="7"><b> </b></text>
+<text top="124" left="54" width="86" height="17" font="2"><b>EDUCATION </b></text>
+<text top="144" left="54" width="274" height="17" font="2"><b>University of Illinois at Chicago (UIC)   </b></text>
+<text top="144" left="378" width="4" height="17" font="2"><b> </b></text>
+<text top="144" left="432" width="4" height="17" font="2"><b> </b></text>
+<text top="144" left="486" width="4" height="17" font="2"><b> </b></text>
+<text top="144" left="540" width="8" height="17" font="2"><b>  </b></text>
+<text top="144" left="594" width="146" height="17" font="2"><b>                                       </b></text>
+<text top="144" left="740" width="126" height="16" font="8">Expected May 2016</text>
+<text top="144" left="865" width="4" height="17" font="2"><b> </b></text>
+<text top="164" left="54" width="408" height="17" font="6">Master of Science in Computer Engineering -<b> </b>GPA: 3.56/4.00 </text>
+<text top="184" left="54" width="804" height="17" font="6">Related Coursework: User Interface Design, Software Engineering, Computer Algorithms and Mobile App Development. </text>
+<text top="203" left="54" width="3" height="12" font="9"> </text>
+<text top="203" left="54" width="5" height="16" font="0"> </text>
+<text top="219" left="54" width="240" height="17" font="2"><b>Mumbai University, Mumbai, India</b></text>
+<text top="219" left="294" width="495" height="16" font="0">                                                                                                              </text>
+<text top="219" left="789" width="80" height="16" font="8">August 2014</text>
+<text top="219" left="869" width="5" height="16" font="0"> </text>
+<text top="223" left="54" width="5" height="16" font="0"> </text>
+<text top="239" left="54" width="450" height="17" font="6">Bachelor of Engineering in Electronics Engineering - GPA: 3.55/4.00</text>
+<text top="239" left="504" width="5" height="16" font="10"><b> </b></text>
+<text top="244" left="54" width="5" height="16" font="0"> </text>
+<text top="259" left="54" width="787" height="17" font="6">Related Coursework: Web Development, Computer Programming, Electronic Product Design and Embedded Systems.</text>
+<text top="259" left="841" width="5" height="16" font="0"> </text>
+<text top="278" left="54" width="3" height="12" font="11"><b> </b></text>
+<text top="294" left="54" width="47" height="17" font="2"><b>SKILLS </b></text>
+<text top="314" left="54" width="715" height="17" font="2"><b>Programming Languages: </b>HTML, CSS, JavaScript, JQuery, Bootstrap, SASS, ASP.NET, C, C++, and AngularJS. </text>
+<text top="334" left="54" width="571" height="17" font="2"><b>Designing Software:</b> Adobe Suite – Photoshop, Illustrator, Lightroom &amp; After Effects. </text>
+<text top="354" left="54" width="164" height="17" font="2"><b>Programming Software:</b></text>
+<text top="354" left="218" width="5" height="16" font="0"> </text>
+<text top="354" left="222" width="401" height="17" font="6">Microsoft Visual Studio, FileZilla, WinSCP &amp; Android Studio. </text>
+<text top="374" left="54" width="45" height="17" font="2"><b>Other:</b></text>
+<text top="374" left="98" width="5" height="16" font="0"> </text>
+<text top="374" left="103" width="94" height="17" font="6">Wire-framing,</text>
+<text top="374" left="197" width="5" height="16" font="0"> </text>
+<text top="374" left="201" width="410" height="17" font="6">Amazon Web Services, SEO, GitHub &amp; Microsoft Office Suite. </text>
+<text top="394" left="54" width="3" height="12" font="9"> </text>
+<text top="409" left="54" width="162" height="17" font="2"><b>RELEVANT EXPERIENCE </b></text>
+<text top="429" left="54" width="154" height="17" font="2"><b>AML Heath Coaching   </b></text>
+<text top="429" left="612" width="112" height="17" font="2"><b>                              </b></text>
+<text top="430" left="724" width="146" height="16" font="8">January 2016 - Present</text>
+<text top="429" left="870" width="5" height="16" font="0"> </text>
+<text top="434" left="54" width="5" height="16" font="0"> </text>
+<text top="449" left="54" width="150" height="17" font="12"><i>Web Developer Intern </i></text>
+<text top="454" left="54" width="5" height="16" font="0"> </text>
+<text top="466" left="81" width="8" height="20" font="4"></text>
+<text top="471" left="89" width="5" height="15" font="6"> </text>
+<text top="471" left="108" width="614" height="17" font="6">Working with the CEO with the website design, wireframing &amp; digital content management.</text>
+<text top="466" left="722" width="4" height="20" font="4"></text>
+<text top="490" left="54" width="3" height="12" font="11"><b> </b></text>
+<text top="505" left="54" width="668" height="17" font="2"><b>College of Medicine, University of Illinois at Chicago                                                                                    </b></text>
+<text top="506" left="722" width="149" height="16" font="8">October 2014 - Present</text>
+<text top="505" left="871" width="5" height="16" font="0"> </text>
+<text top="510" left="54" width="5" height="16" font="0"> </text>
+<text top="525" left="54" width="190" height="17" font="12"><i>Graduate Student Associate </i></text>
+<text top="530" left="54" width="5" height="16" font="0"> </text>
+<text top="542" left="81" width="8" height="20" font="4"></text>
+<text top="547" left="89" width="5" height="15" font="6"> </text>
+<text top="547" left="108" width="415" height="17" font="6">Digital media development on Adobe Photoshop &amp; Illustrator.</text>
+<text top="542" left="523" width="4" height="20" font="4"></text>
+<text top="563" left="81" width="8" height="20" font="4"></text>
+<text top="568" left="89" width="5" height="15" font="6"> </text>
+<text top="568" left="108" width="426" height="17" font="6">Web content developer for UIC - College of Medicine’s website.</text>
+<text top="563" left="534" width="4" height="20" font="4"></text>
+<text top="584" left="81" width="8" height="20" font="4"></text>
+<text top="589" left="89" width="5" height="15" font="6"> </text>
+<text top="589" left="108" width="536" height="17" font="6">Maintenance of office networks, printers, computers etc. and general office aid.</text>
+<text top="584" left="644" width="4" height="20" font="4"></text>
+<text top="608" left="54" width="3" height="12" font="11"><b> </b></text>
+<text top="623" left="54" width="658" height="17" font="2"><b>Mote, CollegeLife LLC                                                                                                                                         </b></text>
+<text top="624" left="712" width="155" height="16" font="8">May 2015 - August 2015</text>
+<text top="624" left="867" width="5" height="16" font="0"> </text>
+<text top="628" left="54" width="5" height="16" font="0"> </text>
+<text top="644" left="54" width="257" height="17" font="12"><i>Summer Intern – Lead Web Developer</i> </text>
+<text top="660" left="81" width="8" height="20" font="4"></text>
+<text top="665" left="89" width="5" height="15" font="6"> </text>
+<text top="665" left="108" width="602" height="17" font="6">Led a small team of Web Design and Development for a startup company, CollegeLife LLC.</text>
+<text top="660" left="710" width="4" height="20" font="4"></text>
+<text top="682" left="81" width="8" height="20" font="4"></text>
+<text top="686" left="89" width="5" height="15" font="6"> </text>
+<text top="686" left="108" width="557" height="17" font="6">Worked with HTML, CSS, AngularJS, Bootstrap3, GitHub and Amazon Web Services.</text>
+<text top="682" left="665" width="4" height="20" font="4"></text>
+<text top="703" left="81" width="8" height="20" font="4"></text>
+<text top="707" left="89" width="5" height="15" font="6"> </text>
+<text top="707" left="108" width="314" height="17" font="6">Completed UI/UX design for Mote Mobile App.</text>
+<text top="703" left="422" width="4" height="20" font="4"></text>
+<text top="726" left="54" width="3" height="11" font="9"> </text>
+<text top="741" left="54" width="137" height="17" font="2"><b>TECHNICAL PAPERS </b></text>
+<text top="757" left="81" width="8" height="20" font="4"></text>
+<text top="762" left="89" width="5" height="15" font="6"> </text>
+<text top="762" left="108" width="766" height="17" font="6">Co-Author - Design, Modeling and Implementation of 8-bit processor for Intelligent Automatic Chocolate Vending </text>
+<text top="782" left="108" width="448" height="17" font="6">Machine (AVM) in International Journal of Computer Applications. </text>
+<text top="802" left="108" width="186" height="17" font="6"> (ISBN: 973-93-80880-67-5) </text>
+<text top="798" left="294" width="4" height="20" font="4"></text>
+<text top="819" left="81" width="8" height="20" font="4"></text>
+<text top="823" left="89" width="5" height="15" font="6"> </text>
+<text top="823" left="108" width="767" height="17" font="6">Co-Author - Easy Go Automated Toll Collection System using RFID backscattering and Cloud Based Server. (ISSN </text>
+<text top="843" left="108" width="77" height="17" font="6">2278-1722)</text>
+<text top="839" left="185" width="4" height="20" font="4"></text>
+<text top="848" left="54" width="5" height="16" font="0">  </text>
+<text top="863" left="54" width="3" height="12" font="11"><b> </b></text>
+<text top="878" left="54" width="71" height="17" font="2"><b>PROJECTS </b></text>
+<text top="894" left="81" width="8" height="20" font="4"></text>
+<text top="899" left="89" width="5" height="15" font="6"> </text>
+<text top="899" left="108" width="383" height="17" font="6">Hollo – cross platform text messaging application in C++. </text>
+<text top="913" left="81" width="8" height="22" font="13"></text>
+<text top="918" left="89" width="5" height="17" font="0"> </text>
+<text top="919" left="108" width="767" height="17" font="6">Automated Toll Collection System (ATCS) with RFID backscattering and Cloud based server – an inexpensive and </text>
+<text top="939" left="108" width="576" height="17" font="6">robust RFID technology working on a server to track recent records and bill payments.</text>
+<text top="939" left="684" width="5" height="16" font="0"> </text>
+<text top="953" left="81" width="8" height="22" font="13"></text>
+<text top="958" left="89" width="5" height="17" font="0"> </text>
+<text top="959" left="108" width="564" height="17" font="6">Live Streaming implementation during Undergraduate College with Adobe Encoder. </text>
+<text top="959" left="672" width="5" height="16" font="0"> </text>
+<text top="974" left="81" width="8" height="20" font="4"></text>
+<text top="979" left="89" width="5" height="15" font="6"> </text>
+<text top="979" left="108" width="467" height="17" font="6">Performance of MIPS microprocessor using SimpleScalar simulations. </text>
+<text top="995" left="81" width="8" height="20" font="4"></text>
+<text top="999" left="89" width="5" height="15" font="6"> </text>
+<text top="999" left="108" width="759" height="17" font="6">Efficiency of TCP-only &amp; UDP-only in terms of Packet loss in a wireless multi hop network using Tcl programming. </text>
+<text top="1018" left="54" width="4" height="17" font="2"><b> </b></text>
+<text top="1038" left="54" width="155" height="17" font="2"><b>COMMUNITY SERVICE </b></text>
+<text top="1055" left="81" width="8" height="20" font="4"></text>
+<text top="1060" left="89" width="5" height="15" font="6"> </text>
+<text top="1059" left="108" width="761" height="17" font="6">Volunteer at Cancer Patients Aids Association, Mumbai                                                     September 2013 – May 2014</text>
+<text top="1055" left="869" width="4" height="20" font="4"></text>
+<text top="1080" left="108" width="4" height="17" font="6"> </text>
+</page>
+</pdf2xml>

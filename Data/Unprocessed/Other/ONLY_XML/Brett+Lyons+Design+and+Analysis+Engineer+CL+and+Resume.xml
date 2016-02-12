@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="21" family="Times" color="#000000"/>
+<text top="84" left="135" width="80" height="15" font="0">Brett Lyons </text>
+<text top="102" left="135" width="152" height="15" font="0">bclyons@alum.bu.edu </text>
+<text top="120" left="135" width="88" height="15" font="0">584 Main St. </text>
+<text top="138" left="135" width="134" height="15" font="0">Portland, CT 06480 </text>
+<text top="156" left="135" width="107" height="15" font="0">(305) 710-4004 </text>
+<text top="174" left="135" width="4" height="15" font="0"> </text>
+<text top="192" left="135" width="4" height="15" font="0"> </text>
+<text top="210" left="135" width="135" height="15" font="0">Dear Sir or Madam: </text>
+<text top="228" left="135" width="4" height="15" font="0"> </text>
+<text top="246" left="189" width="592" height="15" font="0">I would like to express my interest in a Design and Analysis Engineering position through </text>
+<text top="264" left="135" width="613" height="15" font="0">Monroe Staffing. You will note from my enclosed résumé that I am currently employed as an </text>
+<text top="282" left="135" width="652" height="15" font="0">Engineering Intern at TurboVision Consulting Group, Inc. TurboVision is an established consulting </text>
+<text top="300" left="135" width="607" height="15" font="0">group contracted by several major industrial gas turbine manufacturers including Mitsubishi </text>
+<text top="318" left="135" width="625" height="15" font="0">Heavy Industries and Kawasaki Heavy Industries. Composed entirely of senior engineers with </text>
+<text top="336" left="135" width="630" height="15" font="0">over 30 years of experience, their focus is on taking the expertise and knowledge developed in </text>
+<text top="354" left="135" width="635" height="15" font="0">the highly rigorous design of jet engines and applying it to the industrial turbomachinery setting. </text>
+<text top="372" left="135" width="639" height="15" font="0">Working alongside these senior engineers I have been helping to develop their new approach to </text>
+<text top="390" left="135" width="648" height="15" font="0">multistage axial compressor airfoil design intended to reduce overall development time compared </text>
+<text top="408" left="135" width="355" height="15" font="0">to current aero-engine compressor design practices.  </text>
+<text top="426" left="189" width="579" height="15" font="0">Over the past year and a half I have worked on multiple projects, including validation of </text>
+<text top="444" left="135" width="602" height="15" font="0">our in-house CFD software and airfoil incidence range modeling. In my main project I have </text>
+<text top="462" left="135" width="577" height="15" font="0">designed a preliminary analysis system to quickly and automatically create, mesh, and </text>
+<text top="480" left="135" width="629" height="15" font="0">structurally analyze rotor and stator CAD models using two open-source software applications, </text>
+<text top="498" left="135" width="646" height="15" font="0">GMSH and CalculiX. GMSH is a three-dimensional finite element mesh generator and CalculiX is </text>
+<text top="516" left="135" width="637" height="15" font="0">a finite element analysis application with ABAQUS-style input formatting used by both MTU and </text>
+<text top="534" left="135" width="637" height="15" font="0">the DLR. The primary goal of this project is to use the preliminary analysis system to reduce the </text>
+<text top="552" left="135" width="649" height="15" font="0">overall design time. The projectʼs secondary goal is to test the accuracy and reliability of the open </text>
+<text top="570" left="135" width="639" height="15" font="0">source software for use in a final structural analysis system in order to reduce the overall project </text>
+<text top="588" left="135" width="421" height="15" font="0">costs associated with getting a license for other FEA software.  </text>
+<text top="606" left="189" width="575" height="15" font="0">After receiving my Aerospace Engineering degree from Boston University and working </text>
+<text top="624" left="135" width="638" height="15" font="0">diligently as an aerospace engineer, I now possess the skill set and dedication to be an asset to </text>
+<text top="642" left="135" width="612" height="15" font="0">your company. During my time at TurboVision I have quickly learned to work with many new </text>
+<text top="660" left="135" width="627" height="15" font="0">software programs, including neural networking and finite element analysis applications. In my </text>
+<text top="678" left="135" width="638" height="15" font="0">work designing an automated system to fully mesh and analyze the stress and modal frequency </text>
+<text top="696" left="135" width="616" height="15" font="0">response of compressor rotor blades and stator vanes, I have learned to work independently </text>
+<text top="714" left="135" width="650" height="15" font="0">while consulting with senior engineers. At Boston University, I had the opportunity to take courses </text>
+<text top="732" left="135" width="608" height="15" font="0">that helped develop my analytical, design and problem-solving skills. As the leader of a five-</text>
+<text top="750" left="135" width="631" height="15" font="0">person group designing a unique solar powered unmanned aerial vehicle for my Senior Design </text>
+<text top="768" left="135" width="645" height="15" font="0">Project, I obtained experience creating an autonomous aircraftʼs autopilot system using Simulink, </text>
+<text top="786" left="135" width="597" height="15" font="0">designing and modeling the aircraft control surfaces, and complying with FAA certification </text>
+<text top="804" left="135" width="616" height="15" font="0">standards (specifically FAR Part 23 and Part 35). In my study of control theory I have gained </text>
+<text top="822" left="135" width="614" height="15" font="0">extensive laboratory experience designing classical control schemes for numerous electrical </text>
+<text top="840" left="135" width="593" height="15" font="0">servomechanisms, as well as designing sensor circuits using modern sensory equipment </text>
+<text top="858" left="135" width="638" height="15" font="0">including accelerometers, pitot tubes, and strain gauges. During my time as a Job Site Manager </text>
+<text top="876" left="135" width="635" height="15" font="0">for College Pro, I have gained extensive experience in project planning, financing, and tracking, </text>
+<text top="894" left="135" width="444" height="15" font="0">as well as managing and training employees of various skill levels. </text>
+<text top="912" left="189" width="558" height="15" font="0">I consider that my credentials and interests match your requirements, and I am very </text>
+<text top="930" left="135" width="650" height="15" font="0">interested in pursuing a career with Monroe Staffing. I have enclosed a copy of my résumé, which </text>
+<text top="948" left="135" width="645" height="15" font="0">further details my qualifications and accomplishments. I would like very much to meet with you at </text>
+<text top="966" left="135" width="611" height="15" font="0">your convenience to discuss available Design and Analysis Engineering positions. You may </text>
+<text top="984" left="135" width="623" height="15" font="0">contact me via e-mail (bclyons@alum.bu.edu) or by telephone (305-710-4004). Thank you for </text>
+<text top="1002" left="135" width="192" height="15" font="0">your time and consideration. </text>
+<text top="1020" left="135" width="4" height="15" font="0"> </text>
+<text top="1039" left="135" width="113" height="15" font="0">Sincerely Yours, </text>
+<text top="1057" left="135" width="80" height="15" font="0">Brett Lyons </text>
+<text top="1077" left="135" width="7" height="24" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="2" size="12" family="Times" color="#000000"/>
+	<fontspec id="3" size="9" family="Times" color="#000000"/>
+<text top="86" left="392" width="140" height="24" font="1"><b>Brett Lyons </b></text>
+<text top="113" left="417" width="88" height="15" font="0">584 Main St. </text>
+<text top="131" left="394" width="134" height="15" font="0">Portland, CT 06480 </text>
+<text top="149" left="408" width="107" height="15" font="0">(305) 710-4004 </text>
+<text top="167" left="385" width="152" height="15" font="0">bclyons@alum.bu.edu </text>
+<text top="187" left="135" width="89" height="15" font="2"><b>OBJECTIVE </b></text>
+<text top="205" left="135" width="626" height="15" font="0">To secure a position as a Design and Analysis Engineer focusing on the design, analysis, and </text>
+<text top="223" left="135" width="261" height="15" font="0">specification of motion control devices. </text>
+<text top="241" left="135" width="4" height="15" font="0"> </text>
+<text top="259" left="135" width="237" height="15" font="2"><b>RELEVANT WORK EXPERIENCE </b></text>
+<text top="277" left="135" width="650" height="15" font="2"><b>TurboVision Consulting Group, Inc.</b>                                                              May 2011 – Present </text>
+<text top="295" left="135" width="651" height="15" font="0">Engineering Intern                                                                                                              Miami, FL </text>
+<text top="314" left="167" width="11" height="15" font="0">• </text>
+<text top="313" left="194" width="560" height="15" font="0">Developed an automated method using 3D finite mesh generator software GMSH to </text>
+<text top="331" left="194" width="559" height="15" font="0">create and fully mesh CAD rotor/stator models for the preliminary phase of the rapid </text>
+<text top="349" left="194" width="518" height="15" font="0">design system used in the creation of gas turbine engine compressor blading. </text>
+<text top="368" left="167" width="11" height="15" font="0">• </text>
+<text top="367" left="194" width="520" height="15" font="0">Built an automated system to analyze the stress and modal frequencies of the </text>
+<text top="385" left="194" width="374" height="15" font="0">rotor/stator models using the 3D FEA program CalculiX. </text>
+<text top="404" left="167" width="11" height="15" font="0">• </text>
+<text top="403" left="194" width="575" height="15" font="0">Wrote interface software to translate GMSH files into ABAQUS formatting for CalculiX. </text>
+<text top="422" left="167" width="11" height="15" font="0">• </text>
+<text top="421" left="194" width="559" height="15" font="0">Examined effects of manufacturing tolerances on the stress and modal frequency of </text>
+<text top="439" left="194" width="579" height="15" font="0">rotors/stators and developed methods to accommodate for the variability during tuning. </text>
+<text top="458" left="167" width="11" height="15" font="0">• </text>
+<text top="457" left="194" width="589" height="15" font="0">Created an improved airfoil incidence range model for use in the preliminary compressor </text>
+<text top="475" left="194" width="484" height="15" font="0">design process using neural networking software Eureqa and Formulize. </text>
+<text top="494" left="167" width="11" height="15" font="0">• </text>
+<text top="493" left="194" width="582" height="15" font="0">Documented all processes and program codes to aid integration into the design system </text>
+<text top="511" left="194" width="377" height="15" font="0">and completed regular progress reports on each project. </text>
+<text top="530" left="167" width="11" height="15" font="0">• </text>
+<text top="529" left="194" width="588" height="15" font="0">Communicated and coordinated with senior engineers from multiple disciplines including </text>
+<text top="547" left="194" width="384" height="15" font="0">Structural, Aerodynamic, and Manufacturing Engineering. </text>
+<text top="574" left="135" width="651" height="15" font="2"><b>College Pro</b> <b>Painting</b>                                                                          April – October, 2007 – 2010 </text>
+<text top="592" left="135" width="649" height="15" font="0">Job Site Manager                                                                                                            Boston, MA<b> </b></text>
+<text top="611" left="162" width="11" height="15" font="0">• </text>
+<text top="610" left="189" width="358" height="15" font="0">Managed and trained five four-person painting crews. </text>
+<text top="628" left="135" width="3" height="12" font="3"> </text>
+<text top="643" left="135" width="62" height="15" font="2"><b>SKILLS  </b></text>
+<text top="662" left="162" width="11" height="15" font="0">• </text>
+<text top="661" left="189" width="537" height="15" font="2"><b>Computer: </b>Inventor, AutoCAD, ABAQUS, SolidWorks, C++, MATLAB, Simulink, </text>
+<text top="679" left="189" width="522" height="15" font="0">LabVIEW, UNIX, Microsoft Office. Familiar with Fortran, Visual Basic, ANSYS.<b> </b></text>
+<text top="696" left="135" width="3" height="12" font="3"> </text>
+<text top="711" left="135" width="93" height="15" font="2"><b>EDUCATION </b></text>
+<text top="729" left="135" width="650" height="15" font="2"><b>Boston University College of Engineering                                                                 </b>Boston, MA </text>
+<text top="747" left="135" width="650" height="15" font="0">Bachelor of Science, Aerospace Engineering                                                                    May 2010 </text>
+<text top="774" left="135" width="154" height="15" font="2"><b>Related Coursework  </b></text>
+<text top="793" left="162" width="11" height="15" font="0">• </text>
+<text top="792" left="189" width="205" height="15" font="0">Process Modeling and Control </text>
+<text top="811" left="162" width="11" height="15" font="0">• </text>
+<text top="810" left="189" width="113" height="15" font="0">Flight Structures </text>
+<text top="829" left="162" width="11" height="15" font="0">• </text>
+<text top="828" left="189" width="170" height="15" font="0">Flight Vehicle Design I, II </text>
+<text top="793" left="513" width="11" height="15" font="0">• </text>
+<text top="792" left="540" width="228" height="15" font="0">Statistics and Quality Engineering </text>
+<text top="811" left="513" width="11" height="15" font="0">• </text>
+<text top="810" left="540" width="96" height="15" font="0">Heat Transfer </text>
+<text top="829" left="513" width="11" height="15" font="0">• </text>
+<text top="828" left="540" width="146" height="15" font="0">Engineering Economy</text>
+<text top="845" left="135" width="3" height="12" font="3"> </text>
+<text top="861" left="135" width="260" height="15" font="2"><b>RELEVANT PROJECT EXPERIENCE </b></text>
+<text top="879" left="135" width="648" height="15" font="2"><b>“H.A.L.E.R.T. Solar Powered Aircraft”                                            </b>September 2009 – May 2010 </text>
+<text top="897" left="135" width="649" height="15" font="0">Group Leader                                                                    Senior Design Project, Boston University </text>
+<text top="916" left="166" width="11" height="15" font="0">• </text>
+<text top="915" left="193" width="530" height="15" font="0">Led five-person group to design a solar powered UAV, including the design and </text>
+<text top="933" left="193" width="592" height="15" font="0">structural analysis of the wing and fuselage using SolidWorks and detailed hand analysis </text>
+<text top="951" left="193" width="81" height="15" font="0">techniques. </text>
+<text top="978" left="135" width="650" height="15" font="2"><b>“Real-Time Position Sensing with Accelerometers”</b>                        February 2009 – May 2009 </text>
+<text top="996" left="135" width="649" height="15" font="0">Team Leader                                                                                       SCuD Lab, Boston University </text>
+<text top="1017" left="167" width="9" height="12" font="3">• </text>
+<text top="1014" left="194" width="576" height="15" font="0">Led four-person team to create an accelerometer sensor circuit and write a program to </text>
+<text top="1032" left="194" width="523" height="15" font="0">extrapolate real-time positioning data of an oscillating platform using LabVIEW.</text>
+<text top="1034" left="717" width="3" height="12" font="3"> </text>
+<text top="1049" left="135" width="3" height="12" font="3"> </text>
+<text top="1064" left="135" width="108" height="15" font="2"><b>AFFILIATIONS </b></text>
+<text top="1083" left="162" width="11" height="15" font="0">• </text>
+<text top="1082" left="189" width="596" height="15" font="0">Member, American Institute of Aeronautics and Astronautics                           2009 - 2012<b> </b></text>
+</page>
+</pdf2xml>

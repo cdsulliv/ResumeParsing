@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="4" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+	<fontspec id="6" size="13" family="Symbol" color="#000000"/>
+	<fontspec id="7" size="13" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000009"/>
+	<fontspec id="9" size="13" family="Times" color="#000009"/>
+<text top="55" left="54" width="268" height="27" font="0"><b>YUANYUAN XIA             </b></text>
+<text top="66" left="323" width="64" height="13" font="1">418 East 74</text>
+<text top="65" left="387" width="6" height="8" font="2">th</text>
+<text top="66" left="392" width="462" height="13" font="1"> Street, New York, NY 10021 | Phone: 203 609 3070 | E-mail: phyllisxia.job@gmail.com</text>
+<text top="118" left="54" width="82" height="20" font="3"><b>Summary</b></text>
+<text top="164" left="54" width="765" height="17" font="4">Financial professional with 2 years’ experience in quantitative analysis, financial modeling and risk analysis; Strong </text>
+<text top="181" left="54" width="771" height="17" font="4">background in fixed-income, credit rating, derivatives and hedging strategies; Good knowledge of corporate finance, </text>
+<text top="198" left="54" width="808" height="17" font="4">including financial statement analysis, budgeting and forecasting; Proficiency in Excel, Access, VBA, Matlab, RiskMetrics, </text>
+<text top="215" left="54" width="788" height="17" font="4">SPSS, Stata, SAP and Bloomberg Terminal; CFA level 2 candidate; Highly-motivated and responsible individual who is </text>
+<text top="233" left="54" width="288" height="17" font="4">able to multi-task and work under pressure.</text>
+<text top="286" left="54" width="96" height="20" font="3"><b>Experience</b></text>
+<text top="331" left="54" width="801" height="17" font="5"><b>Wall Street North Consulting | Financial Risk Analyst Intern      May 2015 to present                    Stamford CT, U.S</b></text>
+<text top="356" left="54" width="7" height="20" font="6"></text>
+<text top="357" left="81" width="770" height="17" font="4">Validated and reconciled internal credit rating model of <i><b>Federal Home Loan Bank</b></i>, reviewed conceptual soundness </text>
+<text top="378" left="81" width="743" height="17" font="4">of model theory and appropriateness of inputs, calculated CAPs based on credit scores and default information, </text>
+<text top="398" left="81" width="534" height="17" font="4">compared model results to similar benchmarking model and historical outcomes.</text>
+<text top="415" left="54" width="7" height="20" font="6"></text>
+<text top="416" left="81" width="780" height="17" font="4">Analyzed fixed income portfolio performance of <i><b>US Bank</b></i>, using Polypaths software; designed hedging portfolios with </text>
+<text top="437" left="81" width="670" height="17" font="4">Caps, Floors, Swaptions, Futures and other derivatives, and simulated scenarios to do stress-testing.</text>
+<text top="454" left="54" width="7" height="20" font="6"></text>
+<text top="456" left="81" width="780" height="17" font="4">Back-tested MBS prepayment model, for both GSE (Fannie Mae, Ginnie Mae, Freddie Mac) and non-gov agencies in </text>
+<text top="477" left="81" width="760" height="17" font="4">rolling periods, analyzed in product level, vintage level and coupon level, calculated and forecasted CPR and WAL.</text>
+<text top="511" left="54" width="806" height="17" font="5"><b>China Construction Bank | Financial Analyst Summer Intern      June 2014 to Aug 2014                  Shanghai, China</b></text>
+<text top="536" left="54" width="7" height="20" font="6"></text>
+<text top="537" left="81" width="729" height="17" font="4">Helped credit loan manager underwrite credit requests and process real estate mortgage loan applications for </text>
+<text top="558" left="81" width="369" height="17" font="4">residential, mixed-use and small multi-family properties.</text>
+<text top="575" left="54" width="7" height="20" font="6"></text>
+<text top="577" left="81" width="717" height="17" font="4">Analyzed credit risk and prepayment risk; forecasted default probability, loss given default and recovery rate.</text>
+<text top="595" left="54" width="7" height="20" font="6"></text>
+<text top="596" left="81" width="774" height="17" font="4">Prepared monthly data for credit risk metrics based on newly published financial performance statements, monitored </text>
+<text top="617" left="81" width="497" height="17" font="4">dashboard against predefined thresholds, and reported alerts to managers.</text>
+<text top="634" left="54" width="7" height="20" font="6"></text>
+<text top="636" left="81" width="658" height="17" font="4">Assisted in presentation for investor meetings, gathering data, preparing charts, and writing reports.</text>
+<text top="654" left="54" width="7" height="20" font="6"></text>
+<text top="655" left="81" width="782" height="17" font="4">Calculated portfolio VaRs using Historical Simulation and Monte-Carlo method, and utilized SQL, Excel, or MATLAB to</text>
+<text top="676" left="81" width="415" height="17" font="4">query and manipulate large data sets to conduct data analysis.</text>
+<text top="711" left="54" width="392" height="17" font="5"><b>L'Oreal (China Head Office) | Financial Controlling Intern</b></text>
+<text top="711" left="486" width="369" height="17" font="5"><b>     Dec 2013 to April 2014                          Shanghai, China</b></text>
+<text top="735" left="54" width="7" height="20" font="6"></text>
+<text top="737" left="81" width="744" height="17" font="4">Consolidated Luxury Division financial reports and prepared analysis including P/L, Key Figure, Weekly Sales by</text>
+<text top="758" left="81" width="432" height="17" font="4">channel/door, CIV Price, A&amp;P, SG&amp;A, CAPEX &amp; Depreciation etc.</text>
+<text top="775" left="54" width="7" height="20" font="6"></text>
+<text top="776" left="81" width="736" height="17" font="4">Detected variances between budget and YTD actual sales performance, traced it to detailed categories or even</text>
+<text top="797" left="81" width="610" height="17" font="4">single product, and found potential growth points in rest of the year to reach TTL year target.</text>
+<text top="814" left="54" width="7" height="20" font="6"></text>
+<text top="816" left="81" width="759" height="17" font="4">Simplified updating procedure of financial reports using VBA and Matlab; shortened the process from hours to one-</text>
+<text top="837" left="81" width="344" height="17" font="4">click, largely improving whole team's working efficiency.</text>
+<text top="893" left="54" width="87" height="20" font="3"><b>Education</b></text>
+<text top="938" left="54" width="807" height="17" font="8"><b>University of Connecticut                                                                                                                      Stamford, CT, US</b>   </text>
+<text top="955" left="54" width="803" height="17" font="8"><b>Mater of Science: Financial Mathematics                                                                                      Sep 2014 to Dec 2015</b> </text>
+<text top="972" left="54" width="802" height="17" font="9">Core courses: Market Risk &amp; Credit Risk Management, Financial Risk Modeling, Financial Programming     GPA: 3.96/4.0</text>
+<text top="1005" left="54" width="804" height="17" font="8"><b>Shanghai University of Finance and Economics                                                                                   Shanghai, China </b></text>
+<text top="1024" left="54" width="348" height="17" font="8"><b>Bachelor of Management: International Business</b></text>
+<text top="1024" left="486" width="372" height="17" font="8"><b>                                                   Sep 2010 to July 2014</b> </text>
+<text top="1044" left="54" width="804" height="17" font="9">Core courses: International Finance, Corporate Finance, Financial Accounting, econometrics, Statistic        GPA: 3.58/4.0 </text>
+<text top="1072" left="54" width="803" height="17" font="5"><b>Toulouse Business School                                                                                                                     Toulouse, France </b></text>
+<text top="1092" left="54" width="806" height="17" font="5"><b>Exchange program: International Business                                                                                 Dec 2012 to June 2013 </b></text>
+</page>
+<outline>
+<item page="1">Summary</item>
+<item page="1">Experience</item>
+<outline>
+<item page="1">Wall Street North Consulting | Financial Risk Analyst Intern May 2015 to present Stamford CT, U.S</item>
+<item page="1">China Construction Bank | Financial Analyst Summer Intern June 2014 to Aug 2014 Shanghai, China</item>
+<item page="1">L'Oreal (China Head Office) | Financial Controlling Intern	     Dec 2013 to April 2014                          Shanghai, China</item>
+</outline>
+<item page="1">Education</item>
+<outline>
+<item page="1">University of Connecticut Stamford, CT, US Mater of Science: Financial Mathematics Sep 2014 to Dec 2015 Core courses: Market Risk &amp; Credit Risk Management, Financial Risk Modeling, Financial Programming GPA: 3.96/4.0</item>
+<item page="1">Shanghai University of Finance and Economics Shanghai, China Bachelor of Management: International Business Sep 2010 to July 2014 Core courses: International Finance, Corporate Finance, Financial Accounting, econometrics, Statistic GPA: 3.58/4.0</item>
+</outline>
+</outline>
+</pdf2xml>

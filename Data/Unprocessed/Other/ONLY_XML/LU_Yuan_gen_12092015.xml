@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="25" family="Times" color="#000000"/>
+	<fontspec id="1" size="13" family="Times" color="#000000"/>
+	<fontspec id="2" size="13" family="Times" color="#0000ff"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+	<fontspec id="6" size="12" family="Symbol" color="#000000"/>
+<text top="50" left="361" width="203" height="24" font="0"><b>Jenny (Yuan) Lu </b></text>
+<text top="78" left="296" width="329" height="14" font="1">5221 Fort Hamilton Parkway, Brooklyn, NY 11219 </text>
+<text top="96" left="209" width="117" height="14" font="2"><a href="mailto:jennyylu@mit.edu">jennyylu@mit.edu</a></text>
+<text top="96" left="327" width="382" height="14" font="1"><a href="mailto:jennyylu@mit.edu"> </a> | (646) 575 – 6032 | linkedin.com/in/jennyylu | U.S. Citizen</text>
+<text top="121" left="54" width="752" height="14" font="3"><b>OBJECTIVE:</b> Recent graduate with internship experiences seeking entry level, cross-functional engineering position. </text>
+<text top="147" left="54" width="106" height="14" font="3"><b>EDUCATION: </b></text>
+<text top="164" left="108" width="443" height="13" font="4"><b>Massachusetts Institute of Technology (MIT)</b> – Cambridge, MA, USA </text>
+<text top="182" left="108" width="337" height="13" font="5">B. Sc. in Materials Science and Engineering, June 2015 </text>
+<text top="199" left="108" width="83" height="13" font="5">GPA: 4.3/5.0 </text>
+<text top="217" left="108" width="721" height="13" font="5">Courses: Mechanical Behavior of Materials; Materials Processing; Micro/Nano Processing Technologies; Innovation &amp; </text>
+<text top="234" left="169" width="617" height="13" font="5">Commercialization of Materials Technology; Engineering, Innovation, &amp; Design; Project Engineering<b> </b></text>
+<text top="252" left="108" width="752" height="13" font="5">Thesis Research:<b> </b>In-Situ Characterization of Carbon Nanotube (CNT) Forests via Electrochemical Impedance Spectroscopy <b> </b></text>
+<text top="266" left="216" width="7" height="18" font="6"></text>
+<text top="271" left="223" width="580" height="14" font="5">  Cultivated and prepared CNT samples on silicon wafers via chemical vapor deposition (CVD). </text>
+<text top="285" left="216" width="7" height="18" font="6"></text>
+<text top="290" left="223" width="584" height="14" font="5">  Designed, fabricated, and debugged electrochemical cell setup for experimental data collection. </text>
+<text top="305" left="216" width="7" height="18" font="6"></text>
+<text top="309" left="223" width="635" height="14" font="5">  Analyzed and processed cyclic voltammetry (CV) and impedance spectroscopy data and MATLAB fits. </text>
+<text top="324" left="216" width="7" height="18" font="6"></text>
+<text top="328" left="223" width="602" height="14" font="5">  Results and conclusions incorporated into journal publication and conference papers (in-progress). </text>
+<text top="353" left="54" width="113" height="14" font="3"><b>EXPERIENCE:</b> </text>
+<text top="371" left="54" width="137" height="13" font="5">Jun 2015 – Aug 2015  </text>
+<text top="371" left="216" width="603" height="13" font="4"><b>Xtreme Materials Lab @ Singapore University of Technology and Design (SUTD)</b> – Singapore<b> </b></text>
+<text top="389" left="216" width="606" height="13" font="4"><b>Summer</b> <b>Intern</b>                                                                                                                                       </text>
+<text top="402" left="216" width="7" height="18" font="6"></text>
+<text top="407" left="223" width="636" height="14" font="5">  Studied crack and stress mechanics in crystalline silicon (c-Si) solar photovoltaic cells via modeling and </text>
+<text top="425" left="230" width="515" height="13" font="5">simulations using finite element analysis/method (FEA/FEM) software Abaqus FEA. </text>
+<text top="438" left="216" width="7" height="18" font="6"></text>
+<text top="442" left="223" width="641" height="14" font="5">  Tested solar module mechanical integrity via three-point bend and dynamic mechanical analysis (DMA). </text>
+<text top="465" left="54" width="138" height="13" font="5">Jan 2012 – May 2015  </text>
+<text top="465" left="216" width="822" height="13" font="4"><b>MIT SDM and LGO Program Office</b> – Cambridge, MA<b>                                                                                                                             </b> <b> </b></text>
+<text top="482" left="108" width="11" height="13" font="4"><b>   </b></text>
+<text top="482" left="162" width="4" height="13" font="4"><b> </b></text>
+<text top="482" left="216" width="133" height="13" font="4"><b>Accounting Support </b></text>
+<text top="496" left="216" width="7" height="18" font="6"></text>
+<text top="501" left="223" width="597" height="14" font="5">  Audited accounting records and transactions to reconcile merchant statements and balance sheets. </text>
+<text top="523" left="54" width="137" height="13" font="5">Jun 2014 – Aug 2014  </text>
+<text top="523" left="216" width="747" height="13" font="4"><b>IHI Corporation</b> – Yokohama, Kanagawa, Japan<b>                                                                                                                       </b></text>
+<text top="540" left="216" width="604" height="13" font="4"><b>Intern, Advanced Applied Science Department                                                                                </b> </text>
+<text top="554" left="216" width="7" height="18" font="6"></text>
+<text top="559" left="223" width="639" height="14" font="5">  Investigated use of carbon nanowalls (CNWs) as saturable absorber (SA) material for ultrafast, passively </text>
+<text top="576" left="230" width="585" height="13" font="5">mode-locked fiber lasers by collecting and analyzing laser testing data of polyimide-CNW films. </text>
+<text top="598" left="54" width="137" height="13" font="5">Jun 2013 – Aug 2013  </text>
+<text top="598" left="216" width="215" height="13" font="4"><b>Sumeria Group</b> – New York, NY<b> </b> </text>
+<text top="616" left="54" width="4" height="13" font="5"> </text>
+<text top="616" left="108" width="11" height="13" font="5">   </text>
+<text top="616" left="162" width="4" height="13" font="5"> </text>
+<text top="616" left="216" width="600" height="13" font="4"><b>Business Development Intern</b>                                                                                                              </text>
+<text top="630" left="216" width="7" height="18" font="6"></text>
+<text top="634" left="223" width="605" height="14" font="5">  Researched and initiated partnerships with startups to support business model and expand network. </text>
+<text top="659" left="54" width="226" height="14" font="3"><b>LEADERSHIP &amp; ACTIVITIES: </b></text>
+<text top="677" left="54" width="140" height="13" font="5">May 2015 – Sep 2015<b>  </b></text>
+<text top="677" left="216" width="761" height="13" font="4"><b>MIT Innovation Diplomats Program</b> – Singapore<b>                                                                                                                        </b></text>
+<text top="695" left="54" width="17" height="13" font="4"><b>   </b></text>
+<text top="695" left="108" width="4" height="13" font="4"><b> </b></text>
+<text top="695" left="162" width="4" height="13" font="4"><b> </b></text>
+<text top="695" left="216" width="87" height="13" font="4"><b>iDiplomat     </b> </text>
+<text top="709" left="216" width="7" height="18" font="6"></text>
+<text top="713" left="223" width="626" height="14" font="5">  Researched and interviewed stakeholders (e.g. entrepreneurs, government officials, etc.) to learn about </text>
+<text top="727" left="230" width="587" height="17" font="5">Singapore’s innovation ecosystem and initiatives for promoting entrepreneurship and innovation. </text>
+<text top="752" left="54" width="138" height="13" font="5">Feb 2015 – Aug 2015  </text>
+<text top="752" left="216" width="267" height="13" font="4"><b>LEAD Programme @ SUTD</b> – Singapore<b> </b> </text>
+<text top="770" left="54" width="17" height="13" font="5">   </text>
+<text top="770" left="108" width="4" height="13" font="5"> </text>
+<text top="770" left="162" width="4" height="13" font="5"> </text>
+<text top="770" left="216" width="577" height="13" font="4"><b>Participant/Session Facilitator</b>                                                                                                      </text>
+<text top="784" left="216" width="7" height="18" font="6"></text>
+<text top="788" left="223" width="615" height="14" font="5">  Engaged in eight weeks of training sessions to refine leadership skills within the student community. </text>
+<text top="810" left="54" width="140" height="13" font="5">Sep 2013 – May 2015  </text>
+<text top="810" left="216" width="471" height="13" font="4"><b>Gordon-MIT Engineering Leadership Program (GEL)</b> – Cambridge, MA<b> </b> </text>
+<text top="828" left="216" width="586" height="13" font="4"><b>Team Leader/Assessment Team Member</b>                                                                                     <b> </b></text>
+<text top="842" left="216" width="7" height="18" font="6"></text>
+<text top="846" left="223" width="632" height="14" font="5">  Developed and polished technical, analytical, and communication skills necessary to succeed as leaders </text>
+<text top="864" left="230" width="629" height="13" font="5">in engineering and industry through immersive engineering leadership courses and activities/challenges. </text>
+<text top="882" left="54" width="142" height="13" font="5">Dec 2011 – May 2015  </text>
+<text top="882" left="216" width="265" height="13" font="4"><b>MIT China Care Club</b> – Cambridge, MA<b> </b> </text>
+<text top="900" left="216" width="588" height="13" font="4"><b>Transition Advisor/Fundraising Chairperson/Executive Board Member/Secretary</b>                <b> </b></text>
+<text top="914" left="216" width="7" height="18" font="6"></text>
+<text top="918" left="223" width="585" height="14" font="5">  Organized fundraisers and playgroups with locally adopted Chinese orphans to raise awareness, </text>
+<text top="936" left="230" width="596" height="13" font="5">publicity, and money (over $3000) to fund surgeries for Chinese orphans (more than 5 sponsored). </text>
+<text top="957" left="54" width="138" height="13" font="5">Aug 2012 – Sep 2014  </text>
+<text top="957" left="216" width="183" height="13" font="4"><b>dynaMIT</b> – Cambridge, MA  </text>
+<text top="975" left="108" width="4" height="13" font="4"><b> </b></text>
+<text top="975" left="162" width="4" height="13" font="4"><b> </b></text>
+<text top="975" left="216" width="569" height="13" font="4"><b>Co-Director/External Relations Executive Board Member/Mentor</b>                                      <b> </b></text>
+<text top="989" left="216" width="7" height="18" font="6"></text>
+<text top="993" left="223" width="644" height="14" font="5">  Directed organization, logistics, outreach, publicity, and fundraising (over $15,000 total for 2014 session) </text>
+<text top="1011" left="230" width="636" height="13" font="5">for student-run club that provides a free, week-long STEM program for underprivileged middle schoolers </text>
+<text top="1028" left="230" width="584" height="13" font="5">to inspire STEM interest through hands-on activities/experiments, demonstrations, and lab tours. </text>
+<text top="1053" left="54" width="66" height="14" font="3"><b>SKILLS: </b></text>
+<text top="1071" left="108" width="759" height="13" font="4"><b>Languages:</b> English (Native), Mandarin Chinese (Fluent), Japanese (Intermediate), Spanish (Conversant), Korean (Beginner) </text>
+<text top="1088" left="108" width="436" height="13" font="4"><b>Computer:</b> Mathematica, Python, Java, CAD, MATLAB, Abaqus FEA </text>
+<text top="1105" left="108" width="731" height="13" font="4"><b>Laboratory:</b> Scanning Electron Microscopy (SEM), X-Ray Diffraction (XRD), Chemical Vapor Deposition (CVD), etc. </text>
+</page>
+</pdf2xml>

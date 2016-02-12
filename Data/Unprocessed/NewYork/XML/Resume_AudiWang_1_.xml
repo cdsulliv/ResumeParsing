@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="21" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#000000"/>
+<image top="130" left="39" width="839" height="14" src="/home/shreya/Wharton/NEW/NewYork/XML/Resume_AudiWang_1_-1_1.png"/>
+<image top="98" left="108" width="693" height="38" src="/home/shreya/Wharton/NEW/NewYork/XML/Resume_AudiWang_1_-1_2.png"/>
+<text top="56" left="386" width="125" height="28" font="0"><b>Audi	  Wang	  </b></text>
+<text top="77" left="74" width="5" height="28" font="0"><b>	  </b></text>
+<text top="101" left="54" width="117" height="17" font="1"><b>	   	   	   	   	   	   	   	   	   	   	   	   	   	   	  </b></text>
+<text top="116" left="54" width="101" height="17" font="1"><b>	   	   	   	   	   	   	   	   	   	   	   	   	  </b></text>
+<text top="133" left="90" width="4" height="16" font="2"> </text>
+<text top="150" left="54" width="192" height="16" font="1"><b>Summary of qualifications </b></text>
+<text top="169" left="67" width="242" height="15" font="2">•  CFA Level 2 Candidate, June, 2015 </text>
+<text top="186" left="67" width="370" height="15" font="2">•  Charter Financial Analyst (CFA) Level 1 exam-complete </text>
+<text top="202" left="67" width="271" height="15" font="2">•  Programming software-SAS and Eviews </text>
+<text top="219" left="67" width="479" height="15" font="2">•  Solid of Data Analysis, Macroeconomics and Financial Statement Analysis </text>
+<text top="235" left="67" width="436" height="15" font="2">•  Competent in leadership, oral communication, and Finance research </text>
+<text top="252" left="67" width="277" height="15" font="2">•  Language fluent in English and Mandarin </text>
+<text top="268" left="67" width="178" height="15" font="2">•  U.S. Permanent Resident </text>
+<text top="282" left="54" width="4" height="16" font="2"> </text>
+<text top="298" left="54" width="84" height="16" font="1"><b>Experience </b></text>
+<text top="315" left="54" width="4" height="16" font="1"><b> </b></text>
+<text top="331" left="54" width="4" height="16" font="1"><b> </b></text>
+<text top="330" left="62" width="778" height="18" font="1"><b>Finance	  Intern,	  Whitford	  Holding	  LLC	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   May	  2014-­‐Aug	  2014	  </b></text>
+<text top="351" left="67" width="626" height="15" font="2">•  Evaluate company by Discount Cash Flow Model, Market-based Model, and Fundamental Analysis </text>
+<text top="367" left="67" width="542" height="15" font="2">•  Develop financing and marketing plans to re-brand a nutritional supplement company </text>
+<text top="384" left="67" width="614" height="15" font="2">•  Predict domestic and overseas nutritional market to build new business distribution plan for client<b> </b></text>
+<text top="397" left="54" width="783" height="18" font="1"><b>	   Research	  Assistant,	  Yuan-­‐Ze	  University	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Sep	  2011-­‐Jun	  2013	  </b></text>
+<text top="417" left="67" width="548" height="15" font="2">•  Excellent predict stock return and risk by time series model with accounting prediction </text>
+<text top="433" left="67" width="473" height="15" font="2">•  Thesis: International Cross-listing and Stock Price Informativeness (2013) </text>
+<text top="450" left="67" width="411" height="15" font="2">•  Research the impact of financial crisis on ADR informativeness<b> </b></text>
+<text top="466" left="67" width="751" height="15" font="2">•  Capable of handling multiple tasks, manage multiple projects being flexible and responsive, and translating key business </text>
+<text top="480" left="90" width="266" height="16" font="2">findings and insights based on data analysis </text>
+<text top="496" left="54" width="782" height="18" font="1"><b>	   Teaching	  Assistant,	  Yuan-­‐Ze	  University	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Sep	  2012-­‐Jun	  2013	  </b></text>
+<text top="516" left="67" width="444" height="15" font="2">•  Instruct and tutor 135 students in Macroeconomics and Econometrics </text>
+<text top="529" left="54" width="4" height="16" font="2"> </text>
+<text top="546" left="54" width="72" height="16" font="1"><b>Education</b></text>
+<text top="545" left="126" width="3" height="17" font="1"><b>	  </b></text>
+<text top="562" left="53" width="4" height="16" font="2"> </text>
+<text top="579" left="53" width="273" height="16" font="2">West Virginia University, Morgantown, WV </text>
+<text top="595" left="53" width="145" height="16" font="2">M.S. in Finance, 2014   </text>
+<text top="612" left="53" width="83" height="16" font="2">GPA: 3.5/4.0 </text>
+<text top="562" left="353" width="4" height="16" font="2"> </text>
+<text top="579" left="353" width="192" height="16" font="2">Yuan-Ze University, Taiwan     </text>
+<text top="595" left="353" width="238" height="16" font="2">M.S in Finance, 2013                             </text>
+<text top="612" left="353" width="83" height="16" font="2">GPA: 4.0/4.0 </text>
+<text top="562" left="557" width="4" height="16" font="2"> </text>
+<text top="579" left="557" width="255" height="16" font="2">National Sun Yet-Sen University, Taiwan </text>
+<text top="595" left="557" width="220" height="16" font="2">B.S in Financial Management, 2011 </text>
+<text top="612" left="557" width="79" height="16" font="2">GPA: 3.5/4.0</text>
+<text top="628" left="53" width="4" height="16" font="1"><b> </b></text>
+<text top="644" left="53" width="190" height="18" font="1"><b>	   Financial	  Statement	  Analysis	  </b></text>
+<text top="664" left="66" width="384" height="15" font="2">•  Analyze whole 10-K to measure the firm value of company </text>
+<text top="681" left="66" width="653" height="15" font="2">•  Proficient with capturing the trend of net income to predict future operating performance of public firms </text>
+<text top="697" left="66" width="533" height="15" font="2">•  Evaluated organizational performance and compared ratios with industry competitor </text>
+<text top="714" left="66" width="529" height="15" font="2">•  Expert in Intermediate Accounting, Cost Accounting, and Management Accounting </text>
+<text top="726" left="53" width="90" height="18" font="1"><b>	   Quantitative</b>	  </text>
+<text top="747" left="66" width="299" height="15" font="2">•  Statistic data analysis and regression analysis </text>
+<text top="763" left="66" width="493" height="15" font="2">•  Specialized in developing time series model to predict future market dynamic </text>
+<text top="780" left="66" width="350" height="15" font="2">•  Excellent measure dynamic VAR in risk management </text>
+<text top="793" left="53" width="129" height="18" font="1"><b>	   Data	  Programming	  </b></text>
+<text top="813" left="66" width="459" height="15" font="2">•  Eviews 8 &amp; SAS<b>:</b> Experience in data management, coding, and analysis<b> </b></text>
+<text top="829" left="66" width="746" height="15" font="2">•  Enthusiastic learner of new technical tools and software applications, and present ideas in a clear and concise manner to </text>
+<text top="843" left="89" width="124" height="16" font="2">senior management. </text>
+<text top="858" left="53" width="124" height="18" font="1"><b>	   Database	  Analysis	  </b></text>
+<text top="879" left="66" width="770" height="15" font="2">•  Advanced in combining different databases such as COMPUSTAT, CRSP, IBES, Mergent Online, World Bank, FRED and </text>
+<text top="892" left="89" width="72" height="16" font="2">Datastream </text>
+<text top="908" left="53" width="95" height="18" font="1"><b>	   Management	  </b></text>
+<text top="928" left="66" width="774" height="15" font="2">•  Passionate in business management, especially the combination of Finance, Marketing, Human Resource, to make corporate </text>
+<text top="942" left="89" width="101" height="16" font="2">policy decisions </text>
+<text top="958" left="53" width="4" height="16" font="1"><b> </b></text>
+<text top="975" left="53" width="182" height="16" font="1"><b>Leadership Achievement </b></text>
+<text top="991" left="53" width="4" height="16" font="1"><b> </b></text>
+<text top="1007" left="53" width="781" height="18" font="1"><b>	   Association	  for	  Corporate	  Growth	  (ACG)	  Cup	  Round	  1	  Winner	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Feb	  2014-­‐Mar	  2014	  </b></text>
+<text top="1027" left="66" width="681" height="15" font="2">•  Present investment suggestions to private equity professionals with corporate valuations and M&amp;A strategies </text>
+<text top="1040" left="53" width="1164" height="18" font="1"><b>	   Vesta	  international	  volunteer	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Apr	  2013-­‐Present	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	  </b></text>
+<text top="1060" left="67" width="549" height="15" font="2">•  Develop strategies creative ideas to increase membership of philanthropic organization </text>
+<text top="1073" left="53" width="775" height="18" font="1"><b>	   Business	  Management	  Competition	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Feb	  2011-­‐Jul	  2011	  </b></text>
+<text top="1093" left="66" width="402" height="15" font="2">•  2nd place in a Smart Phone Application Business Competition </text>
+<text top="1106" left="53" width="779" height="18" font="1"><b>	   President	  of	  Student	  Association,	  National	  Sun	  Yet-­‐Sen	  University	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Sep	  2009-­‐Jun	  2010	  </b></text>
+<text top="1126" left="66" width="659" height="15" font="2">•  Oversee association's efforts on student activity events and planning, school policy support from students </text>
+<text top="1143" left="66" width="628" height="15" font="2">•  Organized budget allocation, fiscal planning, recognition of developing issues pertaining to students </text>
+<text top="1159" left="66" width="453" height="15" font="2">•  Highly motivated with excellent organizational and interpersonal skills </text>
+<text top="1172" left="53" width="778" height="18" font="1"><b>	   Academic	  Director	  of	  Student	  Association,	  National	  Sun	  Yet-­‐Sen	  University	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   Sep	  2008-­‐Jun	  2009	  </b></text>
+<text top="1192" left="66" width="425" height="15" font="2">•  Communicate with company managers to hold academic seminars </text>
+<text top="96" left="408" width="96" height="17" font="2">347-­‐348-­‐6778	  </text>
+<text top="111" left="378" width="156" height="17" font="2">	   wiwang@mix.wvu.edu	  </text>
+</page>
+</pdf2xml>

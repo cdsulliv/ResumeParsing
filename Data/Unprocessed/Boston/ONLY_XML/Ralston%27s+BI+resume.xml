@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.24.5">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="23" family="Times" color="#000000"/>
+	<fontspec id="1" size="16" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="16" family="Symbol" color="#3a3a3a"/>
+<text top="69" left="382" width="154" height="28" font="0"><b>Ralston Grose</b></text>
+<text top="102" left="395" width="129" height="20" font="1">6a Franklin Street</text>
+<text top="126" left="378" width="163" height="20" font="1">Hyde Park, MA 02136</text>
+<text top="150" left="269" width="380" height="20" font="1">Cellphone: (857) 251-5169    Home: (617) 361-7383</text>
+<text top="173" left="376" width="166" height="18" font="2">ralstongrose@gmail.com</text>
+<text top="218" left="108" width="109" height="20" font="3"><b>EDUCATION</b></text>
+<text top="253" left="108" width="84" height="20" font="1">Institution: </text>
+<text top="253" left="216" width="272" height="20" font="3"><b>University of Massachusetts Boston</b></text>
+<text top="253" left="648" width="143" height="20" font="3"><b>            </b>Boston, MA</text>
+<text top="277" left="216" width="590" height="20" font="1">Bachelors of Science in Information Technology Major, Concentration – Business</text>
+<text top="300" left="216" width="337" height="20" font="1">Intelligence, Magna cum Laude, Class of 2015</text>
+<text top="324" left="216" width="181" height="20" font="1">Dean’s List (2010- 2015)</text>
+<text top="348" left="108" width="84" height="20" font="1">Institution: </text>
+<text top="348" left="216" width="159" height="20" font="3"><b>Boston Latin School </b></text>
+<text top="348" left="594" width="197" height="20" font="3"><b>                        </b>Boston, MA</text>
+<text top="372" left="216" width="340" height="20" font="1">College Preparatory Curriculum, Class of 2010</text>
+<text top="413" left="108" width="118" height="20" font="3"><b>EXPERIENCE</b></text>
+<text top="446" left="108" width="368" height="20" font="1">July 2013/14 –       <b>Department of Mental Health</b></text>
+<text top="446" left="540" width="45" height="20" font="3"><b>          </b></text>
+<text top="446" left="702" width="89" height="20" font="1">Boston<b>, </b>MA</text>
+<text top="469" left="108" width="249" height="20" font="1">August 2013/14 <i>Contracted Intern</i></text>
+<text top="492" left="216" width="8" height="23" font="5"></text>
+<text top="494" left="243" width="423" height="20" font="1">Scan department Items and add/update inventory database </text>
+<text top="519" left="216" width="8" height="23" font="5"></text>
+<text top="521" left="243" width="269" height="20" font="1">Sort and file confidential information</text>
+<text top="546" left="216" width="8" height="23" font="5"></text>
+<text top="548" left="243" width="363" height="20" font="1">Input various information to respective Databases </text>
+<text top="573" left="216" width="8" height="23" font="5"></text>
+<text top="575" left="243" width="297" height="20" font="1">Designed and created an Access database</text>
+<text top="624" left="108" width="236" height="20" font="3"><b>SKILLS &amp; ACHIEVEMENTS</b></text>
+<text top="656" left="216" width="8" height="23" font="6"></text>
+<text top="658" left="243" width="513" height="20" font="1">Experience in the analysis and design of computer information systems</text>
+<text top="683" left="216" width="8" height="23" font="6"></text>
+<text top="685" left="243" width="562" height="20" font="1">Experienced using effective diagramming and notational techniques to define </text>
+<text top="710" left="243" width="532" height="20" font="1">and document functional requirements and operational business processes</text>
+<text top="733" left="216" width="8" height="23" font="6"></text>
+<text top="735" left="243" width="523" height="20" font="1">Able to examine current methods used to test and evaluate the accuracy, </text>
+<text top="760" left="243" width="543" height="20" font="1">completeness, and usability of documented requirements and convert them </text>
+<text top="784" left="243" width="407" height="20" font="1">into efficient systems design or re-engineering processes</text>
+<text top="807" left="216" width="8" height="23" font="6"></text>
+<text top="809" left="243" width="549" height="20" font="1">Have created system prototypes using Visual Basics such as shopping carts, </text>
+<text top="834" left="243" width="334" height="20" font="1">banking systems, and airline ticketing systems</text>
+<text top="858" left="216" width="8" height="23" font="6"></text>
+<text top="860" left="243" width="525" height="20" font="1">Have obtained the technical skills required to plan and implement a data </text>
+<text top="885" left="243" width="355" height="20" font="1">warehouse using a database management system.</text>
+<text top="908" left="216" width="8" height="23" font="6"></text>
+<text top="910" left="243" width="528" height="20" font="1">Have working knowledge of dimensional data modeling for warehouses, </text>
+<text top="935" left="243" width="564" height="20" font="1">CUBES and storage modes including MOLAP, ROLAP and HOLAP, and data</text>
+<text top="959" left="243" width="455" height="20" font="1">warehousing infrastructure and analytical service tool selection</text>
+<text top="982" left="216" width="8" height="23" font="6"></text>
+<text top="984" left="243" width="536" height="20" font="1">Proficient in creating simple and complex programs using C, Java such as </text>
+<text top="1009" left="243" width="499" height="20" font="1">building client server systems that facilitate communicating between </text>
+<text top="1033" left="243" width="499" height="20" font="1">databases and applications both in the local system and over the web.</text>
+<text top="1056" left="216" width="8" height="23" font="6"></text>
+<text top="1058" left="243" width="561" height="20" font="1"> Have designed and created relational databases using MySQL and Microsoft </text>
+<text top="1083" left="243" width="51" height="20" font="1">Access</text>
+<text top="1106" left="216" width="8" height="23" font="6"></text>
+<text top="1109" left="243" width="316" height="20" font="1">Working Knowledge of the Linux/Unix OS </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="16" family="Times" color="#3a3a3a"/>
+<text top="68" left="216" width="8" height="23" font="6"></text>
+<text top="70" left="243" width="514" height="20" font="1">Have practical experiences with several data mining methods based on </text>
+<text top="95" left="243" width="542" height="20" font="1">unsupervised algorithms such as cluster analysis and association rules, and </text>
+<text top="119" left="243" width="513" height="20" font="1">those based on supervised algorithms such as decision trees and neural </text>
+<text top="142" left="243" width="70" height="20" font="1">networks.</text>
+<text top="165" left="216" width="8" height="23" font="6"></text>
+<text top="168" left="243" width="481" height="20" font="1">Proficient in the use of the enterprise software IBM SPSS Modeler</text>
+<text top="192" left="216" width="8" height="23" font="6"></text>
+<text top="195" left="243" width="540" height="20" font="7">Experienced in the applications of BI, such as online analytical processing </text>
+<text top="220" left="243" width="560" height="20" font="7">(OLAP), dashboards, management reporting, performance measurement, and </text>
+<text top="243" left="243" width="436" height="20" font="7">data visualization, and how these are developed and applied.</text>
+<text top="267" left="216" width="8" height="23" font="6"></text>
+<text top="269" left="243" width="564" height="20" font="7">Have practical experience exploring BI in the context of decision-making and </text>
+<text top="294" left="243" width="565" height="20" font="7">closely related areas such as data warehousing, data marts, business analytics, </text>
+<text top="318" left="243" width="392" height="20" font="7">web analytics, real-time data, and mobile applications.</text>
+<text top="341" left="216" width="8" height="23" font="6"></text>
+<text top="343" left="243" width="562" height="20" font="1">Studied and worked with basic data communication and networking concepts </text>
+<text top="368" left="243" width="520" height="20" font="1">for LAN and WAN; network protocols with emphasis on Ethernet, PPP, </text>
+<text top="392" left="243" width="467" height="20" font="1">TCP/IP, and WWW protocols, and mobile and wireless networks</text>
+<text top="415" left="216" width="8" height="23" font="6"></text>
+<text top="417" left="243" width="337" height="20" font="1">Organized, efficient, self-driven and motivated</text>
+<text top="442" left="216" width="8" height="23" font="6"></text>
+<text top="444" left="243" width="546" height="20" font="1">Experienced in working in teams, both as a team member and in leadership </text>
+<text top="469" left="243" width="65" height="20" font="1">positions</text>
+<text top="492" left="216" width="8" height="23" font="6"></text>
+<text top="494" left="243" width="398" height="20" font="1">Enjoys working with people, strong interpersonal skills</text>
+<text top="543" left="108" width="121" height="20" font="3"><b>REFERENCES</b></text>
+<text top="569" left="223" width="8" height="23" font="5"></text>
+<text top="571" left="250" width="172" height="20" font="1">Available upon Request</text>
+</page>
+</pdf2xml>
