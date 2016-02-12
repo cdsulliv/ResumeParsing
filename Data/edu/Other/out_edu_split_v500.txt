@@ -1,0 +1,100 @@
+Resume_1_		{'Misc': {'deanslist': False}}
+
+Resume_9_		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': True}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 6}}
+
+Resume+Senior+1		{u'Carnegie Mellon University, Pittsburgh, PA ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.24'}, u' Lebanon High School, Lebanon, NH ': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': True}, u'College of Engineering Dean\xe2\x80\x99s List, Spring 2013 ': {'loc': 'New Hampshire', 'arr_pos': 2, 'associated_date': u'June 2012', 'GPA': u'3.24'}}
+
+Ons%27s+Resume		{'Misc': {'deanslist': True}, u'Bellevue College ': {'arr_pos': 4, 'associated_date': u'Dec 2011'}, u'Eastern Washington University   ': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'Jan 2012'}}
+
+Updated_Ron_Resume		{'Misc': {'deanslist': False}}
+
+S_RintelResume		{u'BFA West Chester University of Pennsylvania, 2009': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Resume_Aviva+Koloski		{'Misc': {'deanslist': False}}
+
+Peng%27s+Resume+_Techical+Version__5_		{'Misc': {'deanslist': True}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Resume+1+page_1_		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}}
+
+newresume		{'Misc': {'deanslist': False}}
+
+GZampierollo_Resume		{'Misc': {'deanslist': True}, u'The University of Chicago Chicago, IL ': {'loc': 'Puerto Rico', 'arr_pos': 2, 'associated_date': u'June 2013', 'GPA': u'3.90'}}
+
+Resume_18_		{'Misc': {'deanslist': False}}
+
+Aug2007+Resume		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': True}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 2}}
+
+Cucinotta_Resume+copy		{'Misc': {'deanslist': False}}
+
+justin+resume1		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Colorado', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': True}}
+
+Alice+Johnson+Resume+July+2015		{u'Vanderbilt University Bachelor of Arts, May 2015 ': {'loc': 'Tennessee', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.511'}, 'Misc': {'deanslist': True}}
+
+Kelvin+Leung+CV2_1_		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': True}}
+
+resume+821_1_		{'Misc': {'deanslist': True}, u'University of California, Berkeley     ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Sep 2016', 'GPA': u'3.89'}}
+
+MasonJenningsProfile		{'Misc': {'deanslist': False}}
+
+Sen+Han+Yang+Resume_1_		{'Misc': {'deanslist': False}}
+
+ONeillLoriA_Resume		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'GPA': u'4.0'}, 'Misc': {'deanslist': True}}
+
+WC-RESUME_1_		{'Misc': {'deanslist': True}, u'University of Illinois Champaign-Urbana                                                ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.20'}}
+
+Kazmierski_Lauren+11.27.14+MI		{'Misc': {'deanslist': True}}
+
+Resume.Barker.2012_		{'Misc': {'deanslist': True}, u'College of William and Mary, Williamsburg, VA ': {'loc': 'Virginia', 'arr_pos': 0}}
+
+adrieneresume_2_		{'Misc': {'deanslist': True}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+Dela_Cruz_R%c3%a9sum%c3%a9		{'Misc': {'deanslist': False}}
+
+Evan+T.+DiPillo+Resume		{'Misc': {'deanslist': True}, u'The Pennsylvania State University \xe2\x80\x93 University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.12'}}
+
+Rachel+King+Resume		{u'Dartmouth College, Hanover, NH': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2007'}, 'Misc': {'deanslist': True}, u'University of Kentucky College of Law, Lexington, KY': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+Neeraj+Girkala+-+Resume+2015		{u'New York University Tandon, Brooklyn NY   ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Resume+2015_1_		{'Misc': {'deanslist': False}}
+
+Resume_Zachary+Harney		{'Misc': {'deanslist': True}, u'GEORGIA INSTITUTE OF TECHNOLOGY, Scheller College of Business ': {'loc': 'Georgia', 'arr_pos': 3, 'associated_date': u'May 2016', 'GPA': u'3.62'}}
+
+Myra+Nizami+-+Resume_1_		{'Misc': {'deanslist': False}}
+
+tims+resume		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 1999'}, 'Misc': {'deanslist': True}}
+
+Ross+Johnson+Resume		{'Misc': {'deanslist': True}, u'University of Illinois at Urbana-Champaign, College of Liberal Arts and Sciences ': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'December 2014', 'GPA': u'3.14'}}
+
+Samir+Mehta+Resume.		{u'Dartmouth College ': {'loc': 'Florida', 'arr_pos': 11, 'associated_date': u'August 2011', 'GPA': u'3.10'}, u'Thayer School of Engineering at Dartmouth College ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'June 2012', 'GPA': u'3.45'}, 'Misc': {'deanslist': True}, u'Shanghai Jiao Tong University ': {'loc': 'Florida', 'arr_pos': 24, 'associated_date': u'June 2011'}}
+
+final+resume_1_		{u'when their tour made a stop in State College': {'loc': 'New York', 'arr_pos': 29}, u'Accepted to Curley Center School for Sports Journalism which offers enhanced sports writing classes ': {'loc': 'New York', 'arr_pos': 12}, u'Midnight Run, Bergen Catholic High School                                                                                                                          2007-': {'loc': 'New York', 'arr_pos': 57}, u'The Daily Collegian, Penn State University Park ': {'loc': 'New York', 'arr_pos': 7}, 'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.2'}}
+
+justin+resume1_1_		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Colorado', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': True}}
+
+hotel-resume		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2007', 'GPA': u'3.15'}, 'Misc': {'deanslist': True}}
+
+RaheemShahid-Resume		{'Misc': {'deanslist': True}}
+
+CharlesHarryResume_1_		{'Misc': {'deanslist': True}}
+
+Resume-JonesTwentyFourteen		{u'Northeastern University, Boston, MA                                                               ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+David+Ly+Resume_1_		{'Misc': {'deanslist': True}, u' University of California, Irvine \u2013\u2013 June 2015': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015'}}
+
+Angel+Resume		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA.   ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+resume_2014_1_		{'Misc': {'deanslist': True}, u'in Integrated Studies, Concentration: Cultural Studies and Art, Cascadia Community College ': {'loc': 'American Samoa', 'arr_pos': 5, 'associated_date': u'December 2010'}}
+
+Resume+Revised+_Jeffrey+Heigh_		{'Misc': {'deanslist': True}}
+
+WendongRui_Resume+Ver5.05_1_		{'Misc': {'deanslist': False}}
+
+Chen+Resume+		{'Misc': {'deanslist': True}, u'Stuyvesant High School ': {'loc': 'New York', 'arr_pos': 5, 'GPA': u'93.4'}, u'University of Chicago ': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.4'}}
+
+JDThomerson+Resume+8-24-09		{'Misc': {'deanslist': True}, u'University of Florida, Gainesville, Florida                                                                           ': {'loc': 'Florida', 'arr_pos': 4, 'GPA': u'3.79'}}
+
+JonathanTeekasingh-ResumeJune2014		{'Misc': {'deanslist': True}}
+
+MANDY+UNMOLE-RESUME+		{u'                                       University of Rochester ': {'loc': 'New York', 'arr_pos': 2, 'associated_date': u'May 2016', 'GPA': u'3.68'}, u'Bachelor Degree in Finance and Econometrics                                                       Monash  University ': {'loc': 'New York', 'arr_pos': 10, 'associated_date': u'June 2014', 'GPA': u'3.75'}, 'Misc': {'deanslist': True}, u'Dining Services | University of Rochester ': {'loc': 'New York', 'arr_pos': 23}, u' Meliora Capital Management, LLC | University of Rochester ': {'loc': 'New York', 'arr_pos': 26}, u'Sigma Psi Zeta Sorority, Inc.| University of Rochester   ': {'arr_pos': 47}}
+

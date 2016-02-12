@@ -1,0 +1,30 @@
+Ashley+Morrison+-+Resume_1_		{'Misc': {'deanslist': False}}
+
+J+Greene+Resume		{u'West Chester University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 5}, 'Misc': {'deanslist': True}, u'Indiana University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 26}}
+
+Cryshanna_Crawford_2015		{u'Bachelor of Science Degree, Indiana University of Pennsylvania                                               Pending      ': {'loc': 'Indiana', 'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Myra+Nizami+-+Resume		{'Misc': {'deanslist': False}}
+
+Current+Resume		{'Misc': {'deanslist': True}}
+
+lsabino+resume		{u'Lehigh University, Bethlehem, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.20'}, 'Misc': {'deanslist': True}}
+
+Linares_resume		{u'Bachelor of Science in Journalism, University of Florida, Gainesville, Fla. (August, 2011) ': {'loc': 'Florida', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Zachary+Goldrich+Resume		{'Misc': {'deanslist': True}}
+
+Resume_Bankers+Life+		{'Misc': {'deanslist': False}}
+
+Krhystyne+Pablo+RN+Resume		{u'Pace University, Lienhard School of Nursing, Pleasantville, NY          ': {'loc': 'Massachusetts', 'arr_pos': 6, 'associated_date': u'June 2011'}, 'Misc': {'deanslist': True}, u'Boston University, Boston, MA  ': {'loc': 'Massachusetts', 'arr_pos': 15}}
+
+Danny+K.P.++Yoon_Resume_		{'Misc': {'deanslist': True}, u'The Julliard School': {'loc': 'New York', 'arr_pos': 7}, u'New York University,  Preston Robert  Tisch  Center for  Hospitality, Tourism,': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.5'}}
+
+kdene+new+resume		{'Misc': {'deanslist': True}, u'University of Florida, Gainesville, FL                                                              ': {'loc': 'Florida', 'arr_pos': 2, 'GPA': u'3.53'}}
+
+Sean+M.+Pacheco+Resume		{u'B.S. Degree in Mechanical Engineering Stanford University': {'arr_pos': 0, 'associated_date': u'December 2013'}, 'Misc': {'deanslist': True}}
+
+Raymond+Carl+Godinez+CV+3		{u'University of California, Davis ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': True}}
+
+resume_10_		{u'The Pennsylvania State University, Media, PA                                 ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': True}}
+

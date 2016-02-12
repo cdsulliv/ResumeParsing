@@ -1,0 +1,100 @@
+CV-Resume_1_		{'Misc': {'deanslist': True}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}}
+
+Nicole+Palin%27s+Resumes+		{u'East Stroudsburg University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2015'}, 'Misc': {'deanslist': True}}
+
+DianeStarrLiu_Resume		{'Misc': {'deanslist': False}}
+
+Eva+Abeniacar+Resume+Sept+2015		{u'The Pennsylvania State University - University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 10, 'GPA': u'3.24'}, 'Misc': {'deanslist': True}, u'High School Diploma  ': {'arr_pos': 18}}
+
+JocelynKoresko_Resume_MKTG_07302012_2.		{'Misc': {'deanslist': True}, u'The George Washington University  ': {'loc': 'District of Columbia', 'arr_pos': 5, 'associated_date': u'May 2009', 'GPA': u'3.92'}, u'Virginia International University': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'4.0'}}
+
+Kevinsheehan_resume--dbm		{'Misc': {'deanslist': False}}
+
+Resume2		{'Misc': {'deanslist': True}}
+
+my+resume		{'Misc': {'deanslist': False}}
+
+Nicholas+A.+Suarez+Resume+v2		{'Misc': {'deanslist': True}}
+
+Resume_16_		{'Misc': {'deanslist': True}, u'Pennsylvania State University, State College, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Jinsol%27s+Resume_2_		{'Misc': {'deanslist': True}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}}
+
+Resume+4.0--gd		{'Misc': {'deanslist': True}, u'Kutztown University of Pennsylvania: Kutztown, PA  ': {'loc': 'Colorado', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.22'}, u'University of Valladolid: Valladolid, Spain  ': {'loc': 'Colorado', 'arr_pos': 17}}
+
+resume_3_		{'Misc': {'deanslist': False}}
+
+Kastor_Zhang+Resume		{'Misc': {'deanslist': True}}
+
+Nick+Q.+Yan+2014+Fall+Resume		{'Misc': {'deanslist': True}, u'Brandeis University ': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.4'}}
+
+Burbanks-Ivey+Resume_1_		{'Misc': {'deanslist': False}}
+
+hsilverman_resume_jan_2012+SGS_1_		{u'Cornell University': {'loc': 'New York', 'arr_pos': 10, 'associated_date': u'January 1995'}, 'Misc': {'deanslist': True}}
+
+Ashley+Morrison+-+Resume		{'Misc': {'deanslist': False}}
+
+adrieneresume		{'Misc': {'deanslist': True}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+Oladunni+Oduyemi+Resume+Updated+Summer+15		{'Misc': {'deanslist': False}}
+
+Justin+Reiter+Resume		{'Misc': {'deanslist': True}, u'Northeastern University, Boston, MA ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.98'}}
+
+CV		{'Misc': {'deanslist': True}}
+
+Resume_19_		{u'University Park, PA ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.41'}, 'Misc': {'deanslist': True}, u' St. Joseph\u2019s Preparatory School                     Philadelphia, PA': {'loc': 'New Jersey', 'arr_pos': 4, 'GPA': u'3.65'}}
+
+AustinSolomonResume_1_		{'Misc': {'deanslist': True}}
+
+JohnOppermann%27sResume_2006-CH_		{'Misc': {'deanslist': True}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}}
+
+ERV_CV_1_		{'Misc': {'deanslist': True}, u'Warrington College of Business Administration, University of Florida ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.57'}}
+
+Adam+Crimboli+Resume+2015.3		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, Schreyer Honors College: University Park, PA 16802 ': {'loc': 'Pennsylvania', 'arr_pos': 3}}
+
+Jacob+Liberatore+Resume+2015		{'Misc': {'deanslist': False}}
+
+Eileen+Ly%27s+Online+Resume		{'Misc': {'deanslist': True}, u'CHINESE UNIVERSITY OF HONG KONG, HONG KONG': {'loc': 'Massachusetts', 'arr_pos': 8, 'associated_date': u'Dec 2013'}, u'BROWN UNIVERSITY, PROVIDENCE, RI': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+EthanMLiu		{'Misc': {'deanslist': True}, u'Boston University College of Engineering ': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.57'}}
+
+Vincenz+Current+Resume		{'Misc': {'deanslist': True}, u'The Hill School, Pottstown, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'May 2010'}, u'New York University, New York City, New York  ': {'loc': 'Pennsylvania', 'arr_pos': 8, 'associated_date': u'May 2010'}}
+
+Tom+Resume		{'Misc': {'deanslist': True}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+ADH_RESUME_SMALLER		{'Misc': {'deanslist': False}}
+
+Resume+1+page_2_		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}}
+
+Edgar+G.+Sa%c2%b4nchez+Resume+_General_		{'Misc': {'deanslist': False}}
+
+Resume+AB		{u'Bachelor\xe2\x80\x99s Degree: Pharmacy 2000 -Northeastern University, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+JohnOppermann%27sResume_2006-CH__1_		{'Misc': {'deanslist': True}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}}
+
+Argeros%2c+Nicole		{'Misc': {'deanslist': True}}
+
+James+Ott+-+Resume+2015		{'Misc': {'deanslist': False}}
+
+fendysoegionoresume		{u'University of California, Berkeley                                                                   Expected May 2016                                                                                                                                           ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}, u'Diablo Valley College, Pleasant Hill, CA                                                 Fall 2011 \xe2\x80\x93 Spring 2014 ': {'loc': 'California', 'arr_pos': 3}}
+
+Yongyang+_Julia_+Chen+Resume_NEW		{u' University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2017', 'GPA': u'3.90'}, 'Misc': {'deanslist': True}, u'The Pennsylvania State University, Smeal College of Business                                                                                   ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2017', 'GPA': u'3.90'}}
+
+Resume_20_		{u'East Stroudsburg University of Pennsylvania, December 2012 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2012'}, 'Misc': {'deanslist': True}}
+
+Resume_24_		{'Misc': {'deanslist': False}}
+
+Rose+Espinoza-Resume.SD_1_		{'Misc': {'deanslist': False}}
+
+Nicole+R.+Williams+Office+Resume		{u'Bachelor of Arts in Human Communication Studies, Shippensburg University of Pennsylvania (May 2014) ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Austin+Bloom%27s+Resume_3_		{'Misc': {'deanslist': False}}
+
+RESUME_20_		{'Misc': {'deanslist': False}}
+
+Josh+Fuller+Resum%c3%a9_1_		{'Misc': {'deanslist': True}, u'University of Chicago ': {'loc': 'Oklahoma', 'arr_pos': 4, 'associated_date': u'May 2014', 'GPA': u'3.43'}}
+
+Tess_Bryant_Resume		{u'University of Florida, Gainesville, Florida  ': {'loc': 'Florida', 'arr_pos': 2, 'associated_date': u'August 2011', 'GPA': u'3.66'}, 'Misc': {'deanslist': True}}
+
+Morgan+Stegall%27s+Resume		{'Misc': {'deanslist': True}}
+

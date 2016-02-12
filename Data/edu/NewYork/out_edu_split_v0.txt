@@ -1,0 +1,100 @@
+Kimberly+Wetherbee+Resume		{u'Johnson & Wales University                                                                                                             Providence, RI ': {'loc': 'Rhode Island', 'arr_pos': 0, 'GPA': u'3.59'}, 'Misc': {'deanslist': True}}
+
+ANaveed-+Prof+Resume11		{'Misc': {'deanslist': True}, u'Rutgers Business School - Newark, NJ': {'loc': 'New Jersey', 'arr_pos': 0}}
+
+Jie_Lin_resume		{u'University at Buffalo, The State University of New York ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+NiaBeckettResume+11-14		{'Misc': {'deanslist': False}}
+
+CatherineMarteResume		{'Misc': {'deanslist': True}, u'Syracuse University, Bachelor of Arts in English, Syracuse, NY, May 2006 ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2006'}}
+
+Raymond+Armonresumefinal		{u'State University of New York at Plattsburgh ': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'December 2012', 'GPA': u'3.05'}, 'Misc': {'deanslist': True}, u'THE HUDSON SCHOOL ': {'loc': 'Mississippi', 'arr_pos': 6, 'associated_date': u'August 2010'}, u'High School Diploma 2005-2007 ': {'loc': 'Mississippi', 'arr_pos': 7, 'associated_date': u'August 2010'}}
+
+TDB+Compressed+Resume		{'Misc': {'deanslist': False}}
+
+Brian+Horner-Resume_1_		{'Misc': {'deanslist': True}, u'University of Miami, Coral Gables, FL  ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.7'}}
+
+Asli+Ala+Onur_Resume		{'Misc': {'deanslist': True}, u'EMERSON COLLEGE, Boston, MA   ': {'loc': 'Puerto Rico', 'arr_pos': 2, 'associated_date': u'May 2014'}}
+
+Spring2011final		{'Misc': {'deanslist': True}}
+
+Sylvia+Xie_Resume+2.19_+Career+Builder._1_		{u'New York University, Innovative Leadership Program, New York, NY                                                                                 Spring 2012': {'loc': 'Indiana', 'arr_pos': 12, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}, u'Indiana University, Kelley School of Business, Bloomington, IN                                                                                    December 2012': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'December 2012', 'GPA': u'3.2'}, u'University of California, Berkeley, Summer Program, Berkeley, CA                                                                        Summer 2009, 2010': {'loc': 'Indiana', 'arr_pos': 13, 'associated_date': u'May 2012'}}
+
+resume4_1_		{u'New Jersey City University, Jersey City NJ \xe2\x80\x93 BA in Special Education/Sociology, 2004': {'loc': 'New Jersey', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Schokman.Resume.June2015		{'Misc': {'deanslist': False}}
+
+2015+FINALTroy+Bloomfield+Resume		{u'University of San Francisco': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'December 2012'}, u'Baruch College ': {'loc': 'New York', 'arr_pos': 5, 'associated_date': u'January 2015'}, 'Misc': {'deanslist': True}}
+
+Asli+Ala+Onur_Resume_1_		{'Misc': {'deanslist': True}, u'EMERSON COLLEGE, Boston, MA   ': {'loc': 'Puerto Rico', 'arr_pos': 2, 'associated_date': u'May 2014'}}
+
+Fatumata+		{'Misc': {'deanslist': True}, u'City University of New York-Baruch College ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'December 2015'}}
+
+resume+Shunyu+Zheng		{'Misc': {'deanslist': True}, u'Fordham University': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.4'}}
+
+Resume_SyedaTinaHussain		{u'CUNY Bernard M. Baruch College, New York, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Resume+alternative		{'Misc': {'deanslist': False}}
+
+FELIX+KAM+CHUNG_RESEARCH_141204_1_		{'Misc': {'deanslist': True}, u'John Jay College of Criminal Justice, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.3'}}
+
+Meetra+Javed+Resume+January		{u'Harvard Business School, HBX CORe ': {'loc': 'Colorado', 'arr_pos': 0, 'associated_date': u'August 2015'}, 'Misc': {'deanslist': True}}
+
+resume4		{u'New Jersey City University, Jersey City NJ \xe2\x80\x93 BA in Special Education/Sociology, 2004': {'loc': 'New Jersey', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Campione_Vincent_Resume		{'Misc': {'deanslist': True}}
+
+Alis+Claudio+Resume%2522		{'Misc': {'deanslist': True}, u'Berkeley College': {'loc': 'New York', 'arr_pos': 0}, u'Columbia College': {'arr_pos': 6}}
+
+A.+Resume_ObinnaOnyenedum		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}, u'Mira Costa Community College': {'loc': 'California', 'arr_pos': 38, 'associated_date': u'April 2011'}, u'University of California, Berkeley\u2019s Organization of African Students (OAS)': {'loc': 'California', 'arr_pos': 16, 'associated_date': u'May 2013'}}
+
+ilaura+resume.		{'Misc': {'deanslist': True}}
+
+Henri+Bonner+Resume		{'Misc': {'deanslist': False}}
+
+Alex+Long+Smith+Resume		{'Misc': {'deanslist': False}}
+
+ReDomenic+Resume+15+pdf		{u'Villanova University': {'loc': 'California', 'arr_pos': 2}, u'Fall \u201913 at The Cass School of Business at City University London, 3.6 GPA  ': {'loc': 'California', 'arr_pos': 9}, 'Misc': {'deanslist': True}, u'Semi-finalist at 2014 Federal Reserve Challenge case competition, Lafayette College 2014 ': {'loc': 'California', 'arr_pos': 15}, u'School of Business, Class of 2015, BBA in Finance/Real Estate, 3.21 GPA': {'loc': 'California', 'arr_pos': 4}, u'Sage Hill School': {'loc': 'California', 'arr_pos': 30}}
+
+Salona+Patel+Resume		{'Misc': {'deanslist': False}}
+
+Anoop_Kathrani_Resume		{'Misc': {'deanslist': True}, u'Rutgers University, New Brunswick, NJ, May 2012 ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2012'}}
+
+Resume+for+Betserai+Musengi		{'Misc': {'deanslist': False}}
+
+Ran_Deng_Resume_09022014+-+Finance		{u'Dream Corps International, Volunteer, Indiana University, September 2010 \u2013 December 2010': {'loc': 'Mississippi', 'arr_pos': 31, 'associated_date': u'December 2010'}, u"Dean's Scholarship (4 Years), Jacobs School of Music, Indiana University": {'loc': 'Mississippi', 'arr_pos': 9, 'associated_date': u'March 2010'}, u'Chinese Sports Club at Indiana University': {'loc': 'Mississippi', 'arr_pos': 29, 'associated_date': u'May 2012'}, u', Soccer Player, Indiana University, January 2011 \u2013 May 2012': {'loc': 'Mississippi', 'arr_pos': 30, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}, u', First Violinist, Georgetown University, January 2013 \u2013 May 2013': {'loc': 'Mississippi', 'arr_pos': 28, 'associated_date': u'May 2013'}, u'Indiana University Chinese Students and Scholars Association   Indiana University \u2013 Bloomington   ': {'loc': 'Mississippi', 'arr_pos': 11, 'associated_date': u'March 2010'}, u'Indiana University \u2013 Bloomington, Bloomington, Indiana': {'loc': 'Mississippi', 'arr_pos': 5, 'associated_date': u'December 2012', 'GPA': u'3.433'}, u'Georgetown University, Graduate School of Arts and Science, Washington, DC': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.433'}}
+
+Resume.		{'Misc': {'deanslist': True}, u'Indiana University of Pennsylvania; Indiana, PA (Graduated: August 2012)': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'August 2012', 'GPA': u'3.12'}}
+
+Kristen+Vesey+Resume_1_		{'Misc': {'deanslist': False}}
+
+Hagai+Rifkind+-+Resume		{'Misc': {'deanslist': True}, u'Environmental Engineering, The City College of New York (February 2014)': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'February 2014'}, u'Civil Engineering Science, LaGuardia Community College': {'loc': 'New York', 'arr_pos': 5, 'associated_date': u'December 2010'}}
+
+Conor+S.+Bradley+Resume--db		{u'ILLANOVA UNIVERSITY': {'loc': 'Puerto Rico', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.05'}, 'Misc': {'deanslist': True}}
+
+Revised+Resume_1_		{u'Stony Brook University, Stony Brook, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Krisin+Delbridge+Resume		{'Misc': {'deanslist': False}}
+
+Elizabeth-Rosado+_1_		{'Misc': {'deanslist': False}}
+
+Abhishek+Bali+Resume		{u'School of Engineering, Rutgers University, New Brunswick, NJ      Major GPA: 3.25': {'loc': 'American Samoa', 'arr_pos': 2, 'GPA': u'3.25'}, 'Misc': {'deanslist': True}}
+
+Meghan+A+Cunningham%27s+Resume+Fall+2014		{u'Lehigh University - Bethlehem, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.17'}, 'Misc': {'deanslist': True}}
+
+EMMANUEL+inter2015.doc-3		{'Misc': {'deanslist': True}, u'TCI College of Technology, New York, NY                                                                                              05/ 08 \u2013 12/10 ': {'loc': 'New York', 'arr_pos': 5}}
+
+MorganRapoport+Resume		{u'Indiana University, Bloomington, Indiana': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Mackline%27s+resume		{'Misc': {'deanslist': True}, u'St. Francis College Brooklyn, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2016'}}
+
+Resume_8_		{u'Arizona State University \xe2\x80\x93 BA in Communications 2010-2012': {'loc': 'Arizona', 'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Kimberly+Wetherbee+Resume_1_		{u'Johnson & Wales University                                                                                                             Providence, RI ': {'loc': 'Rhode Island', 'arr_pos': 0, 'GPA': u'3.59'}, 'Misc': {'deanslist': True}}
+
+MeganKMcDonald.Resume_1_		{'Misc': {'deanslist': True}}
+
+Victor+Antonio%27s+Resume		{'Misc': {'deanslist': False}}
+
+Resume%2cResume+2015+Sept.		{'Misc': {'deanslist': True}, u'Long Island University B.A.  Liberal Arts, Sociology/Anthropology                ': {'arr_pos': 2}}
+

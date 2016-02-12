@@ -1,0 +1,100 @@
+Oluwatomi+Oluwasanmi+Jaiyesimi+Resume		{u'SHAWCO is a student-run nonprofit organization based at the University of Cape Town that conducts ': {'loc': 'Massachusetts', 'arr_pos': 34, 'associated_date': u'April 2013'}, u'The Prevalence of Caries in Primary School Children, Olavarria, Argentina             Jun. 2013 \u2013 Jul. 2013 ': {'arr_pos': 75}, 'Misc': {'deanslist': True}, u"\u25cf Partnered with the University of Cape Town\u2019s non \u2013profit organization, Students' Health and Welfare ": {'arr_pos': 71}, u'Petsko \u2013 Ringe Lab, Brandeis University, Waltham, MA  Oct. 2011 \u2013 April 2013 ': {'loc': 'Massachusetts', 'arr_pos': 38, 'associated_date': u'April 2013'}, u'Christine Thomas Laboratory, Brandeis University, Waltham, MA Jan. 2011 \u2013 Aug. 2011 ': {'loc': 'Massachusetts', 'arr_pos': 44, 'associated_date': u'May 2014'}}
+
+Justin_Man_UX_1_		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Aug 2013'}, 'Misc': {'deanslist': True}}
+
+brinson_resume		{u'B.Sc., Electrical Engineering, University of Florida. ': {'loc': 'Florida', 'arr_pos': 4, 'GPA': u'3.07'}, 'Misc': {'deanslist': True}, u'B.Sc., Computer Engineering, University of Florida. ': {'loc': 'Florida', 'arr_pos': 5, 'GPA': u'3.07'}}
+
+Fakhar+Singhera+-+Resume_2_		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.06'}, 'Misc': {'deanslist': True}}
+
+July+15+2013+Resume		{u'WASHINGTON UNIVERSITY IN ST. LOUIS, MO. ': {'loc': 'Indiana', 'arr_pos': 1, 'associated_date': u'May 2013', 'GPA': u'3.5'}, u'College Honors ': {'arr_pos': 10}, 'Misc': {'deanslist': True}}
+
+Parker+Daniels+Resume		{'Misc': {'deanslist': False}}
+
+Baldonieri+Maria+Resume+11+4+2015		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'GPA': u'3.38'}, u'University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'GPA': u'3.38'}, 'Misc': {'deanslist': True}, u'College of Engineering ': {'arr_pos': 5, 'GPA': u'3.38'}}
+
+RESUME_new		{u'Pennsylvania State University, University Park, PA             Completion Date: December 2005': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2005'}, 'Misc': {'deanslist': True}}
+
+Resume_Pedraza_050815+US+docx		{'Misc': {'deanslist': False}}
+
+Mchael+Brown+Resume+Sept+2011		{'Misc': {'deanslist': True}, u'Testing, SAT Testing, and High School Proficiency Assessment Testing.': {'loc': 'Colorado', 'arr_pos': 88, 'associated_date': u'September 2005'}, u'Stanford University ': {'loc': 'Colorado', 'arr_pos': 0, 'associated_date': u'June 2007'}}
+
+Nolan+Dow+CV		{'Misc': {'deanslist': False}}
+
+RebeccaWheeler-resume		{'Misc': {'deanslist': True}, u'University of Florida, Gainesville, Florida ': {'loc': 'Florida', 'arr_pos': 2}}
+
+Sample+Resume		{'Misc': {'deanslist': True}, u'BA, Government, Cornell University, Ithaca, NY': {'loc': 'New York', 'arr_pos': 0}}
+
+CWienerResume+_3__2_		{u'West Chester University of Pennsylvania, West Chester, PA ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'August 2015', 'GPA': u'3.3'}, u'  AACSB Accredited Business School Program ': {'loc': 'Pennsylvania', 'arr_pos': 7, 'associated_date': u'August 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': True}, u'Delaware County Community College, Media, PA ': {'loc': 'Pennsylvania', 'arr_pos': 10, 'associated_date': u'August 2012'}}
+
+Lan_Wendy_Do_Resume		{u'Central Washington University, College of Business  ': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.67'}, 'Misc': {'deanslist': True}}
+
+Val+Kharkover-Resume		{'Misc': {'deanslist': True}, u'Cornell University, Ithaca NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.56'}, u'Fordham University, Bronx NY ': {'loc': 'New York', 'arr_pos': 9, 'associated_date': u'May 2014', 'GPA': u'3.47'}}
+
+Resume2015+_1_		{'Misc': {'deanslist': False}}
+
+Resume+2014		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0}}
+
+Laura_Vierre_Resume		{u'\u2022 MLIS from Clarion University (2014)                  \u2022 BA in Liberal Studies from Boston University (2012)  ': {'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+resume_2015		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2014'}, 'Misc': {'deanslist': True}}
+
+Robert+C.+LoCurto-+Resume		{'Misc': {'deanslist': True}, u'New York University, Bachelor of Science in Sports Management   May 2011': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2011'}}
+
+resume_5_		{u'Greenwich High School, CT (Class of 2008)': {'loc': 'Connecticut', 'arr_pos': 7}, u'New York University (Class of 2012)': {'loc': 'Connecticut', 'arr_pos': 1}, 'Misc': {'deanslist': True}, u'New York University in Florence (Fall Semester 2009)': {'loc': 'Connecticut', 'arr_pos': 5}}
+
+KathrynPiotrowski_Resume		{'Misc': {'deanslist': False}}
+
+Maria+Koval+Resume1		{u'University of Florida  ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'4.0'}, 'Misc': {'deanslist': True}, u'Suffolk County Community College ': {'loc': 'New York', 'arr_pos': 36, 'associated_date': u'May 2013', 'GPA': u'4.0'}}
+
+Garth+N+P+Coventry		{u'Wiltshire College, Trowbridge, England ': {'arr_pos': 20, 'associated_date': u'July 2001'}, 'Misc': {'deanslist': True}, u'Georgia Perimeter College, Atlanta, GA ': {'loc': 'Georgia', 'arr_pos': 11, 'associated_date': u'Dec 2008', 'GPA': u'3.41'}}
+
+BolshakovA+Merged+CL+and+Resume		{u'Glenda Dawson High School, Pearland, TX (2007-2011) ': {'loc': 'Texas', 'arr_pos': 5}, 'Misc': {'deanslist': True}, u'Rice University, Houston, TX (2011-2015) ': {'loc': 'Texas', 'arr_pos': 1}}
+
+Updated+Resume		{u'B.A.: Broadcast Journalism, College of Communications                              Class of 2015': {'arr_pos': 2}, 'Misc': {'deanslist': True}, u'The Pennsylvania State University                                                    University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0}, u'Minor: Kinesiology, the College of Human and Health Development': {'arr_pos': 4}}
+
+Burbanks-Ivey+Resume		{'Misc': {'deanslist': False}}
+
+CarterChelseyResume8302012		{u'OXFORD COLLEGE OF EMORY UNIVERSITY ': {'loc': 'Georgia', 'arr_pos': 7, 'associated_date': u'May 2010'}, u'EMORY UNIVERSITY ': {'loc': 'Georgia', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.6'}, 'Misc': {'deanslist': True}}
+
+ResumE_25_		{u'OECD, World Bank, Charles University (Prague), Hungarian Parliament. (Spring 2005)': {'loc': 'Washington', 'arr_pos': 21, 'associated_date': u'May 2004'}, u'Phi Beta Kappa                                                                                             George Washington University': {'loc': 'Washington', 'arr_pos': 44}, 'Misc': {'deanslist': True}, u' Jesuit High School': {'arr_pos': 52}, u' George Washington University ': {'loc': 'Washington', 'arr_pos': 48}, u'George Washington University ': {'loc': 'Washington', 'arr_pos': 50}, u'Elliot School of International Affairs': {'loc': 'Washington', 'arr_pos': 2, 'associated_date': u'May 2006'}}
+
+Kevin+Moran+Resume		{'Misc': {'deanslist': False}}
+
+David+Ly+Resume		{'Misc': {'deanslist': True}, u' University of California, Irvine \u2013\u2013 June 2015': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015'}}
+
+resume2012_1_		{'Misc': {'deanslist': True}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2013'}}
+
+pr+resume-+updated		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}}
+
+Sachel+Sengupta+Resume_1_		{u'Carnegie Mellon University ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}, u'City University of New York, Energy Institute ': {'loc': 'Indiana', 'arr_pos': 37}}
+
+AnishaDesaiResume_1_		{u'UC Berkeley Raas Captain- Founded UC Berkeley Raas(dance team) in August 2011 and led the entire financial and personal ': {'arr_pos': 60, 'associated_date': u'August 2011'}, u'Mission San Jose High School ': {'loc': 'California', 'arr_pos': 4, 'associated_date': u'June 2011', 'GPA': u'3.92'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.92'}, 'Misc': {'deanslist': True}, u'UC Berkeley Dil Se Manager \u2013 Captain and Finance Manager of UC Berkeley\u2019s premier South Asian Acapella Team. ': {'arr_pos': 62}, u'Founded a startup called Flock in which we are purely a mentorship platform for career advice. Along with another UC ': {'loc': 'California', 'arr_pos': 19, 'associated_date': u'Dec 2014'}}
+
+ShoshanaSanSolo_resume		{'Misc': {'deanslist': True}, u'Yeshiva University, Stern College for Women, New York, NY': {'loc': 'New York', 'arr_pos': 4, 'associated_date': u'May 2013', 'GPA': u'3.74'}, u'Columbia University, The Fu Foundation School of Engineering and Applied Science, New York, NY': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.44'}}
+
+Anthony+Santo+Official+Resume		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.3'}}
+
+STUTTSresumeFEB2015_2_		{'Misc': {'deanslist': False}}
+
+Evan+T.+DiPillo+Resume_1_		{'Misc': {'deanslist': True}, u'The Pennsylvania State University \xe2\x80\x93 University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.12'}}
+
+SSeitler+Resume		{u'Boston University, Sargent College, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 10}, 'Misc': {'deanslist': True}, u'University of Massachusetts Dartmouth, Dartmouth, MA, GPA 3.1  ': {'loc': 'Massachusetts', 'arr_pos': 5, 'associated_date': u'May 2009', 'GPA': u'3.1'}}
+
+Resume+1+page_6_		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}}
+
+Jeong+won+Choi+CV+2015+Fall_2_		{u'Intern  Ga-Chun University Of Medicine and Science: Cancer/Diabetes Institute (South Korea) \u2013 Molecular And ': {'arr_pos': 57}, u'Ga-Chun University of Medical School             ': {'arr_pos': 101}, 'Misc': {'deanslist': True}, u'The George Washington University, Washington, DC 20052, USA ': {'loc': 'Mississippi', 'arr_pos': 3, 'associated_date': u'Aug 2010'}, u'Boston University, Boston, MA 02215, USA ': {'loc': 'Mississippi', 'arr_pos': 12}, u'Language Tutor  GWU (USA) \u2013 University Language Center': {'arr_pos': 72}}
+
+NathanMcClaffertyResume1		{u'o Indoor School Record Holder in 4x800m ': {'loc': 'South Carolina', 'arr_pos': 40}, u'HIGH SCHOOL ACTIVITIES:': {'loc': 'South Carolina', 'arr_pos': 48}, u'Conrad Weiser High School': {'loc': 'South Carolina', 'arr_pos': 9, 'associated_date': u'June 2011', 'GPA': u'3.83'}, 'Misc': {'deanslist': True}, u'Duke University': {'loc': 'South Carolina', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.17'}, u'COLLEGE ACTIVITIES:': {'loc': 'South Carolina', 'arr_pos': 29}}
+
+Danielle_Morales_2015_CV_1_		{u'Moorpark College, Moorpark, CA': {'loc': 'California', 'arr_pos': 3, 'associated_date': u'August 2013'}, u'University of California Berkeley Classical Archaeology, Berkeley, CA            September 2012 - May 2013': {'loc': 'California', 'arr_pos': 41, 'associated_date': u'May 2013'}, u'Phoebe A. Hearst Museum of Anthropology, University of California Berkeley, CA May 2011- May 2013': {'loc': 'California', 'arr_pos': 31, 'associated_date': u'May 2013'}, u'University of California Berkeley, Berkeley, CA': {'loc': 'California', 'arr_pos': 6, 'associated_date': u'August 2013'}, u'supervision of University of California Berkeley graduate student Anna Harkey and Professor Christine Hastorf': {'loc': 'California', 'arr_pos': 60, 'associated_date': u'December 2011'}, u'Ventura College, Ventura, CA': {'loc': 'California', 'arr_pos': 9, 'associated_date': u'August 2013'}, 'Misc': {'deanslist': True}, u'of University of California Berkeley graduate student Alan Farahani and Professor Benjamin Porter': {'loc': 'California', 'arr_pos': 50, 'associated_date': u'September 2011'}, u'Island Plantation, under the supervision of University of California Berkeley graduate student John Chenoweth ': {'loc': 'California', 'arr_pos': 67, 'associated_date': u'July 2009'}, u'College of the Canyons, Valencia, CA': {'loc': 'California', 'arr_pos': 12, 'associated_date': u'August 2013'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA         September 2011 - ': {'loc': 'California', 'arr_pos': 57, 'associated_date': u'September 2011'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA         September 2011 - December 2011': {'loc': 'California', 'arr_pos': 65, 'associated_date': u'December 2011'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA                   February 2012 - May 2012': {'loc': 'California', 'arr_pos': 48, 'associated_date': u'May 2012'}}
+
+Resume+-+Paul+Kazarnovsky		{u'California State Public School ': {'loc': 'California', 'arr_pos': 9}, 'Misc': {'deanslist': True}, u'Saratoga High School ': {'loc': 'California', 'arr_pos': 7}, u'New York University: College of Arts and Sciences ': {'loc': 'California', 'arr_pos': 0, 'GPA': u'3.45'}}
+
+Bryan+P.+Gavrushenko+Resume		{u'International School of Lausanne Lausanne, Switzerland - International Baccalaureate Diploma (1995-': {'loc': 'Indiana', 'arr_pos': 5, 'associated_date': u'July 2010'}, u'Villanova University Villanova, PA  ': {'loc': 'Indiana', 'arr_pos': 2, 'associated_date': u'July 2010'}, 'Misc': {'deanslist': True}, u'Almaty International School Almaty, Kazakhstan ': {'loc': 'Indiana', 'arr_pos': 8, 'associated_date': u'July 2010'}, u'The Pennsylvania State University State College, PA: Bachelor of Arts - Economics 2011- Dec. 2014 ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'July 2010'}}
+
+Resume+1		{u'Susan Green \u2013 Eastern Washington University Dinning Services, Supervisor  ': {'loc': 'Washington', 'arr_pos': 35}, u'Eastern Washington University \u2013 Cheney WA, USA ': {'loc': 'Washington', 'arr_pos': 2}, 'Misc': {'deanslist': True}, u'Columbia Basin College \u2013 Pasco WA, USA ': {'loc': 'Washington', 'arr_pos': 6}}
+
+Jinsol%27s+Resume		{'Misc': {'deanslist': True}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}}
+
+resume-1		{'Misc': {'deanslist': True}, u'BOSTON UNIVERSITY, Boston, MA': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'August 2007'}}
+

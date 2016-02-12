@@ -1,0 +1,100 @@
+hsilverman_resume_jan_2012+SGS		{u'Cornell University': {'loc': 'New York', 'arr_pos': 10, 'associated_date': u'January 1995'}, 'Misc': {'deanslist': True}}
+
+Meka+Burch+Resume+2014_1_		{'Misc': {'deanslist': True}, u'Trinity Washington University, Washington, DC': {'loc': 'District of Columbia', 'arr_pos': 2}}
+
+SARAH+DARCY		{u'The Pennsylvania State University ': {'loc': 'Arkansas', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.0'}, 'Misc': {'deanslist': True}}
+
+Resume+of+David+Mostafa		{u'THE GEORGE WASHINGTON UNIVERSITY, Business School ': {'loc': 'Maine', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}, u'at The Berklee College of Music.': {'loc': 'Maine', 'arr_pos': 14}}
+
+Resume+2015		{'Misc': {'deanslist': False}}
+
+resume+Alex_Dembowski_v3_1_		{u'Loyola University of Chicago': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Quinlan School of Business GPA: 3.12/4.0 ': {'loc': 'Illinois', 'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Mount Carmel High School, Chicago IL ': {'loc': 'Illinois', 'arr_pos': 7}, 'Misc': {'deanslist': True}, u'High School Diploma': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2009'}}
+
+Stephen+Brown+Resume+1		{'Misc': {'deanslist': True}}
+
+DA_Resume		{'Misc': {'deanslist': True}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2012'}}
+
+Chang+Matthew+Resume		{u'New York University, College of Arts and Science': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2004'}, 'Misc': {'deanslist': True}}
+
+Will+Johnson%27s+Resume_1_		{'Misc': {'deanslist': False}}
+
+Lionel%27s+Resume		{'Misc': {'deanslist': False}}
+
+resume_9_		{'Misc': {'deanslist': False}}
+
+Jonathan_Schlact_Resume.		{'Misc': {'deanslist': True}, u'UNIVERSITY OF UDINE: Study Abroad \u2013 Literature Communications and Culture film studies in Gorizia, Italy: Spent ': {'arr_pos': 21}, u'GEORGIA INSTITUTE OF TECHNOLOGY, College of Management ': {'loc': 'Georgia', 'arr_pos': 3, 'associated_date': u'December 2012', 'GPA': u'3.4'}}
+
+resumedirkvanhookteller.		{'Misc': {'deanslist': True}, u'1999-2003 Bachelor of Science in Advertising, University of Florida': {'loc': 'Florida', 'arr_pos': 1}}
+
+Oliver_Baverstam_Resume		{'Misc': {'deanslist': False}}
+
+baltazarwynona_resume_1_		{'Misc': {'deanslist': True}, u'University of California at Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0}}
+
+Sofia+Herrero+Resume+Summer+2015+Current		{'Misc': {'deanslist': True}}
+
+newresume_Valentina+Jimene		{u'University Of Florida- Gainesville, Florida. ': {'loc': 'Florida', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.32'}, 'Misc': {'deanslist': True}, u'University of Florida International Center- Gainesville, FL': {'loc': 'Florida', 'arr_pos': 9, 'associated_date': u'January 2015'}}
+
+Emily+Feldman+Final+Resume+2015_1_		{u'Al-Akhawayn University, Ifrane, Morocco ': {'loc': 'Illinois', 'arr_pos': 6}, 'Misc': {'deanslist': True}, u'Highland Park High School, Highland Park, IL ': {'loc': 'Illinois', 'arr_pos': 10}, u'Emory University, Atlanta, GA ': {'loc': 'Illinois', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.74'}}
+
+Austin+Bloom%27s+Resume_4_		{'Misc': {'deanslist': False}}
+
+Usher_Peter_Resume		{'Misc': {'deanslist': True}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 6}}
+
+2+Jordyn+Epstein+Resume+10_18_15		{u'THE GEORGE WASHINGTON UNIVERSITY, School of Business                                     Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.6'}, 'Misc': {'deanslist': True}}
+
+Ryan+Resume+RED_1_		{'Misc': {'deanslist': False}}
+
+BGarcia_Resume+Fall+2013		{'Misc': {'deanslist': True}}
+
+Joseph+Alexandrou+resume		{'Misc': {'deanslist': True}, u'Oct 2007-Jun 2010 Aug 2010-Sept 2010, University of California, Davis': {'loc': 'Virginia', 'arr_pos': 12, 'associated_date': u'Oct 2007'}}
+
+RESUME+PDF_1_		{u'Santa Fe College \u2013 Liberal Arts and Sciences/Liberal Studies, Gainesville, FL      ': {'loc': 'Florida', 'arr_pos': 9}, 'Misc': {'deanslist': True}, u'University of Florida \u2013 College of Agricultural Life and Sciences.  Gainesville, FL. ': {'loc': 'Florida', 'arr_pos': 3, 'associated_date': u'May 2015'}}
+
+Maurer.businessresume		{u'Lehigh University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'3.30'}, 'Misc': {'deanslist': True}}
+
+Summer+Calendine+resume		{'Misc': {'deanslist': True}, u'M.S. Human Resources Training & Development, Amberton University, Frisco, TX': {'loc': 'Florida', 'arr_pos': 0}, u'B.S. Business Management, University of Florida, Gainesville, FL': {'loc': 'Florida', 'arr_pos': 1}}
+
+PatrickSymonsResume		{'Misc': {'deanslist': False}}
+
+Sean+M.+Pacheco+Resume_1_		{u'B.S. Degree in Mechanical Engineering Stanford University': {'arr_pos': 0, 'associated_date': u'December 2013'}, 'Misc': {'deanslist': True}}
+
+Current+Resume+2007		{u'           The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'Misc': {'deanslist': True}}
+
+Allan+Beckman+Resume--gd		{'Misc': {'deanslist': True}, u'University of California Irvine, Irvine, CA': {'loc': 'California', 'arr_pos': 5, 'GPA': u'3.733'}}
+
+Joe_Kmetz_Resume_July_24		{'Misc': {'deanslist': False}}
+
+Kim+Dolmuz+Resume_1_		{'Misc': {'deanslist': False}}
+
+Kate+resume+		{'Misc': {'deanslist': True}}
+
+GEOG+resume+aug+11		{'Misc': {'deanslist': False}}
+
+sheilaoshearesume.2014.office.paralegal_2_		{'Misc': {'deanslist': False}}
+
+JP+Rose+Resume		{u'Point Park University, Pittsburgh, PA': {'loc': 'Pennsylvania', 'arr_pos': 4}, u'Indiana University of Pennsylvania, Indiana, PA': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}}
+
+new_resume		{u'University of Florida ': {'loc': 'Florida', 'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Mina_Doroudi_Resumefix_2_		{'Misc': {'deanslist': True}}
+
+Brett+Lyons+Design+and+Analysis+Engineer+CL+and+Resume		{'Misc': {'deanslist': True}, u'Boston University College of Engineering                                                                 Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2010'}}
+
+Austin+Bloom%27s+Resume		{'Misc': {'deanslist': False}}
+
+Abbeys_resume%5b1%5d		{'Misc': {'deanslist': False}}
+
+Kari-Ann%27s+resume1		{'Misc': {'deanslist': False}}
+
+Herce+Remilien%27s+Resume		{'Misc': {'deanslist': True}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 3}}
+
+Kiersten+Corr%27s+Resume+Updated+Feb+2015		{'Misc': {'deanslist': True}, u'West Chester University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Leslie+Alfaro		{u'Took graduate level courses from School of Law and School of Political Science  ': {'arr_pos': 17}, u'University of Bologna \u2013 Bologna, Italy                                                                                                                                     Spring, 2013 ': {'arr_pos': 11}, u'UC Education Abroad Program ': {'arr_pos': 13}, 'Misc': {'deanslist': True}, u'University of California Berkeley \u2013 Berkeley, CA                                   ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2013'}}
+
+Margolis_ResumeSummer2015		{'Misc': {'deanslist': True}, u'The University of Chicago                                                                                           Chicago, IL                                                                       ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.33'}}
+
+Leekem+Brown+Resume+DC		{'Misc': {'deanslist': True}}
+
+Updated+December+Resume		{'Misc': {'deanslist': True}, u'August 2009- Present: The George Washington University ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'August 2009', 'GPA': u'3.2'}, u'September 2004-Present: Iona Preparatory School, New Rochelle, New York.  ': {'loc': 'New York', 'arr_pos': 6, 'associated_date': u'September 2004'}, u'August 2008-May 2009 (Transferred): Roger Williams University, Bristol Rhode Island': {'loc': 'New York', 'arr_pos': 2, 'associated_date': u'May 2009', 'GPA': u'3.2'}}
+

@@ -1,0 +1,100 @@
+MAURCENA+WAKEFIELDResume+_1__1_		{'Misc': {'deanslist': False}}
+
+Kimya+Resume+15		{u'Qualification Games at Loyola University.  Led Young Athletes Program weekly, guiding 2-7 ': {'loc': 'Mississippi', 'arr_pos': 8}, 'Misc': {'deanslist': True}, u'Towson University, Towson MD, Graduated May, 2015': {'loc': 'Mississippi', 'arr_pos': 0}, u'Katherine Thomas School, Rockville MD, Summer 2012': {'loc': 'Mississippi', 'arr_pos': 24}}
+
+PWeintrob+Resume_CareerBuilder.com		{u'Bard College, B.A., Theater & Performance, 2014 ': {'arr_pos': 0}, u'Brian Mateo \u2022 Student Activities Office, Bard College \u2022 (570) 401-4916': {'arr_pos': 4}, 'Misc': {'deanslist': True}}
+
+Jalpa+Patel%27s+Updated+Resume		{'Misc': {'deanslist': True}, u'Rutgers Business School, Newark, NJ; GPA: 3.468': {'loc': 'New Jersey', 'arr_pos': 1, 'GPA': u'3.468'}}
+
+Emma+Martensson+Resume+May+2015		{u'Santa Monica College ': {'loc': 'California', 'arr_pos': 19, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': True}, u'Baruch College/CUNY, Zicklin School of Business ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+SeHoonKyleYoonResume		{'Misc': {'deanslist': True}}
+
+Natalie+Steinberg+Resume+August+2015		{u'University of Vermont ': {'loc': 'Vermont', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'University of Kent ': {'arr_pos': 7, 'associated_date': u'June 2013'}}
+
+Reem+Banu_1_		{'Misc': {'deanslist': True}}
+
+Resume+Andres+Morales+Z.+		{u'\u2022  Pforzheimer Honors College. ': {'arr_pos': 5}, u'Pace University, New York, NY.  ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2017'}, 'Misc': {'deanslist': True}, u'Lubin School of Business. ': {'arr_pos': 1, 'associated_date': u'May 2017'}}
+
+JULIA+ROTSTEIN+Resume+NOV++2012+V2._1_		{'Misc': {'deanslist': False}}
+
+Joseph+D%27Amico+Resume+2013		{'Misc': {'deanslist': True}, u'Captain and League Officer for the Fairfield University club soccer team': {'arr_pos': 61}, u'Fairfield University                             ': {'loc': 'New Jersey', 'arr_pos': 2, 'associated_date': u'May 2013', 'GPA': u'3.15'}}
+
+Melissa+Sanchez+resume		{'Misc': {'deanslist': True}, u'SAINT PETER\xe2\x80\x99S COLLEGE, JERSEY CITY, NJ ': {'loc': 'Colorado', 'arr_pos': 3, 'GPA': u'3.052'}}
+
+Revised+Resume		{u'Stony Brook University, Stony Brook, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Resume-ru+guo		{'Misc': {'deanslist': False}}
+
+csc+resume_1_		{u' Graduate Diploma of Legal Practice, University of Wollongong ': {'arr_pos': 2}, 'Misc': {'deanslist': True}, u'2010 - 2013                                                                        Bachelor of Laws, University of Wollongong ': {'arr_pos': 3}, u'2004 - 2009                                            Selective High Schooling, Hurlstone Agricultural High School     ': {'arr_pos': 6}}
+
+RESUME_JINGZHAO+2016		{u'The Pennsylvania State University': {'loc': 'Mississippi', 'arr_pos': 0, 'GPA': u'3.43'}, u'The Smeal College of Business ': {'loc': 'Mississippi', 'arr_pos': 2, 'GPA': u'3.43'}, 'Misc': {'deanslist': True}, u'University Park, PA': {'loc': 'Mississippi', 'arr_pos': 1, 'GPA': u'3.43'}}
+
+Ryan+Dougherty+Resume		{'Misc': {'deanslist': False}}
+
+Resume_3_		{'Misc': {'deanslist': True}, u'University of South Florida': {'loc': 'Florida', 'arr_pos': 0}}
+
+Dinara+Salem%27s+resume		{u'High Point University, High Point, NC': {'loc': 'New Jersey', 'arr_pos': 3, 'associated_date': u'July 2015'}, u'High Point University, Academic Services ': {'loc': 'New Jersey', 'arr_pos': 29, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}, u'High Point University, Survey Research Center': {'loc': 'New Jersey', 'arr_pos': 34, 'associated_date': u'May 2013'}}
+
+Chan%2c+Rita++--+Resume		{u'UNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK ': {'loc': 'New York', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Resume+%26+Cover+Letter		{'Misc': {'deanslist': False}}
+
+Resume+ChristinaP+pub.rel		{u'Boston University, College of Communication| Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+ORLANDO+RESUME+2014_1_		{'Misc': {'deanslist': True}, u'Monroe College, Bronx, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'April 2015'}}
+
+lauraresume		{'Misc': {'deanslist': False}}
+
+ShaheedaAnif+resume		{u'Assumption College \u2013 special education & counseling course': {'arr_pos': 35, 'associated_date': u'January 2012'}, u'Archbishop Molloy High School': {'arr_pos': 39}, u'Adelphi University ': {'loc': 'New York', 'arr_pos': 28, 'associated_date': u'January 2012'}, 'Misc': {'deanslist': True}}
+
+Bentley+Bryant+2014+Resume+9.10+		{'Misc': {'deanslist': False}}
+
+Resume_6_		{'Misc': {'deanslist': True}, u'Berkeley College, Newark, Campus': {'arr_pos': 0, 'associated_date': u'April 2011', 'GPA': u'3.6'}}
+
+Food+Service+Resume_+PWeintrob		{u'Bard College, B.A., Theater & Performance, 2014 ': {'loc': 'Pennsylvania', 'arr_pos': 0}, u'Brian Mateo \u2022 Student Activities Office, Bard College \u2022 (570) 401-4916': {'arr_pos': 3}, 'Misc': {'deanslist': True}}
+
+Fahmida_Yeasmin_Bobi_Resume+3_23_15_2_		{u'KULAURA DEGREE COLLEGE                                                     Sylhet, Bangladesh': {'loc': 'Hawaii', 'arr_pos': 19}, u'High School Diploma': {'arr_pos': 23}, u'KULAURA GIRLS HIGH SCHOOL Sylhet, Bangladesh': {'loc': 'Hawaii', 'arr_pos': 22}, 'Misc': {'deanslist': True}, u'BRONX COMMUNITY COLLEGE                                                                Bronx, NY': {'loc': 'Hawaii', 'arr_pos': 1}, u' SYLHET INTERNATIONAL UNIVERSITY ': {'loc': 'Hawaii', 'arr_pos': 15}}
+
+jeri+lee+sept+14		{'Misc': {'deanslist': False}}
+
+rebeca+checo+updated+resume+112415		{'Misc': {'deanslist': False}}
+
+Forrest+Deily+Resume		{u'College of the Holy Cross, Worcester, MA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.39'}, 'Misc': {'deanslist': True}, u'Bishop McDevitt High School, Harrisburg, PA': {'loc': 'Pennsylvania', 'arr_pos': 9, 'associated_date': u'May 2011', 'GPA': u'4.1'}}
+
+Christopher+Schaefer+Resume.		{u'Bachelor of Science in Finance \u2013 Manhattan College, Riverdale, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.55'}, 'Misc': {'deanslist': True}, u'Stony Brook University Hospital, Stony Brook, NY ': {'loc': 'New York', 'arr_pos': 36, 'associated_date': u'January 2010'}}
+
+SharleneTResume		{u'Pace University, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+NiaBeckettResume+11-14_1_		{'Misc': {'deanslist': False}}
+
+Julie+Meltzer-Resume+Summer+2015		{u'University': {'arr_pos': 3, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Ingrid+Kaplan+Resume+5.25		{'Misc': {'deanslist': False}}
+
+Kong%27s+Resume		{u'Zicklin School of Business, Baruch College, CUNY                                         ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'July 2013', 'GPA': u'3.1'}, 'Misc': {'deanslist': True}}
+
+Resume		{'Misc': {'deanslist': False}}
+
+MeganKMcDonald.Resume		{'Misc': {'deanslist': True}}
+
+Nana+Akuba+Resume		{'Misc': {'deanslist': True}, u'John Jay College of Criminal Justice, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'December 2013'}}
+
+Arun+Kumar+-+Resume		{'Misc': {'deanslist': False}}
+
+Reem+Banu		{'Misc': {'deanslist': True}}
+
+Mohamed+Bah+Resume+2015		{u'Coursework included two weeks of study at Oxford University.   ': {'arr_pos': 10}, u'Franklin & Marshall College, Lancaster PA                                                                            Expected Graduation, Spring 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+Jose+Rivera+Updated+Resume+2015		{'Misc': {'deanslist': True}}
+
+Malenie+Jagmohan+Resume		{'Misc': {'deanslist': False}}
+
+IB_Rodrigo_Hizmeri_1.2		{'Misc': {'deanslist': False}}
+
+JoshuaDentResume		{'Misc': {'deanslist': False}}
+
+resume+092112		{'Misc': {'deanslist': True}, u'Franklin College of Arts and Sciences': {'arr_pos': 31, 'associated_date': u'May 2012', 'GPA': u'3.6'}, u'The University of Georgia': {'loc': 'Georgia', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.8'}, u'Terry College of Business ': {'arr_pos': 3, 'associated_date': u'May 2012', 'GPA': u'3.8'}, u'Study Abroad: Yonsei University': {'arr_pos': 36, 'associated_date': u'December 2012'}}
+
+Asli+Ala+Onur_Resume_2_		{'Misc': {'deanslist': True}, u'EMERSON COLLEGE, Boston, MA   ': {'loc': 'Puerto Rico', 'arr_pos': 2, 'associated_date': u'May 2014'}}
+

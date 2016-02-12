@@ -1,0 +1,100 @@
+ericarobertsresume		{'Misc': {'deanslist': False}}
+
+ZHooda+Resume		{'Misc': {'deanslist': False}}
+
+sheilaoshearesume.2014.office.paralegal_1_		{'Misc': {'deanslist': False}}
+
+KevinJung%27s+Resume		{'Misc': {'deanslist': True}, u'University of California Davis ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2012'}}
+
+cv_4		{'Misc': {'deanslist': False}}
+
+1.Resume_ObinnaOnyenedum_1_		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+Resume+Sofia+Rocher		{u'New York University, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}, u'American University of Paris ': {'arr_pos': 2}}
+
+Nadia+Dorado+-+resume		{'Misc': {'deanslist': True}}
+
+Risikat+Oshodi-+Accounting+and+Finance+Resume_1_		{'Misc': {'deanslist': True}}
+
+Alvaro+Castillo+Management+Resume+2013		{u'Lehigh Carbon Community College Schnecksville, PA': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'January 2007'}, u'Pennsylvania State University Center Valley, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}}
+
+Katsis+Resume+_1_		{'Misc': {'deanslist': True}}
+
+Nick%27s_Resume		{u'Emory University   ': {'loc': 'Georgia', 'arr_pos': 0, 'associated_date': u'December 2015'}, 'Misc': {'deanslist': True}}
+
+Elton+A+Silveira_1_		{u'The Pennsylvania State University, University Park, Pennsylvania                                                Expected graduation: Fall 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'2.96'}, u'College of Engineering: Bachelor of Science in Industrial Engineering ': {'arr_pos': 1, 'GPA': u'2.96'}, 'Misc': {'deanslist': True}}
+
+Allan+Beckman+Resume--gd_2_		{'Misc': {'deanslist': True}, u'University of California Irvine, Irvine, CA': {'loc': 'California', 'arr_pos': 5, 'GPA': u'3.733'}}
+
+Lovette+resume2		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': True}, u'Motivation High School': {'arr_pos': 6}}
+
+Peng%27s+Resume+_Techical+Version__4_		{'Misc': {'deanslist': True}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Eva+Swanson+resume+2.		{u'College of William and Mary': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.49'}, u'Virginia Commonwealth University': {'loc': 'Virginia', 'arr_pos': 4, 'associated_date': u'May 2011', 'GPA': u'3.95'}, 'Misc': {'deanslist': True}}
+
+McManus%2c+Neil+R%c3%a9sum%c3%a9_1_		{'Misc': {'deanslist': True}}
+
+Christopher+Lewis+Professional+Resume+		{'Misc': {'deanslist': False}}
+
+Tracey_Resume_1_		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2015', 'GPA': u'3.49'}}
+
+Heitzenrater_Resume2013		{u'Ohio Valley General Hospital School of Nursing ': {'loc': 'Hawaii', 'arr_pos': 3}, u'Indiana University of Pennsylvania Criminal Justice Training ': {'loc': 'Hawaii', 'arr_pos': 7}, 'Misc': {'deanslist': True}, u'Indiana University of Pennsylvania ': {'loc': 'Hawaii', 'arr_pos': 11}}
+
+English+Resume+2014v3		{'Misc': {'deanslist': False}}
+
+Leslie+Alfaro_1_		{u'Took graduate level courses from School of Law and School of Political Science  ': {'arr_pos': 17}, u'University of Bologna \u2013 Bologna, Italy                                                                                                                                     Spring, 2013 ': {'arr_pos': 11}, u'UC Education Abroad Program ': {'arr_pos': 13}, 'Misc': {'deanslist': True}, u'University of California Berkeley \u2013 Berkeley, CA                                   ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2013'}}
+
+MRubock_Resume_1_		{'Misc': {'deanslist': True}, u'Northeastern University, Boston, MA (2009)': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.3'}}
+
+Kate+resume+_1_		{'Misc': {'deanslist': True}}
+
+C_Gunther_Resume		{'Misc': {'deanslist': False}}
+
+resume_7_		{u'BOSTON UNIVERSITY STUDY ABROAD PROGRAM': {'loc': 'Puerto Rico', 'arr_pos': 12}, 'Misc': {'deanslist': True}, u'BOSTON UNIVERSITY, Boston, MA': {'loc': 'Puerto Rico', 'arr_pos': 1, 'GPA': u'3.3'}, u'BOSTON  UNIVERSITY, London, England': {'arr_pos': 13}}
+
+Jessica+N+Perez-Resume+2016		{'Misc': {'deanslist': False}}
+
+DMOORE+Resume+_Updated_		{u'Medill School of Journalism, Northwestern University, Evanston, IL': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': True}}
+
+ERV_CV		{'Misc': {'deanslist': True}, u'Warrington College of Business Administration, University of Florida ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.57'}}
+
+Meifeng_Yang_CV_1_		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2015', 'GPA': u'3.66'}, 'Misc': {'deanslist': True}}
+
+J+Greene+Resume_2_		{u'West Chester University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 5}, 'Misc': {'deanslist': True}, u'Indiana University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 26}}
+
+KristianGjika		{'Misc': {'deanslist': False}}
+
+revised+resume+8-25		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, Abington PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+resume_6_		{u'Graduated with High Distinction and Honors in Journalism from Schreyer Honors College ': {'arr_pos': 21}, 'Misc': {'deanslist': True}}
+
+FanninResume_1_		{'Misc': {'deanslist': False}}
+
+LU_Yuan_gen_12092015		{'Misc': {'deanslist': True}}
+
+Resume_Khan%2c+Pratiti		{u'Georgia Perimeter College, Clarkston, Georgia                                                                                                     January 2012 \u2013 July 2013 ': {'loc': 'Georgia', 'arr_pos': 5, 'associated_date': u'July 2013'}, u'Bangladesh University of Engineering & Technology, Dhaka, Bangladesh                                                   May 2010 \u2013 August 2011 ': {'loc': 'Georgia', 'arr_pos': 8, 'associated_date': u'August 2011'}, 'Misc': {'deanslist': True}}
+
+RESUME_13_		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}}
+
+CharlesHarryResume		{'Misc': {'deanslist': True}}
+
+BDinmore+Resume+11-2013		{'Misc': {'deanslist': False}}
+
+J+P+Rose+Resume		{u'Indiana University of Pennsylvania, Indiana, PA': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}}
+
+Resume_5_		{u'The Pennsylvania State University Capital College, Middletown, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.11'}, 'Misc': {'deanslist': True}}
+
+Resume+-+Business		{'Misc': {'deanslist': True}, u'University of California Los Angeles | Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.95'}}
+
+TaylorTrimbleResume		{'Misc': {'deanslist': True}, u'Duke University, Sanford School of Public Policy ': {'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.38'}}
+
+Kelly+Swisher+Resume+		{u'Personal Touch Cleaning Co., State College, PA - Entrepreneur': {'loc': 'Pennsylvania', 'arr_pos': 20}, u"P.J. Harrigan's, Ramada Inn, State College, PA - Dining Room Manager": {'loc': 'Pennsylvania', 'arr_pos': 19}, 'Misc': {'deanslist': True}, u'The Pennsylvania State University \u2010 University Park, PA, USA': {'loc': 'Pennsylvania', 'arr_pos': 39}, u'State College Idol - Judge': {'loc': 'Pennsylvania', 'arr_pos': 37}, u'K. Pink Distribution, State College, PA - Entrepreneur': {'loc': 'Pennsylvania', 'arr_pos': 18}, u'Hooters Restaurant \u2010 State College & Altoona, PA': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'Feb 2002'}}
+
+Regular+Law+Paralegal+Resume_1_		{'Misc': {'deanslist': True}, u'University of California Los Angeles': {'loc': 'Illinois', 'arr_pos': 9}, u'Northwestern University': {'loc': 'Illinois', 'arr_pos': 14}, u'University of California Los Angeles Extension Course': {'loc': 'Illinois', 'arr_pos': 1}}
+
+Joseph+Alexandrou+resume_1_		{'Misc': {'deanslist': True}, u'Oct 2007-Jun 2010 Aug 2010-Sept 2010, University of California, Davis': {'loc': 'Virginia', 'arr_pos': 12, 'associated_date': u'Oct 2007'}}
+
+BenCatheyResume_1_		{'Misc': {'deanslist': False}}
+
+Resume_12_		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2008'}, 'Misc': {'deanslist': True}, u'      University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 3}}
+

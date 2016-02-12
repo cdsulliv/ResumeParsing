@@ -1,0 +1,12 @@
+Adam%2cZinab_1__2_+_2_		{u'New York City College of Technology  ': {'loc': 'New York', 'arr_pos': 0}, u'Saad Sweet Secondary School ': {'loc': 'New York', 'arr_pos': 22}, 'Misc': {'deanslist': True}, u'Sudan University of Science and Technology': {'loc': 'New York', 'arr_pos': 19}}
+
+Ly+Nguyen+Resume+Main		{u'Pace University, Dyson College of Arts and Sciences, New York, NY                                                  Expected 05/2017': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.95'}, 'Misc': {'deanslist': True}}
+
+BEH+Resume+9.16.15		{'Misc': {'deanslist': False}}
+
+Current+Resume		{'Misc': {'deanslist': True}, u'St. John\xe2\x80\x99s University, Queens, NY 2012-2016  ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.85'}}
+
+Nicole.Lem.resume		{u'   New York University, New York, NY, United States': {'loc': 'Mississippi', 'arr_pos': 1, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Joseph+D%27Amico+Resume+2013--gd		{'Misc': {'deanslist': True}, u'Captain and League Officer for the Fairfield University club soccer team': {'arr_pos': 61}, u'Fairfield University                             ': {'loc': 'New Jersey', 'arr_pos': 2, 'associated_date': u'May 2013', 'GPA': u'3.15'}}
+

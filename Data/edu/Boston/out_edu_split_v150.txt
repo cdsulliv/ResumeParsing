@@ -1,0 +1,100 @@
+Anna+Novikova+Resume+Summer+2014_2_		{'Misc': {'deanslist': True}, u'Boston University \xe2\x80\x93 Boston, MA; Dual Degree Program, Dean\xe2\x80\x99s Scholarship Recipient': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Fabiola_Abissa_Resume		{u'Bunker Hill Community College, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 6}, u'Simmons College, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'December 2012'}, 'Misc': {'deanslist': True}, u'University of Westminster, London, UK ': {'loc': 'Massachusetts', 'arr_pos': 3, 'associated_date': u'December 2012'}}
+
+Newest+resume		{u'Earning 24 college credits towards a Bachelor of Science  in partnership with Cambridge College': {'arr_pos': 14}, u'Bunker Hill Community College                                                               Charlestown, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'January 2015'}, u'Year Up / Cambridge College': {'loc': 'Massachusetts', 'arr_pos': 4, 'associated_date': u'September 2014'}, 'Misc': {'deanslist': True}}
+
+Snigdha+Gupta+Resume+2015		{'Misc': {'deanslist': True}, u'Boston University School of Management; Boston, MA                                                                                       May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.46'}}
+
+KonstantinosPetridisRESUME.docx_1_		{'Misc': {'deanslist': False}}
+
+Andrew+Edbert+Wijaya+-+Resume_1_		{u'Boston University School of Management; Boston, MA                         ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'January 2015', 'GPA': u'3.06'}, 'Misc': {'deanslist': True}}
+
+Evan+Moreira+01.08.15_6_		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Jingni+Wang%27s+resume+complete		{'Misc': {'deanslist': True}, u'Boston University (BU), Boston, MA': {'loc': 'Puerto Rico', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.72'}}
+
+Valerie+Cappa+2013+Resume+_1_		{u'Bentley University -Waltham, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.71'}, 'Misc': {'deanslist': True}, u'University of Manchester \u2013Manchester, England ': {'loc': 'Massachusetts', 'arr_pos': 7, 'associated_date': u'May 2010'}}
+
+resumeinnaloseva		{'Misc': {'deanslist': False}}
+
+Rosy+Rosario+Resume+_1_		{u'Newbury College ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Joey+Wang+resume		{'Misc': {'deanslist': False}}
+
+Resume+2015+october_1_		{u'used in physic lab at Roxbury Community College.': {'arr_pos': 116}, u'Roxbury Community College, Boston, Ma': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Robert D. Marshall Carpenter\u2019s Training School, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 4, 'associated_date': u'May 2014'}, u'in collaboration with the Capstone Coordinator at the University of ': {'loc': 'Massachusetts', 'arr_pos': 50, 'associated_date': u'May 2014'}, u'University Of Massachusetts, Lowell, Ma (UMass Lowell)': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+resume2_2__3_		{u'University of Maine, Orono ': {'loc': 'Maine', 'arr_pos': 2, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Resume_4_		{'Misc': {'deanslist': False}}
+
+Alphonse+Resume		{u'B.S. Mathematics, University of Yaounde I, Cameroon 2001 ': {'arr_pos': 5}, 'Misc': {'deanslist': True}, u'MBA Accounting - Candidate, Maharishi University of Management (Expected 2016) ': {'arr_pos': 2}}
+
+Resume++2014_6_		{'Misc': {'deanslist': True}, u'Merrimack College': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.55'}}
+
+K+Patel+Resume+		{'Misc': {'deanslist': True}, u'Massachusetts College of Pharmacy and Health Sciences University, Boston, ': {'loc': 'Oregon', 'arr_pos': 0, 'associated_date': u'April 2015'}}
+
+Brian+Gilloran%27s+Resume		{'Misc': {'deanslist': True}, u'St. Lawrence University, Canton, NY                                                                                       ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.27'}}
+
+resume2_5_		{'Misc': {'deanslist': False}}
+
+Arline+2015		{u'University of Massachusetts Lowell, Lowell, MA': {'loc': 'Colorado', 'arr_pos': 0, 'associated_date': u'May 2017'}, u'Roxbury Community College, Roxbury Crossing, MA': {'loc': 'Colorado', 'arr_pos': 2, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}}
+
+Evan+Moreira+01.08.15_1_		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Gendy%2c+Amira+Resume		{u'ASSIUT UNIVERSITY, ASSIUT, EGYPT ': {'loc': 'American Samoa', 'arr_pos': 3}, 'Misc': {'deanslist': True}}
+
+Dirk+Prather+Resume		{'Misc': {'deanslist': True}, u'Northern Arizona University ': {'loc': 'Arizona', 'arr_pos': 1, 'associated_date': u'May 2013'}}
+
+Resume+2015+october		{u'used in physic lab at Roxbury Community College.': {'arr_pos': 116}, u'Roxbury Community College, Boston, Ma': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Robert D. Marshall Carpenter\u2019s Training School, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 4, 'associated_date': u'May 2014'}, u'in collaboration with the Capstone Coordinator at the University of ': {'loc': 'Massachusetts', 'arr_pos': 50, 'associated_date': u'May 2014'}, u'University Of Massachusetts, Lowell, Ma (UMass Lowell)': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+Lelis+B+Castro+2014+resume+_4_		{'Misc': {'deanslist': True}}
+
+F_Echeverri+Resume-20150701_2_		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+DianeStarrLiu_Resume		{'Misc': {'deanslist': False}}
+
+TathianaMoiseResume		{'Misc': {'deanslist': False}}
+
+KonstantinosPetridisRESUME.docx		{'Misc': {'deanslist': False}}
+
+F_Echeverri+Resume-20150701_3_		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+Nicole+Dupuis+Resume+August+2015+-+1		{u'Emmanuel College - Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Loulwa+Al+Saad+-+Resume		{u'Bentley University                                                                                                                                                Waltham, MA ': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.48'}, 'Misc': {'deanslist': True}, u'University of Virginia Semester at Sea ': {'loc': 'Virginia', 'arr_pos': 7}}
+
+Resume_Amanda+Ramos--dbm_1_		{u'Bunker Hill Community College, Boston, MA': {'loc': 'Mississippi', 'arr_pos': 4, 'associated_date': u'December 2013'}, u'University of Massachusetts Boston, Boston, MA': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+Amy+Patel-+Resume		{'Misc': {'deanslist': True}}
+
+resume_3_		{'Misc': {'deanslist': True}, u'Northeastern University, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0}, u'Bouve College of Health Sciences, School of Pharmacy': {'arr_pos': 1}}
+
+Nick+Q.+Yan+2014+Fall+Resume		{'Misc': {'deanslist': True}, u'Brandeis University ': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.4'}}
+
+Barrett+O%27Neill+Resume		{'Misc': {'deanslist': False}}
+
+Justin+Reiter+Resume		{'Misc': {'deanslist': True}, u'Northeastern University, Boston, MA ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.98'}}
+
+Jasmine%27s+resume+		{'Misc': {'deanslist': False}}
+
+resume_barrett+2014		{u'Keene State College, Keene, NH': {'loc': 'Connecticut', 'arr_pos': 5, 'associated_date': u'November 2013'}, 'Misc': {'deanslist': True}}
+
+Samira+Boughari++Resume+11-7-14		{u'Bunker Hill Community College, Boston, MA                                                                                    2012 - 2013': {'loc': 'Massachusetts', 'arr_pos': 8}, 'Misc': {'deanslist': True}, u'University Mouloud Mammeri, Tizi-Ouzou, Algeria                                                                                    ': {'arr_pos': 11}, u'Boston University School of Medicine and Metropolitan College, Boston MA                  ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2014'}}
+
+Anna+Novikova+Resume+Summer+2014_1_		{'Misc': {'deanslist': True}, u'Boston University \xe2\x80\x93 Boston, MA; Dual Degree Program, Dean\xe2\x80\x99s Scholarship Recipient': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Cover+Letter+and+Resume+2015_1_		{u'University of Massachusetts Boston, Boston MA': {'loc': 'Massachusetts', 'arr_pos': 23, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Boston University School of Medicine, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 28, 'associated_date': u'May 2004'}}
+
+Evelyne+Tschibelu_PortfolioI_resume2014		{'Misc': {'deanslist': True}, u'University of Massachusetts-Boston, MA: Bachelor of Science in Biology': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+JUSTINGROSSERESUMECURRENT.		{u'University of New Hampshire (UNH), Durham, NH': {'loc': 'New Hampshire', 'arr_pos': 2}, 'Misc': {'deanslist': True}, u'BA, College of Liberal Arts\xe2\x80\x93Communications ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2012'}}
+
+Kevin+Shen+Resume		{u'Boston College, Wallace E. Carroll School of Management ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.63'}, 'Misc': {'deanslist': True}}
+
+resume2_2__7_		{u'University of Maine, Orono ': {'loc': 'Maine', 'arr_pos': 2, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+resume2_2__5_		{u'University of Maine, Orono ': {'loc': 'Maine', 'arr_pos': 2, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Resume+022614		{u'Worcester State University, Worcester, MA                                                                       2010-present': {'loc': 'Massachusetts', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+

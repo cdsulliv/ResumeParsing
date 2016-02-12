@@ -1,0 +1,100 @@
+WendongRui_Resume+Ver5.05		{'phone': '(612) 636-4707', 'email': 'ruixx005@umn.edu', 'name': 'Paul Rui '}
+
+paigemalterresume2014		{'phone': '(347) 256-5465', 'email': 'paigemalter@gmail.com', 'name': 'PAIGE MALTER'}
+
+Dayron_Estevez_Resume		{'phone': '(786) 693-0867', 'email': 'dayronestevez@gmail.com', 'name': 'Dayron Estevez '}
+
+Jerin+Oberdorf+-+Resume		{'phone': '(717) 395-7527', 'email': 'joberdorf@hotmail.com', 'name': 'Jerin J. Oberdorf'}
+
+resume+Alex_Dembowski_v3		{'phone': '(773) 288-7069', 'email': 'adembowski@luc.edu', 'name': 'Alex Dembowski'}
+
+Jeong+won+Choi+CV+2015+Fall		{'phone': '202-903-1609', 'email': 'ccjeongwon@gmail.com', 'name': ' Jeong Won Choi '}
+
+Richard+Quaicoe+Engineering+Resume		{'phone': '(404) 663-4111', 'email': 'rquaicoe3@gatech.edu', 'name': 'No Name Found'}
+
+James+Mayeski+Skills+Resume+Rev.+3		{'phone': '(570) 470-4478', 'email': 'jjm5581@psu.edu', 'name': 'James Joseph Mayeski '}
+
+Maen+Hijazi+Resume		{'phone': '(301) 412-3026', 'email': 'hijazimaan@gmail.com', 'name': 'Maen Hijazi '}
+
+Resume-Raphael+Dangtran+final		{'phone': '408.649.8492', 'email': 'RAPHAEL.DANGTRAN@GMAIL.COM', 'name': 'RAPHAEL T. DANGTRAN '}
+
+Grace+Kenneally+Resume		{'phone': '(518) 428-9032', 'email': 'gkennea1@jhu.edu', 'name': 'No Name Found'}
+
+sgoodman_resume-gmail		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Chenxi+Li+resume+0825+new		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Resume+Wit+Supervisor+		{'phone': '610.299.3186', 'email': 'Ajmcc18@gmail.co', 'name': 'Amanda J. McCullough'}
+
+Resume+2		{'phone': '717-903-5847', 'email': 'dar5052@psu.edu', 'name': 'No Name Found'}
+
+Tyla+Landry+Resume--gd		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+McCauley+Harnish+resume+2014		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+AnishaDesaiResume		{'phone': '(510)529-5402', 'email': 'anishad@berkeley.edu', 'name': 'Anisha Desai '}
+
+Giang+Ngo		{'phone': '717-756-7425', 'email': 'gon5032@psu.edu', 'name': 'No Name Found'}
+
+Resume+-+Alexandra+Schilling+		{'phone': '561-400-7960', 'email': 'allieschilling@gmail.com', 'name': 'Alexandra Schilling '}
+
+LEHANG%27S+RESUME		{'phone': '(717) 422-4579', 'email': 'Lzp5123@psu.edu', 'name': ' Le-Hang N Pham '}
+
+1.Resume_ObinnaOnyenedum		{'phone': '(760) 419-2444', 'email': 'xyzobi@gmail.com', 'name': 'No Name Found'}
+
+MaxwellKappesResume		{'phone': '(707) 481-8289', 'email': 'maxwellallenkappes@gmail.com', 'name': 'Maxwell Kappes'}
+
+Christopher+P.+Winer+Business+Resume--gd		{'phone': 'No Phone Found', 'email': 'christopher.winer@gmail.com', 'name': 'Christopher\xc2\xa0P.\xc2\xa0Winer\xc2\xa0'}
+
+JonathanMartzGeneralResume2015		{'phone': '630-947-4204', 'email': 'jonathan.b.martz@vanderbilt.edu', 'name': 'Jonathan Martz '}
+
+BrittanyLuntz_Resume		{'phone': '(631) 513-5827', 'email': 'brittanyluntz@gmail.com', 'name': 'Brittany Luntz '}
+
+Crizelle+Panis+Resume		{'phone': 'No Phone Found', 'email': 'paniscrizelle@gmail.com', 'name': 'Crizelle Panis'}
+
+Resume+--+Sarah+Fedner		{'phone': '(614) 648-0919', 'email': 'sfedner@gmail.com', 'name': 'Sarah Fedner'}
+
+resume+821		{'phone': '408.623.4890', 'email': 'Ngoctu2811@berkeley.edu', 'name': 'No Name Found'}
+
+KatieDoyleResume2011		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Radford_Resume_F		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Naimah+Hares+Senior+Resume		{'phone': '(215) 839-4294', 'email': 'nhares@sas.upenn.edu', 'name': 'No Name Found'}
+
+Araujo%2c+Jennifer		{'phone': '(703) 798-0201', 'email': 'j.liseth26@gmail.com', 'name': 'Jennifer L. Araujo '}
+
+Lindsay+Dynow+-+Resume		{'phone': '610-357-0349', 'email': 'LCDynow@Verizon.net', 'name': 'Lindsay Dynow'}
+
+MICHELLE_SOTO_Resume		{'phone': '(914) 479-8279', 'email': 'msoto2@u.rochester.edu', 'name': 'MICHELLE SOTO'}
+
+Chronological+Resume		{'phone': '(814) 547-9867', 'email': 'clay.dawson8@gmail.com', 'name': 'Clay Dawson'}
+
+McManus%2c+Neil+R%c3%a9sum%c3%a9		{'phone': 'No Phone Found', 'email': 'neilchm@gmail.com', 'name': '100\t\r \xc2\xa0Wilson\t\r \xc2\xa0Road,\t\r \xc2\xa0Springfield\t\r \xc2\xa0NJ\t\r \xc2\xa0\xe2\x96\xaa\t\r \xc2\xa0(973)-\xc2\xad\xe2\x80\x90902-\xc2\xad\xe2\x80\x908946\xe2\x96\xaa\t\r \xc2\xa0neilchm@gmail.com\t\r \xc2\xa0'}
+
+Jerry+Siu+Resume		{'phone': '(949) 735-8944', 'email': 'jerrysiu94@yahoo.com', 'name': 'JERRY SIU '}
+
+Nicole+Palin%27s+Resumes+		{'phone': '(215) 582-2141', 'email': 'nicole.palin1@gmail.com', 'name': 'NICOLE PALIN'}
+
+DianeStarrLiu_Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Eva+Abeniacar+Resume+Sept+2015		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'Eva Abeniacar '}
+
+JocelynKoresko_Resume_MKTG_07302012_2.		{'phone': '610-283-3811', 'email': 'jocelynkoresko@gmail.com', 'name': 'No Name Found'}
+
+Kevinsheehan_resume--dbm		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'John Brown University '}
+
+Resume2		{'phone': '831.210.4320', 'email': 'dangomez@sas.upenn.edu', 'name': 'Daniel Gonzalez G\xc3\xb3mez '}
+
+my+resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Nicholas+A.+Suarez+Resume+v2		{'phone': 'No Phone Found', 'email': 'bs43093@yahoo.com', 'name': 'NICHOLAS SUAREZ '}
+
+Resume+4.0--gd		{'phone': '(267) 885-4346', 'email': 'mattlapalombara323@gmail.com', 'name': 'Matthew M. LaPalombara '}
+
+Kastor_Zhang+Resume		{'phone': '(202) 379-5271', 'email': 'kz91@georgetown.edu', 'name': 'No Name Found'}
+
+Nick+Q.+Yan+2014+Fall+Resume		{'phone': '781.386.7408', 'email': 'yan920731@gmail.com', 'name': 'Qikang Yan'}
+
+Ashley+Morrison+-+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+

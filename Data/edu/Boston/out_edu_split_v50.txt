@@ -1,0 +1,100 @@
+Evan+Moreira+01.08.15_3_		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Evan+Moreira+01.08.15_2_		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Fabian+Ramirez+Resume		{u'Earning 24 college credits towards a Bachelor of Science  in partnership with Cambridge College': {'arr_pos': 9}, u'Year Up / Cambridge College': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'July 2015'}, 'Misc': {'deanslist': True}}
+
+Minchang+Park_Resume		{u'Boston College \u2013 Morrissey College of Arts and Sciences                                                                                 August 2008 \u2013 December 2015  ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'August 2008'}, 'Misc': {'deanslist': True}}
+
+s.angermann+resume		{'Misc': {'deanslist': False}}
+
+Resume++2014_3_		{'Misc': {'deanslist': True}, u'Merrimack College': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.55'}}
+
+Juan%27s+Resume		{'Misc': {'deanslist': True}, u'AMERICAN BUSINESS SCHOOL                                                                 ': {'loc': 'South Carolina', 'arr_pos': 7}, u':  SUFFOLK UNIVERSITY                                                                            ': {'loc': 'South Carolina', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.7'}}
+
+F_Echeverri+Resume-20150701		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+Resume++2014_2_		{'Misc': {'deanslist': True}, u'Merrimack College': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.55'}}
+
+Resume		{'Misc': {'deanslist': True}, u'Boston College  Chestnut Hill, Ma': {'arr_pos': 0, 'associated_date': u'September 2010'}, u'College of Arts and Sciences': {'arr_pos': 2}}
+
+Valeria.Cerda.Resume		{u'\u2022  Study Abroad: College for International Studies (Madrid, Spain), Fall 2012 ': {'arr_pos': 10}, u'Endicott College ': {'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.62'}, 'Misc': {'deanslist': True}}
+
+eventplanningresad		{u'Southern Connecticut State University': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.3'}, 'Misc': {'deanslist': True}}
+
+Janet+Yeanga+accounting+resume+8.20+final		{'Misc': {'deanslist': False}}
+
+CV+-+Ellen+Kyere		{u'Quincy College \u2013 Quincy, MA': {'loc': 'Massachusetts', 'arr_pos': 5, 'associated_date': u'January 2011', 'GPA': u'3.9'}, 'Misc': {'deanslist': True}, u'University of Massachusetts \u2013 Boston, MA                          ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.4'}}
+
+Ke+Han+Chen+Resume		{'Misc': {'deanslist': True}, u'Emerson College, Boston, USA ': {'arr_pos': 0}, u'Shih Hsin University, Taipei, Taiwan    ': {'arr_pos': 5}}
+
+Resume+Suraj+Rao+2015+3		{u'Brandeis University, Waltham MA  ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.30'}, 'Misc': {'deanslist': True}}
+
+Deneen+Moody+Resume+1-Revised		{'Misc': {'deanslist': True}, u'College Coursework': {'loc': 'Connecticut', 'arr_pos': 11}, u'Greater Hartford Community College, Hartford, CT - 12 credits earned in General Studies': {'loc': 'Connecticut', 'arr_pos': 14}, u'Southern Connecticut State University, New Haven, CT - 60 credits earned toward B.S. ': {'loc': 'Connecticut', 'arr_pos': 12}}
+
+NEW+resume1		{'Misc': {'deanslist': False}}
+
+Juyoung%27s+resume		{'Misc': {'deanslist': True}, u'Brandeis University (2011-2015)': {'arr_pos': 0}}
+
+LatestCV2015		{'Misc': {'deanslist': True}, u'Harvard University, Cambridge, MA.  Bachelor of Arts, concentration in Government, May ': {'loc': 'Massachusetts', 'arr_pos': 0}}
+
+Jaclyn+Silva%27s+Resume		{'Misc': {'deanslist': True}, u'Bachelor of Science in Marketing, Merrimack College, 2010': {'arr_pos': 0}}
+
+F_Echeverri+Resume-20150701_6_		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+s.angermann+resume_1_		{'Misc': {'deanslist': False}}
+
+Evan+Moreira+01.08.15		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+resume2_6_		{'Misc': {'deanslist': False}}
+
+robert+final+resume.		{u'Cambridge College, Cambridge, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'January 2012'}, 'Misc': {'deanslist': True}, u'Leconte University, Port-au-Prince, Haiti': {'arr_pos': 2, 'associated_date': u'May 1980'}}
+
+Resume+Benjamin+Kitchen		{'Misc': {'deanslist': False}}
+
+Resume+2015		{u'School: Suffolk University ': {'loc': 'Massachusetts', 'arr_pos': 6, 'associated_date': u'May 2017'}, 'Misc': {'deanslist': True}, u'School: Bunker Hill Community College, ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2017'}}
+
+OrtizP_SindyResume		{'Misc': {'deanslist': True}}
+
+Resume_Wesley+Cot		{u'Bentley University, Waltham, MA ': {'loc': 'American Samoa', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.69'}, 'Misc': {'deanslist': True}}
+
+Evelyne+Tschibelu_PortfolioI_resume2014_7_		{'Misc': {'deanslist': True}, u'University of Massachusetts-Boston, MA: Bachelor of Science in Biology': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+Nathan_Bigley.doc		{u'University of New Hampshire - Peter T. Paul College of Business and Economics': {'loc': 'Massachusetts', 'arr_pos': 0}, 'Misc': {'deanslist': True}, u'Hudson High School, Hudson, MA 2011': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+Anthony+Lopez%27s+Resume+_Up+to+Date_		{u'University of Massachusetts Dartmouth, North Dartmouth, MA           ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Snigdha+Gupta+Resume+2015_1_		{'Misc': {'deanslist': True}, u'Boston University School of Management; Boston, MA                                                                                       May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.46'}}
+
+YTadesse-Resume%cc%81		{u'Suffolk University | Boston, MA                                                                   ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'Sep 2015'}, 'Misc': {'deanslist': True}}
+
+resume2_1_		{'Misc': {'deanslist': False}}
+
+Chris+Picarde+Resume.		{'Misc': {'deanslist': False}}
+
+EMILY+SILIEZAR+final		{u'University of Massachusetts, Lowell, MA                                                                                 ': {'loc': 'Puerto Rico', 'arr_pos': 0, 'associated_date': u'May 2017'}, 'Misc': {'deanslist': True}}
+
+Thaci_Bisera_Resume		{u'School of Law, University of Tirana   ': {'arr_pos': 15}, 'Misc': {'deanslist': True}, u'Bunker Hill Community College ': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+Chad_Dalrymple_Resume+_1_		{'Misc': {'deanslist': False}}
+
+Anna+M.E+Bjorn+resume		{'Misc': {'deanslist': False}}
+
+cv_4		{'Misc': {'deanslist': False}}
+
+C_Maul+-+Resume+Fall+2015		{u'\u2022  Siena College, Loudonville, NY ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Li_Victor_Resume		{u'Boston University College of Engineering, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'2012-'}, u'Recipient of the Boston University Grant- Must maintain 3.0 GPA                                                             2012- Present': {'arr_pos': 2, 'GPA': u'2012-'}, 'Misc': {'deanslist': True}}
+
+Resume+2009+_Caillin+Wall_		{'Misc': {'deanslist': True}}
+
+Resume+-+Khalid+Hashem++		{'Misc': {'deanslist': False}}
+
+Eric_Argentieri_Resume_Fall_2013		{'Misc': {'deanslist': False}}
+
+Seynabou+A+Sar+Resume+101613		{'Misc': {'deanslist': True}, u'SUFFOLK UNIVERSITY (Dakar, Senegal': {'arr_pos': 85, 'associated_date': u'November 2009'}, u'SUFFOLK UNIVERSITY, Boston, MA': {'loc': 'California', 'arr_pos': 3, 'associated_date': u'October 2013'}}
+
+resume2_2__1_		{u'University of Maine, Orono ': {'loc': 'Maine', 'arr_pos': 2, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Emmanuella_Victor+Resume		{'Misc': {'deanslist': False}}
+

@@ -1,0 +1,100 @@
+Katie+Coyle+resume+		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+r%c3%a9sum%c3%a9+draft		{'phone': '(917) 685-2387', 'email': 'nathanbruno@hotmail.com', 'name': 'Nathan Bruno'}
+
+Marcus+Hill+Resume		{'phone': '845-901-7828', 'email': 'mdh283@cornell.edu', 'name': 'No Name Found'}
+
+Emily+Feldman+Final+Resume+2015		{'phone': '224-636-2544', 'email': 'Em22493@aol.com', 'name': 'Emily H. Feldman '}
+
+Social+Media+Customer+Strategy+Specialist		{'phone': '570-975-9054', 'email': 'kaylarminguez@gmail.com', 'name': ' Kayla R. Minguez'}
+
+Taylor.Griffon.Resume.4.10		{'phone': '(443)848-3202', 'email': 'Taylor.Griffon@gmail.com', 'name': 'Taylor Griffon  '}
+
+Danielle+Beecher+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'DANIELLE T. BEECHER '}
+
+PETER_WYCISK_RESUME.		{'phone': '216-256-8338', 'email': 'pjw15@case.edu', 'name': 'No Name Found'}
+
+Alyssa+Harding+R		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+James+J+Mahoney+Resume+April+2013		{'phone': '215-692-2228', 'email': 'JM721253@gmail.com', 'name': 'James J. Mahoney'}
+
+Resume+Las+Vegas%2c+NV		{'phone': '(310) 919-8735', 'email': 'Jean-herbert_harris@alumni.brown.edu', 'name': 'Je\xe2\x80\x99an-Herbert Harris'}
+
+Yifei+Wang+resume		{'phone': '4087079716', 'email': 'yifeiwang2013@berkeley.edu', 'name': 'Yifei Wang '}
+
+JordanCKrentzResume-1		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+General+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Achoi_Resume		{'phone': '(412) 807-9503', 'email': 'angelina.choi7@gmail.com', 'name': 'No Name Found'}
+
+Resume-+Daniel+Coleman		{'phone': '215-760-8012', 'email': 'Dwc2@sas.upenn.edu', 'name': 'Daniel W. Coleman'}
+
+Chenxi+Li+resume+10241		{'phone': '202-413-8533', 'email': 'cherry103919@gmail.com', 'name': 'No Name Found'}
+
+Li%2c+Vicky+		{'phone': '510.386.7366', 'email': 'vvicky.li@yahoo.com', 'name': 'Vicky\t\r \xc2\xa0Li\t\r \xc2\xa0'}
+
+Wong%2c+Jonathan+-+Resume+2015+September		{'phone': '(781) 664-4091', 'email': 'jlwong@bu.edu', 'name': 'JONATHAN '}
+
+Tyler+Brown+Resume+C		{'phone': '(630) 234-8614', 'email': 'tjb88@case.edu', 'name': 'Tyler Brown '}
+
+Painter.Richard.Resume+6.26.15		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+E.HEARD-Career_Builder		{'phone': '303-999-7723', 'email': 'ejheard@me.com', 'name': 'No Name Found'}
+
+MT+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'Morgan L. Thompson'}
+
+Nahime+Aguirre+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Allan+G%27s+Resume+8		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+myresume6068668990603041121		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Btatem		{'phone': '678-478-7492', 'email': 'brittany.tatem@gmail.com', 'name': 'Brittany Tatem'}
+
+JV_Official_Resume		{'phone': '773 540 0067', 'email': 'jcb@gmail.com', 'name': 'Jacob B. Vick'}
+
+DamonMcLeanResume		{'phone': '(609) 613-8818', 'email': 'Damon_mclean@yahoo.com', 'name': 'Damon McLean '}
+
+CV-Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Kelvin+Leung+CV2		{'phone': '(626) 799-0131', 'email': 'kelvleung@yahoo.com', 'name': 'Kelvin Waikay Leung'}
+
+Thalia+Patrinos.Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+JulianSeanWaddingResume04-2015		{'phone': '(813)-417-9363', 'email': 'julianwadding@gmail.com', 'name': 'Julian Sean Wadding '}
+
+Salona+Patel+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+RESUMEwaterengineering		{'phone': '(603) 930-1415', 'email': 'muchui@rpi.edu', 'name': '42 Gillis St. Apt E Nashua, NH 03060'}
+
+LEESTANDERFER		{'phone': '(208) 791-8490', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+ES_Resume_2014		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+resume2012		{'phone': '(619) 761-4076', 'email': 'jbatasin@gmail.com', 'name': 'John Rainier Batasin'}
+
+AustinSolomonResume		{'phone': 'No Phone Found', 'email': 'austingraysolomon@gmail.com', 'name': 'Austin\xc2\xa0Solomon'}
+
+Mengbo+Li+-+Resume+pdf		{'phone': 'No Phone Found', 'email': 'mli66@emory.edu', 'name': 'No Name Found'}
+
+Resume_Geng_Li_RA_LA		{'phone': '310-626-3235', 'email': 'chemejimmy@gmail.com', 'name': 'No Name Found'}
+
+kesha+resume		{'phone': '347-882-3960', 'email': 'gift09k@yahoo.com', 'name': 'Kesha Nsiah-Ababio'}
+
+RESUME+2-10-2015		{'phone': '717-542-0141', 'email': 'hkohr9211@gmail.com', 'name': 'Heather Dianna Kohr'}
+
+AllenDan.		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Striegel_Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+STUTTSresumeFEB2015		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Full+Time+Position+Interview		{'phone': '(818) 585-9969', 'email': 'Jaysaul1234@hotmail.com', 'name': 'Jay Saul'}
+
+Andrew+Edbert+Wijaya+-+Resume		{'phone': '617-838-3831', 'email': 'aewijaya@yahoo.com', 'name': 'Andrew Edbert Wijaya '}
+
+Meifeng_Yang_CV		{'phone': 'No Phone Found', 'email': 'myang1027@berkeley.edu', 'name': 'Meifeng Yang | '}
+
+Kim-Quyen-Le+resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+

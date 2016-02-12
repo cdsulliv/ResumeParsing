@@ -1,0 +1,100 @@
+Lovette+resume2		{'phone': '267-808-3065', 'email': 'LovetteJ09@gmail.com', 'name': 'Lovette M. Johnson'}
+
+Eva+Swanson+resume+2.		{'phone': '8045146558', 'email': 'erswanson@email.wm.edu', 'name': 'Eva R Swanson'}
+
+Christopher+Lewis+Professional+Resume+		{'phone': '914-826-1529', 'email': 'clewis752@gmail.com', 'name': 'CHRISTOPHER '}
+
+Heitzenrater_Resume2013		{'phone': '724.457.6227', 'email': 'heitz32@yahoo.com', 'name': 'RYAN P. HEITZENRATER '}
+
+English+Resume+2014v3		{'phone': '262-370-6865', 'email': 'michelleparra2607@gmail.com', 'name': 'MICHELLE '}
+
+C_Gunther_Resume		{'phone': '(570) 460-2635', 'email': 'cgunther0514@gmail.com', 'name': ' Cody W. Gunther '}
+
+Jessica+N+Perez-Resume+2016		{'phone': '562-405-1166', 'email': 'jkoby@ucla.edu', 'name': 'Jessica N Perez '}
+
+ERV_CV		{'phone': '203-895-4406', 'email': 'edisonv84@me.com', 'name': 'Edison Villamarin '}
+
+KristianGjika		{'phone': '610.283.2233', 'email': 'Kgjika3@gatech.edu', 'name': 'KRISTIAN GJIKA '}
+
+revised+resume+8-25		{'phone': '215-680-7023', 'email': 'rlg5205@yahoo.com', 'name': 'No Name Found'}
+
+LU_Yuan_gen_12092015		{'phone': 'No Phone Found', 'email': 'jennyylu@mit.edu', 'name': 'Jenny (Yuan) Lu '}
+
+Resume_Khan%2c+Pratiti		{'phone': '678-359-2233', 'email': 'prk.akash91@gmail.com', 'name': '              Pratiti Khan '}
+
+CharlesHarryResume		{'phone': 'No Phone Found', 'email': 'charlesharry.finance@gmail.com', 'name': 'Charles\xc2\xa0Harry\xc2\xa0'}
+
+BDinmore+Resume+11-2013		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+J+P+Rose+Resume		{'phone': '732.691.3426', 'email': 'jprose1489@gmail.com', 'name': 'John Rose'}
+
+Resume+-+Business		{'phone': '(626) 428-7795', 'email': 'ruiyuan@ucla.edu', 'name': ' 3101 Sawtelle Blvd Apt 107, Los Angeles, California 90066 '}
+
+TaylorTrimbleResume		{'phone': '610-639-0928', 'email': 'mtt9@duke.edu', 'name': 'Taylor Trimble '}
+
+Kelly+Swisher+Resume+		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Lindsey+Felcher+Resume		{'phone': '(862) 703-8411', 'email': 'lsfelcher@gmail.com', 'name': 'Lindsey S. Felcher '}
+
+DEXTER+DAVIS+Sr.+Year+Resume		{'phone': '(443)-983-8091', 'email': 'dexdavis@sas.upenn.edu', 'name': ' Dexter B. Davis, Jr. '}
+
+2014		{'phone': '661.210.6375', 'email': 'csmotrys@gmail.com', 'name': 'No Name Found'}
+
+Resume+Rev3		{'phone': '(404) 395-9884', 'email': 'adrienne.oguntebi@gmail.com', 'name': 'Adrienne Bozeman Oguntebi'}
+
+RESUME+PDF		{'phone': '(954) 494-0272', 'email': 'mariabduartec@gmail.com', 'name': ' Maria Duarte '}
+
+Resume+-+Career+Builder		{'phone': '(814) 753-2521', 'email': 'philmellott.88@gmail.com', 'name': 'No Name Found'}
+
+Elton+A+Silveira		{'phone': '814.826.5218', 'email': 'eas5590@psu.edu', 'name': 'ELTON SILVEIRA'}
+
+LISA++M+PHILLIPS+word+doc1		{'phone': '724-562-9252', 'email': 'No Email Found', 'name': 'LISA  '}
+
+Resume_Matthew+Ritonia		{'phone': '7036388540', 'email': 'mritonia@u.rochester.edu', 'name': 'MATTHEW MCKINNON RITONIA'}
+
+Imran+Naim+Clinical+Resume		{'phone': '256-226-2023', 'email': 'inaim2@gmail.com', 'name': 'Imran Naim '}
+
+Aleem_A._Malik_-_Resume		{'phone': '(402) 309-9786', 'email': 'aam478@stern.nyu.edu', 'name': 'Aleem A. Malik '}
+
+ChrisMcGee_CV_2.12.15		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': '\xe2\x80\xa2  Opened and managed two flagship stores: Carle '}
+
+FanninResume		{'phone': '719.310.1567', 'email': 'mfannin@ymail.com', 'name': 'No Name Found'}
+
+Josh+Blumenfeld+Resume+10-7-14		{'phone': '608.333.4660', 'email': 'jblumenfeld@wisc.edu', 'name': 'Joshua Alec Blumenfeld '}
+
+Sunmook+Yun+Resume		{'phone': '(202) 304-2500', 'email': 'bostonyun@gmail.com', 'name': 'No Name Found'}
+
+Will+Johnson%27s+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Haw%2c+Christine-Job+Resume		{'phone': '(817)370-1874', 'email': 'christinehaw@gmail.com', 'name': 'Christine Jee-Yeon Haw'}
+
+indesign+test+9_2pg_jobsite		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Ruby+Resume.		{'phone': '919-402-3938', 'email': 'lj57@duke.edu', 'name': 'No Name Found'}
+
+resume_2014		{'phone': '(206) 799-6124', 'email': 'Briannajlarsen@gmail.com', 'name': 'Brianna Larsen '}
+
+Sen+Han+Yang+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'Sen Han Yang  '}
+
+new+resume+uptodate		{'phone': '773-255-1097', 'email': 'srrodriguez19@gmail.com', 'name': 'Sandra R. Rodriguez'}
+
+laura+kershner+resume		{'phone': '609-417-4646', 'email': 'LK766069@wcupa.edu', 'name': 'Laura Kershner'}
+
+Pennesi+Resume_2014		{'phone': 'No Phone Found', 'email': 'AWPennesi@Gmail.com', 'name': ' Aaron\t\r \xc2\xa0Pennesi\t\r \xc2\xa0'}
+
+RajanishDhakal_Indeed		{'phone': '915-346-7731', 'email': 'rajanishdhakal@gmail.com', 'name': 'Rajanish Dhakal '}
+
+Michael+Driscoll+Resume+Spring+09+v2		{'phone': '973.216.2711', 'email': 'mtdrisc@gmail.com', 'name': 'Michael T. Driscoll'}
+
+FINAL+resume		{'phone': '(617) 935-2771', 'email': 'farrah.amanda@gmail.com', 'name': 'Farrah Ahamad'}
+
+Andrew+Weber+Resume+1-31-2015		{'phone': '484-886-8621', 'email': 'amw273@cornell.edu', 'name': 'Andrew Weber '}
+
+Melissa+Heberling+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Mana+Nabati+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Resume+-+Oil+and+Gas		{'phone': '832-630-0751', 'email': 'acellis34@gmail.com', 'name': 'Anderson C. Ellis'}
+
+4Jan16		{'phone': '(904) 654 - 2004', 'email': 'netbattler15@gmail.com', 'name': 'Joseph Halton'}
+

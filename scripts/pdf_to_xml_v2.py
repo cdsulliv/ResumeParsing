@@ -16,12 +16,13 @@ def convertAll(dirpath="", outdir=""):
 	filepaths = getFiles(dirpath)
 	for filepath in filepaths:
 		print filepath
-		pdfToXML(filepath, outdir)
+		if filepath[-4:] == ".pdf":
+			pdfToXML(filepath, outdir)
 
 if __name__ == "__main__":
 	#filepath = "/home/shreya/Wharton/1.pdf"
 	#pdfToXML(filepath)
 
-	dirpath = "/home/shreya/Wharton/PDF"
-	outdir = "/home/shreya/Wharton/XML"
+	dirpath = "/home/shreya/Wharton/NEW/NEW_PDF"
+	outdir = "/home/shreya/Wharton/NEW/NEW_XML"
 	convertAll(dirpath, outdir)

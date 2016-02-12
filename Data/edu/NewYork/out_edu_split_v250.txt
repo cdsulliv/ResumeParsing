@@ -1,0 +1,100 @@
+LeighSTaylorupdatedresume		{u'University of North Carolina at Chapel Hill, 2015': {'loc': 'North Carolina', 'arr_pos': 3}, 'Misc': {'deanslist': True}, u'University of North Carolina at Chapel Hill': {'loc': 'North Carolina', 'arr_pos': 0}}
+
+MY+NEW+RESUME+2015+pdf--gd		{u'John Jay College of Criminal Justice, CUNY                           New York, NY': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.3'}, 'Misc': {'deanslist': True}}
+
+Morales%2c+Ruben%2c+MKTG%2c+5-13%2c+8-15-13		{'Misc': {'deanslist': True}}
+
+Suchoski+Resume_Feb+2015		{u'Middlebury College   ': {'loc': 'Vermont', 'arr_pos': 2, 'associated_date': u'May 2011', 'GPA': u'3.3'}, 'Misc': {'deanslist': True}}
+
+Resume_4_		{'Misc': {'deanslist': False}}
+
+Robert+Arnold+Administrative_1_		{'Misc': {'deanslist': False}}
+
+Peter+Mani+Resume.._1_		{u'College of Charleston ': {'loc': 'South Carolina', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Jie_Lin_resume_1_		{u'University at Buffalo, The State University of New York ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Jaclyn+Barone%27s+Resume+1		{u'West Virginia University, Morgantown, WV': {'loc': 'Virginia', 'arr_pos': 1, 'GPA': u'3.0'}, 'Misc': {'deanslist': True}}
+
+Fung%2c+Alan+Resume		{'Misc': {'deanslist': False}}
+
+lara+_1_		{'Misc': {'deanslist': False}}
+
+Resume-Ruonan+XI		{'Misc': {'deanslist': True}, u'Pace University, New York, NY                                                                                            ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'June 2016'}}
+
+CV-EN_1_		{'Misc': {'deanslist': False}}
+
+Kathy+Liao+Resume+2015		{'Misc': {'deanslist': False}}
+
+Jarett_Burwell+final+resume_1_		{'Misc': {'deanslist': True}, u'           New Jersey City University, Jersey City, NJ - GPA: 3.0': {'loc': 'New Jersey', 'arr_pos': 3, 'GPA': u'3.0'}}
+
+Shahid-Resume+pppdf		{u'Metropolitan College of New York. ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.7'}, 'Misc': {'deanslist': True}}
+
+Brian+Horner-Resume		{'Misc': {'deanslist': True}, u'University of Miami, Coral Gables, FL  ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.7'}}
+
+cv2		{u'Xavier Grant, University of Scranton 2010-2014 ': {'arr_pos': 6}, u'Dean\u2019s Scholarship, University of Scranton 2010-2014 ': {'arr_pos': 4}, 'Misc': {'deanslist': True}, u'Fitch Award, University of Scranton 2010-2014 ': {'arr_pos': 5}, u'Dean\u2019s List, University of Scranton, 2010-2014 ': {'arr_pos': 3}}
+
+Clara_Resume_1_		{'Misc': {'deanslist': True}, u'Washington and Lee University \u2013 Williams School of Commerce, Economics and Politics - Lexington, VA ': {'loc': 'Virginia', 'arr_pos': 1, 'GPA': u'3.6'}}
+
+Quinones+Resume		{'Misc': {'deanslist': True}, u'State University of New York at Purchase': {'loc': 'New York', 'arr_pos': 0}}
+
+Chris+Casamassima%27s+Curriculum+Vitae		{'Misc': {'deanslist': True}}
+
+Alex_Abramowitz_Resume_January		{'Misc': {'deanslist': False}}
+
+Resume2015CPApdf		{'Misc': {'deanslist': True}}
+
+resumejiayuwang_1_		{'Misc': {'deanslist': True}, u'Hunter College, The City University of New York': {'loc': 'Texas', 'arr_pos': 0, 'associated_date': u'June 2014', 'GPA': u'3.6'}, u'Del Mar College, Corpus Christi, Texas': {'loc': 'Texas', 'arr_pos': 3, 'associated_date': u'August 2011', 'GPA': u'3.4'}, u'Radio and Television University, Fujian China': {'arr_pos': 6, 'associated_date': u'July 2006'}}
+
+Siyao+Shen+Resume		{u'Franklin & Marshall College, Lancaster, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.21'}, 'Misc': {'deanslist': True}}
+
+KatieShumaker_Resume		{u'New York University, summer student': {'loc': 'New York', 'arr_pos': 3}, 'Misc': {'deanslist': True}, u'B.A. in German Studies, minor in Comparative Literature, Cum Laude- Bryn Mawr College, ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.53'}}
+
+Steinreich+Resume+Final		{'Misc': {'deanslist': True}, u'\u2022  City University of New York/Queens College    ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'December 2015'}, u'\u2022  Vice President\u2014Queens College Emergency Medical Services Club    ': {'arr_pos': 7}}
+
+Daniel_Jang_resume		{'Misc': {'deanslist': True}, u'Baruch College / City University of New York - Zicklin School of Business': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'June 2013', 'GPA': u'3.5'}}
+
+DEMETRIOUS+DION+FAULk+best+resume!		{'Misc': {'deanslist': True}, u'Tidewater Community College, ': {'loc': 'Virginia', 'arr_pos': 5, 'associated_date': u'December 2011', 'GPA': u'3.0'}, u'Virginia State University': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'December 2011', 'GPA': u'3.0'}}
+
+Bjorn_Resume		{'Misc': {'deanslist': True}, u'University of Wisconsin - Eau Claire': {'loc': 'Wisconsin', 'arr_pos': 0}}
+
+csc+resume		{u' Graduate Diploma of Legal Practice, University of Wollongong ': {'arr_pos': 2}, 'Misc': {'deanslist': True}, u'2010 - 2013                                                                        Bachelor of Laws, University of Wollongong ': {'arr_pos': 3}, u'2004 - 2009                                            Selective High Schooling, Hurlstone Agricultural High School     ': {'arr_pos': 6}}
+
+Ellen_Diner_Resume		{u'Rutgers University, New Brunswick, NJ ': {'loc': 'New Jersey', 'arr_pos': 15, 'associated_date': u'May 2000'}, u'Southwestern Law School, Los Angeles, CA ': {'loc': 'New Jersey', 'arr_pos': 1, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': True}, u'Bachelor of Arts, Psychology, May 2000; Honors, Livingston College Honors Program  ': {'loc': 'New Jersey', 'arr_pos': 16, 'associated_date': u'May 2000'}}
+
+Peter+Mani+Resume..		{u'College of Charleston ': {'loc': 'South Carolina', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+revisedresumebolston2015		{u'DeVry College of New York': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'Feb 2016', 'GPA': u'3.0'}, 'Misc': {'deanslist': True}}
+
+Bacaj%2c+Fllanza-RESUME		{'Misc': {'deanslist': True}, u'Babson College, Babson Park, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2012'}}
+
+Nov2013		{u'State University of New York, University at Albany ': {'loc': 'New York', 'arr_pos': 3, 'GPA': u'3.45'}, 'Misc': {'deanslist': True}}
+
+H.Ruby+Resume._1_		{'Misc': {'deanslist': False}}
+
+Jacob+Young+Resume		{'Misc': {'deanslist': True}, u'The Ohio State University, Department of Mechanical and Aerospace Engineering           Columbus, OH ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.3'}}
+
+WHITTNEY+YOUNG%27S+RESUME		{'Misc': {'deanslist': False}}
+
+CV		{u'City University of New York-Queens College                                                                                 Queens, New York                                                                              ': {'loc': 'New York', 'arr_pos': 4, 'associated_date': u'August 2013', 'GPA': u'3.827'}, u'City University of New York -Baruch College                                                                           New York, New York ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'September 2014', 'GPA': u'3.827'}, 'Misc': {'deanslist': True}}
+
+NYadressofResumeAug14		{'Misc': {'deanslist': False}}
+
+Burschtin%2c+Alex+Resume+-+September+2014		{u'Syracuse University, Martin J. Whitman School of Management     ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Resume%2c+Fogg		{u'Johnson & Wales University                                                                                                                  ': {'loc': 'Hawaii', 'arr_pos': 2}, 'Misc': {'deanslist': True}}
+
+JohnOppermann%27sResume_2006-CH_		{'Misc': {'deanslist': True}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}}
+
+Aladdin+Khattab+Resume		{'Misc': {'deanslist': False}}
+
+FELIX+KAM+CHUNG_RESEARCH_141204		{'Misc': {'deanslist': True}, u'John Jay College of Criminal Justice, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.3'}}
+
+Resume+Sofia+Rocher_1_		{u'New York University, New York, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}, u'American University of Paris ': {'arr_pos': 2}}
+
+NihalThomasResume		{u'McGill University, Montreal, Canada ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Bronx High School of Science, Bronx, NY ': {'loc': 'New York', 'arr_pos': 21, 'associated_date': u'May 2008'}}
+
+Kristin_Askew-Resume		{'Misc': {'deanslist': True}, u'The University of Alabama, Tuscaloosa, AL ': {'loc': 'Alabama', 'arr_pos': 2}}
+
+JohnOppermann%27sResume_2006-CH__1_		{'Misc': {'deanslist': True}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}}
+

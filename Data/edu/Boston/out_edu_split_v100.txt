@@ -1,0 +1,100 @@
+resume2_7_		{'Misc': {'deanslist': False}}
+
+Evelyne+Tschibelu_PortfolioI_resume2014_6_		{'Misc': {'deanslist': True}, u'University of Massachusetts-Boston, MA: Bachelor of Science in Biology': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+Maria+Martinez+Resume		{u'Bunker Hill Community College                                    ': {'loc': 'Massachusetts', 'arr_pos': 6}, 'Misc': {'deanslist': True}, u'University of Massachusetts Boston                                                                                  Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.62'}}
+
+DBenkleyResume2016		{'Misc': {'deanslist': True}, u'Syracuse University, College of Engineering and Computer Science ': {'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.30'}}
+
+JADE+CHIN+RESUME+9-1-14		{'Misc': {'deanslist': False}}
+
+Oanh+Vu-+Resume+2014		{u'Special Projects Office, Fisher College of Business  ': {'loc': 'Ohio', 'arr_pos': 35}, 'Misc': {'deanslist': True}, u'Ohio State University, Fisher College of Business, Columbus, OH   ': {'loc': 'Ohio', 'arr_pos': 2, 'GPA': u'3.66'}, u'Fresh Express, Ohio State University Dinning, Columbus, Ohio   ': {'loc': 'Ohio', 'arr_pos': 43}}
+
+Agostinha-Resume%5b1%5d		{'Misc': {'deanslist': True}, u'College \xa0Squad; \xa0Boston, \xa0MA \xa0': {'arr_pos': 39}}
+
+Bianca+Sullivan+Resume		{'Misc': {'deanslist': True}, u'Howard University, School of Communications                                                                                       May 2014 ': {'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+Resume_5_		{'Misc': {'deanslist': True}, u'SUFFOLK UNIVERSITY, BOSTON, MA': {'loc': 'Massachusetts', 'arr_pos': 0}}
+
+Nicholas+Resume+WL		{'Misc': {'deanslist': True}}
+
+resume2_2__2_		{u'University of Maine, Orono ': {'loc': 'Maine', 'arr_pos': 2, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Lindsey+Felcher+Resume		{u'Boston University College of Communication; Boston, MA   ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+Anna+M.E+Bjorn+resume_1_		{'Misc': {'deanslist': False}}
+
+Lo_resume_gen_03132014_1_		{u'Biostructural Mechanics Lab, Lehigh University': {'arr_pos': 19, 'associated_date': u'December 2011'}, u'Undergraduate Research Assistant, Lehigh University ': {'arr_pos': 23, 'associated_date': u'December 2011'}, u'Mechanics of Materials Bridge Project, Lehigh University': {'arr_pos': 15, 'associated_date': u'December 2011'}, u'Integrated Product Development, Lehigh University': {'arr_pos': 7, 'associated_date': u'January 2013'}, 'Misc': {'deanslist': True}, u'Lehigh University ': {'arr_pos': 0, 'associated_date': u'May 2014'}, u'Chitosan Scaffold Research Project, Lehigh University': {'arr_pos': 28, 'associated_date': u'December 2011'}}
+
+prevention+resume		{'Misc': {'deanslist': False}}
+
+F_Echeverri+Resume-20150701_5_		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+Resume_AlvinD.Lackard_RESUME_REVISED_2-18-15--gd		{'Misc': {'deanslist': True}, u'Newbury College': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+resume_2_		{'Misc': {'deanslist': True}, u'                      Bunker Hill Community College ': {'loc': 'Massachusetts', 'arr_pos': 21}, u'                    University of Massachusetts Amherst, Massachusetts ': {'loc': 'Massachusetts', 'arr_pos': 3}}
+
+Anna+Novikova+Resume+Summer+2014		{'Misc': {'deanslist': True}, u'Boston University \xe2\x80\x93 Boston, MA; Dual Degree Program, Dean\xe2\x80\x99s Scholarship Recipient': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Resume_2_		{'Misc': {'deanslist': False}}
+
+resume2_4_		{'Misc': {'deanslist': False}}
+
+Sully+Jereidini+Resume+August+2014		{'Misc': {'deanslist': False}}
+
+resume2		{'Misc': {'deanslist': False}}
+
+Resume_Amanda+Ramos--dbm		{u'Bunker Hill Community College, Boston, MA': {'loc': 'Mississippi', 'arr_pos': 4, 'associated_date': u'December 2013'}, u'University of Massachusetts Boston, Boston, MA': {'loc': 'Mississippi', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+FINAL+resume		{u'Dean\u2019s List at Boston University since Spring Semester 2008': {'arr_pos': 7}, u'Boston University School of Management; Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.43'}, 'Misc': {'deanslist': True}}
+
+Resume++2014_4_		{'Misc': {'deanslist': True}, u'Merrimack College': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.55'}}
+
+Main+RESUME+1		{'Misc': {'deanslist': True}, u'Arak University, Arak, Iran': {'arr_pos': 9, 'associated_date': u'Dec 2012'}, u'Quincy College, Quincy, MA': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'Jan 2011', 'GPA': u'3.47'}}
+
+F_Echeverri+Resume-20150701_1_		{u'EAFIT University, Medell\xedn, Colombia': {'arr_pos': 6}, 'Misc': {'deanslist': True}}
+
+Copy+of+NaimaResume2014_2_--gd		{'Misc': {'deanslist': True}, u'Bunker Hill Community College': {'loc': 'Massachusetts', 'arr_pos': 4, 'associated_date': u'Dec 2012'}}
+
+Siyuan+Huang%2c+Finance		{'Misc': {'deanslist': True}, u'Suffolk University, Sawyer Business School': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.49'}}
+
+Aadesh+Resume+Final__		{u'Boston University School of Management; Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'September 2011'}, 'Misc': {'deanslist': True}}
+
+Mastro_res		{u'Boston University College of Fine Arts, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 3, 'associated_date': u'May 2012'}, u'Cabrini College, Radnor, PA  ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2009'}, 'Misc': {'deanslist': True}}
+
+Davis+Truong+Resume		{u'Lasell College, Newton MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+CV+Eduardo+Valente		{'Misc': {'deanslist': False}}
+
+Evelyne+Tschibelu_PortfolioI_resume2014_2_		{'Misc': {'deanslist': True}, u'University of Massachusetts-Boston, MA: Bachelor of Science in Biology': {'loc': 'Massachusetts', 'arr_pos': 2}}
+
+Xuan+Nguyen+-+Resume		{'Misc': {'deanslist': True}, u'Roger Williams University, Mario J. Gabelli School of Business (AACSB Accredited) ': {'loc': 'Rhode Island', 'arr_pos': 1, 'associated_date': u'August 2011', 'GPA': u'3.9'}}
+
+Resume+8-13+_Final_		{'Misc': {'deanslist': True}, u'High School Curriculum ': {'arr_pos': 35}, u'Boston Latin School, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 25}}
+
+Melissa+Manley+resume+3		{'Misc': {'deanslist': True}, u'Johnson C. Smith University, Charlotte, NC': {'loc': 'North Carolina', 'arr_pos': 0, 'associated_date': u'May 2010'}}
+
+Marcs+resume+2.0		{'Misc': {'deanslist': False}}
+
+Orlowska%3bResume		{'Misc': {'deanslist': False}}
+
+Resume_1_		{'Misc': {'deanslist': True}, u'Boston College  Chestnut Hill, Ma': {'arr_pos': 0, 'associated_date': u'September 2010'}, u'College of Arts and Sciences': {'arr_pos': 2}}
+
+zash+resume+_1_		{'Misc': {'deanslist': False}}
+
+Nicole%27s_resume+_2_		{u'Suffolk University, Boston, MA                                                                                                             May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Resume2014-2015		{u'MassBay Community College, Wellesley Hills, MA  ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, u'Pedagogical National University, Bogot\u0e23\u0e01, Colombia ': {'arr_pos': 5}, 'Misc': {'deanslist': True}}
+
+RESUME_1_		{'Misc': {'deanslist': False}}
+
+Marissa+Manderfield+Resume1		{'Misc': {'deanslist': True}, u'Curry College, Milton, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2013'}}
+
+Evan+Moreira+01.08.15_4_		{'Misc': {'deanslist': True}, u'University of Massachusetts, Lowell, MA \xe2\x80\u02d8 Expected Graduation: May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Johnny		{'Misc': {'deanslist': True}}
+
+Chasse-Ashley+Resume+2015a		{u'University of New Haven, Mechanical Engineering                                                                             Fall 2012-Spring 2014 ': {'arr_pos': 23, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}, u'University of Hartford, West Hartford, CT ': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.77'}}
+
+Lo_resume_gen_03132014		{u'Biostructural Mechanics Lab, Lehigh University': {'arr_pos': 19, 'associated_date': u'December 2011'}, u'Undergraduate Research Assistant, Lehigh University ': {'arr_pos': 23, 'associated_date': u'December 2011'}, u'Mechanics of Materials Bridge Project, Lehigh University': {'arr_pos': 15, 'associated_date': u'December 2011'}, u'Integrated Product Development, Lehigh University': {'arr_pos': 7, 'associated_date': u'January 2013'}, 'Misc': {'deanslist': True}, u'Lehigh University ': {'arr_pos': 0, 'associated_date': u'May 2014'}, u'Chitosan Scaffold Research Project, Lehigh University': {'arr_pos': 28, 'associated_date': u'December 2011'}}
+

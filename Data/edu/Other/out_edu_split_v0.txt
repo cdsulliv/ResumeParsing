@@ -1,0 +1,100 @@
+Katie+Coyle+resume+		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'Dec 2013'}, u'                                                        University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': True}, u'The College of Health and Human Development ': {'arr_pos': 5, 'associated_date': u'Dec 2013'}}
+
+r%c3%a9sum%c3%a9+draft		{'Misc': {'deanslist': True}, u'The College of William and Mary, Williamsburg, VA': {'loc': 'Virginia', 'arr_pos': 0}}
+
+Marcus+Hill+Resume		{u'Dutchess Community College, Poughkeepsie, NY                                                                                                                       ': {'loc': 'New York', 'arr_pos': 9, 'associated_date': u'May 2014'}, u'Cornell University, Ithaca, NY                                           ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Emily+Feldman+Final+Resume+2015		{'Misc': {'deanslist': True}}
+
+Social+Media+Customer+Strategy+Specialist		{'Misc': {'deanslist': True}, u'SHIPPENSBURG UNIVERSITY OF PENNSYLVANIA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.87'}}
+
+Taylor.Griffon.Resume.4.10		{u'The Pennsylvania State University, University Park, PA August 2011- May 2015  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+BDinmore+Resume+11-2013_1_		{'Misc': {'deanslist': True}, u'Bloomsburg University of Pennsylvania, Bloomsburg, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.34'}}
+
+Jessica+N+Perez-Resume+2016_2_		{'Misc': {'deanslist': True}, u'University of California, Los Angeles--Los Angeles, California   ': {'loc': 'California', 'arr_pos': 1}}
+
+Updated+Resume+2006+_vertical_		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.93'}}
+
+Jinsol%27s+Resume_1_		{'Misc': {'deanslist': True}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}}
+
+adrieneresume_1_		{'Misc': {'deanslist': True}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+Danielle+Beecher+Resume		{u'  Lock Haven University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}}
+
+PETER_WYCISK_RESUME.		{'Misc': {'deanslist': True}}
+
+Alyssa+Harding+R		{u'University of Florida - Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 1, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': True}, u'DeLand High School - DeLand, FL - August 2004 to May 2008 ': {'loc': 'Florida', 'arr_pos': 21, 'associated_date': u'May 2008'}, u"country's most coveted universities, University of Florida. ": {'loc': 'Florida', 'arr_pos': 26}}
+
+James+J+Mahoney+Resume+April+2013		{'Misc': {'deanslist': True}, u'University of Wollongong, New South Wales, Australia': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'June 2012'}, u'La Salle College High School, Wyndmoor, PA  19038         ': {'loc': 'Pennsylvania', 'arr_pos': 7, 'associated_date': u'June 2009'}, u'West Chester University of Pennsylvania, West Chester, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}}
+
+Resume+Senior+1_1_		{u'Carnegie Mellon University, Pittsburgh, PA ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.24'}, u' Lebanon High School, Lebanon, NH ': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': True}, u'College of Engineering Dean\xe2\x80\x99s List, Spring 2013 ': {'loc': 'New Hampshire', 'arr_pos': 2, 'associated_date': u'June 2012', 'GPA': u'3.24'}}
+
+Resume+Las+Vegas%2c+NV		{u'BROWN UNIVERSITY, Bachelor of Arts, History -  Degree Completed May 2012': {'arr_pos': 3, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}}
+
+AnthonyWestrenUpdatedResume_2014_Final_1_		{'Misc': {'deanslist': True}}
+
+Yifei+Wang+resume		{'Misc': {'deanslist': True}, u'University  of California  Berkeley                                                                                                 Berkeley,  CA': {'loc': 'California', 'arr_pos': 1, 'GPA': u'3.52'}}
+
+JordanCKrentzResume-1		{'Misc': {'deanslist': False}}
+
+General+Resume		{'Misc': {'deanslist': False}}
+
+Full+Time+Position+Interview_1_		{u'University of California Los Angeles': {'loc': 'California', 'arr_pos': 2, 'associated_date': u'Dec 2014'}, 'Misc': {'deanslist': True}}
+
+Achoi_Resume		{'Misc': {'deanslist': True}}
+
+Resume-+Daniel+Coleman		{u' Best University in  the Nation by US News & World Report)': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'Misc': {'deanslist': True}, u'(Ranked #1 High School in Pennsylvania by Philadelphia Magazine)': {'loc': 'Pennsylvania', 'arr_pos': 9}, u'High School Diploma': {'arr_pos': 14}, u'University of Pennsylvania (': {'loc': 'Pennsylvania', 'arr_pos': 0}, u'The Haverford School ': {'loc': 'Pennsylvania', 'arr_pos': 8}}
+
+resume1_1_		{'Misc': {'deanslist': True}}
+
+Chenxi+Li+resume+10241		{'Misc': {'deanslist': True}, u'THE GEORGE WASHINGTON UNIVERSITY, School of Business ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.83'}}
+
+Li%2c+Vicky+		{'Misc': {'deanslist': True}}
+
+Wong%2c+Jonathan+-+Resume+2015+September		{'Misc': {'deanslist': True}, u'Boston University, Questrom School of Business \xe2\x80\x93 GPA: 3.27 ': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.27'}, u'Boston College High School ': {'loc': 'Massachusetts', 'arr_pos': 7}}
+
+Tyler+Brown+Resume+C		{'Misc': {'deanslist': True}}
+
+Painter.Richard.Resume+6.26.15		{'Misc': {'deanslist': True}}
+
+E.HEARD-Career_Builder		{'Misc': {'deanslist': True}}
+
+MT+Resume		{u'Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+Austin+Bloom%27s+Resume_1_		{'Misc': {'deanslist': True}}
+
+Regina+Izquierdo+-+Resume_1_		{'Misc': {'deanslist': True}}
+
+Nahime+Aguirre+Resume		{u'The University of Chicago ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2016'}, 'Misc': {'deanslist': True}}
+
+Stephen+Brown+Resume+1_1_		{'Misc': {'deanslist': True}}
+
+Allan+G%27s+Resume+8		{u'UC San Diego Extension \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 2}, 'Misc': {'deanslist': True}, u'University of California, San Diego (UCSD) \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 4}}
+
+ResumeMay2015_1_		{'Misc': {'deanslist': False}}
+
+myresume6068668990603041121		{'Misc': {'deanslist': True}, u'Boston University School of Management; Boston, MA                              ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.08'}, u'Boston University Chinese Students and Scholars Association, member': {'arr_pos': 7}}
+
+Li%2c+Vicky+_1_		{'Misc': {'deanslist': True}}
+
+Btatem		{'Misc': {'deanslist': True}}
+
+JV_Official_Resume		{u'The University of Chicago                                 ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015'}, 'Misc': {'deanslist': True}, u'conference at Yale University, and selected for EMP advisory board. ': {'arr_pos': 4}}
+
+DamonMcLeanResume		{u'Princeton University ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': True}}
+
+CV-Resume		{'Misc': {'deanslist': True}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}}
+
+Kelvin+Leung+CV2		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': True}}
+
+Peng%27s+Resume+_Techical+Version__2_		{'Misc': {'deanslist': True}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Thalia+Patrinos.Resume		{'Misc': {'deanslist': False}}
+
+JulianSeanWaddingResume04-2015		{'Misc': {'deanslist': True}}
+
+Salona+Patel+Resume		{'Misc': {'deanslist': False}}
+
+Steven+Hricko+Resume-2_1_		{u'Slippery Rock University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'August 2012'}, u'Millersville University of Pennsylvania, Millersville, PA                 Anticipated Graduation Date: August 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2015'}, 'Misc': {'deanslist': True}}
+

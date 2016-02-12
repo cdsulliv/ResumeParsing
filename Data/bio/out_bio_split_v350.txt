@@ -1,0 +1,100 @@
+ONeillLoriA_Resume		{'phone': '(703) 517-7978', 'email': 'lorryan1997@hotmail.com', 'name': "Lori O'Neill                                                                                                                                                                                     "}
+
+Kazmierski_Lauren+11.27.14+MI		{'phone': '(248) 752-3432', 'email': 'lkazmier@gmail.com', 'name': 'Lauren Kazmierski'}
+
+Resume.Barker.2012_		{'phone': '276-734-0641', 'email': 'mrbarker@email.wm.edu', 'name': 'Morgan Barker '}
+
+Dela_Cruz_R%c3%a9sum%c3%a9		{'phone': '(708) 638-1210', 'email': 'jeremylldc@gmail.com', 'name': 'Prinz Jeremy Llanes Dela Cruz '}
+
+Evan+T.+DiPillo+Resume		{'phone': '(267) 664-2763', 'email': 'etd5050@psu.edu', 'name': 'Evan T. DiPillo'}
+
+Rachel+King+Resume		{'phone': '(678) 849-7951', 'email': 'Rachel.King1@g.uky.edu', 'name': 'RACHEL LYNN KING'}
+
+Neeraj+Girkala+-+Resume+2015		{'phone': '718-679-7737', 'email': 'nbg254@nyu.edu', 'name': 'Neeraj Girkala  '}
+
+Resume_Zachary+Harney		{'phone': '678-373-7291', 'email': 'zharney3@gatech.edu', 'name': 'ZACHARY PAUL HARNEY '}
+
+tims+resume		{'phone': '610-781-4066', 'email': 'tjb8078@yahoo.com', 'name': 'Timothy J. Buck'}
+
+Ross+Johnson+Resume		{'phone': '630-202-3172', 'email': 'Rtjohns2@illinois.edu', 'name': 'Ross T. Johnson'}
+
+Samir+Mehta+Resume.		{'phone': '(248) 739-9185', 'email': 'sammehta88@gmail.com', 'name': 'Samir M. Mehta '}
+
+hotel-resume		{'phone': '(570) 956-1359', 'email': 'ashley.orth@yahoo.com', 'name': 'No Name Found'}
+
+RaheemShahid-Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'Raheem\t\r \xc2\xa0Shahid\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0\t\r \xc2\xa0'}
+
+Resume-JonesTwentyFourteen		{'phone': '207.939.2959', 'email': 'ayerjones@gmail.com', 'name': 'Ben Jones'}
+
+Angel+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Chen+Resume+		{'phone': '(917)-815-0530', 'email': 'szchen614@uchicago.edu', 'name': 'No Name Found'}
+
+JDThomerson+Resume+8-24-09		{'phone': '954-288-8224', 'email': 'JD08UF@ufl.edu', 'name': 'John D. Thomerson'}
+
+JonathanTeekasingh-ResumeJune2014		{'phone': 'No Phone Found', 'email': 'jteekasingh@gmail.com', 'name': 'Jonathan\t\r \xc2\xa0Teekasingh\t\r \xc2\xa0'}
+
+MANDY+UNMOLE-RESUME+		{'phone': '585-203-6373', 'email': 'munmole@u.rochester.edu', 'name': 'MANDY UNMOLE '}
+
+Ranferi+Perez_ResumeSE1.		{'phone': 'No Phone Found', 'email': 'ran7perez@gmail.com', 'name': 'Ranferi Perez '}
+
+Resume+Kristoffer+Andersen		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Giancarlo_Garbagnati_Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Eagleburger_resume_12_25_14		{'phone': '509-990-5068', 'email': 'weagleburger@netzero.net', 'name': 'Wesley Eagleburger'}
+
+Vaniyapun_Resume15		{'phone': '814-308-2207', 'email': 'nadhipatvaniyapun2015@u.northwestern.edu', 'name': 'No Name Found'}
+
+WinstonResume		{'phone': '(951) 529-1899', 'email': 'winstonkao03@gmail.com', 'name': 'Winston Kao '}
+
+Resume2011		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+OrtizP_Resume		{'phone': '(202) 999-2493', 'email': 'paolaortiz13@gmail.com', 'name': 'Paola Ortiz         '}
+
+Resume-MCJ		{'phone': 'No Phone Found', 'email': 'MadisonCalleyJ@gmail.com', 'name': 'Madison\t\r \xc2\xa0Jenkins\t\r \xc2\xa0'}
+
+DanHarrisResumeF06		{'phone': '(315) 573-3473', 'email': 'djharris@alum.rpi.edu', 'name': 'DANIEL JAMES HARRIS'}
+
+Snigdha+Gupta+Resume+2015		{'phone': '857-472-0365', 'email': 'sgupta27@bu.edu', 'name': 'Snigdha Gupta '}
+
+Danielle_Morales_2015_CV		{'phone': '805.625.2899', 'email': 'theredocti@gmail.com', 'name': 'Danielle P. Morales'}
+
+Joe+Dreyfuss+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Josh+Fuller+Resum%c3%a9		{'phone': '(405) 496-2325', 'email': 'joshuafuller@uchicago.edu', 'name': 'Joshua Fuller '}
+
+Resume_Sokso_03162015		{'phone': '484-524-3531', 'email': 'aws3@pct.edu', 'name': 'Alec W. Sokso '}
+
+AMFB_Resumee		{'phone': '(814) 753-2970', 'email': 'amf5641@psu.edu', 'name': 'Aaron Moises Fuhrman Borgman'}
+
+CURRENT+CSpatz+Resume		{'phone': '(484) 650-6328', 'email': 'chelsea.spatz@aol.com', 'name': 'Chelsea Spatz '}
+
+Resume-35		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+LyndsyKelleyResume		{'phone': '(856) 404-7000', 'email': 'lvk5019@psu.edu', 'name': 'Lyndsy C. Kelley'}
+
+Jonathan_Hwang_Resume.		{'phone': '703-889-7536', 'email': 'jonathan.hwang.7536@gmail.com', 'name': 'Jonathan Hwang'}
+
+Lee+Setzen+Resume+5.0		{'phone': '518.859.8076', 'email': 'ljsetzen@bu.edu', 'name': 'No Name Found'}
+
+Ghazal+Amar+Resume+ME		{'phone': '(832) 881- 5041', 'email': 'ghazal.amar@gmail.com', 'name': 'No Name Found'}
+
+Risikat+Oshodi-+Accounting+and+Finance+Resume		{'phone': 'No Phone Found', 'email': 'oshodir@outlook.com', 'name': 'Risikat\xc2\xa0Oshodi\xc2\xa0'}
+
+hammadryanresumer815		{'phone': '678.860.0135', 'email': 'ryanhammad@gmail.com', 'name': 'Ryan Hammad '}
+
+Weidi+Shen+resume		{'phone': '(814)-777-8300', 'email': 'weidishen7@gmail.com', 'name': 'Weidi Shen'}
+
+Joey+Wang+resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Molly+Dubs+Resume		{'phone': '267-642-2021', 'email': 'mdubs92@gmail.com', 'name': 'Molly Dubs  '}
+
+Jinjing+Zhang%27s+Resume		{'phone': '(917)244-5985', 'email': 'jz800@nyu.edu', 'name': ' Jinjing Zhang '}
+
+Resume+2!!		{'phone': '(814)-515-7145', 'email': 'natemiller67@gmail.com', 'name': 'Nathaniel J. Miller'}
+
+Jonathan+Grant%27s+Resume		{'phone': '(412) 354-7812', 'email': 'jgrant8806@gmail.com', 'name': 'Jonathan Grant'}
+
+Resume+-2		{'phone': '215-500-6482', 'email': 'tvl5163@psu.edu', 'name': 'Timothy Won-Kyong Lee'}
+

@@ -1,0 +1,100 @@
+Ranferi+Perez_ResumeSE1.		{'Misc': {'deanslist': False}}
+
+Henry+Resume_1_		{u'Moorpark College, Moorpark, CA ': {'loc': 'California', 'arr_pos': 17, 'associated_date': u'May 2013', 'GPA': u'3.80'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Dec 2015', 'GPA': u'3.05'}, 'Misc': {'deanslist': True}}
+
+RESUME_10_		{'Misc': {'deanslist': False}}
+
+Resume+Kristoffer+Andersen		{'Misc': {'deanslist': False}}
+
+Giancarlo_Garbagnati_Resume		{'Misc': {'deanslist': True}, u'University of California, San Diego (UCSD)': {'loc': 'Colorado', 'arr_pos': 1, 'GPA': u'3.35'}}
+
+Eagleburger_resume_12_25_14		{'Misc': {'deanslist': True}, u'Spokane Community College,': {'loc': 'Washington', 'arr_pos': 7, 'GPA': u'3.7'}, u'Eastern Washington University,': {'loc': 'Washington', 'arr_pos': 0, 'GPA': u'3.5'}}
+
+Vaniyapun_Resume15		{'Misc': {'deanslist': True}, u'Northwestern University, Evanston, IL ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.35'}}
+
+WinstonResume		{u'University of California, Los Angeles  ': {'loc': 'District of Columbia', 'arr_pos': 3}, 'Misc': {'deanslist': True}}
+
+Resume2011		{'Misc': {'deanslist': False}}
+
+CV-Resume_2_		{'Misc': {'deanslist': True}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}}
+
+OrtizP_Resume		{'Misc': {'deanslist': True}, u'Georgetown University, College of Arts and Sciences, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.3'}, u'Georgetown University, McDonough School of Business, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 3, 'associated_date': u'May 2013', 'GPA': u'3.3'}}
+
+Resume_15_		{'Misc': {'deanslist': True}, u'Pennsylvania State University, State College, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Resume-MCJ		{'Misc': {'deanslist': False}}
+
+DanHarrisResumeF06		{'Misc': {'deanslist': True}}
+
+Snigdha+Gupta+Resume+2015		{'Misc': {'deanslist': True}, u'Boston University School of Management; Boston, MA                                                                                       May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.46'}}
+
+Danielle_Morales_2015_CV		{u'Moorpark College, Moorpark, CA': {'loc': 'California', 'arr_pos': 3, 'associated_date': u'August 2013'}, u'University of California Berkeley Classical Archaeology, Berkeley, CA            September 2012 - May 2013': {'loc': 'California', 'arr_pos': 41, 'associated_date': u'May 2013'}, u'Phoebe A. Hearst Museum of Anthropology, University of California Berkeley, CA May 2011- May 2013': {'loc': 'California', 'arr_pos': 31, 'associated_date': u'May 2013'}, u'University of California Berkeley, Berkeley, CA': {'loc': 'California', 'arr_pos': 6, 'associated_date': u'August 2013'}, u'supervision of University of California Berkeley graduate student Anna Harkey and Professor Christine Hastorf': {'loc': 'California', 'arr_pos': 60, 'associated_date': u'December 2011'}, u'Ventura College, Ventura, CA': {'loc': 'California', 'arr_pos': 9, 'associated_date': u'August 2013'}, 'Misc': {'deanslist': True}, u'of University of California Berkeley graduate student Alan Farahani and Professor Benjamin Porter': {'loc': 'California', 'arr_pos': 50, 'associated_date': u'September 2011'}, u'Island Plantation, under the supervision of University of California Berkeley graduate student John Chenoweth ': {'loc': 'California', 'arr_pos': 67, 'associated_date': u'July 2009'}, u'College of the Canyons, Valencia, CA': {'loc': 'California', 'arr_pos': 12, 'associated_date': u'August 2013'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA         September 2011 - ': {'loc': 'California', 'arr_pos': 57, 'associated_date': u'September 2011'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA         September 2011 - December 2011': {'loc': 'California', 'arr_pos': 65, 'associated_date': u'December 2011'}, u'University of California Berkeley Anthropology Lab, Berkeley, CA                   February 2012 - May 2012': {'loc': 'California', 'arr_pos': 48, 'associated_date': u'May 2012'}}
+
+Joe+Dreyfuss+Resume		{'Misc': {'deanslist': False}}
+
+Josh+Fuller+Resum%c3%a9		{'Misc': {'deanslist': True}, u'University of Chicago ': {'loc': 'Oklahoma', 'arr_pos': 4, 'associated_date': u'May 2014', 'GPA': u'3.43'}}
+
+fendysoegionoresume_1_		{u'University of California, Berkeley                                                                   Expected May 2016                                                                                                                                           ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}, u'Diablo Valley College, Pleasant Hill, CA                                                 Fall 2011 \xe2\x80\x93 Spring 2014 ': {'loc': 'California', 'arr_pos': 3}}
+
+Deh+Jun+Tzou+Resume+2015+_recent_		{u'Emory University ': {'loc': 'Georgia', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.656'}, 'Misc': {'deanslist': True}}
+
+Resume_Sokso_03162015		{u'An Affiliate of The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': True}, u'Pennsylvania College of Technology, Williamsport, PA    Expected 05/15 ': {'loc': 'Pennsylvania', 'arr_pos': 0}}
+
+AMFB_Resumee		{'Misc': {'deanslist': True}, u'The Pennsylvania State University | University Park, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+KevinJung%27s+Resume_1_		{'Misc': {'deanslist': True}, u'University of California Davis ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2012'}}
+
+Resume_23_		{u'BS in Electrical Engineering from the George Washington University': {'loc': 'Oregon', 'arr_pos': 13}, 'Misc': {'deanslist': True}, u'The George Washington University': {'loc': 'Oregon', 'arr_pos': 2}}
+
+RESUME_17_		{u'The Pennsylvania State University, Abington PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+CURRENT+CSpatz+Resume		{'Misc': {'deanslist': True}, u'  Accounting Club, Kutztown University ': {'arr_pos': 27}, u'B.S.B.A. Kutztown University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.26'}, u'Dean\u2019s List, Kutztown University ': {'arr_pos': 29}}
+
+Resume-35		{'Misc': {'deanslist': False}}
+
+LyndsyKelleyResume		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, PA                                     May 2010': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2010'}}
+
+Jonathan_Hwang_Resume.		{'Misc': {'deanslist': True}, u'New York University: College of Arts and Sciences': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.17'}}
+
+Lee+Setzen+Resume+5.0		{'Misc': {'deanslist': False}}
+
+Ghazal+Amar+Resume+ME		{u'Rice University, Houston, TX ': {'loc': 'Texas', 'arr_pos': 1, 'GPA': u'3.9'}, 'Misc': {'deanslist': True}}
+
+Risikat+Oshodi-+Accounting+and+Finance+Resume		{'Misc': {'deanslist': True}}
+
+hammadryanresumer815		{u'Emory University, Screenwriting Certificate  ': {'loc': 'Georgia', 'arr_pos': 2}, u'Oxford University, Regent\u2019s Park, Summer Seminar    ': {'arr_pos': 24}, 'Misc': {'deanslist': True}, u'Emory University, Bachelor of Arts in English, Philosophy minor ': {'loc': 'Georgia', 'arr_pos': 14}}
+
+Resume-2_1_		{'Misc': {'deanslist': True}}
+
+Weidi+Shen+resume		{'Misc': {'deanslist': True}, u'High School Diploma ': {'loc': 'Ohio', 'arr_pos': 28, 'associated_date': u'May 2011'}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Ohio', 'arr_pos': 21, 'associated_date': u'May 2011'}}
+
+Joey+Wang+resume		{'Misc': {'deanslist': False}}
+
+Waleed+Chaudhry-CV--db_1_		{'Misc': {'deanslist': False}}
+
+Molly+Dubs+Resume		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+Peng%27s+Resume+_Techical+Version_		{'Misc': {'deanslist': True}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Jinjing+Zhang%27s+Resume		{u'New York University in Florence, Italy ': {'loc': 'New York', 'arr_pos': 13}, u'New York University ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.39'}, 'Misc': {'deanslist': True}}
+
+Resume+2!!		{u'Pennsylvania State University,  University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.82'}, 'Misc': {'deanslist': True}}
+
+Jonathan+Grant%27s+Resume		{u'California University of Pennsylvania': {'loc': 'California', 'arr_pos': 2}, 'Misc': {'deanslist': True}}
+
+WendongRui_Resume+Ver5.05_2_		{'Misc': {'deanslist': False}}
+
+Resume+-2		{u'Pennsylvania State University, Smeal College of Business, University Park, PA           ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': True}}
+
+WendongRui_Resume+Ver5.05		{'Misc': {'deanslist': False}}
+
+paigemalterresume2014		{u'Lehigh University, Bethlehem, PA': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'June 2009', 'GPA': u'3.81'}, u'High School Diploma, June 2009': {'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.66'}, 'Misc': {'deanslist': True}}
+
+Resume_22_		{u'William Tennent High School, Warminster, PA': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'June 2005'}, 'Misc': {'deanslist': True}, u'West Chester University of Pennsylvania, West Chester, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009'}}
+
+Dayron_Estevez_Resume		{u'University of Florida: Warrington College of Business                                                     ': {'loc': 'Florida', 'arr_pos': 0, 'GPA': u'3.32'}, 'Misc': {'deanslist': True}}
+
+MaxwellKappesResume_1_		{'Misc': {'deanslist': True}, u'Santa Rosa Junior College': {'arr_pos': 6, 'associated_date': u'June 2011'}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2015'}}
+
+Resume_4_		{'Misc': {'deanslist': False}}
+

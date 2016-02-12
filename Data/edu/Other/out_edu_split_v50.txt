@@ -1,0 +1,100 @@
+RESUME_21_		{'Misc': {'deanslist': False}}
+
+RESUMEwaterengineering		{'Misc': {'deanslist': True}}
+
+Resume_Baker_Wyatt++_1_--gd_1_		{u'Columbia University ': {'loc': 'California', 'arr_pos': 1}, u'Four year varsity member on Division I wrestling team of Columbia University ': {'loc': 'California', 'arr_pos': 16}, 'Misc': {'deanslist': True}, u'State Champion and multiple times CIF champion tri-sport athlete at Servite High School ': {'loc': 'California', 'arr_pos': 20}}
+
+LEESTANDERFER		{'Misc': {'deanslist': True}, u'EASTERN WASHINGTON UNIVERSITY \u2013 Cheney, WA': {'loc': 'Washington', 'arr_pos': 0}}
+
+Mana+Nabati+Resume_1_		{'Misc': {'deanslist': True}}
+
+ES_Resume_2014		{'Misc': {'deanslist': False}}
+
+resume2012		{'Misc': {'deanslist': True}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2013'}}
+
+Austin+Bloom%27s+Resume_2_		{'Misc': {'deanslist': False}}
+
+Resume-2_2_		{u'Loyola University of Chicago / \u200b': {'arr_pos': 37, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Graduated with a B.A. in Broadcast Journalism for Loyola Chicago\u2019s School of ': {'arr_pos': 40}}
+
+AustinSolomonResume		{'Misc': {'deanslist': True}}
+
+Mengbo+Li+-+Resume+pdf		{'Misc': {'deanslist': True}, u'Emory University': {'loc': 'Georgia', 'arr_pos': 1, 'associated_date': u'Dec 2015'}}
+
+Resume_Geng_Li_RA_LA		{u'University of California in San Diego, CA': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': True}}
+
+kesha+resume		{'Misc': {'deanslist': True}, u'Student Government Association \u2013 Lincoln University of Pennsylvania': {'loc': 'Maryland', 'arr_pos': 11}, u'James Hubert Blake High School \u2013 2006 - 2009': {'loc': 'Maryland', 'arr_pos': 3}, u'High School Diploma': {'loc': 'Maryland', 'arr_pos': 4}, u'Lincoln University Judicial Committee (LUJC) -2010-2012': {'loc': 'Maryland', 'arr_pos': 14}, u'Lincoln University of Pennsylvania ': {'loc': 'Maryland', 'arr_pos': 0}}
+
+RESUME+2-10-2015		{u'      The Pennsylvania State University, University Park, PA                                GPA: 3.37/4.00': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.37'}, 'Misc': {'deanslist': True}}
+
+Resume+1+page_3_		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}}
+
+Online+Resume_1_		{'Misc': {'deanslist': False}}
+
+AllenDan.		{'Misc': {'deanslist': False}}
+
+Striegel_Resume		{'Misc': {'deanslist': False}}
+
+STUTTSresumeFEB2015		{'Misc': {'deanslist': False}}
+
+Full+Time+Position+Interview		{u'University of California Los Angeles': {'loc': 'California', 'arr_pos': 2, 'associated_date': u'Dec 2014'}, 'Misc': {'deanslist': True}}
+
+Andrew+Edbert+Wijaya+-+Resume		{u'Boston University School of Management; Boston, MA                         ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'January 2015', 'GPA': u'3.06'}, 'Misc': {'deanslist': True}}
+
+Meifeng_Yang_CV		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2015', 'GPA': u'3.66'}, 'Misc': {'deanslist': True}}
+
+Kim-Quyen-Le+resume		{'Misc': {'deanslist': False}}
+
+Nishant_Malana_resume_1_		{'Misc': {'deanslist': False}}
+
+Miles+Castro		{'Misc': {'deanslist': False}}
+
+resume1		{'Misc': {'deanslist': True}}
+
+Tom+Resume_1_		{'Misc': {'deanslist': True}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Resume_CY-2		{'Misc': {'deanslist': True}}
+
+resume_12_		{'Misc': {'deanslist': False}}
+
+KellyResume2011		{'Misc': {'deanslist': False}}
+
+Resume+June+2011		{u'University of Florida, B.S. ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'August 2009'}, 'Misc': {'deanslist': True}, u'Santa Fe College': {'arr_pos': 5, 'associated_date': u'August 2007'}}
+
+FanninResume_2_		{'Misc': {'deanslist': False}}
+
+STUTTSresumeFEB2015_1_		{'Misc': {'deanslist': False}}
+
+max+ellison+resume		{'Misc': {'deanslist': True}}
+
+t_dalton_resume		{u'Study Abroad Program at the American University in Cairo Spring 2009': {'arr_pos': 5}, 'Misc': {'deanslist': True}}
+
+Jessica+N+Perez-Resume+2016_1_		{'Misc': {'deanslist': False}}
+
+baltazarwynona_resume_2_		{'Misc': {'deanslist': True}, u'University of California at Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0}}
+
+WC-RESUME		{'Misc': {'deanslist': True}, u'University of Illinois Champaign-Urbana                                                ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.20'}}
+
+October+2015-Resume		{u'Lehigh Carbon Community College   ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}, u'Kutztown University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 21, 'associated_date': u'May 2014'}}
+
+BenCatheyResume		{'Misc': {'deanslist': False}}
+
+New+2014+Resume		{u'University of California Davis, June 2013 ': {'loc': 'California', 'arr_pos': 4, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}}
+
+Meghan+A+Cunningham%27s+Resume+Fall+2014		{u'Lehigh University - Bethlehem, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.17'}, 'Misc': {'deanslist': True}}
+
+James+Ju+Resume+2015		{'Misc': {'deanslist': False}}
+
+Justin_Man_UX		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Aug 2013'}, 'Misc': {'deanslist': True}}
+
+General+Resume+only+HAMIDI		{u'Arizona State University, Consortium for Science, Policy, and Outcomes ': {'loc': 'Arizona', 'arr_pos': 6, 'associated_date': u'June 2014'}, u'The Johns Hopkins University, Bloomberg School of Public Health ': {'loc': 'Arizona', 'arr_pos': 16, 'associated_date': u'June 2013'}, u'Arizona State University, Barrett Honors College, Cum Laude ': {'loc': 'Arizona', 'arr_pos': 45}, 'Misc': {'deanslist': True}}
+
+Marilyn+Meza+Resume_CareerBuilder		{'Misc': {'deanslist': False}}
+
+ResumeMay2015		{'Misc': {'deanslist': False}}
+
+Lucke-Resume2_1_		{'Misc': {'deanslist': True}, u'Highlands Sr. High School Graduate 2005': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'December 2009'}, u'Penn State Erie, The Behrend College': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2010'}}
+
+NICHOLAS+P-4		{'Misc': {'deanslist': False}}
+
+Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28_1_		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': True}, u'\u2013 College of Letters & Science ': {'arr_pos': 1, 'associated_date': u'Dec 2013'}}
+

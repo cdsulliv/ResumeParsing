@@ -21,13 +21,16 @@ import os
 #os.environ['JAVAHOME'] = java_path
 
 import numpy as np
+import sys
 import csv
 from collections import Counter
+from utilities import getFiles 
 
 
 # For sending text message
 import smtplib
 
+csv.field_size_limit(sys.maxsize)
 
 # In[2]:
 
@@ -154,8 +157,12 @@ def extract_edu_info_alt(soup):
 
             date = re.findall(r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|June|July|August|September|October|November|December|Sept)\s\d{4}', item)
             date_text = ""
+            print date
             if date:
-                date_text = date[0]
+                if len(date)==2:
+                    date_text = date[1]
+                else:    
+                    date_text = date[0]
                 exist_val = univ_list[key]
                 exist_val["associated_date"] =  date_text
                 univ_list[key] = exist_val
@@ -274,7 +281,7 @@ def extract_person_info(soup,st):
 
 # In[11]:
 
-st = StanfordNERTagger('/Users/sajal/stanford-ner-2014-06-16/classifiers/english.all.3class.distsim.crf.ser.gz','/Users/sajal/stanford-ner-2014-06-16/stanford-ner.jar')
+st = StanfordNERTagger('/home/shreya/Downloads/stanford-ner-2014-06-16/classifiers/english.all.3class.distsim.crf.ser.gz','/home/shreya/Downloads/stanford-ner-2014-06-16/stanford-ner.jar')
 
 
 # # Preprocessing
@@ -352,53 +359,73 @@ def preprocess(soup):
 
 
 #CODE START FROM HERE
+fileset = getFiles("/home/shreya/RA_ML/Resume-Parsing/Data/split/Other")
+for f_csv in fileset:
+    index = f_csv.index(".") 
+    first_index =f_csv.rfind("/")+1
+    last_index = f_csv.rfind(".")
+    out_filename = f_csv[first_index: last_index]
+                
 
-with open('split_v3.csv', 'rb') as f:
-    reader = csv.reader(f)
-    data = [row for row in reader]
-datanp = np.array(data)
-
-
-
-# Drop useless resumes!
-droplist = "|".join(['FILENAME', 'Wichita State University'])
-boolz = [not bool(re.match(droplist, x[0])) for x in datanp]
-subs = np.where(boolz)
-datanp = datanp[subs]
-
-
-# ### Check analysis of bio data
-
-
-biosoups = [BeautifulSoup(row) for row in datanp[:,2]]
-preprocessed = [preprocess(row) for row in biosoups]
-allbiodata = np.array([extract_person_info(soup, st) for soup in preprocessed])
-filename = [row for row in datanp[:,0]]
-
-# np.save("bioparsed", allbiodata)
-# print allbiodata
-
-i = 0
-
-file_o = open("out_bio.txt","wb")
-for entry in allbiodata:
-    file_o.write(filename[i] + "\t\t" + str(entry))
-    file_o.write("\n\n")
-    i +=1
+    with open(f_csv, 'rb') as f:
+        reader = csv.reader(f)
+        data = [row for row in reader]
+    
+    datanp = np.array(data)
 
 
 
-prepedu = [preprocess(BeautifulSoup(row)) for row in datanp[:,3]]
+    # Drop useless resumes!
+    droplist = "|".join(['FILENAME', 'Wichita State University'])
+    boolz = [not bool(re.match(droplist, x[0])) for x in datanp]
+    subs = np.where(boolz)
+    datanp = datanp[subs]
+    #print datanp.size
+    # ### Check analysis of bio data
 
-edudata_alt = np.array([extract_edu_info_alt(row) for row in prepedu])
+    '''biosoups = []
+    for i in range(len(datanp)):
+        biosoups.append(BeautifulSoup(datanp[i][2]))
 
-i = 0
 
-file_o = open("out_edu_2.txt","wb")
-for entry in edudata_alt:
-    file_o.write(filename[i] + "\t\t" + str(entry))
-    file_o.write("\n\n")
-    i +=1
+    
+    #biosoups = [BeautifulSoup(row) for row in datanp[:,2]]
+    preprocessed = [preprocess(row) for row in biosoups]
+    allbiodata = np.array([extract_person_info(soup, st) for soup in preprocessed])
+    filename = [row for row in datanp[:,0]]
+
+    # np.save("bioparsed", allbiodata)
+    # print allbiodata
+
+    i = 0
+
+    file_o = open("out_bio_"+ out_filename+ ".txt","wb")
+    for entry in allbiodata:
+        file_o.write(filename[i] + "\t\t" + str(entry))
+        file_o.write("\n\n")
+        i +=1
+
+    '''    
+    #filename = [row for row in datanp[:,0]]
+    filename = []
+    for i in range(len(datanp)):
+        filename.append(datanp[i][0]) 
+
+    prepedu = []
+    for i in range(len(datanp)):
+        prepedu.append(BeautifulSoup(datanp[i][3]))
+
+    #prepedu = [preprocess(BeautifulSoup(row)) for row in datanp[:,3]]
+
+    edudata_alt = np.array([extract_edu_info_alt(row) for row in prepedu])
+
+    i = 0
+
+    file_o = open("out_edu_"+out_filename+".txt","wb")
+    for entry in edudata_alt:
+        file_o.write(filename[i] + "\t\t" + str(entry))
+        file_o.write("\n\n")
+        i +=1
 
 
 

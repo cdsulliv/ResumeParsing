@@ -1,0 +1,62 @@
+adrieneresume		{'phone': '408-483-4195', 'email': 'a717wong@sbcglobal.net', 'name': 'ADRIENE WONG'}
+
+Oladunni+Oduyemi+Resume+Updated+Summer+15		{'phone': 'No Phone Found', 'email': 'dunni.oduyemi@gmail.com', 'name': 'No Name Found'}
+
+Justin+Reiter+Resume		{'phone': '(845) 667-9001', 'email': 'reiter.j@outlook.com', 'name': 'Justin Reiter '}
+
+CV		{'phone': 'No Phone Found', 'email': 'marissa.bokhari@gmail.com', 'name': 'Marissa\xc2\xa0Giordano\xc2\xa0Bokhari'}
+
+Adam+Crimboli+Resume+2015.3		{'phone': '(724) 610-8581', 'email': 'adamcrimboli@gmail.com', 'name': 'Adam Crimboli'}
+
+Jacob+Liberatore+Resume+2015		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Eileen+Ly%27s+Online+Resume		{'phone': 'No Phone Found', 'email': '1EILEENLY@GMAIL.COM', 'name': 'EILEEN LY'}
+
+EthanMLiu		{'phone': '646-943-4896', 'email': 'eliu080893@gmail.com', 'name': 'ETHAN LIU '}
+
+Vincenz+Current+Resume		{'phone': '(904)563-0197', 'email': 'vincenzbuhler@gmail.com', 'name': 'Vincenz A. Buhler '}
+
+Tom+Resume		{'phone': '(917) 330-6155', 'email': 'hch285@nyu.edu', 'name': 'No Name Found'}
+
+ADH_RESUME_SMALLER		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Resume+AB		{'phone': '508-369-4615', 'email': 'adrianabagu@yahoo.com', 'name': 'Adriana Bremermann'}
+
+Argeros%2c+Nicole		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'NICOLE ARGEROS '}
+
+James+Ott+-+Resume+2015		{'phone': '610-955-8655', 'email': 'james.ott7@gmail.com', 'name': 'James Ott '}
+
+fendysoegionoresume		{'phone': '925.639.8163', 'email': 'fsoegiono@berkeley.edu', 'name': 'No Name Found'}
+
+Nicole+R.+Williams+Office+Resume		{'phone': '(717)713-8390', 'email': 'nw4046@gmail.com', 'name': 'NICOLE R. WILLIAMS '}
+
+Tess_Bryant_Resume		{'phone': '(352) 215-0936', 'email': 'tess.bryant@hotmail.com', 'name': ' Tess A. Bryant '}
+
+Morgan+Stegall%27s+Resume		{'phone': '704-681-0941', 'email': 'morgan.stegall@gmail.com', 'name': 'Morgan P. Stegall  '}
+
+J+Greene+Resume		{'phone': '6107015695', 'email': 'jg682366@wcupa.edu', 'name': 'JANNA GREENE'}
+
+Cryshanna_Crawford_2015		{'phone': '267-997-9366', 'email': 'cdcrawford91@gmail.com', 'name': 'Cryshanna Crawford '}
+
+Myra+Nizami+-+Resume		{'phone': '714-482-5670', 'email': 'mn453@cornell.edu', 'name': 'No Name Found'}
+
+Current+Resume		{'phone': '(347)-645-2271', 'email': 'a.i.furlow@gmail.com', 'name': 'ANDRE ISHMELE FURLOW'}
+
+lsabino+resume		{'phone': '551-556-6514', 'email': 'luzmarysabino@gmail.com', 'name': 'Luzmary Sabino '}
+
+Linares_resume		{'phone': '352-871-0810', 'email': 'mveronicalf@gmail.com', 'name': 'M. VERONICA LINARES '}
+
+Zachary+Goldrich+Resume		{'phone': 'No Phone Found', 'email': 'Zachary.Goldrich@gmail.com', 'name': 'ZACHARY\t\r \xc2\xa0GOLDRICH\t\r \xc2\xa0'}
+
+Resume_Bankers+Life+		{'phone': '(650) 575-4882', 'email': 'corinnekeer@gmail.com', 'name': 'Corinne Keer'}
+
+Krhystyne+Pablo+RN+Resume		{'phone': '(646) 270-9399', 'email': 'krhystyne.pablo@gmail.com', 'name': 'Krhystyne Pablo '}
+
+Danny+K.P.++Yoon_Resume_		{'phone': '347-993-4981', 'email': 'danny.yoon@nyu.edu', 'name': 'DANNY K.P. YOON'}
+
+kdene+new+resume		{'phone': '(305) 308-4363', 'email': 'kadie06@ufl.edu', 'name': 'Kadene Shaw'}
+
+Sean+M.+Pacheco+Resume		{'phone': '(510) 896-8561', 'email': 'seanp1@standford.edu', 'name': 'SEAN'}
+
+Raymond+Carl+Godinez+CV+3		{'phone': '707-344-1185', 'email': 'Raygodinez91@gmail.com', 'name': 'Raymond Carl Godinez '}
+

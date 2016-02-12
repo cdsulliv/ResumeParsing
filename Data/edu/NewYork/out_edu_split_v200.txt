@@ -1,0 +1,100 @@
+Rochell+Foster338+Resume		{'Misc': {'deanslist': True}, u'Monroe College, Bronx, NY': {'loc': 'New York', 'arr_pos': 2}}
+
+WilsonChristensenResume		{'Misc': {'deanslist': True}, u'University of Missouri - Columbia, Missouri ': {'loc': 'Missouri', 'arr_pos': 2}}
+
+Alice+Z+Ding+Resume--db		{'Misc': {'deanslist': True}, u'NEW YORK UNIVERSITY': {'loc': 'Nebraska', 'arr_pos': 1, 'associated_date': u'Dec 2014', 'GPA': u'3.56'}}
+
+USE+THIS+RESUME_1_		{u'Jay S. Sidhu School of Business and Leadership': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2008', 'GPA': u'3.4'}, u'Lubin School of Business': {'arr_pos': 8, 'associated_date': u'December 2009'}, u'Pace University, New York, New York': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'December 2009'}, u'Wilkes University, Wilkes-Barre, Pennsylvania ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2008', 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+Shreyas+Gaonkar+Resume		{u'University of Illinois at Chicago (UIC)   ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.56'}, 'Misc': {'deanslist': True}, u'Mumbai University, Mumbai, India': {'arr_pos': 12, 'associated_date': u'August 2014', 'GPA': u'3.55'}}
+
+CARLVIN+MARK+RESUME		{'Misc': {'deanslist': False}}
+
+Latries+Giddings++-+Resume_1_		{'Misc': {'deanslist': False}}
+
+Adnan+Kassim+Resume		{u'The Pennsylvania State University, Smeal College of Business': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'May 2016', 'GPA': u'3.7'}, 'Misc': {'deanslist': True}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2016', 'GPA': u'3.7'}}
+
+Sam%27s+resume+Jan.+2015		{'Misc': {'deanslist': False}}
+
+Samantha+Chandler%27s+Resume+2015		{'Misc': {'deanslist': True}, u'One of the few to be provided with a mentor through the Auburn University Apparel ': {'arr_pos': 7}}
+
+USE+THIS+RESUME		{u'Jay S. Sidhu School of Business and Leadership': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2008', 'GPA': u'3.4'}, u'Lubin School of Business': {'arr_pos': 8, 'associated_date': u'December 2009'}, u'Pace University, New York, New York': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'December 2009'}, u'Wilkes University, Wilkes-Barre, Pennsylvania ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2008', 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+ResumeCG_2014-1		{'Misc': {'deanslist': False}}
+
+valentin		{'Misc': {'deanslist': False}}
+
+USE+THIS+RESUME_2_		{u'Jay S. Sidhu School of Business and Leadership': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2008', 'GPA': u'3.4'}, u'Lubin School of Business': {'arr_pos': 8, 'associated_date': u'December 2009'}, u'Pace University, New York, New York': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'December 2009'}, u'Wilkes University, Wilkes-Barre, Pennsylvania ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2008', 'GPA': u'3.4'}, 'Misc': {'deanslist': True}}
+
+Resume_1_		{'Misc': {'deanslist': True}, u'Pennsylvania State University Graduation: May 2014 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}}
+
+Resume_AudiWang		{u'Yuan-Ze University, Taiwan     ': {'loc': 'Colorado', 'arr_pos': 6, 'GPA': u'4.0'}, u'West Virginia University, Morgantown, WV ': {'loc': 'Colorado', 'arr_pos': 2, 'GPA': u'3.5'}, u'National Sun Yet-Sen University, Taiwan ': {'loc': 'Colorado', 'arr_pos': 10, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+Gurami+Kakabadze+RESUME		{'Misc': {'deanslist': False}}
+
+Lamin+Jarawa+_Resume		{u'Herbert H. Lehman College, City University of New York, Bronx, NY': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}}
+
+MayaHolleyResume		{'Misc': {'deanslist': False}}
+
+JC+Resume		{'Misc': {'deanslist': True}, u'Iona College, New Rochelle, NY ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Latries+Giddings++-+Resume		{'Misc': {'deanslist': False}}
+
+Jessica%27s+Resume2		{'Misc': {'deanslist': True}, u'Berkeley College, New York, NY ': {'loc': 'Mississippi', 'arr_pos': 0}}
+
+%5bResume%5d+Michael+Cha+		{'Misc': {'deanslist': False}}
+
+Kristen+Vesey+Resume		{'Misc': {'deanslist': False}}
+
+MauritaSalkeyResume		{'Misc': {'deanslist': True}, u'TEMPLE UNIVERSITY, School of Media and Communication, Philadelphia, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+KelseyGoffman11.12.14		{'Misc': {'deanslist': True}}
+
+RESUMECV_GREGG_WATTS		{'Misc': {'deanslist': True}, u'Vassar College Senior Class Exec. Council, 2015 Treasurer elected to manage and allocate a $51,000 budget ': {'loc': 'North Carolina', 'arr_pos': 5, 'associated_date': u'June 2014'}, u"Vassar College Men's Varsity Soccer, Two NCAA appearances and Liberty League All-Academic Team ": {'loc': 'North Carolina', 'arr_pos': 12, 'associated_date': u'June 2014'}, u'The London School of Economics and Political Science (LSE)': {'arr_pos': 17, 'associated_date': u'June 2014'}, u'Vassar College': {'loc': 'North Carolina', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.73'}}
+
+online+resume		{u'Fairleigh Dickinson University ': {'arr_pos': 2, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': True}, u'Montclair State University': {'arr_pos': 0, 'associated_date': u'August 2013'}}
+
+NINA+LOBZHANIDZE+-+Resume+		{u'Tbilisi State University, Tbilisi, Georgia': {'loc': 'Georgia', 'arr_pos': 3, 'associated_date': u'October 2013'}, 'Misc': {'deanslist': True}, u'Columbus State Community College, Columbus, Ohio ': {'loc': 'Georgia', 'arr_pos': 1, 'associated_date': u'October 2013'}}
+
+Marc+Densing+Resume+10-6-14		{'Misc': {'deanslist': False}}
+
+JonathanTeekasingh-ResumeJune2014		{'Misc': {'deanslist': True}}
+
+Resume_Eylul+Nazlioglu		{'Misc': {'deanslist': True}, u'Pace University, New York, NY                                                                                                                  Expected 12/2015': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.25'}}
+
+BheemLiliaresume+ver+2+dated+8-1-12+w.		{'Misc': {'deanslist': True}, u'Saint Peter\u2019s College': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.2'}}
+
+Allyson+Hill+Resume		{u'Studied at Florence University of the Arts, Florence, Italy; traveled throughout Italy': {'loc': 'Puerto Rico', 'arr_pos': 7}, 'Misc': {'deanslist': True}, u'   High Point University, High Point, NC, May 2014': {'loc': 'Puerto Rico', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.2'}}
+
+NEW+Draft+of+Resume_1_2_3_4		{'Misc': {'deanslist': True}}
+
+H.Ruby+Resume.		{'Misc': {'deanslist': False}}
+
+REGINA+BRIANDT+original		{'Misc': {'deanslist': True}, u'2008-2012            Bronx Community College (AAS) MLT ': {'arr_pos': 0}, u'2012-Present     Biology Lehman College (B.A) ': {'arr_pos': 2}, u'  Dean list Bronx Community College ': {'arr_pos': 7}}
+
+LauraOspina_Sept2015_1_		{'Misc': {'deanslist': True}, u'FLAGLER COLLEGE    May 2015 ': {'loc': 'Florida', 'arr_pos': 1, 'associated_date': u'May 2015'}}
+
+Yi_Xing_Resume+Risk		{u'East China Normal University, Shanghai, China                                                                                          Sep 2008 - June 2012               ': {'arr_pos': 15, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': True}, u'New York University, New York, NY                                                                                                            Sep 2012 - May 2014 ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.66'}, u'State University of New York, Albany, NY                                                                                                   Aug 2010 - Dec 2010  ': {'loc': 'New York', 'arr_pos': 11, 'associated_date': u'Dec 2010', 'GPA': u'4.0'}}
+
+CV+-+CLEZIA+-+General		{u'whatever she sets her mind to do.\u201d Joseph Brooks \u2013 Temple University': {'arr_pos': 23}, u'University of S\xe3o Paulo City, SP - Brazil': {'arr_pos': 13}, u'University of Connecticut, Stamford - CT': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'December 2015'}, 'Misc': {'deanslist': True}, u'Villanova University, Villanova - PA': {'loc': 'Pennsylvania', 'arr_pos': 9}, u'School of Tourism and Hospitality Management, Temple University, Philadelphia - PA': {'loc': 'Pennsylvania', 'arr_pos': 5}}
+
+Resume_AudiWang_1_		{u'Yuan-Ze University, Taiwan     ': {'loc': 'Colorado', 'arr_pos': 6, 'GPA': u'4.0'}, u'West Virginia University, Morgantown, WV ': {'loc': 'Colorado', 'arr_pos': 2, 'GPA': u'3.5'}, u'National Sun Yet-Sen University, Taiwan ': {'loc': 'Colorado', 'arr_pos': 10, 'GPA': u'3.5'}, 'Misc': {'deanslist': True}}
+
+OrtizP_Resume		{'Misc': {'deanslist': True}, u'Georgetown University, College of Arts and Sciences, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.3'}, u'Georgetown University, McDonough School of Business, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 3, 'associated_date': u'May 2013', 'GPA': u'3.3'}}
+
+HR.Quan.Vu.Resume+_12-09-2014_		{'Misc': {'deanslist': True}, u'BRANDEIS UNIVERSITY ': {'loc': 'New York', 'arr_pos': 2, 'GPA': u'3.6'}, u'MACAULAY HONORS PROGRAM AT CUNY BARUCH COLLEGE ': {'loc': 'New York', 'arr_pos': 7, 'GPA': u'3.7'}}
+
+Sylvia+Xie_Resume+2.19_+Career+Builder.		{u'New York University, Innovative Leadership Program, New York, NY                                                                                 Spring 2012': {'loc': 'Indiana', 'arr_pos': 12, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}, u'Indiana University, Kelley School of Business, Bloomington, IN                                                                                    December 2012': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'December 2012', 'GPA': u'3.2'}, u'University of California, Berkeley, Summer Program, Berkeley, CA                                                                        Summer 2009, 2010': {'loc': 'Indiana', 'arr_pos': 13, 'associated_date': u'May 2012'}}
+
+Matthew+Chase+Resume		{'Misc': {'deanslist': False}}
+
+Sophia+Montgomery+Most+recent+resume		{'Misc': {'deanslist': True}, u'New York City College of Technology, Brooklyn NY': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'Jan 2013'}}
+
+Malisa+Basic+Resume+new		{'Misc': {'deanslist': True}, u' Baruch College, New York City                                             Expected Graduation: May 27,2014': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.1'}, u'Eleanor Roosevelt High School, New York City': {'loc': 'New York', 'arr_pos': 5}}
+
+new_resume_for_Maxi		{'Misc': {'deanslist': True}}
+
+Sydney+E.+Eason+Resume		{'Misc': {'deanslist': False}}
+
+Resume_XB_2015		{'Misc': {'deanslist': False}}
+

@@ -1,0 +1,100 @@
+May+2015+Resume		{'Misc': {'deanslist': False}}
+
+tims+resume_1_		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 1999'}, 'Misc': {'deanslist': True}}
+
+Alex_Duritza_BSBME2006		{u'Boston University College of Engineering, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2006'}, 'Misc': {'deanslist': True}}
+
+Tyler+Ainge+Resume		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.67'}, u' University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'GPA': u'3.67'}, 'Misc': {'deanslist': True}}
+
+2015+Resume		{'Misc': {'deanslist': True}}
+
+Peng%27s+Resume+_Techical+Version__3_		{'Misc': {'deanslist': True}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Resume_26_		{u'Trinity College Dean\u2019s Award, Fall 2008- Spring 2012': {'arr_pos': 7}, 'Misc': {'deanslist': True}, u'Trinity Washington University. Washington, D.C': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.7'}}
+
+Paula+E.+Jones+Re%cc%81sume%cc%81-+HPR.		{'Misc': {'deanslist': True}, u'Vanderbilt University, Nashville, TN': {'loc': 'Tennessee', 'arr_pos': 0, 'associated_date': u'May 2010', 'GPA': u'3.6'}}
+
+Resume_8_		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': True}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 6}}
+
+Resume+1+page		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': True}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}}
+
+Ryan+Resume+RED		{'Misc': {'deanslist': False}}
+
+resume+		{u'University of Florida, Class of 2015 ': {'loc': 'Florida', 'arr_pos': 4}, 'Misc': {'deanslist': True}}
+
+ResumePDF		{'Misc': {'deanslist': True}}
+
+Sachel+Sengupta+Resume		{u'Carnegie Mellon University ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': True}, u'City University of New York, Energy Institute ': {'loc': 'Indiana', 'arr_pos': 37}}
+
+Hyungyu+Kang_Resume+_2015_		{'Misc': {'deanslist': False}}
+
+Tom+Resume_3_		{'Misc': {'deanslist': True}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+MARK+MEYERS+RESUME!!		{'Misc': {'deanslist': True}, u'Indiana University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'December 2014'}}
+
+Resume_Baker_Wyatt++_1_--gd_2_		{u'Columbia University ': {'loc': 'California', 'arr_pos': 1}, u'Four year varsity member on Division I wrestling team of Columbia University ': {'loc': 'California', 'arr_pos': 16}, 'Misc': {'deanslist': True}, u'State Champion and multiple times CIF champion tri-sport athlete at Servite High School ': {'loc': 'California', 'arr_pos': 20}}
+
+kesha+resume_1_		{'Misc': {'deanslist': True}, u'Student Government Association \u2013 Lincoln University of Pennsylvania': {'loc': 'Maryland', 'arr_pos': 11}, u'James Hubert Blake High School \u2013 2006 - 2009': {'loc': 'Maryland', 'arr_pos': 3}, u'High School Diploma': {'loc': 'Maryland', 'arr_pos': 4}, u'Lincoln University Judicial Committee (LUJC) -2010-2012': {'loc': 'Maryland', 'arr_pos': 14}, u'Lincoln University of Pennsylvania ': {'loc': 'Maryland', 'arr_pos': 0}}
+
+Professional++Resume+.		{u'The Pennsylvania State University, Class of 2012 ': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': True}}
+
+Eric+Giryluk+Resume		{u'Indiana University of Pennsylvania,  Indiana PA ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': True}}
+
+Trevor+Parkes+Graduate+Resume+2		{'Misc': {'deanslist': False}}
+
+Drew_Padilla_Resume_G		{'Misc': {'deanslist': False}}
+
+iFenta_Resume		{'Misc': {'deanslist': True}}
+
+JohnPlaxcoResumeGrad		{'Misc': {'deanslist': True}, u'Robert McCormick School of Engineering and Applied Science ': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2013', 'GPA': u'2.95'}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 1, 'associated_date': u'June 2013', 'GPA': u'2.95'}}
+
+BriaHunterResumeSpring15Final_1_		{'Misc': {'deanslist': False}}
+
+Aziz-Mussilimov-Resume-2015-SEPTEMBER-		{'Misc': {'deanslist': True}, u'COLUMBIA UNIVERSITY, School of Continuing Education                                                                                                             New York, NY ': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'December 2011', 'GPA': u'3.67'}, u'UNIVERSITY OF CALIFORNIA, BERKELEY, College of Engineering                                                                                          Berkeley, CA ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.67'}, u'KIMEP UNIVERSITY, Bang College of Business                                                                                                                          Almaty, Kazakhstan ': {'arr_pos': 12, 'associated_date': u'May 2010', 'GPA': u'3.81'}}
+
+resumeDNF_1_		{u'University of Florida': {'loc': 'Puerto Rico', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': True}, u'Winter Park High School': {'loc': 'Puerto Rico', 'arr_pos': 9, 'associated_date': u'May 2008'}, u'Santa Fe College': {'loc': 'Puerto Rico', 'arr_pos': 5, 'associated_date': u'May 2011'}}
+
+Resume-MCJ_1_		{'Misc': {'deanslist': False}}
+
+Resume+-+Business_1_		{'Misc': {'deanslist': True}, u'University of California Los Angeles | Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.95'}}
+
+resume+Alex_Dembowski_v3_2_		{u'Loyola University of Chicago': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Quinlan School of Business GPA: 3.12/4.0 ': {'loc': 'Illinois', 'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Mount Carmel High School, Chicago IL ': {'loc': 'Illinois', 'arr_pos': 7}, 'Misc': {'deanslist': True}, u'High School Diploma': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2009'}}
+
+Resume_11_		{u'THE PENNSYLVANIA STATE UNIVERSITY': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': True}, u'UNIVERSITY PARK, PENNSYLVANIA': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2012'}}
+
+Resume_17_		{u'Bethany College - ': {'loc': 'West Virginia', 'arr_pos': 14, 'GPA': u'3.926'}, u'Columbia University, The Fu Foundation School of Engineering - ': {'loc': 'West Virginia', 'arr_pos': 2, 'GPA': u'3.67'}, 'Misc': {'deanslist': True}}
+
+Mike+Nevinger+Resume		{'Misc': {'deanslist': True}, u'Letchworth Central School, Gainesville, NY. Diploma, 2009 ': {'loc': 'New York', 'arr_pos': 7}, u'Cornell University, College of Engineering, Ithaca, NY ': {'loc': 'New York', 'arr_pos': 1, 'GPA': u'3.302'}}
+
+SeHoonKyleYoonResume		{'Misc': {'deanslist': True}}
+
+CV_Ziquan+Wang		{'Misc': {'deanslist': True}, u'\u2022 Boston University, Bachelor of Arts in Economics and Mathematics                                 Sept. 2015 ': {'arr_pos': 0}}
+
+TabithaLeeResume_1_		{'Misc': {'deanslist': False}}
+
+Latonia%27s+Functional+Resume		{u'             Xavier University of Louisiana                                                                              New Orleans, LA': {'loc': 'Louisiana', 'arr_pos': 1, 'associated_date': u'May 1999'}, 'Misc': {'deanslist': True}, u'Process Engineer Intern  Tulane University Practice School  ': {'arr_pos': 67, 'associated_date': u'May 1999'}}
+
+Beecham_Alexander_Resume		{u'University of Notre Dame': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.2'}, u'High School Diploma ': {'arr_pos': 26}, 'Misc': {'deanslist': True}, u'Ransom Everglades High School, Miami FL': {'loc': 'Florida', 'arr_pos': 20, 'associated_date': u'May 2011'}}
+
+Resume_14_		{'Misc': {'deanslist': True}, u'The Pennsylvania State University, University Park, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 2}}
+
+Meka+Burch+Resume+2014		{'Misc': {'deanslist': True}, u'Trinity Washington University, Washington, DC': {'loc': 'District of Columbia', 'arr_pos': 2}}
+
+Nolan+Dow+CV_1_		{'Misc': {'deanslist': False}}
+
+DaniilBorisovSoftwareDeveloperResume		{'Misc': {'deanslist': True}, u'Eastern Washington University': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'Aug 2015'}}
+
+Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': True}, u'\u2013 College of Letters & Science ': {'arr_pos': 1, 'associated_date': u'Dec 2013'}}
+
+Aneesa_Noorani_Resume		{u'Yale Summer Session, Deusto University, Bilbao, Spain, GPA: 4.0 ': {'loc': 'Hawaii', 'arr_pos': 2, 'associated_date': u'July 2013', 'GPA': u'4.0'}, 'Misc': {'deanslist': True}, u'Harvard T.H. Chan School of Public Health, Summer Epidemiology Program Participant ': {'loc': 'Hawaii', 'arr_pos': 23, 'associated_date': u'July 2015'}, u'Yale University, B.S. Psychology, concentration in Neuroscience, 2012 \u2013 Present; GPA: 3.56/4.0      Exp. May 2016 ': {'loc': 'Hawaii', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.56'}}
+
+Kelvin+Leung+CV2_2_		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': True}}
+
+Joel_Reindel_Resume		{'Misc': {'deanslist': False}}
+
+resume_2007		{'Misc': {'deanslist': True}, u'University of Notre Dame, Notre Dame, IN': {'loc': 'Florida', 'arr_pos': 0}, u'St. Mary\u2019s College Spain Program, Seville, Spain   Spring Semester 2006 ': {'loc': 'Florida', 'arr_pos': 10}}
+
+Muaaz+Maksud+Resume		{'Misc': {'deanslist': False}}
+
+MarcBarrientosResume--gd		{u'Mt. San Antonio College - Walnut, CA ': {'loc': 'California', 'arr_pos': 8, 'associated_date': u'September 2007'}, 'Misc': {'deanslist': True}, u'Eastern Washington University - Cheney, WA                          ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2014', 'GPA': u'3.47'}}
+

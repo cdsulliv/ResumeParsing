@@ -1,0 +1,100 @@
+Fakhar+Singhera+-+Resume		{'phone': '(510) 789-5461', 'email': 'fsinghera@berkeley.edu', 'name': 'Fakhar U. Singhera '}
+
+Anesia%27s+Resume..		{'phone': '(443) 226-3138', 'email': 'adbrock@hotmail.com', 'name': 'Anesia D. Brock'}
+
+NormanMatos+-+Resume+-+2015		{'phone': '347-833-5353', 'email': 'ncm46@cornell.edu', 'name': ' Norman Matos '}
+
+Paige+Fisher+Resume+August+19+2014		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Elizabeth+Horowicz+Resume		{'phone': '(973) 986-7267', 'email': 'elizabeth.a.horowicz@vanderbilt.edu', 'name': 'Elizabeth Anne Horowicz '}
+
+MegMooneyResume2015		{'phone': '(617) 835-0680', 'email': 'megmooney8@gmail.com', 'name': 'Meaghan E. Mooney '}
+
+EE++Resume+2		{'phone': 'No Phone Found', 'email': 'andrey10e425@gmail.com', 'name': 'Andrey Tenne '}
+
+Mark+Palladino+Resume+career+builder		{'phone': '(609)247-6780', 'email': 'M.palladino5@gmail.com', 'name': 'Mark Palladino'}
+
+TabithaLeeResume		{'phone': 'No Phone Found', 'email': 'tjl006@ucsd.edu', 'name': 'TABITHA \xc2\xa0'}
+
+Tracey_Resume		{'phone': '(301) 885-7495', 'email': 'tehardos13@gmail.com', 'name': 'Tracey Hardos '}
+
+Burch%2cMeka_Resume3		{'phone': '(202)689-0200', 'email': 'Bur9715@aol.com', 'name': 'Meka R. Burch '}
+
+Katsis+Resume+		{'phone': '(312) 246-0462', 'email': 'dimitrakatsis@gmail.com', 'name': 'KATSIS'}
+
+Krystal+Boyd+Resume..		{'phone': '(202) 330-1306', 'email': 'Kryboyd@yahoo.com', 'name': 'Krystal Boyd'}
+
+Ingram+%e2%80%98Gram%e2%80%99+Bowsher+Resume		{'phone': '614.440.5759', 'email': 'grambowsher@gmail.com', 'name': 'Ingram \xe2\x80\x98Gram\xe2\x80\x99 Bowsher '}
+
+resmarg		{'phone': '809-212-4455', 'email': 'mmann@gwu.edu', 'name': 'No Name Found'}
+
+LoettaHenryFunctionalResume+9.18.2015		{'phone': 'No Phone Found', 'email': 'Loetta.N.Henry@gmail.com', 'name': 'Loetta\xc2\xa0N.\xc2\xa0Henry\xc2\xa0'}
+
+DouglasM+Resume+6-15		{'phone': '(618) 791-2435', 'email': 'mallory.faye.douglas@gmail.com', 'name': 'Mallory Faye Douglas'}
+
+Youakim_Sophie_Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Cody+Anderson+Resume+920		{'phone': 'No Phone Found', 'email': 'cande26@emory.edu', 'name': 'Cody\t\r \xc2\xa0M.\t\r \xc2\xa0Anderson'}
+
+K+Robinson+Resume		{'phone': '585-436-6394', 'email': 'kiree.robinson@hotmail.com', 'name': 'KIREE ROBINSON'}
+
+NANAKWADWOOWUSURESUME-UP		{'phone': '814-404-0125', 'email': 'nko5017@psu.edu', 'name': 'NANA KWADWO OWUSU'}
+
+Marvin_Cosare_Resume		{'phone': '(240)-370-6637', 'email': 'cosarm@rpi.edu', 'name': 'Marvin Maxino Cosare'}
+
+Jeorge+Boseman+Assistant++Resume		{'phone': 'No Phone Found', 'email': 'jeorgeboseman11@gmail.com', 'name': 'N e w  Yo r k ,   N Y  '}
+
+JGold+Resume+6.29		{'phone': '(203)733-9796', 'email': 'joshuagoldenberg@gmail.com', 'name': 'Joshua A. Goldenberg'}
+
+Nishant_Malana_resume		{'phone': '(914) 473-0481', 'email': 'nm435@georgetown.edu', 'name': 'No Name Found'}
+
+Steven+Hricko+Resume-2		{'phone': '717-858-3117', 'email': 'steven.hricko@gmail.com', 'name': ' Steven A. Hricko '}
+
+JENNEL+RESUME		{'phone': '(814) 602-8745', 'email': 'JennelMitchell@gmail.com', 'name': 'Jennel R. Mitchell'}
+
+xu+staffing+resume		{'phone': '215-268-2154', 'email': 'emmaxu@brandeis.edu', 'name': 'Emma Xu'}
+
+Jessica+Laiter%27s+Resume		{'phone': '(215) 206-5900', 'email': 'JessicaLaiter@gmail.com', 'name': 'Jessica Laiter'}
+
+6-16+updated+resume		{'phone': '(732) 619-9382', 'email': 'bgdavis225@gmail.com', 'name': ' Brian Davis '}
+
+Noelle+Sorrentino+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Regina+Izquierdo+-+Resume		{'phone': 'No Phone Found', 'email': 'rizquier@ucsd.edu', 'name': 'Regina\t\r \xc2\xa0Izquierdo\t\r \xc2\xa0'}
+
+ME+Resume		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+resume_++aug+2013+updated		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Chronological+resume+CamauraScott		{'phone': '(352)339-9333', 'email': 'Camaura1.scott@gmail.com', 'name': ' Camaura L. Scott '}
+
+Resume-Brooke+Singman		{'phone': '203.394.3181', 'email': 'brooke17@bu.edu', 'name': 'Brooke Ann Singman '}
+
+timnicolresume.		{'phone': '(551)-427-4584', 'email': 'tim.nicol@villafrancowealth.com', 'name': 'Timothy J. Nicol'}
+
+Fanta+D.+Love+Resume		{'phone': '(215) 200-5682', 'email': 'Fanlove1@gmail.com', 'name': 'No Name Found'}
+
+Gerlyne+Paul+-+Resume+January+2015		{'phone': '(646) 458-1399', 'email': 'Gp801@nyu.edu', 'name': 'Gerlyne Paul '}
+
+Caroline+Birsner+Resume		{'phone': '(609) 417-7479', 'email': 'cbirsner@gmail.com', 'name': '\xe2\x80\xa2  Assisted with protocol for high-level official visits and functions, including with Secretary of State John Kerry '}
+
+Henry+Resume		{'phone': '(805) 990-3323', 'email': 'hen.halim12@berkeley.edu', 'name': 'Henry Arista Halim '}
+
+Temitayo+Odunlami_Professional+R%c3%a9sum%c3%a9		{'phone': 'No Phone Found', 'email': 'tayo.odunlami@gmail.com', 'name': 'No Name Found'}
+
+Resume+of+Shawnessa+C.+Barrientos		{'phone': '(484) 225-3928', 'email': 'Sbarr171@live.kutztown.edu', 'name': ' 2150 Johnston Drive Apt 12 '}
+
+Stephanie+Hricak%27s+Resume+		{'phone': '215-264-4835', 'email': 'SLH5546@gmail.com', 'name': 'STEPHANIE L HRICAK'}
+
+resume.		{'phone': '(352) 215-0936', 'email': 'tess.bryant@hotmail.com', 'name': 'Tess A. Bryant'}
+
+Mac+Malik		{'phone': '217-419-4738', 'email': 'malik14@illinois.edu', 'name': 'Mac Malik '}
+
+Resume+Sept+11+2010		{'phone': '215-869-4655', 'email': 'ericyslam215@yahoo.com', 'name': 'Eric Y.S. Lam'}
+
+BriaHunterResumeSpring15Final		{'phone': 'No Phone Found', 'email': 'No Email Found', 'name': 'No Name Found'}
+
+Resume		{'phone': '949-939-6770', 'email': 'daryasea@yahoo.com', 'name': 'Darya Moshref'}
+
+Michael+Felix%27s+Resume		{'phone': '909-322-1266', 'email': 'michaelaaronfelix@gmail.com', 'name': 'Michael Aaron Felix '}
+
