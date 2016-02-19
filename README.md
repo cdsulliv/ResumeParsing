@@ -4,7 +4,9 @@ Step by step process to parse resume:
 
  
 0. LibreOffice 
-Convert from Word docs to PDF using LibreOffice command line. (Script). This code is not currently in the directory - need to find it elsewhere.
+Convert from Word docs to PDF using LibreOffice command line. (Script). This code is not currently in the directory - need to find it elsewhere. 
+
+- Need to verify this step. Losing text from (Bryony+Grant) resume. Unclear if lost text is from this step or PDF to XML step.
 
 1. scripts/pdf_to_xml_v2.py 
 Convert PDF to XML.
@@ -46,9 +48,13 @@ Output: Writes new CSV file for each CSV input file
 
 
 
-utilities.py - contains a useful function to get all the files
+utilities.py - Contains one function for obtaining list of file. Can be replaced with one line of code; remove it from all files and delete
 
 Data from Outside Sources
 sports-list.txt - list of sports for identifying sports participation
 states.csv - list of states
 position_list.txt - contains the most common job titles on Glassdoor
+
+
+RA help:
+- Find examples of multi-page PDF and word docs. Are we losing information? If so, at what stage? 

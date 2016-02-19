@@ -7,14 +7,24 @@ and saves it into a csv
 __author__ = "Shreya Pandey"
 
 import re
+import os
+import io
 from bs4 import BeautifulSoup
-from utilities import getFiles 
 import csv
 import ast
 from preprocessor import preprocess 
 
+############   Set variables to local machine   #############
+xml_loc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/XML/OTHERS/"
+fileset = [xml_loc + f for f in os.listdir(xml_loc)]
+filenames = [f for f in os.listdir(xml_loc)]
+headloc = "/Users/colin/Documents/ResumeParsing/Resume-Parsing/Current/Headings"
+outputloc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Output"
+#############################################################
+
 HEAD_PATTERN = "\S[A-Z \d / : ]+$" 
-#PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", "certifications", "organizations and activites"]
+PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", "certifications", "organizations and activites", 
+                    "extracurricular activities", "leadership experience", "volunteer experience", "skills"]
 
 def getAllHeadings(filename=""):
     f = open(filename, "r")
@@ -30,32 +40,17 @@ class ParseText(object):
         self.isXml = True
 
     def findHeadings(self, content, content_list, PROBABLE_HEADINGS):
+        # headings is a list containing the headings. heading_index is a list of the starting indices of each heading.
+        # Function will guarantee the two lists are of equal length, or will throw an error.
         heading_indexes = []
         headings = []
-        #print content
         content_new = ''.join(content_list) 
-        #print "content: ", content 
         soup = BeautifulSoup(content_new)
         #soup = preprocess(p_soup)
         bolds = soup.find_all('b')
-        #print "bolds: ", bolds
         for bold in bolds:
-            #print "bold: ", bold
             line = bold.string
-            #print "heading:", line 
-            #print "heading3:", line
             if line:
-                '''print "line: ", line              
-                heading = re.match(HEAD_PATTERN, line)
-                 
-                if heading and len(line) > 5:
-                    print "heading1: ", line
-                    #print "bold:", bold
-                    headings.append(line)
-                    start_index = content.index(str(bold))
-                    heading_indexes.append(start_index)
-                '''
-                #print "!!!", line.strip()
                 prob_head = line.strip().lower() 
                 if prob_head in PROBABLE_HEADINGS and line not in headings:
                     #print "heading2: ", line
@@ -67,31 +62,21 @@ class ParseText(object):
         print "HEADING index: ", heading_indexes        
         if len(headings)<2:
             print "new method"
-            # Here is the setup. The resume should be in beautiful soup form.
             
             texts = soup.find_all("text")
             # All CAPS:
             for t in texts:
                 line = t.text
                 if line: 
-                    try: 
-                        if (line.isupper() and not re.search("GPA|G.P.A", line) and len(line)>5):    
-                            #headings = [x.text for x in texts if (x.text.isupper() and not re.search("GPA|G.P.A", x.text))]
-                            headings.append(str(line))
-                            #print "t: ", t
-                            #print "str(t): ", str(t)
-                            #print "content: ", content_new
-                            '''if str(line) in content_new:
-                                print "OK"
-                            else:
-                                print "THIS IS THE ERROR!" 
-                            '''       
-                            #start_index = content_new.index(str(t))
-                            start_index = content_new.index(str(line))
-                            #print "Start index: ",start_index    
-                            heading_indexes.append(start_index)
-                            #print "CAPS heading_indexes: ", heading_indexes
-                    except:
+                    if (line.isupper() and not re.search("GPA|G.P.A", line) and len(line)>5):
+                        # CDS: Need to correct the encoding here - .encode('ascii', 'replace')
+                        headings.append(str(line))
+                        start_index = content_new.index(str(line))
+                        heading_indexes.append(start_index)
+                        if len(heading_indexes) != len(headings):
+                            print content_new.index(str(line))
+
+                            print "Error is CAPS heading indexes (%d) doesn't match length of headings (%d)." % (len(heading_indexes), len(headings))
                         print "The error is in UPPER"
             print "CAPS headings: ", headings
             print "CAPS heading_indexes: ", heading_indexes
@@ -103,31 +88,23 @@ class ParseText(object):
                 line = t.text
                 if line:     
                     try:
-                        if re.search('___', line) and len(line) > 5:
+                        # Search for underscore used as underline, and line contains alphabet character
+                        if re.search('___', line) and len(line) > 5 and re.search('[a-zA-Z]', line):
                             headings.append(line)
-                            #headings = [x.text for x in texts if re.search('___', x.text)]
-                            #print "Underline headings: ", headings            
-                            #start_index = content_new.index(str(t))
                             start_index = content_new.index(str(line))
                             heading_indexes.append(start_index)
-                            #print "Underline heading_indexes: ", heading_indexes
+
+                        # If line doesn't contain alphabet character, take the NEXT line as header
+                        if re.search('___', line) and len(line) > 5 and not re.search('[a-zA-Z]', line):
+                            headings.append("This contains a horizontal rule with no text")
                     except:
                         print "the error is in Underline"                
+
             #print content
             print "Underline headings: ", headings
             print "Underline heading_indexes: ", heading_indexes        
-        '''if not headings:
-            self.isXml = False
-            for line in content_list:
-                #print line
-                prob_head = line.strip().lower()
-                if prob_head in PROBABLE_HEADINGS and line not in headings:
-                    print "heading3: ", line
-                    headings.append(line)
-                    start_index = content_list.index(line)
-                    heading_indexes.append(start_index)           
-        '''            
-                                      
+ 
+        assert len(heading_indexes) == len(headings)
         return heading_indexes, headings
     
     def find_bio(self, content, content_list, headings, heading_indexes):
@@ -146,13 +123,17 @@ class ParseText(object):
                 
         return None
 
-    def find_this(self, content, content_list, head, headings, heading_indexes):
+    def find_this(self, content, content_list, head, avoid, headings, heading_indexes):
+        ''' Searches for any of a list of strings (head) in headings. Returns the information associated with that heading
+                if a string from head is matched and a string from avoid is not matched.
+        '''
         if self.isXml:
             if headings:
                 for h in range(len(headings)):
                     heading = headings[h]
                     heading = heading.replace(" ", "")
-                    if head in heading.lower():
+                    # 
+                    if (any([txt in heading.lower() for txt in head]) and not any([txt in heading.lower() for txt in avoid])) :
                         start_index = heading_indexes[h]
                         if h+1 <= len(heading_indexes)-1:
                             next_index = heading_indexes[h+1]
@@ -165,7 +146,7 @@ class ParseText(object):
              if headings:
                 for h in range(len(headings)):
                     heading = headings[h]
-                    if head in heading.lower():
+                    if (any([txt in heading.lower() for txt in head]) and not any([txt in heading.lower() for txt in avoid])) :
                         start_index = heading_indexes[h]
                         if h+1 <= len(heading_indexes)-1:
                             next_index = heading_indexes[h+1]
@@ -198,186 +179,114 @@ class ParseText(object):
         with open (filename, 'w', newline='') as csvfile:
             csvwriter = csv.writer(csvfile, dialect='excel')
             csvwriter.writerow(['bio'])
-    
-def getGradDate(filename):    
-    text = file(filename, "r").read()
-    files = text.split("\n\n")
-    file_year = {}
-    for f in files[:-1]:          
-        years = []
-        file_content = f.split("\t\t")
-        #print file_content
-        file_name = file_content[0].strip()
-        #print file_name
-        #print file_content[1]
-        dic = ast.literal_eval(file_content[1])    
-        for univ in dic:
-            value = dic[univ]
-            for key in value:
-                if key == 'associated_date':
-                    date = value[key]
-                    month_year = date.split(" ")
-                    years.append(int(month_year[1]))
-
-        if 2016 in years: 
-            file_year[file_name] = 2016
-        elif 2015 in years:
-            file_year[file_name] = 2015    
-        else:
-            file_year[file_name] = None
-
-        #break    
-    return file_year
 
 if __name__ == "__main__":
-    PROBABLE_HEADINGS = getAllHeadings("set_of_headings_1.txt")
+    PROBABLE_HEADINGS = getAllHeadings(headloc+'/set_of_headings_1.txt')
     print "OLD LEN: ", len(PROBABLE_HEADINGS)
-    PROBABLE_HEADINGS.extend(getAllHeadings("set_of_headings_boston.txt"))
-    PROBABLE_HEADINGS.extend(getAllHeadings("set_of_headings_newyork.txt"))
-    PROBABLE_HEADINGS.extend(getAllHeadings("set_of_headings_other.txt"))
+    PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_boston.txt'))
+    PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_newyork.txt'))
+    PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_other.txt'))
     
     PROBABLE_HEADINGS = list(set(PROBABLE_HEADINGS))
-    print "NEW LEN: ", len(PROBABLE_HEADINGS)
-    if "education:" in PROBABLE_HEADINGS:
-        print "AYE!" 
 
-    fileset = getFiles("/home/shreya/Wharton/NEW/Other/ONLY_XML")
-    
-
-    fileSet = []
-    for f in fileset:
-        if ".xml" == f[-4:]:
-            fileSet.append(f)
-
-    #print len(fileSet)
-    for i in range(0, len(fileSet), 50):
-        if (i+50)< len(fileSet):
-            file_set = fileSet[i: i+50]
-        else:
-            file_set = fileSet[i:]   
+    # Get list of files for iteration
+    XMLSet = [f for f in fileset if f.endswith(".xml")]
+    XMLNames = [f for f in filenames if f.endswith(".xml")]
+    assert len(XMLSet) == len(XMLNames) 
         
-        try:
-            with open ("split_v" +str(i) +".csv", 'w') as csvfile:
-                csvwriter = csv.writer(csvfile, delimiter=',')
-                csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE', 'isXML?', 'LeadershipExp?', 'VolunteerExp?', 'Leadership Exp', 'Volunteer Exp', 'Grad(2015)', 'Grad(2016)', 'Grad(15/16)', 'Grad(15/16) AND (hasWorkExp) AND (hasLead/Volunt Exp)'])
+    with open ("split_v.csv", 'w') as csvfile:
+
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
         
-                file_year = getGradDate("/home/shreya/RA_ML/Resume-Parsing/Data/edu/Other/"+"out_edu_split_v"+str(i)+".txt")
-                #print i, file_year    
-                for xml_filepath in file_set:
-                    isLead = False
-                    isVolunt = False
-                    index = xml_filepath.index(".") 
-                    if "xml" in xml_filepath[index:]:
-                        #print "xml: ", xml_filepath
-                        row = []
-                        first_index =xml_filepath.rfind("/")+1
-                        last_index = xml_filepath.rfind(".")
-                        filename = xml_filepath[first_index: last_index]
-                        print "filename: ", filename
-                        #filename =  "Katie+Coyle+resume+"
-                        text_filepath = "/home/shreya/Wharton/PDF_text_new/" + filename + ".txt"
-                        #print "text_filepath: ", text_filepath
+        #print i, file_year    
+        for xml_filename, xml_filepath in zip(XMLNames, XMLSet):
+            isLead = False
+            isVolunt = False
+         
+            print "filename: ", xml_filename
 
-                        try:
-                            grad_date = file_year[filename]
-                            #print grad_date 
-                        except:
-                            grad_date = None
-                            #print filename
+            text_filepath = outputloc + xml_filename + ".txt"
+                
+            pt = ParseText(xml_filepath, text_filepath)
+            content = pt.readXmlToString()
+            content_list = pt.readXMLToList()
 
-                        grd = False
-
-                        if grad_date == 2016:
-                            grd16 = "TRUE"
-                        else:
-                            grd16 = False    
+            try: # CDS: Eventually, should remove this "try". Right now, allows you to keep going despite errors.
+                heading_indexes, headings = pt.findHeadings(content, content_list, PROBABLE_HEADINGS)
+            except:
+                headings = 'ERROR: ENCODING'
+                print "fix headings"
+            #assert len(heading_indexes) == len(headings)
 
 
-                        if grad_date == 2015:
-                            grd15 = "TRUE"
-                        else:
-                            grd15 = False        
-                            
-                        if grd15 or grd16:
-                            grd = True       
-                            
+            bio = pt.find_bio(content, content_list, headings, heading_indexes)
+            '''
+            if not bio:
+                bio = content
+            '''    
+            #print "BIO: ", bio
+            #print "HEADINGS: ",  headings
+            edu, isXml = pt.find_this(content, content_list, ["ducation"], [], headings, heading_indexes)
+            exp, isXml = pt.find_this(content, content_list, ["xperience", "mployment", 'areer', 'istory', 'rofessional', 'work'], ['bjective', 'ourse'], headings, heading_indexes)
 
-                        #xml_filepath = "/home/shreya/Wharton/NEW/Other/ONLY_XML/ Katie+Coyle+resume+.xml"    
-
-                        pt = ParseText(xml_filepath, text_filepath)
-                        content = pt.readXmlToString()
-                        content_list = pt.readXMLToList()
-                        #content_list = pt.readTextToList()     
-                        try:
-                            heading_indexes, headings = pt.findHeadings(content, content_list, PROBABLE_HEADINGS)
-                        except:
-                            print "fix headings"
-
-                        bio = pt.find_bio(content, content_list, headings, heading_indexes)
-                        '''
-                        if not bio:
-                            bio = content
-                        '''    
-                        #print "BIO: ", bio
-                        #print "HEADINGS: ",  headings
-                        edu, isXml = pt.find_this(content, content_list, "ducation", headings, heading_indexes)
-                        exp, isXml = pt.find_this(content, content_list, "xperience", headings, heading_indexes)
-                        if not exp:
-                            exp, isXml = pt.find_this(content, content_list, "mployment", headings, heading_indexes)
-                            
-
-                        #print "EDUCATION: ", edu
-                        #print "EXPERIENCE: ", exp
-                        if not exp:
-                            exp, isXml =  pt.find_this(content, content_list, "istory", headings, heading_indexes)
-                        
-                        '''if not edu:
-                            edu = content
-
-                        if not exp:
-                            exp = content    
-                        '''    
-                        leadExp, x = pt.find_this(content, content_list, "eadership", headings, heading_indexes)
-                        
-                        if leadExp:
-                            isLead  = "TRUE"
-                       
-
-                        volunExp, y = pt.find_this(content, content_list, "olunteer", headings, heading_indexes)
-                        if volunExp:
-                            isVolunt = "TRUE"
+            leadExp, x = pt.find_this(content, content_list, ["eadership", 'ommunity', 'xtracurricular', 'ctivities', 'rganizations'], [], headings, heading_indexes)
             
-                        volOrLead = False
-                        if isLead or isVolunt:
-                            volOrLead = "TRUE"
+            skills, isXml = pt.find_this(content, content_list, ["kills"], [], headings, heading_indexes)
+            languages, isXml = pt.find_this(content, content_list, ["languages", 'foreign'], ['omputer', 'programming'], headings, heading_indexes)
 
-                        if not headings:
-                            isXml = "NULL"
-                        
-                        allCriteria = False
-                        if grd and exp and volOrLead:
-                            allCriteria = "TRUE"
-                                
-                        #(2015 or 2016 grad) AND (has a career experience section) AND (has a leadership experience section or a volunteer section)
+            if leadExp:
+                isLead  = "TRUE"
+           
 
-                        row.append(filename)
-                        row.append(headings)    
-                        row.append(bio)    
-                        row.append(edu)
-                        row.append(exp)
-                        row.append(isXml)        
-                        row.append(isLead)
-                        row.append(isVolunt)
-                        row.append(leadExp)
-                        row.append(volunExp)
-                        row.append(grd15)
-                        row.append(grd16)
-                        row.append(grd)
-                        row.append(allCriteria)
-                        csvwriter.writerow(row)
-                    
-        except:
-            print i                
+            volunExp, y = pt.find_this(content, content_list, ["olunteer"], [], headings, heading_indexes)
+            if volunExp:
+                isVolunt = "TRUE"
+
+            volOrLead = False
+            if isLead or isVolunt:
+                volOrLead = "TRUE"
+
+            if not headings:
+                isXml = "NULL"
+            
+            # Write a row of data to CSV
+            row = [xml_filename, headings, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]
+
+            csvwriter.writerow(row)
+
+        csvwriter.writerow('')
+        csvwriter.writerow(['Empty count: ', '=COUNTIF(B1:B702, "[]"', '=COUNTIF(C1:C702, ""','=COUNTIF(D1:D702, ""', '=COUNTIF(E1:E702, ""', '=COUNTIF(F1:F702, ""'])
+        csvwriter.writerow(['Error count: ', '=COUNTIF(B1:B702, "*ERROR*"'])
+        
+            # First and biggest issue: 'ascii' codec can't encode characters in position 9-10: ordinal not in range(128)
+            # Something wrong with the codec, so some characters are marked as ascii errors. These seem related to some bullet points and some horizontal rules (AChoi)
+            ### Leads to different lengths beween len(heading_indexes) and len(heading). This is causing problems in May+2015+Resume.doc.
+
+            ### CDS: Bio section is returning all the png files. I think these lines must be due to pictures included in the first part of resumes. 
+            # Must exclude the png's - adds tens of thousands of rows to the output csv. Temporarily removed bio information until rectified.
+
+
+            ### Need to check that duplicates are getting removed, but NOT name duplicates. Should include all unique files called "Resume.xml", for instsance.
+            # After removing pure duplicates, only have 322 resumes. Is this right?
+
+            # For Underlined headings: also look for "___" used as horizontal rule, collect line AFTER (ZHOODA.pdf)
+                # This doesn't occur in any of the cases we currently have in XML. (ZHOODA doesn't get converted)
+
+
+        # Remove duplicate rows from CSV file, save as SectionSplit_NoDups.csv - NOT WORKING. WRITING OUT MANY LINES OF XML        
+            # About 70 lines of CSV are text, not resume entries. Example:
+            # <text top=""155"" left=""54"" width=""198"" height=""17"" font=""3""><b>(SOME TEXT WITH UNRECOGNIZED CHARACTER ENCODINGS)</b></text>
+
+#        with open('split_v.csv','r') as in_file, open('SectionSplit_NoDups.csv','w') as out_file:
+
+#            seen = set() 
+#            for line in in_file:
+ #               if line in seen: continue # skip duplicate
+
+  #              seen.add(line)
+  #              csvwriter.writerow(line)
+                         
     '''filepath = "/home/shreya/Wharton/1.xml"
     pt = ParseText(filepath)
     content = pt.readFile()     
