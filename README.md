@@ -4,7 +4,7 @@ Step by step process to parse resume:
 
  
 0. LibreOffice 
-Convert from Word docs to PDF using LibreOffice command line. (Script)
+Convert from Word docs to PDF using LibreOffice command line. (Script). This code is not currently in the directory - need to find it elsewhere.
 
 1. scripts/pdf_to_xml_v2.py 
 Convert PDF to XML.
@@ -19,6 +19,11 @@ Note: Need to run find_all_possible_headings.py and find_set_of_headings.py to c
 
 NOTE:  preprocessor.py
 Fix the preprocessor to run prior to splitting.
+
+TO DO: 
+(a) Fix the preprocessing code to run before splitting
+(b) Write a separate file to identify resume criteria AFTER splitting and other steps are complete. This should alleviate the need to comment out this file and run it multiple times.
+(c) Figure out how to use the headings files, and why we need to create a separate list. Suspect we can 
 
 3. After-Oct-2015/parsing_from_split.py
 Parse the bio section and the education section.
@@ -41,13 +46,9 @@ Output: Writes new CSV file for each CSV input file
 
 
 
+utilities.py - contains a useful function to get all the files
 
+Data from Outside Sources
 sports-list.txt - list of sports for identifying sports participation
 states.csv - list of states
 position_list.txt - contains the most common job titles on Glassdoor
-utilities.py - contains a useful function to get all the files
-
-
-Files to ignore: parsing_new_xlm.py; parsing_xml.py; pdfToText.py; split_work_exp.py (contains Shreya's old work parsing code); debugging; dummy dummy_2 dummy_3_austin (practice for educationsection); leadership_exp_sample.txt is just sample for leadership parsing; out_bio and out_edu and out_edu_2 contain sample output from the practice resumes; scraping.py was used for monster.com resume formats
-
- 
