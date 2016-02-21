@@ -1,0 +1,1402 @@
+FILENAME		{'Misc': {'deanslist': False}, 'filename': 'FILENAME'}
+
+1.Resume_ObinnaOnyenedum.xml		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': '1.Resume_ObinnaOnyenedum.xml'}
+
+1.Resume_ObinnaOnyenedum_1_.xml		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': '1.Resume_ObinnaOnyenedum_1_.xml'}
+
+1.Resume_ObinnaOnyenedum_2_.xml		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': '1.Resume_ObinnaOnyenedum_2_.xml'}
+
+1Cutter+Uhlhorn+Resume+.xml		{u'Tulane University, School of Liberal Arts  ': {'loc': 'Louisiana', 'arr_pos': 0, 'associated_date': u'August 2014', 'GPA': u'3.9'}, 'Misc': {'deanslist': False}, 'filename': '1Cutter+Uhlhorn+Resume+.xml'}
+
+2+Jordyn+Epstein+Resume+10_18_15.xml		{u'THE GEORGE WASHINGTON UNIVERSITY, School of Business                                     Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.6'}, 'Misc': {'deanslist': False}, 'filename': '2+Jordyn+Epstein+Resume+10_18_15.xml'}
+
+2013.xml		{'Misc': {'deanslist': False}, u'College of William and Mary, Williamsburg, VA': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'May 2010'}, 'filename': '2013.xml'}
+
+2014.xml		{u'Boston University College of Communication                                              Boston, MA ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': False}, u'Valencia High School                                                                            Santa Clarita, CA ': {'loc': 'California', 'arr_pos': 10, 'associated_date': u'May 2012'}, 'filename': '2014.xml'}
+
+2014_Resume.xml		{'Misc': {'deanslist': False}, 'filename': '2014_Resume.xml'}
+
+2015+Resume.xml		{'Misc': {'deanslist': False}, 'filename': '2015+Resume.xml'}
+
+4Jan16.xml		{'Misc': {'deanslist': False}, 'filename': '4Jan16.xml'}
+
+6-16+updated+resume.xml		{u'Tulane University, New Orleans, Louisiana                                                   Graduation: May 2013 ': {'loc': 'Louisiana', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': False}, 'filename': '6-16+updated+resume.xml'}
+
+_Mayowa_Omokanwaye__Resume+2015.xml		{'Misc': {'deanslist': False}, 'filename': '_Mayowa_Omokanwaye__Resume+2015.xml'}
+
+Aadesh+Resume+Final__.xml		{u'Boston University School of Management; Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Aadesh+Resume+Final__.xml'}
+
+Abbeys_resume%5b1%5d.xml		{'Misc': {'deanslist': False}, 'filename': 'Abbeys_resume%5b1%5d.xml'}
+
+Achoi_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Achoi_Resume.xml'}
+
+Adam+Crimboli+Resume+2015.3.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, Schreyer Honors College: University Park, PA 16802 ': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'filename': 'Adam+Crimboli+Resume+2015.3.xml'}
+
+ADH_RESUME_SMALLER.xml		{'Misc': {'deanslist': False}, 'filename': 'ADH_RESUME_SMALLER.xml'}
+
+Adnan+Kassim+Resume.xml		{u'The Pennsylvania State University, Smeal College of Business': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'May 2016', 'GPA': u'3.7'}, 'Misc': {'deanslist': False}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2016', 'GPA': u'3.7'}, 'filename': 'Adnan+Kassim+Resume.xml'}
+
+adrieneresume.xml		{'filename': 'adrieneresume.xml', 'Misc': {'deanslist': False}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+adrieneresume_1_.xml		{'filename': 'adrieneresume_1_.xml', 'Misc': {'deanslist': False}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+adrieneresume_2_.xml		{'filename': 'adrieneresume_2_.xml', 'Misc': {'deanslist': False}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2006'}}
+
+Aleem_A._Malik_-_Resume.xml		{u'New York University Leonard N. Stern School of Business ': {'loc': 'New York', 'arr_pos': 2, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Aleem_A._Malik_-_Resume.xml'}
+
+Alex_Duritza_BSBME2006.xml		{u'Boston University College of Engineering, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2006'}, 'Misc': {'deanslist': False}, 'filename': 'Alex_Duritza_BSBME2006.xml'}
+
+Alice+Johnson+Resume+July+2015.xml		{u'Vanderbilt University Bachelor of Arts, May 2015 ': {'loc': 'Tennessee', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.511'}, 'Misc': {'deanslist': False}, 'filename': 'Alice+Johnson+Resume+July+2015.xml'}
+
+Allan+Beckman+Resume--gd.xml		{'Misc': {'deanslist': False}, u'University of California Irvine, Irvine, CA': {'loc': 'California', 'arr_pos': 5, 'GPA': u'3.733'}, 'filename': 'Allan+Beckman+Resume--gd.xml'}
+
+Allan+Beckman+Resume--gd_1_.xml		{'Misc': {'deanslist': False}, u'University of California Irvine, Irvine, CA': {'loc': 'California', 'arr_pos': 5, 'GPA': u'3.733'}, 'filename': 'Allan+Beckman+Resume--gd_1_.xml'}
+
+Allan+Beckman+Resume--gd_2_.xml		{'Misc': {'deanslist': False}, u'University of California Irvine, Irvine, CA': {'loc': 'California', 'arr_pos': 5, 'GPA': u'3.733'}, 'filename': 'Allan+Beckman+Resume--gd_2_.xml'}
+
+Allan+G%27s+Resume+8.xml		{u'UC San Diego Extension \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 2}, 'Misc': {'deanslist': False}, u'University of California, San Diego (UCSD) \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 4}, 'filename': 'Allan+G%27s+Resume+8.xml'}
+
+Allan+G%27s+Resume+8_1_.xml		{u'UC San Diego Extension \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 2}, 'Misc': {'deanslist': False}, u'University of California, San Diego (UCSD) \u2013 La Jolla, California ': {'loc': 'California', 'arr_pos': 4}, 'filename': 'Allan+G%27s+Resume+8_1_.xml'}
+
+AllenDan..xml		{u'University of Illinois, Urbana-Champaign ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'2.97'}, 'Misc': {'deanslist': False}, 'filename': 'AllenDan..xml'}
+
+Alvaro+Castillo+Management+Resume+2013.xml		{u'Lehigh Carbon Community College Schnecksville, PA': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'January 2007'}, u'Pennsylvania State University Center Valley, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Alvaro+Castillo+Management+Resume+2013.xml'}
+
+Alyssa+Harding+R.xml		{u'University of Florida - Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 1, 'associated_date': u'Dec 2013'}, 'filename': 'Alyssa+Harding+R.xml', 'Misc': {'deanslist': False}, u'DeLand High School - DeLand, FL - August 2004 to May 2008 ': {'loc': 'Florida', 'arr_pos': 21, 'associated_date': u'May 2008'}, u"country's most coveted universities, University of Florida. ": {'loc': 'Florida', 'arr_pos': 26}}
+
+AMFB_Resumee.xml		{'Misc': {'deanslist': False}, 'filename': 'AMFB_Resumee.xml'}
+
+Andrew+Edbert+Wijaya+-+Resume.xml		{u'Boston University School of Management; Boston, MA                         ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'January 2015', 'GPA': u'3.06'}, 'Misc': {'deanslist': False}, 'filename': 'Andrew+Edbert+Wijaya+-+Resume.xml'}
+
+Andrew+Weber+Resume+1-31-2015.xml		{'filename': 'Andrew+Weber+Resume+1-31-2015.xml', 'Misc': {'deanslist': False}, u'Cornell University, Ithaca, NY ': {'loc': 'New York', 'arr_pos': 3}}
+
+Aneesa_Noorani_Resume.xml		{u'Yale Summer Session, Deusto University, Bilbao, Spain, GPA: 4.0 ': {'loc': 'Connecticut', 'arr_pos': 2, 'associated_date': u'July 2013', 'GPA': u'4.0'}, 'Misc': {'deanslist': False}, u'Harvard T.H. Chan School of Public Health, Summer Epidemiology Program Participant ': {'loc': 'Connecticut', 'arr_pos': 23, 'associated_date': u'July 2015'}, u'Yale University, B.S. Psychology, concentration in Neuroscience, 2012 \u2013 Present; GPA: 3.56/4.0      Exp. May 2016 ': {'loc': 'Connecticut', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.56'}, 'filename': 'Aneesa_Noorani_Resume.xml'}
+
+Anesia%27s+Resume...xml		{'Misc': {'deanslist': False}, u'Trinity College Dean\u2019s Award, Fall 2008- Present': {'arr_pos': 7}, u'Trinity Washington University. Washington, D.C': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.7'}, 'filename': 'Anesia%27s+Resume...xml'}
+
+Angel+Resume.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA.   ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'filename': 'Angel+Resume.xml'}
+
+Angel+Resume_1_.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA.   ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'filename': 'Angel+Resume_1_.xml'}
+
+AnishaDesaiResume.xml		{u'Founded a startup called Flock in which we are purely a mentorship platform for career advice. Along with another UC ': {'arr_pos': 19, 'associated_date': u'Dec 2014'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.92'}, 'Misc': {'deanslist': False}, u'Mission San Jose High School ': {'arr_pos': 4, 'associated_date': u'June 2011', 'GPA': u'3.92'}, 'filename': 'AnishaDesaiResume.xml'}
+
+AnishaDesaiResume_1_.xml		{u'Founded a startup called Flock in which we are purely a mentorship platform for career advice. Along with another UC ': {'arr_pos': 19, 'associated_date': u'Dec 2014'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.92'}, 'Misc': {'deanslist': False}, u'Mission San Jose High School ': {'arr_pos': 4, 'associated_date': u'June 2011', 'GPA': u'3.92'}, 'filename': 'AnishaDesaiResume_1_.xml'}
+
+Anthony+Santo+Official+Resume.xml		{'filename': 'Anthony+Santo+Official+Resume.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.3'}}
+
+Anthony+Santo+Official+Resume_1_.xml		{'filename': 'Anthony+Santo+Official+Resume_1_.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.3'}}
+
+AnthonyWestrenUpdatedResume_2014_Final.xml		{'Misc': {'deanslist': False}, 'filename': 'AnthonyWestrenUpdatedResume_2014_Final.xml'}
+
+AnthonyWestrenUpdatedResume_2014_Final_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'AnthonyWestrenUpdatedResume_2014_Final_1_.xml'}
+
+Araujo%2c+Jennifer.xml		{'Misc': {'deanslist': False}, 'filename': 'Araujo%2c+Jennifer.xml'}
+
+Argeros%2c+Nicole.xml		{'Misc': {'deanslist': False}, 'filename': 'Argeros%2c+Nicole.xml'}
+
+Ashley+Morrison+-+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Ashley+Morrison+-+Resume.xml'}
+
+Ashley+Morrison+-+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Ashley+Morrison+-+Resume_1_.xml'}
+
+Aug2007+Resume.xml		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': False}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 2}, 'filename': 'Aug2007+Resume.xml'}
+
+Austin+Bloom%27s+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Austin+Bloom%27s+Resume.xml'}
+
+Austin+Bloom%27s+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Austin+Bloom%27s+Resume_1_.xml'}
+
+Austin+Bloom%27s+Resume_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Austin+Bloom%27s+Resume_2_.xml'}
+
+Austin+Bloom%27s+Resume_3_.xml		{'Misc': {'deanslist': False}, 'filename': 'Austin+Bloom%27s+Resume_3_.xml'}
+
+Austin+Bloom%27s+Resume_4_.xml		{'Misc': {'deanslist': False}, 'filename': 'Austin+Bloom%27s+Resume_4_.xml'}
+
+AustinSolomonResume.xml		{'Misc': {'deanslist': False}, 'filename': 'AustinSolomonResume.xml'}
+
+AustinSolomonResume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'AustinSolomonResume_1_.xml'}
+
+Aziz-Mussilimov-Resume-2015-SEPTEMBER-.xml		{'Misc': {'deanslist': False}, 'filename': 'Aziz-Mussilimov-Resume-2015-SEPTEMBER-.xml', u'COLUMBIA UNIVERSITY, School of Continuing Education                                                                                                             New York, NY ': {'loc': 'New York', 'arr_pos': 7, 'associated_date': u'December 2011', 'GPA': u'3.67'}, u'UNIVERSITY OF CALIFORNIA, BERKELEY, College of Engineering                                                                                          Berkeley, CA ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.67'}, u'KIMEP UNIVERSITY, Bang College of Business                                                                                                                          Almaty, Kazakhstan ': {'arr_pos': 12, 'associated_date': u'May 2010', 'GPA': u'3.81'}}
+
+BahjaSofiane-Resume.xml		{u'University of Manchester, Manchester, UK                                                                           Jan 2014 \u2013 June 2014 ': {'arr_pos': 4, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'BahjaSofiane-Resume.xml', u'Case Western Reserve University (CWRU), Cleveland, Ohio                                                               May 2016  ': {'loc': 'Ohio', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.0'}}
+
+Baldonieri+Maria+Resume+11+4+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'Baldonieri+Maria+Resume+11+4+2015.xml'}
+
+baltazarwynona_resume.xml		{'Misc': {'deanslist': False}, u'University of California at Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0}, 'filename': 'baltazarwynona_resume.xml'}
+
+baltazarwynona_resume_1_.xml		{'Misc': {'deanslist': False}, u'University of California at Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0}, 'filename': 'baltazarwynona_resume_1_.xml'}
+
+baltazarwynona_resume_2_.xml		{'Misc': {'deanslist': False}, u'University of California at Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0}, 'filename': 'baltazarwynona_resume_2_.xml'}
+
+BDinmore+Resume+11-2013.xml		{'Misc': {'deanslist': False}, u'Bloomsburg University of Pennsylvania, Bloomsburg, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.34'}, 'filename': 'BDinmore+Resume+11-2013.xml'}
+
+BDinmore+Resume+11-2013_1_.xml		{'Misc': {'deanslist': False}, u'Bloomsburg University of Pennsylvania, Bloomsburg, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.34'}, 'filename': 'BDinmore+Resume+11-2013_1_.xml'}
+
+Beecham_Alexander_Resume.xml		{u'University of Notre Dame': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.2'}, u'High School Diploma ': {'arr_pos': 26}, 'Misc': {'deanslist': False}, u'Ransom Everglades High School, Miami FL': {'loc': 'Florida', 'arr_pos': 20, 'associated_date': u'May 2011'}, 'filename': 'Beecham_Alexander_Resume.xml'}
+
+BenCatheyResume.xml		{'Misc': {'deanslist': False}, 'filename': 'BenCatheyResume.xml'}
+
+BenCatheyResume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'BenCatheyResume_1_.xml'}
+
+BGarcia_Resume+Fall+2013.xml		{'Misc': {'deanslist': False}, 'filename': 'BGarcia_Resume+Fall+2013.xml'}
+
+Billy+Goodlett+Resume.xml		{'Misc': {'deanslist': False}, u'Harrisburg Area Community College, Harrisburg PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2015'}, u'Pennsylvania State University, Capitol College, Middletown, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'filename': 'Billy+Goodlett+Resume.xml'}
+
+BolshakovA+Merged+CL+and+Resume.xml		{u'Glenda Dawson High School, Pearland, TX (2007-2011) ': {'loc': 'Texas', 'arr_pos': 5}, 'Misc': {'deanslist': False}, u'Rice University, Houston, TX (2011-2015) ': {'loc': 'Texas', 'arr_pos': 1}, 'filename': 'BolshakovA+Merged+CL+and+Resume.xml'}
+
+Brett+Lyons+Design+and+Analysis+Engineer+CL+and+Resume.xml		{'filename': 'Brett+Lyons+Design+and+Analysis+Engineer+CL+and+Resume.xml', 'Misc': {'deanslist': False}, u'Boston University College of Engineering                                                                 Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2010'}}
+
+BriaHunterResumeSpring15Final.xml		{'Misc': {'deanslist': False}, 'filename': 'BriaHunterResumeSpring15Final.xml'}
+
+BriaHunterResumeSpring15Final_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'BriaHunterResumeSpring15Final_1_.xml'}
+
+brinson_resume.xml		{u'B.Sc., Electrical Engineering, University of Florida. ': {'loc': 'Florida', 'arr_pos': 4, 'GPA': u'3.07'}, 'Misc': {'deanslist': False}, u'B.Sc., Computer Engineering, University of Florida. ': {'loc': 'Florida', 'arr_pos': 5, 'GPA': u'3.07'}, 'filename': 'brinson_resume.xml'}
+
+BrittanyLuntz_Resume.xml		{u'Washington University in St. Louis, St. Louis, MO   ': {'loc': 'Missouri', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.51'}, u'University of Cape Town, Cape Town, South Africa   ': {'arr_pos': 10, 'associated_date': u'June 2015'}, 'Misc': {'deanslist': False}, 'filename': 'BrittanyLuntz_Resume.xml'}
+
+Bryan+P.+Gavrushenko+Resume.xml		{u'The Pennsylvania State University State College, PA: Bachelor of Arts - Economics 2011- Dec. 2014 ': {'loc': 'Pennsylvania', 'arr_pos': 0}, u'International School of Lausanne Lausanne, Switzerland - International Baccalaureate Diploma (1995-': {'arr_pos': 5}, 'Misc': {'deanslist': False}, 'filename': 'Bryan+P.+Gavrushenko+Resume.xml', u'Almaty International School Almaty, Kazakhstan ': {'arr_pos': 8}, u'Villanova University Villanova, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 2}}
+
+Btatem.xml		{'Misc': {'deanslist': False}, 'filename': 'Btatem.xml'}
+
+Burbanks-Ivey+Resume.xml		{u'Tantur Ecumenical Institute/Bethlehem University, Jerusalem, Israel                                                                January 2014-May 2014 ': {'arr_pos': 7, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, u'University of Notre Dame, Notre Dame, IN                                                                                                  Bachelor of Arts -May 2015 ': {'loc': 'Indiana', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.4'}, 'filename': 'Burbanks-Ivey+Resume.xml'}
+
+Burbanks-Ivey+Resume_1_.xml		{u'Tantur Ecumenical Institute/Bethlehem University, Jerusalem, Israel                                                                January 2014-May 2014 ': {'arr_pos': 7, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, u'University of Notre Dame, Notre Dame, IN                                                                                                  Bachelor of Arts -May 2015 ': {'loc': 'Indiana', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.4'}, 'filename': 'Burbanks-Ivey+Resume_1_.xml'}
+
+Burch%2cMeka_Resume3.xml		{'filename': 'Burch%2cMeka_Resume3.xml', 'Misc': {'deanslist': False}, u'Trinity Washington University, Washington, DC': {'loc': 'District of Columbia', 'arr_pos': 2}}
+
+C_Gunther_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'C_Gunther_Resume.xml'}
+
+Caroline+Birsner+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Caroline+Birsner+Resume.xml'}
+
+CarterChelseyResume8302012.xml		{'Misc': {'deanslist': False}, 'filename': 'CarterChelseyResume8302012.xml'}
+
+CarterChelseyResume8302012_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'CarterChelseyResume8302012_1_.xml'}
+
+Cassandra+Carroll+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Cassandra+Carroll+Resume.xml'}
+
+Chang+Matthew+Resume.xml		{u'New York University, College of Arts and Science': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2004'}, 'Misc': {'deanslist': False}, 'filename': 'Chang+Matthew+Resume.xml'}
+
+CharlesHarryResume.xml		{'Misc': {'deanslist': False}, 'filename': 'CharlesHarryResume.xml'}
+
+CharlesHarryResume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'CharlesHarryResume_1_.xml'}
+
+CharlesHarryResume_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'CharlesHarryResume_2_.xml'}
+
+Chen+Resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Chen+Resume+.xml'}
+
+Chenxi+Li+resume+0825+new.xml		{'Misc': {'deanslist': False}, 'filename': 'Chenxi+Li+resume+0825+new.xml'}
+
+Chenxi+Li+resume+10241.xml		{'Misc': {'deanslist': False}, u'THE GEORGE WASHINGTON UNIVERSITY, School of Business ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.83'}, 'filename': 'Chenxi+Li+resume+10241.xml'}
+
+ChrisMcGee_CV_2.12.15.xml		{u'\u2022  New York University 2006': {'loc': 'New York', 'arr_pos': 3}, 'Misc': {'deanslist': False}, 'filename': 'ChrisMcGee_CV_2.12.15.xml'}
+
+Christopher+Lewis+Professional+Resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Christopher+Lewis+Professional+Resume+.xml', u'Iona Preparatory School, New Rochelle, New York.   ': {'loc': 'New York', 'arr_pos': 15, 'associated_date': u'May 2008'}, u'High School Diploma. ': {'arr_pos': 16, 'associated_date': u'May 2008'}, u'The George Washington University, Washington D.C.   ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2014'}}
+
+Christopher+P.+Winer+Business+Resume--gd.xml		{'Misc': {'deanslist': False}, 'filename': 'Christopher+P.+Winer+Business+Resume--gd.xml'}
+
+Chronological+resume+CamauraScott.xml		{'Misc': {'deanslist': False}, 'filename': 'Chronological+resume+CamauraScott.xml', u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 2, 'associated_date': u'December 2014'}, u'Florida Agricultural and Mechanical University, Tallahassee, FL ': {'loc': 'Florida', 'arr_pos': 7, 'associated_date': u'December 2011'}}
+
+Chronological+Resume.xml		{'Misc': {'deanslist': False}, u'University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'GPA': u'3.15'}, u'The Pennsylvania State University   ': {'loc': 'Pennsylvania', 'arr_pos': 3, 'GPA': u'3.15'}, 'filename': 'Chronological+Resume.xml'}
+
+Claims+Assistant.xml		{u'High School Diploma': {'arr_pos': 2}, 'Misc': {'deanslist': False}, u'New York University': {'loc': 'New York', 'arr_pos': 1}, 'filename': 'Claims+Assistant.xml'}
+
+Cody+Anderson+Resume+920.xml		{'Misc': {'deanslist': False}, 'filename': 'Cody+Anderson+Resume+920.xml'}
+
+Cody+Anderson+Resume+920_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Cody+Anderson+Resume+920_1_.xml'}
+
+Cody+Anderson+Resume+920_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Cody+Anderson+Resume+920_2_.xml'}
+
+Crizelle+Panis+Resume.xml		{u'University of California, Santa Barbara': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Crizelle+Panis+Resume.xml'}
+
+Crizelle+Panis+Resume_1_.xml		{u'University of California, Santa Barbara': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Crizelle+Panis+Resume_1_.xml'}
+
+Cryshanna_Crawford_2015.xml		{u'Bachelor of Science Degree, Indiana University of Pennsylvania                                               Pending      ': {'loc': 'Indiana', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Cryshanna_Crawford_2015.xml'}
+
+Cucinotta_Resume+copy.xml		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'2.8'}, 'Misc': {'deanslist': False}, u'University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 1, 'GPA': u'2.8'}, 'filename': 'Cucinotta_Resume+copy.xml'}
+
+CURRENT+CSpatz+Resume.xml		{'Misc': {'deanslist': False}, u'B.S.B.A. Kutztown University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.26'}, 'filename': 'CURRENT+CSpatz+Resume.xml'}
+
+Current+Resume+2007.xml		{u'           The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'Misc': {'deanslist': False}, 'filename': 'Current+Resume+2007.xml'}
+
+Current+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Current+Resume.xml'}
+
+CV-Resume.xml		{'Misc': {'deanslist': False}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}, 'filename': 'CV-Resume.xml'}
+
+CV-Resume_1_.xml		{'Misc': {'deanslist': False}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}, 'filename': 'CV-Resume_1_.xml'}
+
+CV-Resume_2_.xml		{'Misc': {'deanslist': False}, u'The Joint Program Between Columbia University and The Jewish Theological Seminary ': {'arr_pos': 3, 'associated_date': u'May 2014', 'GPA': u'3.37'}, 'filename': 'CV-Resume_2_.xml'}
+
+CV.xml		{'Misc': {'deanslist': False}, 'filename': 'CV.xml'}
+
+cv_4.xml		{'Misc': {'deanslist': False}, 'filename': 'cv_4.xml'}
+
+CV_Ziquan+Wang.xml		{'Misc': {'deanslist': False}, u'\u2022 Boston University, Bachelor of Arts in Economics and Mathematics                                 Sept. 2015 ': {'arr_pos': 0}, 'filename': 'CV_Ziquan+Wang.xml'}
+
+CWienerResume+_3_.xml		{u'West Chester University of Pennsylvania, West Chester, PA ': {'loc': 'Delaware', 'arr_pos': 2, 'associated_date': u'August 2015', 'GPA': u'3.3'}, u'  AACSB Accredited Business School Program ': {'loc': 'Delaware', 'arr_pos': 7, 'associated_date': u'August 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, u'Delaware County Community College, Media, PA ': {'loc': 'Delaware', 'arr_pos': 10, 'associated_date': u'August 2012'}, 'filename': 'CWienerResume+_3_.xml'}
+
+CWienerResume+_3__1_.xml		{u'West Chester University of Pennsylvania, West Chester, PA ': {'loc': 'Delaware', 'arr_pos': 2, 'associated_date': u'August 2015', 'GPA': u'3.3'}, u'  AACSB Accredited Business School Program ': {'loc': 'Delaware', 'arr_pos': 7, 'associated_date': u'August 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, u'Delaware County Community College, Media, PA ': {'loc': 'Delaware', 'arr_pos': 10, 'associated_date': u'August 2012'}, 'filename': 'CWienerResume+_3__1_.xml'}
+
+CWienerResume+_3__2_.xml		{u'West Chester University of Pennsylvania, West Chester, PA ': {'loc': 'Delaware', 'arr_pos': 2, 'associated_date': u'August 2015', 'GPA': u'3.3'}, u'  AACSB Accredited Business School Program ': {'loc': 'Delaware', 'arr_pos': 7, 'associated_date': u'August 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, u'Delaware County Community College, Media, PA ': {'loc': 'Delaware', 'arr_pos': 10, 'associated_date': u'August 2012'}, 'filename': 'CWienerResume+_3__2_.xml'}
+
+DA_Resume.xml		{'Misc': {'deanslist': False}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2012'}, 'filename': 'DA_Resume.xml'}
+
+DamonMcLeanResume.xml		{u'Princeton University ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'DamonMcLeanResume.xml'}
+
+DamonMcLeanResume_1_.xml		{u'Princeton University ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'DamonMcLeanResume_1_.xml'}
+
+DamonMcLeanResume_2_.xml		{u'Princeton University ': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'DamonMcLeanResume_2_.xml'}
+
+DanHarrisResumeF06.xml		{'Misc': {'deanslist': False}, 'filename': 'DanHarrisResumeF06.xml'}
+
+Danielle+Beecher+Resume.xml		{u'  Lock Haven University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Danielle+Beecher+Resume.xml'}
+
+Danielle_Morales_2015_CV.xml		{u'Moorpark College, Moorpark, CA': {'loc': 'California', 'arr_pos': 3}, u'University of California Berkeley, Berkeley, CA': {'loc': 'California', 'arr_pos': 6}, u'Ventura College, Ventura, CA': {'loc': 'California', 'arr_pos': 9}, 'Misc': {'deanslist': False}, 'filename': 'Danielle_Morales_2015_CV.xml', u'College of the Canyons, Valencia, CA': {'loc': 'California', 'arr_pos': 12}}
+
+Danielle_Morales_2015_CV_1_.xml		{u'Moorpark College, Moorpark, CA': {'loc': 'California', 'arr_pos': 3}, u'University of California Berkeley, Berkeley, CA': {'loc': 'California', 'arr_pos': 6}, u'Ventura College, Ventura, CA': {'loc': 'California', 'arr_pos': 9}, 'Misc': {'deanslist': False}, 'filename': 'Danielle_Morales_2015_CV_1_.xml', u'College of the Canyons, Valencia, CA': {'loc': 'California', 'arr_pos': 12}}
+
+DaniilBorisovSoftwareDeveloperResume.xml		{'Misc': {'deanslist': False}, 'filename': 'DaniilBorisovSoftwareDeveloperResume.xml'}
+
+Danny+K.P.++Yoon_Resume_.xml		{'Misc': {'deanslist': False}, u'The Julliard School': {'loc': 'New York', 'arr_pos': 7}, u'New York University,  Preston Robert  Tisch  Center for  Hospitality, Tourism,': {'loc': 'New York', 'arr_pos': 0, 'GPA': u'3.5'}, 'filename': 'Danny+K.P.++Yoon_Resume_.xml'}
+
+David+Ly+Resume.xml		{'Misc': {'deanslist': False}, u' University of California, Irvine \u2013\u2013 June 2015': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015'}, 'filename': 'David+Ly+Resume.xml'}
+
+David+Ly+Resume_1_.xml		{'Misc': {'deanslist': False}, u' University of California, Irvine \u2013\u2013 June 2015': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015'}, 'filename': 'David+Ly+Resume_1_.xml'}
+
+Dayron_Estevez_Resume.xml		{u'University of Florida: Warrington College of Business                                                     ': {'loc': 'Florida', 'arr_pos': 0, 'GPA': u'3.32'}, 'Misc': {'deanslist': False}, 'filename': 'Dayron_Estevez_Resume.xml'}
+
+Deh+Jun+Tzou+Resume+2015+_recent_.xml		{'Misc': {'deanslist': False}, 'filename': 'Deh+Jun+Tzou+Resume+2015+_recent_.xml'}
+
+Dela_Cruz_R%c3%a9sum%c3%a9.xml		{u'University of Notre Dame, Notre Dame, IN                                           2012-2015 ': {'loc': 'Indiana', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Dela_Cruz_R%c3%a9sum%c3%a9.xml'}
+
+DEXTER+DAVIS+Sr.+Year+Resume.xml		{'Misc': {'deanslist': False}, u'University of Pennsylvania, Philadelphia, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.0'}, 'filename': 'DEXTER+DAVIS+Sr.+Year+Resume.xml'}
+
+DianeStarrLiu_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'DianeStarrLiu_Resume.xml'}
+
+DMOORE+Resume+_Updated_.xml		{'filename': 'DMOORE+Resume+_Updated_.xml', 'Misc': {'deanslist': False}, u'Medill School of Journalism, Northwestern ': {'arr_pos': 0}}
+
+DouglasM+Resume+6-15.xml		{u'John Brown University Graduated: 2015': {'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'DouglasM+Resume+6-15.xml'}
+
+Drew_Padilla_Resume_G.xml		{'Misc': {'deanslist': False}, 'filename': 'Drew_Padilla_Resume_G.xml'}
+
+E.HEARD-Career_Builder.xml		{'Misc': {'deanslist': False}, 'filename': 'E.HEARD-Career_Builder.xml'}
+
+Eagleburger_resume_12_25_14.xml		{'Misc': {'deanslist': False}, u'Spokane Community College,': {'loc': 'Washington', 'arr_pos': 7, 'GPA': u'3.7'}, u'Eastern Washington University,': {'loc': 'Washington', 'arr_pos': 0, 'GPA': u'3.5'}, 'filename': 'Eagleburger_resume_12_25_14.xml'}
+
+EB_resume_2015.xml		{'filename': 'EB_resume_2015.xml', 'Misc': {'deanslist': False}, u'The University of Chicago': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2013'}}
+
+Edgar+G.+Sa%c2%b4nchez+Resume+_General_.xml		{'Misc': {'deanslist': False}, 'filename': 'Edgar+G.+Sa%c2%b4nchez+Resume+_General_.xml'}
+
+EE++Resume+2.xml		{'Misc': {'deanslist': False}, u'Northeastern University, Boston, MA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.58'}, 'filename': 'EE++Resume+2.xml'}
+
+Eileen+Ly%27s+Online+Resume.xml		{'Misc': {'deanslist': False}, u'CHINESE UNIVERSITY OF HONG KONG, HONG KONG': {'arr_pos': 8, 'associated_date': u'Dec 2013'}, u'BROWN UNIVERSITY, PROVIDENCE, RI': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'filename': 'Eileen+Ly%27s+Online+Resume.xml'}
+
+Elizabeth+Horowicz+Resume.xml		{'Misc': {'deanslist': False}, u'Vanderbilt University  ': {'loc': 'Tennessee', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.1'}, 'filename': 'Elizabeth+Horowicz+Resume.xml'}
+
+Elton+A+Silveira.xml		{u'The Pennsylvania State University, University Park, Pennsylvania                                                Expected graduation: Fall 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'2.96'}, u'College of Engineering: Bachelor of Science in Industrial Engineering ': {'arr_pos': 1, 'GPA': u'2.96'}, 'Misc': {'deanslist': False}, 'filename': 'Elton+A+Silveira.xml'}
+
+Elton+A+Silveira_1_.xml		{u'The Pennsylvania State University, University Park, Pennsylvania                                                Expected graduation: Fall 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'2.96'}, u'College of Engineering: Bachelor of Science in Industrial Engineering ': {'arr_pos': 1, 'GPA': u'2.96'}, 'Misc': {'deanslist': False}, 'filename': 'Elton+A+Silveira_1_.xml'}
+
+Elton+A+Silveira_2_.xml		{u'The Pennsylvania State University, University Park, Pennsylvania                                                Expected graduation: Fall 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'2.96'}, u'College of Engineering: Bachelor of Science in Industrial Engineering ': {'arr_pos': 1, 'GPA': u'2.96'}, 'Misc': {'deanslist': False}, 'filename': 'Elton+A+Silveira_2_.xml'}
+
+Emanuel+Samuel+Resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Emanuel+Samuel+Resume+.xml'}
+
+Emily+Feldman+Final+Resume+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'Emily+Feldman+Final+Resume+2015.xml'}
+
+Emily+Feldman+Final+Resume+2015_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Emily+Feldman+Final+Resume+2015_1_.xml'}
+
+emilyturner_resume.xml		{'Misc': {'deanslist': False}, u'University of Illinois Champaign-Urbana | Class of 2015': {'loc': 'Illinois', 'arr_pos': 0}, 'filename': 'emilyturner_resume.xml'}
+
+English+Resume+2014v3.xml		{'Misc': {'deanslist': False}, 'filename': 'English+Resume+2014v3.xml'}
+
+Eric+Giryluk+Resume.xml		{u'Indiana University of Pennsylvania,  Indiana PA ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, 'filename': 'Eric+Giryluk+Resume.xml'}
+
+ericarobertsresume.xml		{'Misc': {'deanslist': False}, 'filename': 'ericarobertsresume.xml'}
+
+ERV_CV.xml		{'Misc': {'deanslist': False}, u'Warrington College of Business Administration, University of Florida ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.57'}, 'filename': 'ERV_CV.xml'}
+
+ERV_CV_1_.xml		{'Misc': {'deanslist': False}, u'Warrington College of Business Administration, University of Florida ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.57'}, 'filename': 'ERV_CV_1_.xml'}
+
+ES_Resume_2014.xml		{'Misc': {'deanslist': False}, 'filename': 'ES_Resume_2014.xml'}
+
+EthanMLiu.xml		{'Misc': {'deanslist': False}, u'Boston University College of Engineering ': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.57'}, 'filename': 'EthanMLiu.xml'}
+
+Eva+Abeniacar+Resume+Sept+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'Eva+Abeniacar+Resume+Sept+2015.xml'}
+
+Eva+Swanson+resume+2..xml		{u'College of William and Mary': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.49'}, u'Virginia Commonwealth University': {'loc': 'Virginia', 'arr_pos': 4, 'associated_date': u'May 2011', 'GPA': u'3.95'}, 'Misc': {'deanslist': False}, 'filename': 'Eva+Swanson+resume+2..xml'}
+
+Evan+T.+DiPillo+Resume.xml		{u'The Pennsylvania State University \u2013 University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.12'}, 'Misc': {'deanslist': False}, 'filename': 'Evan+T.+DiPillo+Resume.xml'}
+
+Evan+T.+DiPillo+Resume_1_.xml		{u'The Pennsylvania State University \u2013 University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.12'}, 'Misc': {'deanslist': False}, 'filename': 'Evan+T.+DiPillo+Resume_1_.xml'}
+
+Evan+T.+DiPillo+Resume_2_.xml		{u'The Pennsylvania State University \u2013 University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.12'}, 'Misc': {'deanslist': False}, 'filename': 'Evan+T.+DiPillo+Resume_2_.xml'}
+
+Fakhar+Singhera+-+Resume.xml		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.06'}, 'Misc': {'deanslist': False}, 'filename': 'Fakhar+Singhera+-+Resume.xml'}
+
+Fakhar+Singhera+-+Resume_1_.xml		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.06'}, 'Misc': {'deanslist': False}, 'filename': 'Fakhar+Singhera+-+Resume_1_.xml'}
+
+Fakhar+Singhera+-+Resume_2_.xml		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.06'}, 'Misc': {'deanslist': False}, 'filename': 'Fakhar+Singhera+-+Resume_2_.xml'}
+
+Fall+2015+Resume.xml		{'filename': 'Fall+2015+Resume.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.84'}}
+
+FanninResume.xml		{'Misc': {'deanslist': False}, 'filename': 'FanninResume.xml'}
+
+FanninResume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'FanninResume_1_.xml'}
+
+FanninResume_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'FanninResume_2_.xml'}
+
+Fanta+D.+Love+Resume.xml		{u'The Pennsylvania State University, University Park, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.10'}, 'Misc': {'deanslist': False}, 'filename': 'Fanta+D.+Love+Resume.xml'}
+
+fendysoegionoresume.xml		{u'University of California, Berkeley                                                                   Expected May 2016                                                                                                                                           ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'fendysoegionoresume.xml', u'Diablo Valley College, Pleasant Hill, CA                                                 Fall 2011 \u2013 Spring 2014 ': {'loc': 'California', 'arr_pos': 3}}
+
+fendysoegionoresume_1_.xml		{u'University of California, Berkeley                                                                   Expected May 2016                                                                                                                                           ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'fendysoegionoresume_1_.xml', u'Diablo Valley College, Pleasant Hill, CA                                                 Fall 2011 \u2013 Spring 2014 ': {'loc': 'California', 'arr_pos': 3}}
+
+FINAL+resume.xml		{u'Dean\u2019s List at Boston University since Spring Semester 2008': {'arr_pos': 7}, u'Boston University School of Management; Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.43'}, 'Misc': {'deanslist': False}, 'filename': 'FINAL+resume.xml'}
+
+final+resume_1_.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.2'}, 'filename': 'final+resume_1_.xml'}
+
+FINALRESUME..xml		{'Misc': {'deanslist': False}, 'filename': 'FINALRESUME..xml'}
+
+Full+Time+Position+Interview.xml		{u'University of California Los Angeles': {'loc': 'California', 'arr_pos': 2, 'associated_date': u'Dec 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Full+Time+Position+Interview.xml'}
+
+Full+Time+Position+Interview_1_.xml		{u'University of California Los Angeles': {'loc': 'California', 'arr_pos': 2, 'associated_date': u'Dec 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Full+Time+Position+Interview_1_.xml'}
+
+Garth+N+P+Coventry.xml		{u'Wiltshire College, Trowbridge, England ': {'arr_pos': 20, 'associated_date': u'July 2001'}, 'Misc': {'deanslist': False}, u'Georgia Perimeter College, Atlanta, GA ': {'loc': 'Georgia', 'arr_pos': 11, 'associated_date': u'Dec 2008', 'GPA': u'3.41'}, 'filename': 'Garth+N+P+Coventry.xml'}
+
+General+Resume+only+HAMIDI.xml		{u'Arizona State University, Consortium for Science, Policy, and Outcomes ': {'loc': 'Arizona', 'arr_pos': 6, 'associated_date': u'June 2014'}, u'The Johns Hopkins University, Bloomberg School of Public Health ': {'loc': 'Arizona', 'arr_pos': 16, 'associated_date': u'June 2013'}, u'Arizona State University, Barrett Honors College, Cum Laude ': {'loc': 'Arizona', 'arr_pos': 45}, 'Misc': {'deanslist': False}, 'filename': 'General+Resume+only+HAMIDI.xml'}
+
+General+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'General+Resume.xml'}
+
+GEOG+resume+aug+11.xml		{'Misc': {'deanslist': False}, 'filename': 'GEOG+resume+aug+11.xml'}
+
+Gerlyne+Paul+-+Resume+January+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'Gerlyne+Paul+-+Resume+January+2015.xml'}
+
+Ghazal+Amar+Resume+ME.xml		{u'Rice University, Houston, TX ': {'loc': 'Texas', 'arr_pos': 1, 'GPA': u'3.9'}, 'Misc': {'deanslist': False}, 'filename': 'Ghazal+Amar+Resume+ME.xml'}
+
+Giancarlo_Garbagnati_Resume.xml		{'Misc': {'deanslist': False}, u'University of California, San Diego (UCSD)': {'loc': 'California', 'arr_pos': 1, 'GPA': u'3.35'}, 'filename': 'Giancarlo_Garbagnati_Resume.xml'}
+
+Giang+Ngo.xml		{u'Pennsylvania State University                                                                                                     May 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.50'}, 'filename': 'Giang+Ngo.xml', 'Misc': {'deanslist': False}, u'Harrisburg Area Community College                                                                                          May 2013       ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2013'}}
+
+Giang+Ngo_1_.xml		{u'Pennsylvania State University                                                                                                     May 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.50'}, 'filename': 'Giang+Ngo_1_.xml', 'Misc': {'deanslist': False}, u'Harrisburg Area Community College                                                                                          May 2013       ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2013'}}
+
+Grace+Kenneally+Resume.xml		{'filename': 'Grace+Kenneally+Resume.xml', u'School of Advanced International Studies (SAIS) ': {'loc': 'Louisiana', 'arr_pos': 3, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, u'Tulane University ': {'loc': 'Louisiana', 'arr_pos': 10, 'associated_date': u'May 2012'}, u'Johns Hopkins University ': {'loc': 'Louisiana', 'arr_pos': 1, 'associated_date': u'May 2016'}}
+
+GZampierollo_Resume.xml		{'Misc': {'deanslist': False}, u'The University of Chicago Chicago, IL ': {'loc': 'Puerto Rico', 'arr_pos': 2, 'associated_date': u'June 2013', 'GPA': u'3.90'}, 'filename': 'GZampierollo_Resume.xml'}
+
+hammadryanresumer815.xml		{u'Emory University, Screenwriting Certificate  ': {'loc': 'Georgia', 'arr_pos': 2}, u'Oxford University, Regent\u2019s Park, Summer Seminar    ': {'arr_pos': 24}, 'Misc': {'deanslist': False}, u'Emory University, Bachelor of Arts in English, Philosophy minor ': {'loc': 'Georgia', 'arr_pos': 14}, 'filename': 'hammadryanresumer815.xml'}
+
+Haw%2c+Christine-Job+Resume.xml		{u'Bachelor of Arts, English, University of California, Berkeley, May 2008 ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'May 2008'}, 'Misc': {'deanslist': False}, 'filename': 'Haw%2c+Christine-Job+Resume.xml'}
+
+Haw%2c+Christine-Job+Resume_1_.xml		{u'Bachelor of Arts, English, University of California, Berkeley, May 2008 ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'May 2008'}, 'Misc': {'deanslist': False}, 'filename': 'Haw%2c+Christine-Job+Resume_1_.xml'}
+
+Heitzenrater_Resume2013.xml		{'Misc': {'deanslist': False}, 'filename': 'Heitzenrater_Resume2013.xml'}
+
+Henry+Resume.xml		{u'Moorpark College, Moorpark, CA ': {'loc': 'California', 'arr_pos': 17, 'associated_date': u'May 2013', 'GPA': u'3.80'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Dec 2015', 'GPA': u'3.05'}, 'Misc': {'deanslist': False}, 'filename': 'Henry+Resume.xml'}
+
+Henry+Resume_1_.xml		{u'Moorpark College, Moorpark, CA ': {'loc': 'California', 'arr_pos': 17, 'associated_date': u'May 2013', 'GPA': u'3.80'}, u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Dec 2015', 'GPA': u'3.05'}, 'Misc': {'deanslist': False}, 'filename': 'Henry+Resume_1_.xml'}
+
+Herce+Remilien%27s+Resume.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 3}, 'filename': 'Herce+Remilien%27s+Resume.xml'}
+
+hotel-resume.xml		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2007', 'GPA': u'3.15'}, 'Misc': {'deanslist': False}, 'filename': 'hotel-resume.xml'}
+
+hsilverman_resume_jan_2012+SGS.xml		{u'Cornell University': {'loc': 'New York', 'arr_pos': 10, 'associated_date': u'January 1995'}, 'Misc': {'deanslist': False}, 'filename': 'hsilverman_resume_jan_2012+SGS.xml'}
+
+hsilverman_resume_jan_2012+SGS_1_.xml		{u'Cornell University': {'loc': 'New York', 'arr_pos': 10, 'associated_date': u'January 1995'}, 'Misc': {'deanslist': False}, 'filename': 'hsilverman_resume_jan_2012+SGS_1_.xml'}
+
+HThompsonResumeJan2013+_1_.xml		{u'Saint Francis University, Loretto, Pennsylvania  ': {'loc': 'Pennsylvania', 'arr_pos': 7, 'associated_date': u'June 2006'}, u'Attained a GPA of 4.0.  Transferred to the College of William and Mary': {'arr_pos': 9}, 'Misc': {'deanslist': False}, u'College of William and Mary, Williamsburg, Virginia                                                                       December 2009 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2009'}, 'filename': 'HThompsonResumeJan2013+_1_.xml', u'University of Virginia, Charlottesville, Virginia': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'June 2006'}}
+
+Hyungyu+Kang_Resume+_2015_.xml		{'Misc': {'deanslist': False}, 'filename': 'Hyungyu+Kang_Resume+_2015_.xml'}
+
+iFenta_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'iFenta_Resume.xml'}
+
+Imran+Naim+Clinical+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Imran+Naim+Clinical+Resume.xml'}
+
+indesign+test+9_2pg_jobsite.xml		{'Misc': {'deanslist': False}, u'University of California San Diego, La Jolla, CA': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June\t2011'}, 'filename': 'indesign+test+9_2pg_jobsite.xml'}
+
+indesign+test+9_2pg_jobsite_1_.xml		{'Misc': {'deanslist': False}, u'University of California San Diego, La Jolla, CA': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June\t2011'}, 'filename': 'indesign+test+9_2pg_jobsite_1_.xml'}
+
+Ingram+%e2%80%98Gram%e2%80%99+Bowsher+Resume.xml		{'Misc': {'deanslist': False}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 15, 'GPA': u'3.4'}, 'filename': 'Ingram+%e2%80%98Gram%e2%80%99+Bowsher+Resume.xml'}
+
+Iwen+Lam+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Iwen+Lam+Resume.xml'}
+
+J+Greene+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'J+Greene+Resume.xml'}
+
+J+Greene+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'J+Greene+Resume_1_.xml'}
+
+J+Greene+Resume_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'J+Greene+Resume_2_.xml'}
+
+J+P+Rose+Resume.xml		{u'Indiana University of Pennsylvania, Indiana, PA': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': False}, 'filename': 'J+P+Rose+Resume.xml'}
+
+Jacob+Liberatore+Resume+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'Jacob+Liberatore+Resume+2015.xml'}
+
+James+J+Mahoney+Resume+April+2013.xml		{'Misc': {'deanslist': False}, u'University of Wollongong, New South Wales, Australia': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'June 2012'}, u'La Salle College High School, Wyndmoor, PA  19038         ': {'loc': 'Pennsylvania', 'arr_pos': 7, 'associated_date': u'June 2009'}, u'West Chester University of Pennsylvania, West Chester, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'filename': 'James+J+Mahoney+Resume+April+2013.xml'}
+
+James+Ju+Resume+2015.xml		{'Misc': {'deanslist': False}, 'filename': 'James+Ju+Resume+2015.xml'}
+
+James+Mayeski+Skills+Resume+Rev.+3.xml		{'Misc': {'deanslist': False}, 'filename': 'James+Mayeski+Skills+Resume+Rev.+3.xml'}
+
+James+Ott+-+Resume+2015.xml		{u'West Chester University of Pennsylvania, West Chester, PA ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.44'}, 'Misc': {'deanslist': False}, 'filename': 'James+Ott+-+Resume+2015.xml'}
+
+Jasmine+Young%27s+Resume62915+_1_.xml		{u'The Pennsylvania State University Berks Campus, Reading, PA            ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Jasmine+Young%27s+Resume62915+_1_.xml'}
+
+Jason+M.+Adams+Resume.xml		{u'  University of Rochester, May 2009       ': {'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'3.74'}, 'Misc': {'deanslist': False}, 'filename': 'Jason+M.+Adams+Resume.xml'}
+
+JCL+Resume+Word.xml		{'Misc': {'deanslist': False}, 'filename': 'JCL+Resume+Word.xml'}
+
+JDThomerson+Resume+8-24-09.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, Florida                                                                           ': {'loc': 'Florida', 'arr_pos': 4, 'GPA': u'3.79'}, 'filename': 'JDThomerson+Resume+8-24-09.xml'}
+
+jedidiahbush+resume+jan5.xml		{'Misc': {'deanslist': False}, 'filename': 'jedidiahbush+resume+jan5.xml'}
+
+JENNEL+RESUME.xml		{'Misc': {'deanslist': False}, u'Who\u2019s Who Among High School and College Students ': {'arr_pos': 1}, 'filename': 'JENNEL+RESUME.xml'}
+
+Jeong+won+Choi+CV+2015+Fall.xml		{'Misc': {'deanslist': False}, 'filename': 'Jeong+won+Choi+CV+2015+Fall.xml'}
+
+Jeong+won+Choi+CV+2015+Fall_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Jeong+won+Choi+CV+2015+Fall_1_.xml'}
+
+Jeong+won+Choi+CV+2015+Fall_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Jeong+won+Choi+CV+2015+Fall_2_.xml'}
+
+Jeorge+Boseman+Assistant++Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Jeorge+Boseman+Assistant++Resume.xml'}
+
+Jerin+Oberdorf+-+Resume.xml		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'May 2011', 'GPA': u'3.06'}, 'filename': 'Jerin+Oberdorf+-+Resume.xml', 'Misc': {'deanslist': False}, u'Harrisburg Area Community College': {'arr_pos': 12}}
+
+Jerin+Oberdorf+-+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Jerin+Oberdorf+-+Resume_1_.xml'}
+
+Jerry+Siu+Resume.xml		{u'University of California, Irvine   ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2016', 'GPA': u'3.40'}, 'Misc': {'deanslist': False}, 'filename': 'Jerry+Siu+Resume.xml'}
+
+Jessica+Laiter%27s+Resume.xml		{u'Middlebury College, Middlebury, VT': {'loc': 'Vermont', 'arr_pos': 15}, u'University of Pittsburgh, Pittsburgh, PA': {'loc': 'Vermont', 'arr_pos': 0, 'associated_date': u'May 2011'}, 'Misc': {'deanslist': False}, 'filename': 'Jessica+Laiter%27s+Resume.xml', u'The School of Arts and Sciences': {'loc': 'Vermont', 'arr_pos': 2, 'associated_date': u'May 2010'}, u'Columbia University Summer Business Chinese and Internship Program in Shanghai    Summer ': {'arr_pos': 22}}
+
+Jessica+N+Perez-Resume+2016.xml		{'Misc': {'deanslist': False}, u'University of California, Los Angeles--Los Angeles, California   ': {'loc': 'California', 'arr_pos': 1}, 'filename': 'Jessica+N+Perez-Resume+2016.xml'}
+
+Jessica+N+Perez-Resume+2016_1_.xml		{'Misc': {'deanslist': False}, u'University of California, Los Angeles--Los Angeles, California   ': {'loc': 'California', 'arr_pos': 1}, 'filename': 'Jessica+N+Perez-Resume+2016_1_.xml'}
+
+Jessica+N+Perez-Resume+2016_2_.xml		{'Misc': {'deanslist': False}, u'University of California, Los Angeles--Los Angeles, California   ': {'loc': 'California', 'arr_pos': 1}, 'filename': 'Jessica+N+Perez-Resume+2016_2_.xml'}
+
+Jessica+Romberger+Resume+_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Jessica+Romberger+Resume+_1_.xml'}
+
+JGold+Resume+6.29.xml		{'Misc': {'deanslist': False}, 'filename': 'JGold+Resume+6.29.xml'}
+
+Jinjing+Zhang%27s+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Jinjing+Zhang%27s+Resume.xml'}
+
+Jinsol%27s+Resume.xml		{'Misc': {'deanslist': False}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}, 'filename': 'Jinsol%27s+Resume.xml'}
+
+Jinsol%27s+Resume_1_.xml		{'Misc': {'deanslist': False}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}, 'filename': 'Jinsol%27s+Resume_1_.xml'}
+
+Jinsol%27s+Resume_2_.xml		{'Misc': {'deanslist': False}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0}, u'University of California Davis  ': {'loc': 'California', 'arr_pos': 11}, 'filename': 'Jinsol%27s+Resume_2_.xml'}
+
+JocelynKoresko_Resume_MKTG_07302012_2..xml		{'Misc': {'deanslist': False}, u'The George Washington University  ': {'loc': 'District of Columbia', 'arr_pos': 5, 'associated_date': u'May 2009', 'GPA': u'3.92'}, u'Virginia International University': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'4.0'}, 'filename': 'JocelynKoresko_Resume_MKTG_07302012_2..xml'}
+
+Joe+Dreyfuss+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Joe+Dreyfuss+Resume.xml'}
+
+Joe_Kmetz_Resume_July_24.xml		{'Misc': {'deanslist': False}, 'filename': 'Joe_Kmetz_Resume_July_24.xml'}
+
+Joel_Reindel_Resume.xml		{u'John Brown University (ABET accredited), Siloam Springs, AR ': {'loc': 'Arkansas', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.2'}, 'Misc': {'deanslist': False}, 'filename': 'Joel_Reindel_Resume.xml'}
+
+Joey+Wang+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Joey+Wang+resume.xml'}
+
+Joey+Wang+resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Joey+Wang+resume_1_.xml'}
+
+JohnOppermann%27sResume_2006-CH_.xml		{'Misc': {'deanslist': False}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}, 'filename': 'JohnOppermann%27sResume_2006-CH_.xml'}
+
+JohnOppermann%27sResume_2006-CH__1_.xml		{'Misc': {'deanslist': False}, u'Georgetown University, May 2005': {'arr_pos': 0, 'associated_date': u'May 2005'}, 'filename': 'JohnOppermann%27sResume_2006-CH__1_.xml'}
+
+JohnPlaxcoResumeGrad.xml		{'Misc': {'deanslist': False}, u'Robert McCormick School of Engineering and Applied Science ': {'arr_pos': 5, 'GPA': u'2.95'}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 1, 'GPA': u'2.95'}, 'filename': 'JohnPlaxcoResumeGrad.xml'}
+
+Jonathan+Grant%27s+Resume.xml		{u'California University of Pennsylvania': {'loc': 'California', 'arr_pos': 2}, 'Misc': {'deanslist': False}, 'filename': 'Jonathan+Grant%27s+Resume.xml'}
+
+Jonathan_Hwang_Resume..xml		{'Misc': {'deanslist': False}, u'New York University: College of Arts and Sciences': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.17'}, 'filename': 'Jonathan_Hwang_Resume..xml'}
+
+Jonathan_Schlact_Resume..xml		{'Misc': {'deanslist': False}, u'UNIVERSITY OF UDINE: Study Abroad \u2013 Literature Communications and Culture film studies in Gorizia, Italy: Spent ': {'arr_pos': 21}, u'GEORGIA INSTITUTE OF TECHNOLOGY, College of Management ': {'loc': 'Georgia', 'arr_pos': 3, 'associated_date': u'December 2012', 'GPA': u'3.4'}, 'filename': 'Jonathan_Schlact_Resume..xml'}
+
+JonathanMartzGeneralResume2015.xml		{'Misc': {'deanslist': False}, 'filename': 'JonathanMartzGeneralResume2015.xml'}
+
+JonathanMartzGeneralResume2015_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'JonathanMartzGeneralResume2015_1_.xml'}
+
+JonathanTeekasingh-ResumeJune2014.xml		{'Misc': {'deanslist': False}, 'filename': 'JonathanTeekasingh-ResumeJune2014.xml'}
+
+JordanCKrentzResume-1.xml		{'Misc': {'deanslist': False}, 'filename': 'JordanCKrentzResume-1.xml'}
+
+Joseph+Alexandrou+resume.xml		{'Misc': {'deanslist': False}, u'Oct 2007-Jun 2010 Aug 2010-Sept 2010, University of California, Davis': {'loc': 'Virginia', 'arr_pos': 12, 'associated_date': u'Oct 2007'}, 'filename': 'Joseph+Alexandrou+resume.xml'}
+
+Joseph+Alexandrou+resume_1_.xml		{'Misc': {'deanslist': False}, u'Oct 2007-Jun 2010 Aug 2010-Sept 2010, University of California, Davis': {'loc': 'Virginia', 'arr_pos': 12, 'associated_date': u'Oct 2007'}, 'filename': 'Joseph+Alexandrou+resume_1_.xml'}
+
+Josh+Blumenfeld+Resume+10-7-14.xml		{u'University of Wisconsin \u2013 Madison, Political Science and Legal Studies, 2012-present': {'loc': 'Wisconsin', 'arr_pos': 3}, u'James Madison Memorial High School, Class of 2011': {'arr_pos': 12}, 'Misc': {'deanslist': False}, u'University of Wisconsin \u2013 La Crosse, 2011-2012': {'loc': 'Wisconsin', 'arr_pos': 9}, 'filename': 'Josh+Blumenfeld+Resume+10-7-14.xml'}
+
+Josh+Fuller+Resum%c3%a9.xml		{'Misc': {'deanslist': False}, 'filename': 'Josh+Fuller+Resum%c3%a9.xml'}
+
+Josh+Fuller+Resum%c3%a9_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Josh+Fuller+Resum%c3%a9_1_.xml'}
+
+Josh+Fuller+Resum%c3%a9_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Josh+Fuller+Resum%c3%a9_2_.xml'}
+
+JP+Rose+Resume.xml		{u'Point Park University, Pittsburgh, PA': {'loc': 'Pennsylvania', 'arr_pos': 4}, u'Indiana University of Pennsylvania, Indiana, PA': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': False}, 'filename': 'JP+Rose+Resume.xml'}
+
+JulianSeanWaddingResume04-2015.xml		{'Misc': {'deanslist': False}, 'filename': 'JulianSeanWaddingResume04-2015.xml'}
+
+July+15+2013+Resume.xml		{u'WASHINGTON UNIVERSITY IN ST. LOUIS, MO. ': {'loc': 'Indiana', 'arr_pos': 1, 'associated_date': u'May 2013', 'GPA': u'3.5'}, u'College Honors ': {'arr_pos': 10}, 'Misc': {'deanslist': False}, 'filename': 'July+15+2013+Resume.xml'}
+
+Justin+Reiter+Resume.xml		{'Misc': {'deanslist': False}, u'Northeastern University, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.98'}, 'filename': 'Justin+Reiter+Resume.xml'}
+
+justin+resume1.xml		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, 'filename': 'justin+resume1.xml'}
+
+justin+resume1_1_.xml		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, 'filename': 'justin+resume1_1_.xml'}
+
+Justin_Man_UX.xml		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Aug 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Justin_Man_UX.xml'}
+
+Justin_Man_UX_1_.xml		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'Aug 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Justin_Man_UX_1_.xml'}
+
+JV_Official_Resume.xml		{u'The University of Chicago                                 ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015'}, 'Misc': {'deanslist': False}, u'conference at Yale University, and selected for EMP advisory board. ': {'arr_pos': 4}, 'filename': 'JV_Official_Resume.xml'}
+
+K+Robinson+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'K+Robinson+Resume.xml'}
+
+Kari-Ann%27s+resume1.xml		{'Misc': {'deanslist': False}, 'filename': 'Kari-Ann%27s+resume1.xml'}
+
+Kastor_Zhang+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Kastor_Zhang+Resume.xml'}
+
+Kate+resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Kate+resume+.xml'}
+
+Kate+resume+_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Kate+resume+_1_.xml'}
+
+KathrynPiotrowski_Resume.xml		{'Misc': {'deanslist': False}, u'Northwestern University, Evanston, IL: School of Communication ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.65'}, 'filename': 'KathrynPiotrowski_Resume.xml'}
+
+Katie+Coyle+resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Katie+Coyle+resume+.xml'}
+
+KatieDoyleResume2011.xml		{'Misc': {'deanslist': False}, 'filename': 'KatieDoyleResume2011.xml'}
+
+Katsis+Resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Katsis+Resume+.xml'}
+
+Katsis+Resume+_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Katsis+Resume+_1_.xml'}
+
+Katsis+Resume+_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Katsis+Resume+_2_.xml'}
+
+Kazmierski_Lauren+11.27.14+MI.xml		{'Misc': {'deanslist': False}, 'filename': 'Kazmierski_Lauren+11.27.14+MI.xml'}
+
+kdene+new+resume.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL                                                              ': {'loc': 'Florida', 'arr_pos': 2, 'GPA': u'3.53'}, 'filename': 'kdene+new+resume.xml'}
+
+Kelly+Swisher+Resume+.xml		{u'Personal Touch Cleaning Co., State College, PA - Entrepreneur': {'loc': 'Pennsylvania', 'arr_pos': 20}, u"P.J. Harrigan's, Ramada Inn, State College, PA - Dining Room Manager": {'loc': 'Pennsylvania', 'arr_pos': 19}, 'Misc': {'deanslist': False}, u'The Pennsylvania State University \u2010 University Park, PA, USA': {'loc': 'Pennsylvania', 'arr_pos': 39}, 'filename': 'Kelly+Swisher+Resume+.xml', u'State College Idol - Judge': {'loc': 'Pennsylvania', 'arr_pos': 37}, u'K. Pink Distribution, State College, PA - Entrepreneur': {'loc': 'Pennsylvania', 'arr_pos': 18}, u'Hooters Restaurant \u2010 State College & Altoona, PA': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'Feb 2002'}}
+
+KellyResume2011.xml		{'Misc': {'deanslist': False}, u'University of Florida   ': {'loc': 'Florida', 'arr_pos': 3}, 'filename': 'KellyResume2011.xml'}
+
+Kelvin+Leung+CV2.xml		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': False}, 'filename': 'Kelvin+Leung+CV2.xml'}
+
+Kelvin+Leung+CV2_1_.xml		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': False}, 'filename': 'Kelvin+Leung+CV2_1_.xml'}
+
+Kelvin+Leung+CV2_2_.xml		{u'University of California,  Irvine': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2009'}, 'Misc': {'deanslist': False}, 'filename': 'Kelvin+Leung+CV2_2_.xml'}
+
+kesha+resume.xml		{u'James Hubert Blake High School \u2013 2006 - 2009': {'arr_pos': 3}, u'Lincoln University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'filename': 'kesha+resume.xml', 'Misc': {'deanslist': False}, u'High School Diploma': {'arr_pos': 4}}
+
+kesha+resume_1_.xml		{u'James Hubert Blake High School \u2013 2006 - 2009': {'arr_pos': 3}, u'Lincoln University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'filename': 'kesha+resume_1_.xml', 'Misc': {'deanslist': False}, u'High School Diploma': {'arr_pos': 4}}
+
+Kevin+Moran+Resume.xml		{'Misc': {'deanslist': False}, u'University Park, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 12}, 'filename': 'Kevin+Moran+Resume.xml'}
+
+KevinJung%27s+Resume.xml		{'Misc': {'deanslist': False}, u'University of California Davis ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2012'}, 'filename': 'KevinJung%27s+Resume.xml'}
+
+KevinJung%27s+Resume_1_.xml		{'Misc': {'deanslist': False}, u'University of California Davis ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2012'}, 'filename': 'KevinJung%27s+Resume_1_.xml'}
+
+Kevinsheehan_resume--dbm.xml		{'Misc': {'deanslist': False}, 'filename': 'Kevinsheehan_resume--dbm.xml'}
+
+Kiersten+Corr%27s+Resume+Updated+Feb+2015.xml		{'Misc': {'deanslist': False}, u'West Chester University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'filename': 'Kiersten+Corr%27s+Resume+Updated+Feb+2015.xml'}
+
+Kim+Dolmuz+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Kim+Dolmuz+Resume.xml'}
+
+Kim+Dolmuz+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Kim+Dolmuz+Resume_1_.xml'}
+
+Kim-Quyen-Le+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Kim-Quyen-Le+resume.xml'}
+
+Krhystyne+Pablo+RN+Resume.xml		{u'Pace University, Lienhard School of Nursing, Pleasantville, NY          ': {'loc': 'Massachusetts', 'arr_pos': 6, 'associated_date': u'June 2011'}, 'filename': 'Krhystyne+Pablo+RN+Resume.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston, MA  ': {'loc': 'Massachusetts', 'arr_pos': 15}}
+
+KristianGjika.xml		{'Misc': {'deanslist': False}, 'filename': 'KristianGjika.xml'}
+
+Krystal+Boyd+Resume...xml		{'Misc': {'deanslist': False}, 'filename': 'Krystal+Boyd+Resume...xml'}
+
+KT+RT.xml		{'filename': 'KT+RT.xml', 'Misc': {'deanslist': False}, u'University of California, Irvine': {'loc': 'California', 'arr_pos': 4}, u'Concorde Career College, Garden Grove campus': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'December 2008'}}
+
+KyleSchoeppnerResume.xml		{'Misc': {'deanslist': False}, u'University of Pennsylvania College of Arts & Sciences, Philadelphia, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'Aug 2015'}, 'filename': 'KyleSchoeppnerResume.xml'}
+
+Lan_Wendy_Do_Resume.xml		{u'Central Washington University, College of Business  ': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'December 2014', 'GPA': u'3.67'}, 'Misc': {'deanslist': False}, 'filename': 'Lan_Wendy_Do_Resume.xml'}
+
+Latonia%27s+Functional+Resume.xml		{u'             Xavier University of Louisiana                                                                              New Orleans, LA': {'loc': 'Louisiana', 'arr_pos': 1, 'associated_date': u'May 1999'}, 'Misc': {'deanslist': False}, 'filename': 'Latonia%27s+Functional+Resume.xml'}
+
+Latonia%27s+Functional+Resume_1_.xml		{u'             Xavier University of Louisiana                                                                              New Orleans, LA': {'loc': 'Louisiana', 'arr_pos': 1, 'associated_date': u'May 1999'}, 'Misc': {'deanslist': False}, 'filename': 'Latonia%27s+Functional+Resume_1_.xml'}
+
+laura+kershner+resume.xml		{u'West Chester University of Pennsylvania, West Chester, PA: August 2011-Present': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2011'}, 'Misc': {'deanslist': False}, 'filename': 'laura+kershner+resume.xml'}
+
+Laura_Vierre_Resume.xml		{u'\u2022 MLIS from Clarion University (2014)                  \u2022 BA in Liberal Studies from Boston University (2012)  ': {'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Laura_Vierre_Resume.xml'}
+
+Lee+Setzen+Resume+5.0.xml		{u'Boston University School of Management; Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Lee+Setzen+Resume+5.0.xml'}
+
+Lee.Byungkwan102914.International.xml		{'Misc': {'deanslist': False}, 'filename': 'Lee.Byungkwan102914.International.xml'}
+
+Leekem+Brown+Resume+DC.xml		{'Misc': {'deanslist': False}, 'filename': 'Leekem+Brown+Resume+DC.xml'}
+
+LEESTANDERFER.xml		{'filename': 'LEESTANDERFER.xml', 'Misc': {'deanslist': False}, u'EASTERN WASHINGTON UNIVERSITY \u2013 Cheney, WA': {'loc': 'Washington', 'arr_pos': 0}}
+
+LEHANG%27S+RESUME.xml		{'Misc': {'deanslist': False}, 'filename': 'LEHANG%27S+RESUME.xml'}
+
+Leslie+Alfaro.xml		{u'Took graduate level courses from School of Law and School of Political Science  ': {'arr_pos': 17}, 'Misc': {'deanslist': False}, 'filename': 'Leslie+Alfaro.xml', u'University of Bologna \u2013 Bologna, Italy                                                                                                                                     Spring, 2013 ': {'arr_pos': 11}, u'UC Education Abroad Program ': {'arr_pos': 13}, u'University of California Berkeley \u2013 Berkeley, CA                                   ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2013'}}
+
+Leslie+Alfaro_1_.xml		{u'Took graduate level courses from School of Law and School of Political Science  ': {'arr_pos': 17}, 'Misc': {'deanslist': False}, 'filename': 'Leslie+Alfaro_1_.xml', u'University of Bologna \u2013 Bologna, Italy                                                                                                                                     Spring, 2013 ': {'arr_pos': 11}, u'UC Education Abroad Program ': {'arr_pos': 13}, u'University of California Berkeley \u2013 Berkeley, CA                                   ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2013'}}
+
+Li%2c+Vicky+.xml		{'Misc': {'deanslist': False}, 'filename': 'Li%2c+Vicky+.xml'}
+
+Li%2c+Vicky+_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Li%2c+Vicky+_1_.xml'}
+
+Ligia+Vela-+2015+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Ligia+Vela-+2015+Resume.xml'}
+
+Linares_resume.xml		{u'Bachelor of Science in Journalism, University of Florida, Gainesville, Fla. (August, 2011) ': {'loc': 'Florida', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Linares_resume.xml'}
+
+Lindsay+Dynow+-+Resume.xml		{u'East Stroudsburg University of Pennsylvania                                                     ': {'loc': 'Pennsylvania', 'arr_pos': 4}, 'Misc': {'deanslist': False}, 'filename': 'Lindsay+Dynow+-+Resume.xml'}
+
+Lindsey+Felcher+Resume.xml		{u'Boston University College of Communication; Boston, MA   ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Lindsey+Felcher+Resume.xml'}
+
+Lionel%27s+Resume.xml		{'Misc': {'deanslist': False}, u'University of California Berkeley, 2013 - 2015 May': {'loc': 'California', 'arr_pos': 1}, u'Ohlone College, 2011 - 2013': {'arr_pos': 4}, 'filename': 'Lionel%27s+Resume.xml'}
+
+LISA++M+PHILLIPS+word+doc1.xml		{'Misc': {'deanslist': False}, u'California University of Pennsylvania \u2013 Pennsylvania': {'loc': 'Michigan', 'arr_pos': 1, 'GPA': u'3.9'}, 'filename': 'LISA++M+PHILLIPS+word+doc1.xml'}
+
+LoettaHenryFunctionalResume+9.18.2015.xml		{'Misc': {'deanslist': False}, 'filename': 'LoettaHenryFunctionalResume+9.18.2015.xml'}
+
+Lorirealresume.xml		{'Misc': {'deanslist': False}, 'filename': 'Lorirealresume.xml'}
+
+Lovette+resume2.xml		{'Misc': {'deanslist': False}, 'filename': 'Lovette+resume2.xml'}
+
+lsabino+resume.xml		{u'Lehigh University, Bethlehem, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.20'}, 'Misc': {'deanslist': False}, 'filename': 'lsabino+resume.xml'}
+
+LU_Yuan_gen_12092015.xml		{'Misc': {'deanslist': False}, 'filename': 'LU_Yuan_gen_12092015.xml'}
+
+Lucke-Resume2.xml		{'Misc': {'deanslist': False}, u'Highlands Sr. High School Graduate 2005': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'December 2009'}, u'Penn State Erie, The Behrend College': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2010'}, 'filename': 'Lucke-Resume2.xml'}
+
+Lucke-Resume2_1_.xml		{'Misc': {'deanslist': False}, u'Highlands Sr. High School Graduate 2005': {'loc': 'Pennsylvania', 'arr_pos': 2, 'associated_date': u'December 2009'}, u'Penn State Erie, The Behrend College': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2010'}, 'filename': 'Lucke-Resume2_1_.xml'}
+
+LyndsyKelleyResume.xml		{'Misc': {'deanslist': False}, 'filename': 'LyndsyKelleyResume.xml'}
+
+Mac+Malik.xml		{'Misc': {'deanslist': False}, u'University of Illinois at Urbana Champaign': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.28'}, 'filename': 'Mac+Malik.xml'}
+
+Maen+Hijazi+Resume.xml		{'filename': 'Maen+Hijazi+Resume.xml', 'Misc': {'deanslist': False}, u'  The George Washington University, Washington DC ': {'loc': 'District of Columbia', 'arr_pos': 2, 'associated_date': u'May 2014', 'GPA': u'3.3'}}
+
+Mana+Nabati+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Mana+Nabati+Resume.xml'}
+
+Mana+Nabati+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Mana+Nabati+Resume_1_.xml'}
+
+MANDY+UNMOLE-RESUME+.xml		{'Misc': {'deanslist': False}, u'Bachelor Degree in Finance and Econometrics                                                       Monash  University ': {'arr_pos': 10, 'associated_date': u'June 2014', 'GPA': u'3.75'}, u'                                       University of Rochester ': {'arr_pos': 2, 'associated_date': u'May 2016', 'GPA': u'3.68'}, 'filename': 'MANDY+UNMOLE-RESUME+.xml'}
+
+MarcBarrientosResume--gd.xml		{u'Mt. San Antonio College - Walnut, CA ': {'loc': 'California', 'arr_pos': 8, 'associated_date': u'September 2007'}, 'filename': 'MarcBarrientosResume--gd.xml', 'Misc': {'deanslist': False}, u'Eastern Washington University - Cheney, WA                          ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'August 2014', 'GPA': u'3.47'}}
+
+Marcus+Hill+Resume.xml		{u'Dutchess Community College, Poughkeepsie, NY                                                                                                                       ': {'loc': 'New York', 'arr_pos': 9, 'associated_date': u'May 2014'}, u'Cornell University, Ithaca, NY                                           ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Marcus+Hill+Resume.xml'}
+
+Margolis_ResumeSummer2015.xml		{'Misc': {'deanslist': False}, u'The University of Chicago                                                                                           Chicago, IL                                                                       ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.33'}, 'filename': 'Margolis_ResumeSummer2015.xml'}
+
+Maria+Koval+Resume1.xml		{'Misc': {'deanslist': False}, 'filename': 'Maria+Koval+Resume1.xml'}
+
+Marilyn+Meza+Resume_CareerBuilder.xml		{u'Columbia University ': {'loc': 'New York', 'arr_pos': 34, 'associated_date': u'May 2010'}, 'Misc': {'deanslist': False}, u'University of Houston ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.8'}, 'filename': 'Marilyn+Meza+Resume_CareerBuilder.xml'}
+
+MARK+MEYERS+RESUME!!.xml		{'Misc': {'deanslist': False}, u'Indiana University of Pennsylvania': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'filename': 'MARK+MEYERS+RESUME!!.xml'}
+
+Mark+Palladino+Resume+career+builder.xml		{'Misc': {'deanslist': False}, u'Applicable University Courses: Communication Research, Communication Theory, Public Speaking, Sport Culture ': {'arr_pos': 6}, u'West Chester University of Pennsylvania, West Chester. PA': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'December 2014', 'GPA': u'3.0'}, 'filename': 'Mark+Palladino+Resume+career+builder.xml'}
+
+Marvin_Cosare_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Marvin_Cosare_Resume.xml'}
+
+MasonJenningsProfile.xml		{'Misc': {'deanslist': False}, 'filename': 'MasonJenningsProfile.xml'}
+
+Mastro_res.xml		{u'Boston University College of Fine Arts, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 3, 'associated_date': u'May 2012'}, u'Cabrini College, Radnor, PA  ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2009'}, 'Misc': {'deanslist': False}, 'filename': 'Mastro_res.xml'}
+
+MatthewJMoreauResume.xml		{u'             The Pennsylvania State University, Erie, PA                                    ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'GPA': u'3.53'}, 'Misc': {'deanslist': False}, 'filename': 'MatthewJMoreauResume.xml'}
+
+Maurer.businessresume.xml		{u'Lehigh University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'3.30'}, 'Misc': {'deanslist': False}, 'filename': 'Maurer.businessresume.xml'}
+
+max+ellison+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'max+ellison+resume.xml'}
+
+MaxwellKappesResume.xml		{'filename': 'MaxwellKappesResume.xml', 'Misc': {'deanslist': False}, u'Santa Rosa Junior College': {'arr_pos': 6, 'associated_date': u'June 2011'}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2015'}}
+
+MaxwellKappesResume_1_.xml		{'filename': 'MaxwellKappesResume_1_.xml', 'Misc': {'deanslist': False}, u'Santa Rosa Junior College': {'arr_pos': 6, 'associated_date': u'June 2011'}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2015'}}
+
+MaxwellKappesResume_2_.xml		{'filename': 'MaxwellKappesResume_2_.xml', 'Misc': {'deanslist': False}, u'Santa Rosa Junior College': {'arr_pos': 6, 'associated_date': u'June 2011'}, u'University of California, Davis': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2015'}}
+
+May+2015+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'May+2015+Resume.xml'}
+
+McCauley+Harnish+resume+2014.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'filename': 'McCauley+Harnish+resume+2014.xml'}
+
+Mchael+Brown+Resume+Sept+2011.xml		{'filename': 'Mchael+Brown+Resume+Sept+2011.xml', 'Misc': {'deanslist': False}, u'Stanford University ': {'arr_pos': 0, 'associated_date': u'June 2007'}}
+
+McManus%2c+Neil+R%c3%a9sum%c3%a9.xml		{'Misc': {'deanslist': False}, 'filename': 'McManus%2c+Neil+R%c3%a9sum%c3%a9.xml'}
+
+McManus%2c+Neil+R%c3%a9sum%c3%a9_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'McManus%2c+Neil+R%c3%a9sum%c3%a9_1_.xml'}
+
+ME+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'ME+Resume.xml'}
+
+Meagan+Moreland+Final+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Meagan+Moreland+Final+Resume.xml'}
+
+Meghan+A+Cunningham%27s+Resume+Fall+2014.xml		{u'Lehigh University - Bethlehem, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.17'}, 'Misc': {'deanslist': False}, 'filename': 'Meghan+A+Cunningham%27s+Resume+Fall+2014.xml'}
+
+MegMooneyResume2015.xml		{'Misc': {'deanslist': False}, 'filename': 'MegMooneyResume2015.xml', u'University of Seville, Seville, Spain: Fall 2011 ': {'loc': 'Massachusetts', 'arr_pos': 6}, u'Colby College, Waterville, ME: 2009-2013; Biology major; YOG: 2013 ': {'loc': 'Massachusetts', 'arr_pos': 4}, u'Northeastern University Bouv\xe9 College of Health Sciences, Boston, MA:               ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'January 2015'}, u'Wellesley High School, Wellesley, MA: 2005-2009 ': {'loc': 'Massachusetts', 'arr_pos': 8}}
+
+Meifeng_Yang_CV.xml		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2015', 'GPA': u'3.66'}, 'Misc': {'deanslist': False}, 'filename': 'Meifeng_Yang_CV.xml'}
+
+Meifeng_Yang_CV_1_.xml		{u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2015', 'GPA': u'3.66'}, 'Misc': {'deanslist': False}, 'filename': 'Meifeng_Yang_CV_1_.xml'}
+
+Meka+Burch+Resume+2014.xml		{'filename': 'Meka+Burch+Resume+2014.xml', 'Misc': {'deanslist': False}, u'Trinity Washington University, Washington, DC': {'loc': 'District of Columbia', 'arr_pos': 2}}
+
+Meka+Burch+Resume+2014_1_.xml		{'filename': 'Meka+Burch+Resume+2014_1_.xml', 'Misc': {'deanslist': False}, u'Trinity Washington University, Washington, DC': {'loc': 'District of Columbia', 'arr_pos': 2}}
+
+Melissa+Diehl+Resume+3.xml		{u'The Pennsylvania State University, Smeal College of Business                                   University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Melissa+Diehl+Resume+3.xml'}
+
+Melissa+Diehl+Resume+3_1_.xml		{u'The Pennsylvania State University, Smeal College of Business                                   University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Melissa+Diehl+Resume+3_1_.xml'}
+
+Melissa+Heberling+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Melissa+Heberling+Resume.xml'}
+
+MelissaCremadesResume11.26.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 7, 'GPA': u'3.59'}, 'filename': 'MelissaCremadesResume11.26.xml'}
+
+MelissaCremadesResume11.26_1_.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 7, 'GPA': u'3.59'}, 'filename': 'MelissaCremadesResume11.26_1_.xml'}
+
+Mengbo+Li+-+Resume+pdf.xml		{'Misc': {'deanslist': False}, 'filename': 'Mengbo+Li+-+Resume+pdf.xml'}
+
+Michael+Driscoll+Resume+Spring+09+v2.xml		{u'Morristown-Beard School, Morristown, NJ': {'loc': 'New Jersey', 'arr_pos': 7}, 'Misc': {'deanslist': False}, u'Cornell University, Ithaca, New York': {'loc': 'New Jersey', 'arr_pos': 1}, 'filename': 'Michael+Driscoll+Resume+Spring+09+v2.xml'}
+
+Michael+Felix%27s+Resume.xml		{u'University College Dublin, Dublin, Ireland                                           June 2013 to August 2013 ': {'arr_pos': 7, 'associated_date': u'August 2013'}, u'UC Washington Center Academic Program  ': {'loc': 'Washington', 'arr_pos': 5, 'associated_date': u'August 2013'}, u'University of California, District of Columbia                           August 2014 to December 2014 ': {'loc': 'Washington', 'arr_pos': 4, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Michael+Felix%27s+Resume.xml', u'Study Abroad, UC Berkeley   ': {'arr_pos': 8}, u'University of California, Berkeley                                              January 2009 to December 2014  ': {'loc': 'Washington', 'arr_pos': 1, 'associated_date': u'December 2014'}}
+
+MICHELLE_SOTO_Resume.xml		{'filename': 'MICHELLE_SOTO_Resume.xml', 'Misc': {'deanslist': False}, u'University of Rochester  ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2014'}}
+
+Mike+Nevinger+Resume.xml		{'Misc': {'deanslist': True}, u'Letchworth Central School, Gainesville, NY. Diploma, 2009 ': {'loc': 'New York', 'arr_pos': 7}, u'Cornell University, College of Engineering, Ithaca, NY ': {'loc': 'New York', 'arr_pos': 1, 'GPA': u'3.302'}, 'filename': 'Mike+Nevinger+Resume.xml'}
+
+Miles+Castro.xml		{'Misc': {'deanslist': False}, 'filename': 'Miles+Castro.xml'}
+
+Mina_Doroudi_Resumefix_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'Mina_Doroudi_Resumefix_2_.xml'}
+
+MJF_resume.xml		{'filename': 'MJF_resume.xml', 'Misc': {'deanslist': False}, u'TEMPLE UNIVERSITY, Fox School of Business, Philadelphia, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2016', 'GPA': u'4.0'}, u'PENNSYLVANIA STATE UNIVERSITY, Capital College, Middletown, PA ': {'loc': 'Pennsylvania', 'arr_pos': 8}}
+
+Molly+Dubs+Resume.xml		{u'Bloomsburg University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Molly+Dubs+Resume.xml'}
+
+MollyStyslingerResume2015.xml		{u'The George Washington University, Elliott School of International Affairs ': {'loc': 'District of Columbia', 'arr_pos': 11, 'associated_date': u'December 2014', 'GPA': u'3.74'}, 'Misc': {'deanslist': False}, 'filename': 'MollyStyslingerResume2015.xml'}
+
+Morgan+Stegall%27s+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Morgan+Stegall%27s+Resume.xml'}
+
+MRubock_Resume.xml		{'Misc': {'deanslist': False}, u'Northeastern University, Boston, MA (2009)': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.3'}, 'filename': 'MRubock_Resume.xml'}
+
+MRubock_Resume_1_.xml		{'Misc': {'deanslist': False}, u'Northeastern University, Boston, MA (2009)': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.3'}, 'filename': 'MRubock_Resume_1_.xml'}
+
+MT+Resume.xml		{u'Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'MT+Resume.xml'}
+
+Muaaz+Maksud+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Muaaz+Maksud+Resume.xml'}
+
+Muaaz+Maksud+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Muaaz+Maksud+Resume_1_.xml'}
+
+my+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'my+resume.xml'}
+
+Myra+Nizami+-+Resume.xml		{u'University of Sydney, Sydney, Australia ': {'arr_pos': 14}, 'Misc': {'deanslist': True}, 'filename': 'Myra+Nizami+-+Resume.xml', u'Cornell University, Ithaca, NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'January 2015'}}
+
+Myra+Nizami+-+Resume_1_.xml		{u'University of Sydney, Sydney, Australia ': {'arr_pos': 14}, 'Misc': {'deanslist': True}, 'filename': 'Myra+Nizami+-+Resume_1_.xml', u'Cornell University, Ithaca, NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'January 2015'}}
+
+myresume1258768218194305795.xml		{'Misc': {'deanslist': False}, 'filename': 'myresume1258768218194305795.xml'}
+
+myresume6068668990603041121.xml		{'Misc': {'deanslist': False}, u'Boston University School of Management; Boston, MA                              ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.08'}, u'Boston University Chinese Students and Scholars Association, member': {'arr_pos': 7}, 'filename': 'myresume6068668990603041121.xml'}
+
+Nadia+Dorado+-+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Nadia+Dorado+-+resume.xml'}
+
+Nahime+Aguirre+Resume.xml		{u'The University of Chicago ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Nahime+Aguirre+Resume.xml'}
+
+Nahime+Aguirre+Resume_1_.xml		{u'The University of Chicago ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Nahime+Aguirre+Resume_1_.xml'}
+
+Nahime+Aguirre+Resume_2_.xml		{u'The University of Chicago ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Nahime+Aguirre+Resume_2_.xml'}
+
+Naimah+Hares+Senior+Resume.xml		{u'J. R. Masterman High  School                                                                                                                                        Philadelphia, PA ': {'loc': 'Pennsylvania', 'arr_pos': 9, 'associated_date': u'June 2010'}, u'University of  Pennsylvania, College of  Arts and  Sciences                                                                                    Philadelphia, PA ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'June 2010', 'GPA': u'3.65'}, 'Misc': {'deanslist': False}, 'filename': 'Naimah+Hares+Senior+Resume.xml'}
+
+NANAKWADWOOWUSURESUME-UP.xml		{'filename': 'NANAKWADWOOWUSURESUME-UP.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'2.99'}}
+
+NathanMcClaffertyResume1.xml		{'Misc': {'deanslist': False}, 'filename': 'NathanMcClaffertyResume1.xml'}
+
+Neeraj+Girkala+-+Resume+2015.xml		{u'New York University Tandon, Brooklyn NY   ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Neeraj+Girkala+-+Resume+2015.xml'}
+
+New+2014+Resume.xml		{u'University of California Davis, June 2013 ': {'loc': 'California', 'arr_pos': 4, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, 'filename': 'New+2014+Resume.xml'}
+
+New+2014+Resume_1_.xml		{u'University of California Davis, June 2013 ': {'loc': 'California', 'arr_pos': 4, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, 'filename': 'New+2014+Resume_1_.xml'}
+
+new+resume+2012.xml		{'Misc': {'deanslist': False}, 'filename': 'new+resume+2012.xml'}
+
+new+resume+uptodate.xml		{'filename': 'new+resume+uptodate.xml', 'Misc': {'deanslist': False}, u'   College of Office Technology                                        2004 to 2005': {'arr_pos': 6}}
+
+new+resume-Nyema.xml		{u'Pennsylvania State University, Harrisburg, PA': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'new+resume-Nyema.xml'}
+
+new_resume.xml		{'Misc': {'deanslist': False}, 'filename': 'new_resume.xml'}
+
+newresume.xml		{'Misc': {'deanslist': False}, 'filename': 'newresume.xml'}
+
+newresume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'newresume_1_.xml'}
+
+newresume_Valentina+Jimene.xml		{'Misc': {'deanslist': False}, 'filename': 'newresume_Valentina+Jimene.xml'}
+
+Nicholas+A.+Suarez+Resume+v2.xml		{'Misc': {'deanslist': False}, 'filename': 'Nicholas+A.+Suarez+Resume+v2.xml'}
+
+Nicholas+A.+Suarez+Resume+v2_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Nicholas+A.+Suarez+Resume+v2_1_.xml'}
+
+NICHOLAS+P-4.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.7'}, 'Misc': {'deanslist': False}, u'Allentown Central Catholic High School': {'loc': 'Pennsylvania', 'arr_pos': 19}, 'filename': 'NICHOLAS+P-4.xml'}
+
+Nick%27s_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Nick%27s_Resume.xml'}
+
+Nick%27s_Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Nick%27s_Resume_1_.xml'}
+
+Nick+Q.+Yan+2014+Fall+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Nick+Q.+Yan+2014+Fall+Resume.xml'}
+
+Nicole+Palin%27s+Resumes+.xml		{u'East Stroudsburg University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Nicole+Palin%27s+Resumes+.xml'}
+
+Nicole+R.+Williams+Office+Resume.xml		{u'Bachelor of Arts in Human Communication Studies, Shippensburg University of Pennsylvania (May 2014) ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Nicole+R.+Williams+Office+Resume.xml'}
+
+Nicole+R.+Williams+Office+Resume_1_.xml		{u'Bachelor of Arts in Human Communication Studies, Shippensburg University of Pennsylvania (May 2014) ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Nicole+R.+Williams+Office+Resume_1_.xml'}
+
+Nishant_Malana_resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Nishant_Malana_resume.xml'}
+
+Nishant_Malana_resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Nishant_Malana_resume_1_.xml'}
+
+Noelle+Sorrentino+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Noelle+Sorrentino+Resume.xml'}
+
+Nolan+Dow+CV.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.30'}, 'Misc': {'deanslist': False}, 'filename': 'Nolan+Dow+CV.xml'}
+
+Nolan+Dow+CV_1_.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.30'}, 'Misc': {'deanslist': False}, 'filename': 'Nolan+Dow+CV_1_.xml'}
+
+NormanMatos+-+Resume+-+2015.xml		{u'Cornell University \u2013 College of Engineering, Ithaca, NY                                                                                May 2016                                  ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'NormanMatos+-+Resume+-+2015.xml'}
+
+October+2015-Resume.xml		{u'Lehigh Carbon Community College   ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, u'Kutztown University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 21, 'associated_date': u'May 2014'}, 'filename': 'October+2015-Resume.xml'}
+
+Oladunni+Oduyemi+Resume+Updated+Summer+15.xml		{'Misc': {'deanslist': False}, 'filename': 'Oladunni+Oduyemi+Resume+Updated+Summer+15.xml'}
+
+Oliver_Baverstam_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Oliver_Baverstam_Resume.xml'}
+
+Oluwatomi+Oluwasanmi+Jaiyesimi+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Oluwatomi+Oluwasanmi+Jaiyesimi+Resume.xml'}
+
+ONeillLoriA_Resume.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 2, 'GPA': u'4.0'}, 'Misc': {'deanslist': False}, 'filename': 'ONeillLoriA_Resume.xml'}
+
+Online+Resume.xml		{u'University of California, Berkeley | May 2014                    ': {'loc': 'California', 'arr_pos': 15, 'associated_date': u'May 2014', 'GPA': u'3.1'}, 'Misc': {'deanslist': False}, 'filename': 'Online+Resume.xml'}
+
+Online+Resume_1_.xml		{u'University of California, Berkeley | May 2014                    ': {'loc': 'California', 'arr_pos': 15, 'associated_date': u'May 2014', 'GPA': u'3.1'}, 'Misc': {'deanslist': False}, 'filename': 'Online+Resume_1_.xml'}
+
+Ons%27s+Resume.xml		{'Misc': {'deanslist': False}, u'Bellevue College ': {'arr_pos': 4, 'associated_date': u'Dec 2011'}, u'Eastern Washington University   ': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'Jan 2012'}, 'filename': 'Ons%27s+Resume.xml'}
+
+Orlowska%3bResume.xml		{'Misc': {'deanslist': False}, 'filename': 'Orlowska%3bResume.xml'}
+
+OrtizP_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'OrtizP_Resume.xml', u'Georgetown University, College of Arts and Sciences, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.3'}, u'Georgetown University, McDonough School of Business, Washington, DC ': {'loc': 'District of Columbia', 'arr_pos': 3, 'associated_date': u'May 2013', 'GPA': u'3.3'}}
+
+Paige+Fisher+Resume+August+19+2014.xml		{'Misc': {'deanslist': False}, u'Lock Haven University of Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2014'}, 'filename': 'Paige+Fisher+Resume+August+19+2014.xml'}
+
+paigemalterresume2014.xml		{u'Lehigh University, Bethlehem, PA': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'June 2009', 'GPA': u'3.81'}, u'High School Diploma, June 2009': {'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.66'}, 'Misc': {'deanslist': False}, 'filename': 'paigemalterresume2014.xml'}
+
+Painter.Richard.Resume+6.26.15.xml		{'Misc': {'deanslist': False}, 'filename': 'Painter.Richard.Resume+6.26.15.xml'}
+
+Parker+Daniels+Resume.xml		{'Misc': {'deanslist': False}, u'Georgia Institute of Technology, Woodruff School of Mechanical Engineering ': {'loc': 'Georgia', 'arr_pos': 5, 'GPA': u'3.28'}, 'filename': 'Parker+Daniels+Resume.xml'}
+
+PatrickSymonsResume.xml		{'Misc': {'deanslist': False}, 'filename': 'PatrickSymonsResume.xml'}
+
+Paul+Atienza+Resume+_Current_.xml		{'Misc': {'deanslist': False}, u'The College of William and Mary ': {'loc': 'Virginia', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.55'}, 'filename': 'Paul+Atienza+Resume+_Current_.xml'}
+
+Paula+E.+Jones+Re%cc%81sume%cc%81-+HPR..xml		{'filename': 'Paula+E.+Jones+Re%cc%81sume%cc%81-+HPR..xml', 'Misc': {'deanslist': False}, u'Vanderbilt University, Nashville, TN': {'loc': 'Tennessee', 'arr_pos': 0, 'associated_date': u'May 2010', 'GPA': u'3.6'}}
+
+Pedram+Charepoo..xml		{'Misc': {'deanslist': False}, 'filename': 'Pedram+Charepoo..xml'}
+
+Peng%27s+Resume+_Techical+Version_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Peng%27s+Resume+_Techical+Version__1_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version__1_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Peng%27s+Resume+_Techical+Version__2_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version__2_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Peng%27s+Resume+_Techical+Version__3_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version__3_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Peng%27s+Resume+_Techical+Version__4_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version__4_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Peng%27s+Resume+_Techical+Version__5_.xml		{'filename': 'Peng%27s+Resume+_Techical+Version__5_.xml', 'Misc': {'deanslist': False}, u'Boston University, Boston MA ': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2015'}, u' School of Hospitality Administration ': {'arr_pos': 2, 'associated_date': u'May 2015'}}
+
+Pennesi+Resume_2014.xml		{'Misc': {'deanslist': False}, 'filename': 'Pennesi+Resume_2014.xml'}
+
+PETER_WYCISK_RESUME..xml		{'Misc': {'deanslist': False}, 'filename': 'PETER_WYCISK_RESUME..xml'}
+
+pr+resume-+updated.xml		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': False}, 'filename': 'pr+resume-+updated.xml'}
+
+Priya+Resume+2016+Engineer_Quality.xml		{'Misc': {'deanslist': False}, 'filename': 'Priya+Resume+2016+Engineer_Quality.xml'}
+
+Professional++Resume+..xml		{u'The Pennsylvania State University, Class of 2012 ': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Professional++Resume+..xml'}
+
+r%c3%a9sum%c3%a9+draft.xml		{'Misc': {'deanslist': False}, u'The College of William and Mary, Williamsburg, VA': {'loc': 'Virginia', 'arr_pos': 0}, 'filename': 'r%c3%a9sum%c3%a9+draft.xml'}
+
+Rachel+King+Resume.xml		{u'Dartmouth College, Hanover, NH': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2007'}, 'Misc': {'deanslist': False}, u'University of Kentucky College of Law, Lexington, KY': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'filename': 'Rachel+King+Resume.xml'}
+
+Radford_Resume_F.xml		{u'The College of Arts & Sciences, University of Pennsylvania ': {'loc': 'Georgia', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.57'}, u'High School Diploma   ': {'arr_pos': 54, 'associated_date': u'May 2010'}, 'Misc': {'deanslist': False}, 'filename': 'Radford_Resume_F.xml'}
+
+RaheemShahid-Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'RaheemShahid-Resume.xml'}
+
+RajanishDhakal_Indeed.xml		{'Misc': {'deanslist': False}, u'Northeastern University': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.49'}, 'filename': 'RajanishDhakal_Indeed.xml'}
+
+RajanishDhakal_Indeed_1_.xml		{'Misc': {'deanslist': False}, u'Northeastern University': {'loc': 'Massachusetts', 'arr_pos': 0, 'GPA': u'3.49'}, 'filename': 'RajanishDhakal_Indeed_1_.xml'}
+
+Ranferi+Perez_ResumeSE1..xml		{'Misc': {'deanslist': False}, 'filename': 'Ranferi+Perez_ResumeSE1..xml'}
+
+Ranferi+Perez_ResumeSE1._1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Ranferi+Perez_ResumeSE1._1_.xml'}
+
+Raymond+Carl+Godinez+CV+3.xml		{u'University of California, Davis ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Raymond+Carl+Godinez+CV+3.xml'}
+
+Raymond+Carl+Godinez+CV+3_1_.xml		{u'University of California, Davis ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Raymond+Carl+Godinez+CV+3_1_.xml'}
+
+RebeccaWheeler-resume.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, Florida ': {'loc': 'Florida', 'arr_pos': 2}, 'filename': 'RebeccaWheeler-resume.xml'}
+
+Regina+Izquierdo+-+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Regina+Izquierdo+-+Resume.xml'}
+
+Regina+Izquierdo+-+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Regina+Izquierdo+-+Resume_1_.xml'}
+
+Regular+Law+Paralegal+Resume.xml		{'Misc': {'deanslist': False}, u'University of California Los Angeles': {'loc': 'Illinois', 'arr_pos': 9}, u'Northwestern University': {'loc': 'Illinois', 'arr_pos': 14}, u'University of California Los Angeles Extension Course': {'loc': 'Illinois', 'arr_pos': 1}, 'filename': 'Regular+Law+Paralegal+Resume.xml'}
+
+Regular+Law+Paralegal+Resume_1_.xml		{'Misc': {'deanslist': False}, u'University of California Los Angeles': {'loc': 'Illinois', 'arr_pos': 9}, u'Northwestern University': {'loc': 'Illinois', 'arr_pos': 14}, u'University of California Los Angeles Extension Course': {'loc': 'Illinois', 'arr_pos': 1}, 'filename': 'Regular+Law+Paralegal+Resume_1_.xml'}
+
+resmarg.xml		{u'The George Washington University, class of 2007, pursuing a B.A. in ': {'loc': 'Ohio', 'arr_pos': 2, 'associated_date': u'December 2005', 'GPA': u'3.45'}, 'Misc': {'deanslist': False}, u'Hathaway Brown School, Shaker Heights, Ohio, Class of 2003': {'loc': 'Ohio', 'arr_pos': 14}, u'Currently completing coursework at INTEC University in ': {'loc': 'Ohio', 'arr_pos': 5, 'associated_date': u'December 2005'}, 'filename': 'resmarg.xml'}
+
+Resume+-+Alexandra+Schilling+.xml		{u'  Northeastern University ': {'arr_pos': 0, 'GPA': u'3.6'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+-+Alexandra+Schilling+.xml'}
+
+Resume+-+Business.xml		{'Misc': {'deanslist': False}, u'University of California Los Angeles | Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.95'}, 'filename': 'Resume+-+Business.xml'}
+
+Resume+-+Business_1_.xml		{'Misc': {'deanslist': False}, u'University of California Los Angeles | Los Angeles, CA ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.95'}, 'filename': 'Resume+-+Business_1_.xml'}
+
+Resume+-+Career+Builder.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+-+Career+Builder.xml'}
+
+Resume+-+Diana+Youssef+_Aug.+2015_.xml		{'filename': 'Resume+-+Diana+Youssef+_Aug.+2015_.xml', 'Misc': {'deanslist': False}, u'New York University School of Professional Studies ': {'loc': 'New York', 'arr_pos': 2}}
+
+Resume+-+Jeff+Sattora.xml		{u'PENNSYLVANIA STATE UNIVERSITY \u2013State College, Pa': {'arr_pos': 0, 'associated_date': u'December 2011', 'GPA': u'3.22'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+-+Jeff+Sattora.xml'}
+
+Resume+-+Oil+and+Gas.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+-+Oil+and+Gas.xml'}
+
+Resume+-+Paul+Kazarnovsky.xml		{'filename': 'Resume+-+Paul+Kazarnovsky.xml', u'California State Public School ': {'loc': 'California', 'arr_pos': 9}, 'Misc': {'deanslist': False}, u'Saratoga High School ': {'loc': 'California', 'arr_pos': 7}, u'New York University: College of Arts and Sciences ': {'loc': 'California', 'arr_pos': 0, 'GPA': u'3.45'}}
+
+Resume+--+Sarah+Fedner.xml		{'Misc': {'deanslist': False}, u'The University of Chicago, Chicago, IL ': {'loc': 'Illinois', 'arr_pos': 1, 'associated_date': u'December 2014'}, 'filename': 'Resume+--+Sarah+Fedner.xml'}
+
+Resume+-2.xml		{u'Pennsylvania State University, Smeal College of Business, University Park, PA           ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2016'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+-2.xml'}
+
+resume+.xml		{u'University of Florida, Class of 2015 ': {'loc': 'Florida', 'arr_pos': 4}, 'Misc': {'deanslist': False}, 'filename': 'resume+.xml'}
+
+Resume+1+page.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page.xml'}
+
+Resume+1+page_1_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_1_.xml'}
+
+Resume+1+page_2_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_2_.xml'}
+
+Resume+1+page_3_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_3_.xml'}
+
+Resume+1+page_4_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_4_.xml'}
+
+Resume+1+page_5_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_5_.xml'}
+
+Resume+1+page_6_.xml		{u'Thayer Engineering School at Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'Misc': {'deanslist': False}, u'Dartmouth College,  Hanover, NH ': {'loc': 'New Hampshire', 'arr_pos': 7, 'associated_date': u'June 2012'}, 'filename': 'Resume+1+page_6_.xml'}
+
+Resume+1.xml		{u'Eastern Washington University \u2013 Cheney WA, USA ': {'loc': 'Washington', 'arr_pos': 2}, 'Misc': {'deanslist': False}, 'filename': 'Resume+1.xml', u'Columbia Basin College \u2013 Pasco WA, USA ': {'loc': 'Washington', 'arr_pos': 6}}
+
+Resume+2!!.xml		{u'Pennsylvania State University,  University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013', 'GPA': u'3.82'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+2!!.xml'}
+
+RESUME+2-10-2015.xml		{u'      The Pennsylvania State University, University Park, PA                                GPA: 3.37/4.00': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.37'}, 'Misc': {'deanslist': False}, 'filename': 'RESUME+2-10-2015.xml'}
+
+Resume+2.xml		{'filename': 'Resume+2.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, Capital College, Middletown, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'3.22'}}
+
+Resume+2014.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'filename': 'Resume+2014.xml'}
+
+Resume+2014_1_.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'filename': 'Resume+2014_1_.xml'}
+
+Resume+2015.xml		{u'University of California, Berkeley Extension ': {'loc': 'California', 'arr_pos': 7}, u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+2015.xml'}
+
+Resume+2015_1_.xml		{u'University of California, Berkeley Extension ': {'loc': 'California', 'arr_pos': 7}, u'University of California, Berkeley': {'loc': 'California', 'arr_pos': 0, 'GPA': u'3.3'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+2015_1_.xml'}
+
+Resume+2_1_.xml		{'filename': 'Resume+2_1_.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, Capital College, Middletown, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009', 'GPA': u'3.22'}}
+
+Resume+4.0--gd.xml		{'filename': 'Resume+4.0--gd.xml', 'Misc': {'deanslist': False}, u'Kutztown University of Pennsylvania: Kutztown, PA  ': {'loc': 'Colorado', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.22'}, u'University of Valladolid: Valladolid, Spain  ': {'loc': 'Colorado', 'arr_pos': 17}}
+
+resume+821.xml		{'filename': 'resume+821.xml', 'Misc': {'deanslist': False}, u'University of California, Berkeley     ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Sep 2016', 'GPA': u'3.89'}}
+
+resume+821_1_.xml		{'filename': 'resume+821_1_.xml', 'Misc': {'deanslist': False}, u'University of California, Berkeley     ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Sep 2016', 'GPA': u'3.89'}}
+
+Resume+AB.xml		{u'Bachelor\u2019s Degree: Pharmacy 2000 -Northeastern University, Boston, MA': {'loc': 'Massachusetts', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume+AB.xml'}
+
+resume+Alex_Dembowski_v3.xml		{u'Mount Carmel High School, Chicago IL ': {'loc': 'Illinois', 'arr_pos': 7}, 'Misc': {'deanslist': False}, 'filename': 'resume+Alex_Dembowski_v3.xml', u'High School Diploma': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2009'}, u'Loyola University of Chicago': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Quinlan School of Business GPA: 3.12/4.0 ': {'loc': 'Illinois', 'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.12'}}
+
+resume+Alex_Dembowski_v3_1_.xml		{u'Mount Carmel High School, Chicago IL ': {'loc': 'Illinois', 'arr_pos': 7}, 'Misc': {'deanslist': False}, 'filename': 'resume+Alex_Dembowski_v3_1_.xml', u'High School Diploma': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2009'}, u'Loyola University of Chicago': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Quinlan School of Business GPA: 3.12/4.0 ': {'loc': 'Illinois', 'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.12'}}
+
+resume+Alex_Dembowski_v3_2_.xml		{u'Mount Carmel High School, Chicago IL ': {'loc': 'Illinois', 'arr_pos': 7}, 'Misc': {'deanslist': False}, 'filename': 'resume+Alex_Dembowski_v3_2_.xml', u'High School Diploma': {'loc': 'Illinois', 'arr_pos': 5, 'associated_date': u'June 2009'}, u'Loyola University of Chicago': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'June 2009', 'GPA': u'3.12'}, u'Quinlan School of Business GPA: 3.12/4.0 ': {'loc': 'Illinois', 'arr_pos': 4, 'associated_date': u'June 2009', 'GPA': u'3.12'}}
+
+resume+before+finished+at+ccc.xml		{'Misc': {'deanslist': False}, 'filename': 'resume+before+finished+at+ccc.xml'}
+
+resume+daniel+grun.xml		{u'University of Florida, Health & Human Performance, Gainesville, FL': {'loc': 'Florida', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'resume+daniel+grun.xml'}
+
+Resume+June+2011.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+June+2011.xml'}
+
+Resume+Kristoffer+Andersen.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Kristoffer+Andersen.xml'}
+
+Resume+Las+Vegas%2c+NV.xml		{u'BROWN UNIVERSITY, Bachelor of Arts, History -  Degree Completed May 2012': {'arr_pos': 3, 'associated_date': u'May 2012'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+Las+Vegas%2c+NV.xml'}
+
+Resume+Marketing+2011+AC+_5_.xml		{'Misc': {'deanslist': False}, u'Hamden High School                                                                                                                                         Sep 2003- June 2007': {'loc': 'Connecticut', 'arr_pos': 3, 'associated_date': u'June 2007', 'GPA': u'3.8'}, u'Tulane University                                                                                                                                               Sep 2007- Aug 2011': {'loc': 'Connecticut', 'arr_pos': 0, 'associated_date': u'Aug 2011', 'GPA': u'3.264'}, 'filename': 'Resume+Marketing+2011+AC+_5_.xml'}
+
+Resume+Mesias.xml		{'Misc': {'deanslist': False}, u' Santa Fe College, Gainesville, Florida ': {'loc': 'Florida', 'arr_pos': 9, 'GPA': u'3.61'}, u'University of Florida, Gainesville, Florida ': {'loc': 'Florida', 'arr_pos': 2, 'associated_date': u'December 2011', 'GPA': u'3.42'}, 'filename': 'Resume+Mesias.xml'}
+
+Resume+of+David+Mostafa.xml		{u'THE GEORGE WASHINGTON UNIVERSITY, Business School ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, u'at The Berklee College of Music.': {'arr_pos': 14}, 'filename': 'Resume+of+David+Mostafa.xml'}
+
+Resume+of+Shawnessa+C.+Barrientos.xml		{'filename': 'Resume+of+Shawnessa+C.+Barrientos.xml', 'Misc': {'deanslist': False}, u'Kutztown University of Pennsylvania   ': {'loc': 'Delaware', 'arr_pos': 0, 'associated_date': u'August 2012'}}
+
+RESUME+PDF.xml		{u'Santa Fe College \u2013 Liberal Arts and Sciences/Liberal Studies, Gainesville, FL      ': {'loc': 'Florida', 'arr_pos': 9}, 'Misc': {'deanslist': False}, u'University of Florida \u2013 College of Agricultural Life and Sciences.  Gainesville, FL. ': {'loc': 'Florida', 'arr_pos': 3, 'associated_date': u'May 2015'}, 'filename': 'RESUME+PDF.xml'}
+
+RESUME+PDF_1_.xml		{u'Santa Fe College \u2013 Liberal Arts and Sciences/Liberal Studies, Gainesville, FL      ': {'loc': 'Florida', 'arr_pos': 9}, 'Misc': {'deanslist': False}, u'University of Florida \u2013 College of Agricultural Life and Sciences.  Gainesville, FL. ': {'loc': 'Florida', 'arr_pos': 3, 'associated_date': u'May 2015'}, 'filename': 'RESUME+PDF_1_.xml'}
+
+Resume+Rev3.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Rev3.xml'}
+
+Resume+Revised+_Jeffrey+Heigh_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Revised+_Jeffrey+Heigh_.xml'}
+
+Resume+Senior+1.xml		{u'Carnegie Mellon University, Pittsburgh, PA ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.24'}, u' Lebanon High School, Lebanon, NH ': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': False}, u'College of Engineering Dean\u2019s List, Spring 2013 ': {'loc': 'New Hampshire', 'arr_pos': 2, 'associated_date': u'June 2012', 'GPA': u'3.24'}, 'filename': 'Resume+Senior+1.xml'}
+
+Resume+Senior+1_1_.xml		{u'Carnegie Mellon University, Pittsburgh, PA ': {'loc': 'New Hampshire', 'arr_pos': 0, 'associated_date': u'May 2016', 'GPA': u'3.24'}, u' Lebanon High School, Lebanon, NH ': {'loc': 'New Hampshire', 'arr_pos': 6, 'associated_date': u'June 2012'}, 'Misc': {'deanslist': False}, u'College of Engineering Dean\u2019s List, Spring 2013 ': {'loc': 'New Hampshire', 'arr_pos': 2, 'associated_date': u'June 2012', 'GPA': u'3.24'}, 'filename': 'Resume+Senior+1_1_.xml'}
+
+Resume+Sept+11+2010.xml		{u'The Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2010'}, 'Misc': {'deanslist': False}, 'filename': 'Resume+Sept+11+2010.xml'}
+
+Resume+Sofia+Rocher.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Sofia+Rocher.xml'}
+
+Resume+Suraj+Rao+2015+3.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Suraj+Rao+2015+3.xml'}
+
+Resume+v5+-+Chemist.xml		{'Misc': {'deanslist': False}, u'Alfred University, Alfred, NY': {'loc': 'Georgia', 'arr_pos': 4, 'associated_date': u'May 2012'}, 'filename': 'Resume+v5+-+Chemist.xml'}
+
+Resume+v5.xml		{'Misc': {'deanslist': False}, u'Cornell University: College of Engineering, Class of 2014 ': {'arr_pos': 0, 'GPA': u'3.93'}, 'filename': 'Resume+v5.xml'}
+
+Resume+Wit+Supervisor+.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume+Wit+Supervisor+.xml'}
+
+Resume-+Daniel+Coleman.xml		{u' Best University in  the Nation by US News & World Report)': {'loc': 'Pennsylvania', 'arr_pos': 3}, 'Misc': {'deanslist': False}, u'(Ranked #1 High School in Pennsylvania by Philadelphia Magazine)': {'loc': 'Pennsylvania', 'arr_pos': 9}, u'High School Diploma': {'arr_pos': 14}, u'University of Pennsylvania (': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'filename': 'Resume-+Daniel+Coleman.xml', u'The Haverford School ': {'loc': 'Pennsylvania', 'arr_pos': 8}}
+
+resume-1.xml		{'Misc': {'deanslist': False}, u'BOSTON UNIVERSITY, Boston, MA': {'loc': 'New Jersey', 'arr_pos': 0, 'associated_date': u'August 2007'}, 'filename': 'resume-1.xml'}
+
+Resume-2.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume-2.xml'}
+
+Resume-2_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume-2_1_.xml'}
+
+Resume-2_2_.xml		{u'Loyola University of Chicago / \u200b': {'arr_pos': 37, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, u'Graduated with a B.A. in Broadcast Journalism for Loyola Chicago\u2019s School of ': {'arr_pos': 40}, 'filename': 'Resume-2_2_.xml'}
+
+Resume-35.xml		{'Misc': {'deanslist': False}, u'Clonlara School  Ann Arbor, MI  ': {'loc': 'Michigan', 'arr_pos': 3}, u'New York University  New York, NY  ': {'loc': 'Michigan', 'arr_pos': 0}, 'filename': 'Resume-35.xml'}
+
+Resume-Brooke+Singman.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume-Brooke+Singman.xml'}
+
+Resume-JonesTwentyFourteen.xml		{u'Northeastern University, Boston, MA                                                               ': {'loc': 'Maine', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'Misc': {'deanslist': False}, 'filename': 'Resume-JonesTwentyFourteen.xml'}
+
+Resume-MCJ.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume-MCJ.xml'}
+
+Resume-MCJ_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume-MCJ_1_.xml'}
+
+Resume-Raphael+Dangtran+final.xml		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015', 'GPA': u'3.20'}, 'Misc': {'deanslist': False}, 'filename': 'Resume-Raphael+Dangtran+final.xml'}
+
+Resume-Raphael+Dangtran+final_1_.xml		{u'University of California, San Diego ': {'loc': 'California', 'arr_pos': 1, 'associated_date': u'June 2015', 'GPA': u'3.20'}, 'Misc': {'deanslist': False}, 'filename': 'Resume-Raphael+Dangtran+final_1_.xml'}
+
+resume..xml		{'Misc': {'deanslist': False}, 'filename': 'resume..xml'}
+
+Resume.Barker.2012_.xml		{'Misc': {'deanslist': False}, u'College of William and Mary, Williamsburg, VA ': {'loc': 'Virginia', 'arr_pos': 0}, 'filename': 'Resume.Barker.2012_.xml'}
+
+Resume.xml		{u'UNIVERSITY OF CALIFORNIA IRVINE, CA': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume.xml'}
+
+resume1.xml		{'Misc': {'deanslist': False}, 'filename': 'resume1.xml'}
+
+resume1_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'resume1_1_.xml'}
+
+Resume2.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume2.xml'}
+
+Resume2011.xml		{'Misc': {'deanslist': False}, u'University of Florida   ': {'loc': 'Florida', 'arr_pos': 3}, 'filename': 'Resume2011.xml'}
+
+resume2012.xml		{'Misc': {'deanslist': False}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'filename': 'resume2012.xml'}
+
+resume2012_1_.xml		{'Misc': {'deanslist': False}, u'University of California San Diego ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'June 2013'}, 'filename': 'resume2012_1_.xml'}
+
+Resume2015+_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume2015+_1_.xml'}
+
+resume_++aug+2013+updated.xml		{'Misc': {'deanslist': False}, 'filename': 'resume_++aug+2013+updated.xml'}
+
+resume_10_.xml		{u'The Pennsylvania State University, Media, PA                                 ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, 'filename': 'resume_10_.xml'}
+
+resume_11_.xml		{'Misc': {'deanslist': False}, 'filename': 'resume_11_.xml'}
+
+Resume_12_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_12_.xml'}
+
+RESUME_13_.xml		{'filename': 'RESUME_13_.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2013'}}
+
+Resume_14_.xml		{'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 2}, 'filename': 'Resume_14_.xml'}
+
+Resume_15_.xml		{'Misc': {'deanslist': False}, u'Pennsylvania State University, State College, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'filename': 'Resume_15_.xml'}
+
+Resume_16_.xml		{'Misc': {'deanslist': False}, u'Pennsylvania State University, State College, Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'filename': 'Resume_16_.xml'}
+
+RESUME_17_.xml		{'Misc': {'deanslist': False}, 'filename': 'RESUME_17_.xml'}
+
+Resume_18_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_18_.xml'}
+
+Resume_19_.xml		{u'University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.41'}, 'Misc': {'deanslist': False}, u' St. Joseph\u2019s Preparatory School                     Philadelphia, PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'GPA': u'3.65'}, 'filename': 'Resume_19_.xml'}
+
+Resume_1_.xml		{'Misc': {'deanslist': False}, u'University of California at Santa Barbara, Santa Barbara, CA': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Jun 2015'}, 'filename': 'Resume_1_.xml'}
+
+resume_2007.xml		{'Misc': {'deanslist': False}, u'University of Notre Dame, Notre Dame, IN': {'loc': 'Florida', 'arr_pos': 0}, u'St. Mary\u2019s College Spain Program, Seville, Spain   Spring Semester 2006 ': {'loc': 'Florida', 'arr_pos': 10}, 'filename': 'resume_2007.xml'}
+
+resume_2014.xml		{'Misc': {'deanslist': False}, u'in Integrated Studies, Concentration: Cultural Studies and Art, Cascadia Community College ': {'loc': 'Washington', 'arr_pos': 5, 'associated_date': u'December 2010'}, 'filename': 'resume_2014.xml'}
+
+resume_2014_1_.xml		{'Misc': {'deanslist': False}, u'in Integrated Studies, Concentration: Cultural Studies and Art, Cascadia Community College ': {'loc': 'Washington', 'arr_pos': 5, 'associated_date': u'December 2010'}, 'filename': 'resume_2014_1_.xml'}
+
+resume_2015.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2014'}, 'Misc': {'deanslist': False}, 'filename': 'resume_2015.xml'}
+
+RESUME_20_.xml		{'Misc': {'deanslist': False}, 'filename': 'RESUME_20_.xml'}
+
+RESUME_21_.xml		{'Misc': {'deanslist': False}, 'filename': 'RESUME_21_.xml'}
+
+Resume_22_.xml		{u'William Tennent High School, Warminster, PA': {'loc': 'Pennsylvania', 'arr_pos': 3, 'associated_date': u'June 2005'}, 'Misc': {'deanslist': False}, 'filename': 'Resume_22_.xml', u'West Chester University of Pennsylvania, West Chester, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2009'}}
+
+Resume_23_.xml		{'Misc': {'deanslist': False}, u'The George Washington University': {'loc': 'District of Columbia', 'arr_pos': 2}, 'filename': 'Resume_23_.xml'}
+
+Resume_24_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_24_.xml'}
+
+ResumE_25_.xml		{'Misc': {'deanslist': False}, u'George Washington University ': {'loc': 'District of Columbia', 'arr_pos': 0, 'associated_date': u'May 2006'}, u'OECD, World Bank, Charles University (Prague), Hungarian Parliament. (Spring 2005)': {'arr_pos': 21}, u'Elliot School of International Affairs': {'arr_pos': 2, 'associated_date': u'May 2006'}, 'filename': 'ResumE_25_.xml'}
+
+Resume_26_.xml		{u'Trinity College Dean\u2019s Award, Fall 2008- Spring 2012': {'arr_pos': 7}, 'Misc': {'deanslist': False}, u'Trinity Washington University. Washington, D.C': {'loc': 'Washington', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.7'}, 'filename': 'Resume_26_.xml'}
+
+Resume_2_.xml		{u'UNIVERSITY OF CALIFORNIA IRVINE, CA': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume_2_.xml'}
+
+Resume_3_.xml		{'Misc': {'deanslist': False}, u'University of California at Santa Barbara, Santa Barbara, CA': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Jun 2015'}, 'filename': 'Resume_3_.xml'}
+
+Resume_4_.xml		{u'New York University, New York, NY, B.A. in Metropolitan Studies, minor in Public Health, ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2010', 'GPA': u'3.674'}, u'Tantasqua Regional High School, Fiskdale, MA High School Diploma, June 2006- Top 5%': {'loc': 'Massachusetts', 'arr_pos': 3, 'associated_date': u'June 2006'}, 'Misc': {'deanslist': False}, u'New York University, New York, NY Associate\u2019s Degree, May 2008 \u2013 GPA 3.626': {'loc': 'Massachusetts', 'arr_pos': 2, 'associated_date': u'May 2008', 'GPA': u'3.626'}, 'filename': 'Resume_4_.xml'}
+
+Resume_5_.xml		{u'The Pennsylvania State University Capital College, Middletown, PA ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.11'}, 'Misc': {'deanslist': False}, 'filename': 'Resume_5_.xml'}
+
+Resume_6_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_6_.xml'}
+
+Resume_7_.xml		{u'   University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'December 2014'}, 'Misc': {'deanslist': False}, u'State College, PA  ': {'loc': 'Pennsylvania', 'arr_pos': 11, 'associated_date': u'June 2014'}, u'Pennsylvania State University                                                                                    ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2014'}, 'filename': 'Resume_7_.xml'}
+
+Resume_8_.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_8_.xml'}
+
+resume_9_.xml		{'Misc': {'deanslist': False}, 'filename': 'resume_9_.xml'}
+
+Resume_Aviva+Koloski.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_Aviva+Koloski.xml'}
+
+Resume_Baker_Wyatt++_1_--gd.xml		{u'Columbia University ': {'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Baker_Wyatt++_1_--gd.xml'}
+
+Resume_Baker_Wyatt++_1_--gd_1_.xml		{u'Columbia University ': {'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Baker_Wyatt++_1_--gd_1_.xml'}
+
+Resume_Baker_Wyatt++_1_--gd_2_.xml		{u'Columbia University ': {'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Baker_Wyatt++_1_--gd_2_.xml'}
+
+Resume_Bankers+Life+.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_Bankers+Life+.xml'}
+
+Resume_CY-2.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_CY-2.xml'}
+
+Resume_Geng_Li_RA_LA.xml		{u'University of California in San Diego, CA': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Geng_Li_RA_LA.xml'}
+
+Resume_Geng_Li_RA_LA_1_.xml		{u'University of California in San Diego, CA': {'loc': 'California', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Geng_Li_RA_LA_1_.xml'}
+
+Resume_Khan%2c+Pratiti.xml		{u'Georgia Perimeter College, Clarkston, Georgia                                                                                                     January 2012 \u2013 July 2013 ': {'loc': 'Georgia', 'arr_pos': 5, 'associated_date': u'July 2013'}, u'Bangladesh University of Engineering & Technology, Dhaka, Bangladesh                                                   May 2010 \u2013 August 2011 ': {'arr_pos': 8, 'associated_date': u'August 2011'}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Khan%2c+Pratiti.xml'}
+
+Resume_LA_.xml		{u'Organizations: Boston University Marketing Club, Alpha Delta Pi Sorority ': {'arr_pos': 24}, u'Boston University School of Management ': {'loc': 'Massachusetts', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'Resume_LA_.xml'}
+
+Resume_Matthew+Ritonia.xml		{u'University of Rochester': {'loc': 'New York', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Matthew+Ritonia.xml'}
+
+RESUME_new.xml		{u'Pennsylvania State University, University Park, PA             Completion Date: December 2005': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2005'}, 'Misc': {'deanslist': False}, 'filename': 'RESUME_new.xml'}
+
+Resume_Pedraza_050815+US+docx.xml		{'Misc': {'deanslist': False}, 'filename': 'Resume_Pedraza_050815+US+docx.xml'}
+
+Resume_Sokso_03162015.xml		{u'An Affiliate of The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 1}, 'Misc': {'deanslist': False}, 'filename': 'Resume_Sokso_03162015.xml', u'Pennsylvania College of Technology, Williamsport, PA    Expected 05/15 ': {'loc': 'Pennsylvania', 'arr_pos': 0}}
+
+Resume_Zachary+Harney.xml		{'Misc': {'deanslist': False}, u'GEORGIA INSTITUTE OF TECHNOLOGY, Scheller College of Business ': {'loc': 'Georgia', 'arr_pos': 3, 'associated_date': u'May 2016', 'GPA': u'3.62'}, 'filename': 'Resume_Zachary+Harney.xml'}
+
+ResumeCV.xml		{'Misc': {'deanslist': False}, 'filename': 'ResumeCV.xml'}
+
+resumedirkvanhookteller..xml		{'Misc': {'deanslist': False}, u'1999-2003 Bachelor of Science in Advertising, University of Florida': {'loc': 'Florida', 'arr_pos': 1}, 'filename': 'resumedirkvanhookteller..xml'}
+
+resumeDNF.xml		{u'University of Florida': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'filename': 'resumeDNF.xml', 'Misc': {'deanslist': False}, u'Winter Park High School': {'loc': 'Florida', 'arr_pos': 9, 'associated_date': u'May 2008'}, u'Santa Fe College': {'loc': 'Florida', 'arr_pos': 5, 'associated_date': u'May 2011'}}
+
+resumeDNF_1_.xml		{u'University of Florida': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'May 2014'}, 'filename': 'resumeDNF_1_.xml', 'Misc': {'deanslist': False}, u'Winter Park High School': {'loc': 'Florida', 'arr_pos': 9, 'associated_date': u'May 2008'}, u'Santa Fe College': {'loc': 'Florida', 'arr_pos': 5, 'associated_date': u'May 2011'}}
+
+ResumeMay2015.xml		{'Misc': {'deanslist': False}, 'filename': 'ResumeMay2015.xml'}
+
+ResumeMay2015_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'ResumeMay2015_1_.xml'}
+
+ResumePDF.xml		{'Misc': {'deanslist': False}, 'filename': 'ResumePDF.xml'}
+
+RESUMEwaterengineering.xml		{'Misc': {'deanslist': False}, 'filename': 'RESUMEwaterengineering.xml'}
+
+revised+resume+8-25.xml		{'Misc': {'deanslist': False}, 'filename': 'revised+resume+8-25.xml'}
+
+Richard+Quaicoe+Engineering+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Richard+Quaicoe+Engineering+Resume.xml'}
+
+Risikat+Oshodi-+Accounting+and+Finance+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Risikat+Oshodi-+Accounting+and+Finance+Resume.xml'}
+
+Risikat+Oshodi-+Accounting+and+Finance+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Risikat+Oshodi-+Accounting+and+Finance+Resume_1_.xml'}
+
+Robert+C.+LoCurto-+Resume.xml		{'Misc': {'deanslist': False}, u'New York University, Bachelor of Science in Sports Management   May 2011': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2011'}, 'filename': 'Robert+C.+LoCurto-+Resume.xml'}
+
+Rose+Espinoza-Resume.SD.xml		{'Misc': {'deanslist': False}, 'filename': 'Rose+Espinoza-Resume.SD.xml'}
+
+Rose+Espinoza-Resume.SD_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Rose+Espinoza-Resume.SD_1_.xml'}
+
+Ross+Johnson+Resume.xml		{'filename': 'Ross+Johnson+Resume.xml', 'Misc': {'deanslist': False}, u'University of Illinois at Urbana-Champaign, College of Liberal Arts and Sciences ': {'loc': 'Illinois', 'arr_pos': 2, 'associated_date': u'December 2014', 'GPA': u'3.14'}}
+
+Ruby+Resume..xml		{'Misc': {'deanslist': False}, 'filename': 'Ruby+Resume..xml'}
+
+Ryan+Barclay+-+Resume+%26+References.xml		{'filename': 'Ryan+Barclay+-+Resume+%26+References.xml', 'Misc': {'deanslist': False}, u'West Chester University of Pennsylvania, West Chester, PA                                                                                May 2014': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.364'}}
+
+Ryan+Resume+RED.xml		{'Misc': {'deanslist': False}, 'filename': 'Ryan+Resume+RED.xml'}
+
+Ryan+Resume+RED_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Ryan+Resume+RED_1_.xml'}
+
+S_RintelResume.xml		{u'BFA West Chester University of Pennsylvania, 2009': {'loc': 'Pennsylvania', 'arr_pos': 0}, 'Misc': {'deanslist': False}, 'filename': 'S_RintelResume.xml'}
+
+Sachel+Sengupta+Resume.xml		{u'Carnegie Mellon University ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, u'City University of New York, Energy Institute ': {'loc': 'Indiana', 'arr_pos': 37}, 'filename': 'Sachel+Sengupta+Resume.xml'}
+
+Sachel+Sengupta+Resume_1_.xml		{u'Carnegie Mellon University ': {'loc': 'Indiana', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, u'City University of New York, Energy Institute ': {'loc': 'Indiana', 'arr_pos': 37}, 'filename': 'Sachel+Sengupta+Resume_1_.xml'}
+
+Salona+Patel+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Salona+Patel+Resume.xml'}
+
+Samir+Mehta+Resume..xml		{u'Dartmouth College ': {'loc': 'Florida', 'arr_pos': 11, 'associated_date': u'August 2011', 'GPA': u'3.10'}, u'Thayer School of Engineering at Dartmouth College ': {'loc': 'Florida', 'arr_pos': 0, 'associated_date': u'June 2012', 'GPA': u'3.45'}, 'Misc': {'deanslist': False}, u'Shanghai Jiao Tong University ': {'loc': 'Florida', 'arr_pos': 24, 'associated_date': u'June 2011'}, 'filename': 'Samir+Mehta+Resume..xml'}
+
+Sample+Resume.xml		{'Misc': {'deanslist': False}, u'BA, Government, Cornell University, Ithaca, NY': {'loc': 'New York', 'arr_pos': 0}, 'filename': 'Sample+Resume.xml'}
+
+Sara+Michele+Laracy+-+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Sara+Michele+Laracy+-+Resume.xml'}
+
+SARAH+DARCY.xml		{u'The Pennsylvania State University ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 2015', 'GPA': u'3.0'}, 'Misc': {'deanslist': False}, 'filename': 'SARAH+DARCY.xml'}
+
+Sean+M.+Pacheco+Resume.xml		{u'B.S. Degree in Mechanical Engineering Stanford University': {'arr_pos': 0, 'associated_date': u'December 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Sean+M.+Pacheco+Resume.xml'}
+
+Sean+M.+Pacheco+Resume_1_.xml		{u'B.S. Degree in Mechanical Engineering Stanford University': {'arr_pos': 0, 'associated_date': u'December 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Sean+M.+Pacheco+Resume_1_.xml'}
+
+Sean+M.+Pacheco+Resume_2_.xml		{u'B.S. Degree in Mechanical Engineering Stanford University': {'arr_pos': 0, 'associated_date': u'December 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Sean+M.+Pacheco+Resume_2_.xml'}
+
+SeHoonKyleYoonResume.xml		{'Misc': {'deanslist': False}, 'filename': 'SeHoonKyleYoonResume.xml'}
+
+Sen+Han+Yang+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Sen+Han+Yang+Resume.xml'}
+
+Sen+Han+Yang+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Sen+Han+Yang+Resume_1_.xml'}
+
+sgoodman_resume-gmail.xml		{'Misc': {'deanslist': False}, 'filename': 'sgoodman_resume-gmail.xml'}
+
+sheilaoshearesume.2014.office.paralegal.xml		{'Misc': {'deanslist': False}, 'filename': 'sheilaoshearesume.2014.office.paralegal.xml'}
+
+sheilaoshearesume.2014.office.paralegal_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'sheilaoshearesume.2014.office.paralegal_1_.xml'}
+
+sheilaoshearesume.2014.office.paralegal_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'sheilaoshearesume.2014.office.paralegal_2_.xml'}
+
+ShoshanaSanSolo_resume.xml		{'Misc': {'deanslist': False}, u'Yeshiva University, Stern College for Women, New York, NY': {'loc': 'New York', 'arr_pos': 4, 'associated_date': u'May 2013', 'GPA': u'3.74'}, u'Columbia University, The Fu Foundation School of Engineering and Applied Science, New York, NY': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2015', 'GPA': u'3.44'}, 'filename': 'ShoshanaSanSolo_resume.xml'}
+
+Snigdha+Gupta+Resume+2015.xml		{'Misc': {'deanslist': False}, u'Boston University School of Management; Boston, MA                                                                                       May 2015 ': {'loc': 'Massachusetts', 'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.46'}, 'filename': 'Snigdha+Gupta+Resume+2015.xml'}
+
+Social+Media+Customer+Strategy+Specialist.xml		{'Misc': {'deanslist': False}, u'SHIPPENSBURG UNIVERSITY OF PENNSYLVANIA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.87'}, 'filename': 'Social+Media+Customer+Strategy+Specialist.xml'}
+
+Sofia+Herrero+Resume+Summer+2015+Current.xml		{'Misc': {'deanslist': False}, 'filename': 'Sofia+Herrero+Resume+Summer+2015+Current.xml'}
+
+SSeitler+Resume.xml		{u'Boston University, Sargent College, Boston, MA ': {'loc': 'Massachusetts', 'arr_pos': 10}, 'Misc': {'deanslist': False}, u'University of Massachusetts Dartmouth, Dartmouth, MA, GPA 3.1  ': {'loc': 'Massachusetts', 'arr_pos': 5, 'associated_date': u'May 2009', 'GPA': u'3.1'}, 'filename': 'SSeitler+Resume.xml'}
+
+Stephanie+Hricak%27s+Resume+.xml		{'Misc': {'deanslist': False}, 'filename': 'Stephanie+Hricak%27s+Resume+.xml'}
+
+Stephanie+Moore+Resume_2_.xml		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 10}, 'filename': 'Stephanie+Moore+Resume_2_.xml', 'Misc': {'deanslist': False}, u'Chestnut Hill College': {'loc': 'Pennsylvania', 'arr_pos': 1}}
+
+Stephen+Brown+Resume+1.xml		{'Misc': {'deanslist': False}, 'filename': 'Stephen+Brown+Resume+1.xml'}
+
+Stephen+Brown+Resume+1_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Stephen+Brown+Resume+1_1_.xml'}
+
+Steven+Hricko+Resume-2.xml		{u'Slippery Rock University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'August 2012'}, u'Millersville University of Pennsylvania, Millersville, PA                 Anticipated Graduation Date: August 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Steven+Hricko+Resume-2.xml'}
+
+Steven+Hricko+Resume-2_1_.xml		{u'Slippery Rock University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'August 2012'}, u'Millersville University of Pennsylvania, Millersville, PA                 Anticipated Graduation Date: August 2015 ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'August 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Steven+Hricko+Resume-2_1_.xml'}
+
+Striegel_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Striegel_Resume.xml'}
+
+STUTTSresumeFEB2015.xml		{'Misc': {'deanslist': False}, 'filename': 'STUTTSresumeFEB2015.xml'}
+
+STUTTSresumeFEB2015_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'STUTTSresumeFEB2015_1_.xml'}
+
+STUTTSresumeFEB2015_2_.xml		{'Misc': {'deanslist': False}, 'filename': 'STUTTSresumeFEB2015_2_.xml'}
+
+Summer+Calendine+resume.xml		{'filename': 'Summer+Calendine+resume.xml', 'Misc': {'deanslist': False}, u'M.S. Human Resources Training & Development, Amberton University, Frisco, TX': {'loc': 'Florida', 'arr_pos': 0}, u'B.S. Business Management, University of Florida, Gainesville, FL': {'loc': 'Florida', 'arr_pos': 1}}
+
+Sunmook+Yun+Resume.xml		{'Misc': {'deanslist': False}, u'THE GEORGE WASHINGTON UNIVERSITY, School of Business                 ': {'loc': 'Washington', 'arr_pos': 2, 'associated_date': u'May 2015', 'GPA': u'3.2'}, 'filename': 'Sunmook+Yun+Resume.xml'}
+
+t_dalton_resume.xml		{'Misc': {'deanslist': False}, 'filename': 't_dalton_resume.xml'}
+
+TabithaLeeResume.xml		{'filename': 'TabithaLeeResume.xml', 'Misc': {'deanslist': False}, u'University \xa0of \xa0California \xa0San \xa0Diego \xa0': {'loc': 'California', 'arr_pos': 1}}
+
+TabithaLeeResume_1_.xml		{'filename': 'TabithaLeeResume_1_.xml', 'Misc': {'deanslist': False}, u'University \xa0of \xa0California \xa0San \xa0Diego \xa0': {'loc': 'California', 'arr_pos': 1}}
+
+Taylor.Griffon.Resume.4.10.xml		{u'The Pennsylvania State University, University Park, PA August 2011- May 2015  ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2015'}, 'Misc': {'deanslist': False}, 'filename': 'Taylor.Griffon.Resume.4.10.xml'}
+
+TaylorTrimbleResume.xml		{'Misc': {'deanslist': False}, u'Duke University, Sanford School of Public Policy ': {'arr_pos': 0, 'associated_date': u'May 2015', 'GPA': u'3.38'}, 'filename': 'TaylorTrimbleResume.xml'}
+
+Temitayo+Odunlami_Professional+R%c3%a9sum%c3%a9.xml		{'Misc': {'deanslist': False}, 'filename': 'Temitayo+Odunlami_Professional+R%c3%a9sum%c3%a9.xml'}
+
+Tess_Bryant_Resume.xml		{u'University of Florida, Gainesville, Florida  ': {'loc': 'Florida', 'arr_pos': 2, 'associated_date': u'August 2011', 'GPA': u'3.66'}, 'Misc': {'deanslist': False}, 'filename': 'Tess_Bryant_Resume.xml'}
+
+Thalia+Patrinos.Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Thalia+Patrinos.Resume.xml'}
+
+timnicolresume..xml		{'Misc': {'deanslist': False}, u'College': {'arr_pos': 10}, u'College of William and Mary, Williamsburg, VA': {'loc': 'Virginia', 'arr_pos': 0, 'associated_date': u'May 2011', 'GPA': u'3.85'}, 'filename': 'timnicolresume..xml'}
+
+tims+resume.xml		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 1999'}, 'Misc': {'deanslist': False}, 'filename': 'tims+resume.xml'}
+
+tims+resume_1_.xml		{u'Kutztown University of Pennsylvania': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'December 1999'}, 'Misc': {'deanslist': False}, 'filename': 'tims+resume_1_.xml'}
+
+Tom+Resume.xml		{'filename': 'Tom+Resume.xml', 'Misc': {'deanslist': False}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Tom+Resume_1_.xml		{'filename': 'Tom+Resume_1_.xml', 'Misc': {'deanslist': False}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Tom+Resume_2_.xml		{'filename': 'Tom+Resume_2_.xml', 'Misc': {'deanslist': False}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Tom+Resume_3_.xml		{'filename': 'Tom+Resume_3_.xml', 'Misc': {'deanslist': False}, u'New York University Polytechnic School of Engineering ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'May 2015'}}
+
+Tracey_Resume.xml		{'filename': 'Tracey_Resume.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2015', 'GPA': u'3.49'}}
+
+Tracey_Resume_1_.xml		{'filename': 'Tracey_Resume_1_.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park ': {'loc': 'Pennsylvania', 'arr_pos': 4, 'associated_date': u'May 2015', 'GPA': u'3.49'}}
+
+Trevor+Parkes+Graduate+Resume+2.xml		{'Misc': {'deanslist': False}, u'The College of William and Mary, Williamsburg, VA ': {'loc': 'Virginia', 'arr_pos': 2, 'GPA': u'3.59'}, 'filename': 'Trevor+Parkes+Graduate+Resume+2.xml'}
+
+Tyla+Landry+Resume--gd.xml		{'Misc': {'deanslist': False}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'March 2016'}, 'filename': 'Tyla+Landry+Resume--gd.xml'}
+
+Tyler+Ainge+Resume.xml		{u'Pennsylvania State University': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2014', 'GPA': u'3.67'}, u' University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 4, 'GPA': u'3.67'}, 'Misc': {'deanslist': False}, 'filename': 'Tyler+Ainge+Resume.xml'}
+
+Tyler+Brown+Resume+C.xml		{'Misc': {'deanslist': False}, 'filename': 'Tyler+Brown+Resume+C.xml'}
+
+United+Community+Outreach+Coordinator+Resume.xml		{u'The Pennsylvania State University, University Park, PA    ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2014', 'GPA': u'3.53'}, 'Misc': {'deanslist': False}, u'National University of Ireland, Galway, Ireland ': {'arr_pos': 9}, 'filename': 'United+Community+Outreach+Coordinator+Resume.xml'}
+
+Updated+December+Resume.xml		{'filename': 'Updated+December+Resume.xml', 'Misc': {'deanslist': False}, u'August 2009- Present: The George Washington University ': {'loc': 'New York', 'arr_pos': 0, 'associated_date': u'August 2009', 'GPA': u'3.2'}, u'September 2004-Present: Iona Preparatory School, New Rochelle, New York.  ': {'loc': 'New York', 'arr_pos': 6, 'associated_date': u'September 2004'}, u'August 2008-May 2009 (Transferred): Roger Williams University, Bristol Rhode Island': {'loc': 'New York', 'arr_pos': 2, 'associated_date': u'May 2009', 'GPA': u'3.2'}}
+
+Updated+Resume+2006+_vertical_.xml		{'filename': 'Updated+Resume+2006+_vertical_.xml', 'Misc': {'deanslist': False}, u'The Pennsylvania State University, University Park, PA': {'loc': 'Pennsylvania', 'arr_pos': 0, 'GPA': u'3.93'}}
+
+Updated+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Updated+Resume.xml'}
+
+Updated_Ron_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Updated_Ron_Resume.xml'}
+
+Usher_Peter_Resume.xml		{'Misc': {'deanslist': False}, u'University of Florida, Gainesville, FL ': {'loc': 'Florida', 'arr_pos': 6}, 'filename': 'Usher_Peter_Resume.xml'}
+
+Val+Kharkover-Resume.xml		{'Misc': {'deanslist': False}, u'Cornell University, Ithaca NY ': {'loc': 'New York', 'arr_pos': 1, 'associated_date': u'May 2016', 'GPA': u'3.56'}, u'Fordham University, Bronx NY ': {'loc': 'New York', 'arr_pos': 9, 'associated_date': u'May 2014', 'GPA': u'3.47'}, 'filename': 'Val+Kharkover-Resume.xml'}
+
+Vaniyapun_Resume15.xml		{'Misc': {'deanslist': False}, u'Northwestern University, Evanston, IL ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'June 2015', 'GPA': u'3.35'}, 'filename': 'Vaniyapun_Resume15.xml'}
+
+Venkatesh+Bharadwaj+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Venkatesh+Bharadwaj+Resume.xml'}
+
+Vincenz+Current+Resume.xml		{'Misc': {'deanslist': False}, u'The Hill School, Pottstown, Pennsylvania ': {'loc': 'Pennsylvania', 'arr_pos': 15, 'associated_date': u'May 2010'}, u'New York University, New York City, New York  ': {'loc': 'Pennsylvania', 'arr_pos': 8, 'associated_date': u'May 2010'}, 'filename': 'Vincenz+Current+Resume.xml'}
+
+Waleed+Chaudhry-CV--db.xml		{'Misc': {'deanslist': False}, 'filename': 'Waleed+Chaudhry-CV--db.xml'}
+
+Waleed+Chaudhry-CV--db_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Waleed+Chaudhry-CV--db_1_.xml'}
+
+WC-RESUME.xml		{'Misc': {'deanslist': False}, u'University of Illinois Champaign-Urbana                                                ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.20'}, 'filename': 'WC-RESUME.xml'}
+
+WC-RESUME_1_.xml		{'Misc': {'deanslist': False}, u'University of Illinois Champaign-Urbana                                                ': {'loc': 'Illinois', 'arr_pos': 0, 'associated_date': u'May 2012', 'GPA': u'3.20'}, 'filename': 'WC-RESUME_1_.xml'}
+
+Weidi+Shen+resume.xml		{'Misc': {'deanslist': False}, u'High School Diploma ': {'loc': 'Ohio', 'arr_pos': 28, 'associated_date': u'May 2011'}, u'The Pennsylvania State University, University Park, PA ': {'loc': 'Ohio', 'arr_pos': 21, 'associated_date': u'May 2011'}, 'filename': 'Weidi+Shen+resume.xml'}
+
+WendongRui_Resume+Ver5.05.xml		{u'University of Minnesota': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2012', 'GPA': u'3.8'}, 'Misc': {'deanslist': False}, u'Harvard University': {'loc': 'Massachusetts', 'arr_pos': 16, 'associated_date': u'Aug 2011'}, 'filename': 'WendongRui_Resume+Ver5.05.xml'}
+
+WendongRui_Resume+Ver5.05_1_.xml		{u'University of Minnesota': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2012', 'GPA': u'3.8'}, 'Misc': {'deanslist': False}, u'Harvard University': {'loc': 'Massachusetts', 'arr_pos': 16, 'associated_date': u'Aug 2011'}, 'filename': 'WendongRui_Resume+Ver5.05_1_.xml'}
+
+WendongRui_Resume+Ver5.05_2_.xml		{u'University of Minnesota': {'loc': 'Massachusetts', 'arr_pos': 1, 'associated_date': u'May 2012', 'GPA': u'3.8'}, 'Misc': {'deanslist': False}, u'Harvard University': {'loc': 'Massachusetts', 'arr_pos': 16, 'associated_date': u'Aug 2011'}, 'filename': 'WendongRui_Resume+Ver5.05_2_.xml'}
+
+Will+Johnson%27s+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Will+Johnson%27s+Resume.xml'}
+
+Will+Johnson%27s+Resume_1_.xml		{'Misc': {'deanslist': False}, 'filename': 'Will+Johnson%27s+Resume_1_.xml'}
+
+WinstonResume.xml		{u'University of California, Los Angeles  ': {'loc': 'District of Columbia', 'arr_pos': 3}, 'Misc': {'deanslist': False}, 'filename': 'WinstonResume.xml'}
+
+WinstonResume_1_.xml		{u'University of California, Los Angeles  ': {'loc': 'District of Columbia', 'arr_pos': 3}, 'Misc': {'deanslist': False}, 'filename': 'WinstonResume_1_.xml'}
+
+Wong%2c+Jonathan+-+Resume+2015+September.xml		{'Misc': {'deanslist': False}, 'filename': 'Wong%2c+Jonathan+-+Resume+2015+September.xml', u'Boston University, Questrom School of Business \u2013 GPA: 3.27 ': {'loc': 'Massachusetts', 'arr_pos': 1, 'GPA': u'3.27'}, u'Boston College High School ': {'loc': 'Massachusetts', 'arr_pos': 7}}
+
+xu+staffing+resume.xml		{'Misc': {'deanslist': False}, 'filename': 'xu+staffing+resume.xml'}
+
+Yanjie+Lei+Resume_Job_.xml		{'Misc': {'deanslist': False}, 'filename': 'Yanjie+Lei+Resume_Job_.xml'}
+
+Yifei+Wang+resume.xml		{'Misc': {'deanslist': False}, u'University  of California  Berkeley                                                                                                 Berkeley,  CA': {'loc': 'California', 'arr_pos': 1, 'GPA': u'3.52'}, 'filename': 'Yifei+Wang+resume.xml'}
+
+Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28.xml		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28.xml', u'\u2013 College of Letters & Science ': {'arr_pos': 1, 'associated_date': u'Dec 2013'}}
+
+Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28_1_.xml		{u'University of California, Berkeley ': {'loc': 'California', 'arr_pos': 0, 'associated_date': u'Dec 2013'}, 'Misc': {'deanslist': False}, 'filename': 'Ying+Fung+Tse%27s+Resume_GIS_oriented_5-28_1_.xml', u'\u2013 College of Letters & Science ': {'arr_pos': 1, 'associated_date': u'Dec 2013'}}
+
+Yongyang+_Julia_+Chen+Resume_NEW.xml		{u' University Park, PA ': {'loc': 'Pennsylvania', 'arr_pos': 1, 'associated_date': u'May 2017', 'GPA': u'3.90'}, 'Misc': {'deanslist': False}, u'The Pennsylvania State University, Smeal College of Business                                                                                   ': {'loc': 'Pennsylvania', 'arr_pos': 0, 'associated_date': u'May 2017', 'GPA': u'3.90'}, 'filename': 'Yongyang+_Julia_+Chen+Resume_NEW.xml'}
+
+Youakim_Sophie_Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Youakim_Sophie_Resume.xml'}
+
+Zachary+Goldrich+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'Zachary+Goldrich+Resume.xml'}
+
+ZHooda+Resume.xml		{'Misc': {'deanslist': False}, 'filename': 'ZHooda+Resume.xml'}
+
