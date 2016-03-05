@@ -322,11 +322,10 @@ edudata = np.array([extract_edu_info(BeautifulSoup(row[3])) for row in datanp])
 for rowdata, filename in zip(edudata, filenames):
      rowdata['filename'] = filename
 
-# CDS: ???
-i = 0
 
 # Write all raw education data to txt file for records.
 file_o = open(education_raw,"wb")
+i = 0 #counter over filenames
 for entry in edudata:
     file_o.write(filenames[i] + "\t\t" + str(entry))
     file_o.write("\n\n")
