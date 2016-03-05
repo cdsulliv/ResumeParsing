@@ -1,16 +1,26 @@
 # Change to directory with all resumes
 cd "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes"
+FILES="/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/AllPDFs"
 
-#unoconv --listener &
-for i in *.doc *.docx; do 
-unoconv -f pdf -o "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/WordPDFs" "$i"; 
+unoconv --listener &
+
+for i in *.doc; do 
+  name="${i%.*}"; 
+  if  [ ! -f "$FILES/${name}_doc.pdf" ];then
+      printf "$name\n";
+      unoconv -f pdf -o "$FILES/${name}_doc" "$i"; 
+  fi
 done 
 
-# Rename with a _doc at the end to distinguish from similarly named PDFs
-FILES="/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/WordPDFs"
-for i in "$FILES"/*; do echo "$i"; 
+for i in *.docx; do 
+  name="${i%.*}"; 
+  if [ ! -f "$FILES/${name}_docx.pdf" ];then
+      printf "$name\n";
+      unoconv -f pdf -o "$FILES/${name}_docx" "$i"; 
+  fi 
+done 
+kill -15 %-
 
-name="${i%.*}"; 
-mv "$i" "${name}_doc${i#$name}"; 
-
-done
+# Move files that were originally PDFs into the same directory and remove duplicates
+cp *.pdf "$FILES/"
+fdupes -d -N "$FILES"

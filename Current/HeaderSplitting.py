@@ -15,7 +15,7 @@ import ast
 from preprocessor import preprocess 
 
 ############   Set variables to local machine   #############
-xml_loc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/XML/OTHERS/"
+xml_loc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/XML/"
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
 headloc = "/Users/colin/Documents/ResumeParsing/Resume-Parsing/Current/Headings"
