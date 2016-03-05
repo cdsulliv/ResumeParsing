@@ -66,8 +66,10 @@ Input: CSV
 line 238 hardcodes the files it needs to read.
 Output: Writes new CSV file for each CSV input file
 
+6. Skills.py
+
 Need to Create:
-6. Awards and Honors; Achievements. Identify any major awards, and look for Dean's List here as well.
+7. Awards and Honors; Achievements. Identify any major awards, and look for Dean's List here as well.
 
 
 utilities.py - Contains one function for obtaining list of file. Can be replaced with one line of code; remove it from all files and delete
