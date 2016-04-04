@@ -36,7 +36,7 @@ TO DO:
 (c) Correct some misidentications. Why is Araujo%2c getting the wrong header?
 (d) Check the output. Currently outputting 1167 lines of file information from 1123 files, with ~40 lines of weird text. 
 
-3. After-Oct-2015/BioAndEducation.py
+3. BioAndEducation.py
 Parse the bio section and the education section.
 Requires Stanford Tagger (NER). Need to update line 284 to reflect location of .jar file on local machine.
 Update line 362 to reflect location of files in local machine.

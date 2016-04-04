@@ -23,12 +23,15 @@ import sys
 import csv
 from collections import Counter
 import dateutil.parser 
+from datetime import datetime, date
 
 ############   Set variables to local machine   #############
 taggerloc_gz ='/Users/colin/Downloads/stanford-ner-2015-04-20/classifiers/english.all.3class.distsim.crf.ser.gz'
 taggerloc_jar ='/Users/colin/Downloads/stanford-ner-2015-04-20/stanford-ner.jar'
-datasplit = '/Users/colin/Documents/ResumeParsing/Resume-Parsing/HeaderSplitData.csv'
+datasplit = '/Users/colin/Documents/ResumeParsing/Resume-Parsing/Current/HeaderSplitData.csv'
 statesfile = '/Users/colin/Documents/ResumeParsing/Resume-Parsing/Data/OutsideSources/states.csv'
+#allmajorsfile = '/Users/colin/Documents/ResumeParsing/Resume-Parsing/Data/OutsideSources/CIPCode2010.csv'
+
 
 # Writes 2 files:
 # 1) education_raw.txt holds the raw education data as dictionaries for each education entry. This can be used for troubleshooting.
@@ -59,9 +62,13 @@ def get_gpa(arr):
 
 def get_deanslist(arr):
     text = [ele.text for ele in arr]
-    deans = any([re.match("Dean's List|Deans List|Dean's list|dean's list", line) for line in text])
+    deans = any([re.search("Dean's List|Deans List|Dean's list|dean's list", line) for line in text])
     return deans
 
+def get_major(arr):
+    text = [ele.text for ele in arr]
+    major = [line for line in text if re.search("BA|BS|B.A.|B.S.|Bachelor|Major", line)]
+    return major
 
 def extract_edu_info(soup):
     #print soup
@@ -104,7 +111,7 @@ def extract_edu_info(soup):
 
             date = re.findall(r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|June|July|August|September|October|November|December|Sept)\s\d{4}', item)
             date_text = ""
-            print date
+            #print date
             if date:
                 if len(date)==2:
                     date_text = date[1]
@@ -145,14 +152,14 @@ def extract_edu_info(soup):
                     exist_val["loc"] = st_name
                     univ_list[key] = exist_val
                     break;
+              
+    # Major
+    univ_list["Major"] = get_major(arr)
 
-
-
-
-    #Misc Items from here
+    # Misc Items from here
     deanslist = get_deanslist(arr)
     univ_list["Misc"] = {"deanslist":deanslist}
-
+    
     return univ_list
 
 
@@ -182,9 +189,6 @@ def extract_name(soup,st):
 
 
 # In[9]:
-
-#CDS: Changed both functions from re.match() to re.search to find matches in the middle of lines
-
 def extract_email(soup):
     arr = soup.findAll("text")
 
@@ -299,7 +303,7 @@ def preprocess(soup):
 
 
 ### Extract education data from all resumes                
-with open(datasplit, 'rb') as f:
+with open(datasplit, 'rbU') as f:
     reader = csv.reader(f)
     datanp = np.array([row for row in reader])
 
@@ -351,7 +355,9 @@ with open(EducationData,'w') as out_file:
                     graddates.append(value['associated_date'])
 
         # Collect year from different possible graduation dates
-        gradyears = [dateutil.parser.parse(date).year for date in graddates]
+        default_date = datetime.combine(date.today(), datetime.min.time()).replace(day=1)
+
+        gradyears = [dateutil.parser.parse(adate, default=default_date).year for adate in graddates]
         twodatesflag = (len(graddates) > 1)
 
         # Decision rules: use MAXIMUM GPA and MAXIMUM graduation date
@@ -367,7 +373,7 @@ with open(EducationData,'w') as out_file:
 
         filename = adic['filename']
         degreetype = "DEGREE PLACEHOLDER"
-        major = "MAJOR PLACEHOLDER"
+        major = adic['Major']
         deanslist = adic['Misc']['deanslist']
 
         row = [filename, gradyear, degreetype, major, GPA, deanslist, twodatesflag] 

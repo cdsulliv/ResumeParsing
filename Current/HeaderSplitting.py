@@ -13,6 +13,9 @@ from bs4 import BeautifulSoup
 import csv
 import ast
 from preprocessor import preprocess 
+import fileinput
+import string
+
 
 ############   Set variables to local machine   #############
 xml_loc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/XML/"
@@ -20,11 +23,15 @@ fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
 headloc = "/Users/colin/Documents/ResumeParsing/Resume-Parsing/Current/Headings"
 outputloc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Output"
+outputfile = "HeaderSplitData.csv"
 #############################################################
 
 HEAD_PATTERN = "\S[A-Z \d / : ]+$" 
 PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", "certifications", "organizations and activites", 
-                    "extracurricular activities", "leadership experience", "volunteer experience", "skills"]
+                    "extracurricular activities", "leadership experience", "volunteer experience", "skills", "coursework", 
+                     "education and coursework"]
+NEVER_HEADINGS = "university|institute"
+
 
 def getAllHeadings(filename=""):
     f = open(filename, "r")
@@ -51,8 +58,14 @@ class ParseText(object):
         for bold in bolds:
             line = bold.string
             if line:
-                prob_head = line.strip().lower() 
-                if prob_head in PROBABLE_HEADINGS and line not in headings:
+                prob_head = line.strip().lower()  
+                
+                prob_head = filter(lambda x: x in set(string.letters).union(set(' ')), prob_head).strip()
+                
+                exclude = set(string.punctuation)
+                prob_head = ''.join(ch for ch in prob_head if ch not in exclude)                        
+                
+                if (prob_head in PROBABLE_HEADINGS) and (line not in headings):
                     #print "heading2: ", line
                     headings.append(line)
                     start_index = content_new.index(str(bold))
@@ -60,9 +73,7 @@ class ParseText(object):
         
         print "OLD HEADINGS: ", headings
         print "HEADING index: ", heading_indexes        
-        if len(headings)<2:
-            print "new method"
-            
+        if len(headings)<2:            
             texts = soup.find_all("text")
             # All CAPS:
             for t in texts:
@@ -188,13 +199,16 @@ if __name__ == "__main__":
     PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_other.txt'))
     
     PROBABLE_HEADINGS = list(set(PROBABLE_HEADINGS))
+    PROBABLE_HEADINGS = [x for x in PROBABLE_HEADINGS if not re.search(NEVER_HEADINGS, x)]
 
     # Get list of files for iteration
     XMLSet = [f for f in fileset if f.endswith(".xml")]
     XMLNames = [f for f in filenames if f.endswith(".xml")]
     assert len(XMLSet) == len(XMLNames) 
-        
-    with open ("HeaderSplitData.csv", 'w') as csvfile:
+    
+    xmlset = set()
+                
+    with open (outputfile, 'w') as csvfile:
 
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
@@ -211,6 +225,8 @@ if __name__ == "__main__":
             pt = ParseText(xml_filepath, text_filepath)
             content = pt.readXmlToString()
             content_list = pt.readXMLToList()
+            if content in xmlset: continue # Skip duplicates
+            xmlset.add(content)
 
             try: # CDS: Eventually, should remove this "try". Right now, allows you to keep going despite errors.
                 heading_indexes, headings = pt.findHeadings(content, content_list, PROBABLE_HEADINGS)
@@ -227,7 +243,7 @@ if __name__ == "__main__":
             '''    
             #print "BIO: ", bio
             #print "HEADINGS: ",  headings
-            edu, isXml = pt.find_this(content, content_list, ["ducation"], [], headings, heading_indexes)
+            edu, isXml = pt.find_this(content, content_list, ["ducation", "ducaton"], [], headings, heading_indexes)
             exp, isXml = pt.find_this(content, content_list, ["xperience", "mployment", 'areer', 'istory', 'rofessional', 'work'], ['bjective', 'ourse'], headings, heading_indexes)
 
             leadExp, x = pt.find_this(content, content_list, ["eadership", 'ommunity', 'xtracurricular', 'ctivities', 'rganizations'], [], headings, heading_indexes)
@@ -235,26 +251,32 @@ if __name__ == "__main__":
             skills, isXml = pt.find_this(content, content_list, ["kills"], [], headings, heading_indexes)
             languages, isXml = pt.find_this(content, content_list, ["languages", 'foreign'], ['omputer', 'programming'], headings, heading_indexes)
 
-            if leadExp:
-                isLead  = "TRUE"
+            if leadExp: isLead  = "TRUE"
            
 
             volunExp, y = pt.find_this(content, content_list, ["olunteer"], [], headings, heading_indexes)
-            if volunExp:
-                isVolunt = "TRUE"
+            if volunExp: isVolunt = "TRUE"
 
             volOrLead = False
-            if isLead or isVolunt:
-                volOrLead = "TRUE"
+            if isLead or isVolunt: volOrLead = "TRUE"
 
-            if not headings:
-                isXml = "NULL"
+            if not headings: isXml = "NULL"
+                
             
             # Write a row of data to CSV
-            row = [xml_filename, headings, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]
-
+            row = [xml_filename, headings, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]      
+            
             csvwriter.writerow(row)
 
+    # Remove duplicates from the file in place
+#    seen = set() # set for fast O(1) amortized lookup
+#    for line in fileinput.FileInput(outputfile, inplace=1):
+#        if (line in seen): continue # skip duplicates
+
+#        seen.add(line)
+#        print line, # standard output is now redirected to the file  
+            
+            
 #        csvwriter.writerow('')
 #        csvwriter.writerow(['Empty count: ', '=COUNTIF(B1:B702, "[]"', '=COUNTIF(C1:C702, ""','=COUNTIF(D1:D702, ""', '=COUNTIF(E1:E702, ""', '=COUNTIF(F1:F702, ""'])
 #        csvwriter.writerow(['Error count: ', '=COUNTIF(B1:B702, "*ERROR*"'])

@@ -2,18 +2,23 @@ import re
 import csv
 import numpy as np
 
+############   Set variables to local machine   #############
+stateabbrevfile = '/Users/colin/Documents/ResumeParsing/Resume-Parsing/Data/OutsideSources/StateAbbreviations.csv'
+#############################################################
+
+
 # Define time regexes and location regexes
 months = "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
 seasons = "Spring", "Summer", "Fall", "Autumn", "Winter"
 
-with open('StateAbbreviations.csv', 'rb') as f:
+with open(stateabbrevfile, 'rb') as f:
     states = np.array([row for row in csv.reader(f.read().splitlines())])
 abbrevs = '|'.join(['^' + x + '$' for x in states[1:,1]])
-
+fullstate = '|'.join(['^' + x.title() + '$' for x in states[1:,0]])
 
 def islocation(txt):
     txt = ''.join(e for e in txt if e.isalnum())
-    regx = re.search(re.compile(abbrevs, re.IGNORECASE),txt)
+    regx = re.search(re.compile(abbrevs),txt)
     return (regx is not None)
 
 
@@ -33,16 +38,17 @@ def iscompany(txt):
 def textsplit(txt):
     nosplit = []
     # Split the text into separate sections. Identify all delimiters here
-    delims = '-|,'
+    delims = "-|,|\(|\)|u'\u2013'"
     splitted = re.split(delims,txt)
-    dellist = [x for i, x in enumerate(txt) if x in [',', '-']]
+    dellist = [x for i, x in enumerate(txt) if x in [',', '-', '(', ')', u'\u2013']]
 
     # Identify the index of locations, dates, and company names that should not be split
     # Locations
     locs = [islocation(x) for x in splitted]
-    if True in locs:
-        nosplit = [locs.index(True) - 1]
 
+    if True in locs and dellist:
+        nosplit = [locs.index(True) - 1]
+    print(nosplit)
     # Dates
     aredates = [isdate(x) for x in splitted]
     dateindices = [i for i, x in enumerate(aredates) if x == True]
@@ -53,7 +59,7 @@ def textsplit(txt):
             print(joined)
     # Company Names
     comps = [iscompany(x) for x in splitted]
-    if True in comps:
+    if True in comps and dellist:
         nosplit.append(comps.index(True) - 1)
 
     # Re-join select elements, and keep a list of them

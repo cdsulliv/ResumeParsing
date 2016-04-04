@@ -8,144 +8,77 @@ Manager
 Accountant
 Accounting
 Actuarial
-Administrative Assistant
+Assistant
 Analyst
-Analyst
-Applications Engineer
+Engineer
 Architect
 Architectural
-Art Director
-Assistant Manager
-Assistant Store Manager
-Assistant Vice President
+Director
+President
 Associate
-Associate
-Associate Consultant
-Associate Director
+Consultant
+Attendant
+Volunteer
 Attorney
-Audit
-Audit Associate
-Audit Associate
-Audit Staff
+Staff
 Auditor
-Branch Manager
-Business Analyst
-Business Analyst
-Business Development Manager
 Cashier
-Civil Engineer
-Civil Engineering
-College
+Barista
 Communications
 Consultant
-Consultant
-Co-Op
-Co-Op Engineer
-Co-Op Student
+Student
 Representative
-Data Analyst
-Design Engineer
-Design Engineer
+Designer
 Developer
-Developer
-Director
 Editorial
-EID
-Electrical Engineer
-Electrical Engineer
 Engineer
-Engineer
-Engineering
-Engineering Co-Op
-Engineering Manager
-Executive
-Executive Assistant
-Finance
-Finance Manager
-Financial Advisor
-Financial Analyst
-Financial Analyst
-Financial Representative
-Flight Attendant
-General Manager
-Graduate
-Graduate Research
-Graduate Research Assistant
-Graduate Technical
-Graphic Designer
-Graphic Designer
-Hardware Engineer
-Interim Engineering
+Advisor
+Adviser
+Analyst
+Representative
+Researcher
 Intern
-Investment Banking Analyst
-Investment Banking Summer Analyst
-IT
-IT Analyst
-IT Analyst
-It Manager
-IT Specialist
-Law Clerk
-Management Trainee
+Specialist
+Clerk
+Trainee
+Member
+Staff
 Manager
-Manager
-Marketing
-Marketing Assistant
-Marketing Director
-Marketing Manager
-MBA
-Mechanical Engineer
-Mechanical Engineer
-Mechanical Engineering
-Member Technical Staff
-Member Technical Staff
-Network Engineer
-Manager
-Operations Analyst
-Operations Manager
-Personal Banker
+Banker
 Pharmacist
-Pharmacist
-Pharmacy
-Principal Consultant
-Principal Engineer
-Principal Software Engineer
-Process Engineer
-Process Engineer
-Product Manager
-Product Manager
-Product Marketing Manager
-Program Manager
-Program Manager
+Operator
+Lifeguard
 Programmer
-Programmer
-Programmer Analyst
-Programmer Analyst
-Project Engineer
-Project Engineer
-Project Manager
-Project Manager
-Public Relations
-QA
-QA Engineer
-R&D
+Officer
 Recruiter
-Registered Nurse
-Research
-Research Analyst
-Research Assistant
-Research Assistant
-Research Associate
-Research Associate
+Nurse
+Technician
 Associate
 Engineer
-Manager
 Representative
-Senior Accountant
-Senior Analyst
-Senior Associate
-Senior Business Analyst
-Senior Consultant
-Senior Director
-Senior Engineer
-Senior Financial Analyst
-receptionist
+Receptionist
+Waiter
+Waitress
+Busser
+Driver
+Lawyer
+Professional
+Staffer
+Scientist
+Secretary
+Teacher
+Hostess
+Supervisor
+Server
+Worker
+Janitor
+Aide
+Cook
+Leader
+Salesman
+Saleswoman
+Salesperson
+Liaison
+Usher
+Attendant
+Counselor
