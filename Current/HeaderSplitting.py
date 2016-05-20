@@ -18,12 +18,12 @@ import string
 
 
 ############   Set variables to local machine   #############
-xml_loc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/XML/"
+xml_loc = "/Users/njsorscher/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/Test_XML/"
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
-headloc = "/Users/colin/Documents/ResumeParsing/Resume-Parsing/Current/Headings"
-outputloc = "/Users/colin/Dropbox/Resume-audit/Scraping Project/Output"
-outputfile = "HeaderSplitData.csv"
+headloc = "/Users/njsorscher/ResumeParsing/Current/Headings"
+outputloc = "/Users/njsorscher/Dropbox/Resume-audit/Scraping Project/Output"
+outputfile = "HeaderSplitData-testPre.csv"
 #############################################################
 
 HEAD_PATTERN = "\S[A-Z \d / : ]+$" 
@@ -32,68 +32,62 @@ PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", 
                      "education and coursework"]
 NEVER_HEADINGS = "university|institute"
 
-
+#Reads in list of headings from the text file in the data folder
 def getAllHeadings(filename=""):
     f = open(filename, "r")
     lines = f.readlines()
     headings = [line.strip() for line in lines]
     return headings
 
+#Overarching object for parsing the XML
 class ParseText(object):
     """docstring for ParseTextme"""
     def __init__(self, xml_filepath="", text_filepath = ""):
         self.xml_filepath = xml_filepath
         self.text_filepath = text_filepath
         self.isXml = True
-
-    def findHeadings(self, content, content_list, PROBABLE_HEADINGS):
-        # headings is a list containing the headings. heading_index is a list of the starting indices of each heading.
-        # Function will guarantee the two lists are of equal length, or will throw an error.
+    
+    #Function to find headings within an XML Resume by comparing with the list from the text files
+    def findHeadings(self, PROBABLE_HEADINGS, soup):
         heading_indexes = []
         headings = []
-        content_new = ''.join(content_list) 
-        soup = BeautifulSoup(content_new)
-        #soup = preprocess(p_soup)
+
+        
+        #Search through all text for 'b' tags, most likely indicator of a heading
         bolds = soup.find_all('b')
         for bold in bolds:
-            line = bold.string
+            line = bold.get_text()
             if line:
-                prob_head = line.strip().lower()  
-                
+                prob_head = line.strip().lower()
+
                 prob_head = filter(lambda x: x in set(string.letters).union(set(' ')), prob_head).strip()
                 
                 exclude = set(string.punctuation)
                 prob_head = ''.join(ch for ch in prob_head if ch not in exclude)                        
                 
-                if (prob_head in PROBABLE_HEADINGS) and (line not in headings):
-                    #print "heading2: ", line
-                    headings.append(line)
-                    start_index = content_new.index(str(bold))
-                    heading_indexes.append(start_index)
-        
-        print "OLD HEADINGS: ", headings
-        print "HEADING index: ", heading_indexes        
+                #Check if the text of the bold tag matches a header in the probable headers list
+                for head in PROBABLE_HEADINGS:
+                    if head == prob_head:
+                        #Set the "header" attribute to "Y" so it is easy to find in the Soup
+                        bold.parent['header'] = 'Y'
+                        headings.append(bold.parent)
+
+        #Search for Uppercase headers if not enough bold ones are found
         if len(headings)<2:            
             texts = soup.find_all("text")
-            # All CAPS:
             for t in texts:
                 line = t.text
                 if line: 
                     if (line.isupper() and not re.search("GPA|G.P.A", line) and len(line)>5):
-                        # CDS: Need to correct the encoding here - .encode('ascii', 'replace')
-                        headings.append(str(line))
-                        start_index = content_new.index(str(line))
-                        heading_indexes.append(start_index)
-                        if len(heading_indexes) != len(headings):
-                            print content_new.index(str(line))
+                        
+                        t['header'] = 'Y'
+                        
+                        headings.append(t)
 
-                            print "Error is CAPS heading indexes (%d) doesn't match length of headings (%d)." % (len(heading_indexes), len(headings))
-                        print "The error is in UPPER"
-            print "CAPS headings: ", headings
-            print "CAPS heading_indexes: ", heading_indexes
-
-        if len(headings)<2:            
-            # Underline
+        #If not enough bold tags were found search for underlined headers 
+        #(not sure about this logic, but left it in because it was there before - haven't checked if 
+        #it ever actually finds anything)
+        if len(headings)<2:
             texts = soup.find_all("text")
             for t in texts:
                 line = t.text
@@ -101,23 +95,18 @@ class ParseText(object):
                     try:
                         # Search for underscore used as underline, and line contains alphabet character
                         if re.search('___', line) and len(line) > 5 and re.search('[a-zA-Z]', line):
-                            headings.append(line)
-                            start_index = content_new.index(str(line))
-                            heading_indexes.append(start_index)
-
+                            headings.append(t)
+                            t['header'] = 'Y'
                         # If line doesn't contain alphabet character, take the NEXT line as header
                         if re.search('___', line) and len(line) > 5 and not re.search('[a-zA-Z]', line):
                             headings.append("This contains a horizontal rule with no text")
                     except:
                         print "the error is in Underline"                
 
-            #print content
-            print "Underline headings: ", headings
-            print "Underline heading_indexes: ", heading_indexes        
- 
-        assert len(heading_indexes) == len(headings)
-        return heading_indexes, headings
-    
+        return headings
+        
+    #Function to locate the bio section, as far as I can tell it is never called but I left it 
+    #as a precaution
     def find_bio(self, content, content_list, headings, heading_indexes):
         if self.isXml:
             if heading_indexes:
@@ -134,42 +123,44 @@ class ParseText(object):
                 
         return None
 
-    def find_this(self, content, content_list, head, avoid, headings, heading_indexes):
-        ''' Searches for any of a list of strings (head) in headings. Returns the information associated with that heading
-                if a string from head is matched and a string from avoid is not matched.
-        '''
-        if self.isXml:
-            if headings:
-                for h in range(len(headings)):
-                    heading = headings[h]
-                    heading = heading.replace(" ", "")
-                    # 
-                    if (any([txt in heading.lower() for txt in head]) and not any([txt in heading.lower() for txt in avoid])) :
-                        start_index = heading_indexes[h]
-                        if h+1 <= len(heading_indexes)-1:
-                            next_index = heading_indexes[h+1]
-                            edu = content[start_index:next_index]     
+    ''' 
+    Searches for any of a list of strings (head) in headings. Returns the information associated 
+    with that heading if a string from head is matched and a string from avoid is not matched.
+    '''
+    def find_this(self, soup, head, avoid):
+
+        headings = list(soup.find_all('text', {'header' : 'Y'}))
+
+        if headings:
+            for h in headings:
+                #For each heading check whether any match the header or avoid lists
+                if (any([txt in h.get_text().lower() for txt in head]) and not 
+                    any([txt in h.get_text().lower() for txt in avoid])) :
+                    texts = list(soup.find_all('text'))
+                    ret = ''
+                    add = False
+
+                    #Go through all tags, add them to the return if they are after the proper header
+                    #but before the next header
+                    for text in texts:
+                        if h.get_text() in text.get_text():
+                            add = True
+
+                        for n in headings:
+                            if n.get_text() in text.get_text():
+                                add = False
+
+                        if add:
+                            ret = ret + text.encode()
+
                         else:
-                            edu = content[start_index:]
-
-                        return edu, self.isXml        
-        else:
-             if headings:
-                for h in range(len(headings)):
-                    heading = headings[h]
-                    if (any([txt in heading.lower() for txt in head]) and not any([txt in heading.lower() for txt in avoid])) :
-                        start_index = heading_indexes[h]
-                        if h+1 <= len(heading_indexes)-1:
-                            next_index = heading_indexes[h+1]
-                            edu_list = content_list[start_index:next_index]     
-                        else:
-                            edu_list = content_list[start_index:]
-
-
-                        return ''.join(edu_list), self.isXml                       
-        
+                            break
+                    #I believe the self.isXml variable is useless, but have not fully tested without it
+                    #so I am leaving it for now
+                    return ret, self.isXml
         return None, self.isXml        
 
+    #Functions for reading in the xml/text files and writing out the csv output
     def readXmlToString(self):
         out = file(self.xml_filepath, "r").read()            
         return out
@@ -185,13 +176,14 @@ class ParseText(object):
             out = []                
         return out
 
-
     def writeToCsv(self, filename=""):
         with open (filename, 'w', newline='') as csvfile:
             csvwriter = csv.writer(csvfile, dialect='excel')
             csvwriter.writerow(['bio'])
 
+
 if __name__ == "__main__":
+    #Assemble list of probable headings
     PROBABLE_HEADINGS = getAllHeadings(headloc+'/set_of_headings_1.txt')
     print "OLD LEN: ", len(PROBABLE_HEADINGS)
     PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_boston.txt'))
@@ -213,48 +205,44 @@ if __name__ == "__main__":
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
         
-        #print i, file_year    
         for xml_filename, xml_filepath in zip(XMLNames, XMLSet):
+            
             isLead = False
             isVolunt = False
-         
+            
             print "filename: ", xml_filename
 
             text_filepath = outputloc + xml_filename + ".txt"
                 
             pt = ParseText(xml_filepath, text_filepath)
             content = pt.readXmlToString()
-            content_list = pt.readXMLToList()
+            
+            #content_list variable is not used anymore, but is still used in the getBio code that I left so I left this here too
+            #content_list = pt.readXMLToList()
             if content in xmlset: continue # Skip duplicates
             xmlset.add(content)
 
-            try: # CDS: Eventually, should remove this "try". Right now, allows you to keep going despite errors.
-                heading_indexes, headings = pt.findHeadings(content, content_list, PROBABLE_HEADINGS)
-            except:
-                headings = 'ERROR: ENCODING'
-                print "fix headings"
-            #assert len(heading_indexes) == len(headings)
-
-
-            bio = pt.find_bio(content, content_list, headings, heading_indexes)
-            '''
-            if not bio:
-                bio = content
-            '''    
-            #print "BIO: ", bio
-            #print "HEADINGS: ",  headings
-            edu, isXml = pt.find_this(content, content_list, ["ducation", "ducaton"], [], headings, heading_indexes)
-            exp, isXml = pt.find_this(content, content_list, ["xperience", "mployment", 'areer', 'istory', 'rofessional', 'work'], ['bjective', 'ourse'], headings, heading_indexes)
-
-            leadExp, x = pt.find_this(content, content_list, ["eadership", 'ommunity', 'xtracurricular', 'ctivities', 'rganizations'], [], headings, heading_indexes)
+            soup = BeautifulSoup(content)
             
-            skills, isXml = pt.find_this(content, content_list, ["kills"], [], headings, heading_indexes)
-            languages, isXml = pt.find_this(content, content_list, ["languages", 'foreign'], ['omputer', 'programming'], headings, heading_indexes)
+            #Preprocess using preprocessor.py
+            preprocess(soup)
+            
+            #Get headings
+            headings = pt.findHeadings(PROBABLE_HEADINGS, soup)
+            
+            #bio = pt.find_bio(content, content_list, headings, heading_indexes)
+
+
+            #Use find_this function to find edu, exp, leadership, skills, languages, volunteer
+            edu, isXml = pt.find_this(soup, ["education", "educaton"], [])
+            exp, isXml = pt.find_this(soup, ["experience", "employment", 'career', 'history', 'professional', 'work'], ['objective', 'course'])
+            leadExp, x = pt.find_this(soup, ["leadership", 'community', 'extracurricular', 'activities', 'organizations'], [])
+            skills, isXml = pt.find_this(soup, ["kills"], [])
+            languages, isXml = pt.find_this(soup, ["languages", 'foreign'], ['computer', 'programming'])
 
             if leadExp: isLead  = "TRUE"
            
-
-            volunExp, y = pt.find_this(content, content_list, ["olunteer"], [], headings, heading_indexes)
+            volunExp, y = pt.find_this(soup, ["volunteer"], [])
             if volunExp: isVolunt = "TRUE"
 
             volOrLead = False
@@ -267,52 +255,4 @@ if __name__ == "__main__":
             row = [xml_filename, headings, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]      
             
             csvwriter.writerow(row)
-
-    # Remove duplicates from the file in place
-#    seen = set() # set for fast O(1) amortized lookup
-#    for line in fileinput.FileInput(outputfile, inplace=1):
-#        if (line in seen): continue # skip duplicates
-
-#        seen.add(line)
-#        print line, # standard output is now redirected to the file  
             
-            
-#        csvwriter.writerow('')
-#        csvwriter.writerow(['Empty count: ', '=COUNTIF(B1:B702, "[]"', '=COUNTIF(C1:C702, ""','=COUNTIF(D1:D702, ""', '=COUNTIF(E1:E702, ""', '=COUNTIF(F1:F702, ""'])
-#        csvwriter.writerow(['Error count: ', '=COUNTIF(B1:B702, "*ERROR*"'])
-        
-            # First and biggest issue: 'ascii' codec can't encode characters in position 9-10: ordinal not in range(128)
-            # Something wrong with the codec, so some characters are marked as ascii errors. These seem related to some bullet points and some horizontal rules (AChoi)
-            ### Leads to different lengths beween len(heading_indexes) and len(heading). This is causing problems in May+2015+Resume.doc.
-
-            ### CDS: Bio section is returning all the png files. I think these lines must be due to pictures included in the first part of resumes. 
-            # Must exclude the png's - adds tens of thousands of rows to the output csv. Temporarily removed bio information until rectified.
-
-
-            ### Need to check that duplicates are getting removed, but NOT name duplicates. Should include all unique files called "Resume.xml", for instsance.
-            # After removing pure duplicates, only have 322 resumes. Is this right?
-
-            # For Underlined headings: also look for "___" used as horizontal rule, collect line AFTER (ZHOODA.pdf)
-                # This doesn't occur in any of the cases we currently have in XML. (ZHOODA doesn't get converted)
-
-
-        # Remove duplicate rows from CSV file, save as SectionSplit_NoDups.csv - NOT WORKING. WRITING OUT MANY LINES OF XML        
-            # About 70 lines of CSV are text, not resume entries. Example:
-            # <text top=""155"" left=""54"" width=""198"" height=""17"" font=""3""><b>(SOME TEXT WITH UNRECOGNIZED CHARACTER ENCODINGS)</b></text>
-
-#        with open('split_v.csv','r') as in_file, open('SectionSplit_NoDups.csv','w') as out_file:
-
-#            seen = set() 
-#            for line in in_file:
- #               if line in seen: continue # skip duplicate
-
-  #              seen.add(line)
-  #              csvwriter.writerow(line)
-                         
-    '''filepath = "/home/shreya/Wharton/1.xml"
-    pt = ParseText(filepath)
-    content = pt.readFile()     
-    #pt.findHeadings(content) 
-    print pt.find_bio(content)
-    #print "a"
-    '''

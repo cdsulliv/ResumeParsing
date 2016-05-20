@@ -33,11 +33,11 @@
   wf.fn <- as.vector(read.csv('fn_whitefemales.csv')[,'BFNAME'])
   w.ln <- as.vector(read.csv('ln_white.csv')[,'name'])
   w.ln <- w.ln[!is.na(w.ln)]
-  wm.ln.samp <- sample(w.ln, sampsize)  
-  wm.fn.samp <- sample(wm.fn, sampsize)  
+  wm.ln.samp <- sample(w.ln[1:sampsize], sampsize)
+  wm.fn.samp <- sample(wm.fn[1:sampsize], sampsize)
   
-  wf.fn.samp <- sample(wf.fn, sampsize)  
-  wf.ln.samp <- sample(w.ln, sampsize)  
+  wf.fn.samp <- sample(f.fn[1:sampsize], sampsize)
+  wf.ln.samp <- sample(w.ln[1:sampsize], sampsize)
   
   white.male.sample <- paste(proper(wm.fn.samp), proper(wm.ln.samp))
   white.female.sample <- paste(proper(wf.fn.samp), proper(wf.ln.samp))
@@ -49,11 +49,11 @@
   bm.fn <- as.vector(read.csv('fn_blackmales.csv')[,'BFNAME'])
   bf.fn <- as.vector(read.csv('fn_blackfemales.csv')[,'BFNAME'])
   b.ln <- as.vector(read.csv('ln_black.csv')[,'name'])
-  bm.ln.samp <- sample(b.ln, sampsize)  
-  bm.fn.samp <- sample(bm.fn, sampsize)  
+  bm.ln.samp <- sample(b.ln[1:sampsize], sampsize)  
+  bm.fn.samp <- sample(bm.fn[1:sampsize], sampsize)  
   
-  bf.fn.samp <- sample(bf.fn, sampsize)  
-  bf.ln.samp <- sample(b.ln, sampsize)  
+  bf.fn.samp <- sample(bf.fn[1:sampsize], sampsize)  
+  bf.ln.samp <- sample(b.ln[1:sampsize], sampsize)  
 
   black.male.sample <- paste(proper(bm.fn.samp), proper(bm.ln.samp))
   black.female.sample <- paste(proper(bf.fn.samp), proper(bf.ln.samp))
@@ -65,11 +65,11 @@
   am.fn <- as.vector(read.csv('fn_asianmales.csv')[,'BFNAME'])
   af.fn <- as.vector(read.csv('fn_asianfemales.csv')[,'BFNAME'])
   a.ln <- as.vector(read.csv('ln_asian.csv')[,'name'])
-  am.ln.samp <- sample(a.ln, sampsize)  
-  am.fn.samp <- sample(am.fn, sampsize)  
+  am.ln.samp <- sample(a.ln[1:sampsize], sampsize)  
+  am.fn.samp <- sample(am.fn[1:sampsize], sampsize)  
   
-  af.fn.samp <- sample(af.fn, sampsize)  
-  af.ln.samp <- sample(a.ln, sampsize)  
+  af.fn.samp <- sample(af.fn[1:sampsize], sampsize)  
+  af.ln.samp <- sample(a.ln[1:sampsize], sampsize)  
   
   asian.male.sample <- paste(proper(am.fn.samp), proper(am.ln.samp))
   asian.female.sample <- paste(proper(af.fn.samp), proper(af.ln.samp))
@@ -82,11 +82,11 @@
   hf.fn <- as.vector(read.csv('fn_hispanicfemales.csv')[,'BFNAME'])
   h.ln <- as.vector(read.csv('ln_hispanic.csv')[,'name'])
   
-  hm.ln.samp <- sample(h.ln, sampsize)  
-  hm.fn.samp <- sample(hm.fn, sampsize)  
+  hm.ln.samp <- sample(h.ln[1:sampsize], sampsize)  
+  hm.fn.samp <- sample(hm.fn[1:sampsize], sampsize)  
   
-  hf.fn.samp <- sample(hf.fn, sampsize)  
-  hf.ln.samp <- sample(h.ln, sampsize)  
+  hf.fn.samp <- sample(hf.fn[1:sampsize], sampsize)  
+  hf.ln.samp <- sample(h.ln[1:sampsize], sampsize)  
   
   hispanic.male.sample <- paste(proper(hm.fn.samp), proper(hm.ln.samp))
   hispanic.female.sample <- paste(proper(hf.fn.samp), proper(hf.ln.samp))

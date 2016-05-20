@@ -58,9 +58,6 @@ To do:
 Parse Leadership experience section.
 Calls on the sports list and identifies frats, sports, clubs & orgs
 
-Right now, only reads the sample. Need to update to pull from CSV with Leadership section.
-No output, only prints to screen.
-
 5. Experience.py
 Input: CSV 
 line 238 hardcodes the files it needs to read.
