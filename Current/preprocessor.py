@@ -45,9 +45,12 @@ def join(to_join):
 
     #Inner text of the single letter
     new_text = first_tag.get_text()
+    wid = int(first_tag['width'])
+    
     #Add each subsequent tag's text and delete each tag
     for tag in to_join[1:]:
         new_text = new_text + tag.get_text()
+        wid = wid + int(tag['width'])
         tag.decompose()
 
     #Edit the original tag
@@ -58,6 +61,8 @@ def join(to_join):
         inner[0].contents[0].string = new_text
     else:
         first_tag.string = new_text
+        
+    first_tag['width'] = wid
 
 #Finds all letters in a string
 def get_chars(text):
@@ -107,53 +112,31 @@ def merge_lines(soup):
                 tag = tags[i]
                 next_index = i + 1
 
-                #Check if the entire tag is bold/italic/both/none
+                if next_index < l:
+                    nexttag = tags[next_index]
+                    end = int(tag['left']) + int(tag['width']) 
+                    nextstart = int(nexttag['left'])
+                    
+                    # check that the beginning of each tag is within the range of other one's ending
+                    if nextstart in range(end - 2, end + 3):
 
-                if is_bold_italic(tag):
-                    if next_index < l:
-                        next = tags[next_index]
-
-                        #If the current tag and the next are both <b><i>, join them
-                        if is_bold_italic(next):
-                            line_join(tag, next, True)
+                        #Check if the entire tag is bold/italic/both/none
+                        #If the current tag and the next have the same formatting, join them
+                        if is_bold_italic(tag) and is_bold_italic(nexttag):
+                            line_join(tag, nexttag, True)
                             #delete the old tag
-                            next.decompose()
-                            #update the next tag to the combined version
-                            tags[next_index] = tag
+                            nexttag.decompose()
 
-                elif is_bold(tag):
-                
-                    if next_index < l:
-                        next = tags[next_index]
+                        elif (is_bold(tag) and is_bold(nexttag)) or (is_italic(tag) and is_italic(nexttag)):
+                            line_join(tag, nexttag, False)
+                            nexttag.decompose()
 
-                        #if the current tag and the next are both bold, join them
-                        if is_bold(next):
-                            line_join(tag, next, False)
-                            #delete old tag, update next one in list to combined version
-                            next.decompose()
-                            tags[next_index] = tag
-
-                elif is_italic(tag):
-                    if next_index < l:
-                        next = tags[next_index]
-
-                        #if the current tag and the next are both bold, join them
-                        if is_italic(next):
-                            line_join(tag, next, False)
-                            #delete old tag, update next one in list to combined version
-                            next.decompose()
-                            tags[next_index] = tag
-                else:
-                    if next_index < l:
-
-                        next = tags[next_index]
                         #If both the current and next tags are not bold or italic, join them
-                        if not is_italic(next) and not is_bold(next):
-                            clean_join(tag, next)
-                            #delete old tag, update next in list to combined tag
-                            #next.decompose()
-                            tags[next_index] = tag
+                        elif not is_italic(nexttag) and not is_bold(nexttag):
+                            clean_join(tag, nexttag)
 
+                        #update the next tag to the combined version
+                        tags[next_index] = tag
 
 
 
@@ -267,5 +250,4 @@ worse_splitting = ['Alice+Johnson+Resume+July+2015.xml',
                     'Jjones+official+resume+01+02+15_docx.xml', 
                     'JJohnson_July2015_Copywriter_docx.xml',
                     '2013+resume_docx.xml']
-main('Alex+Loube+resume_docx.xml')
 
