@@ -126,17 +126,21 @@ def merge_lines(soup):
                             line_join(tag, nexttag, True)
                             #delete the old tag
                             nexttag.decompose()
+                            #update the next tag to the combined version
+                            tags[next_index] = tag
 
                         elif (is_bold(tag) and is_bold(nexttag)) or (is_italic(tag) and is_italic(nexttag)):
                             line_join(tag, nexttag, False)
                             nexttag.decompose()
+                            #update the next tag to the combined version
+                            tags[next_index] = tag
 
                         #If both the current and next tags are not bold or italic, join them
                         elif not is_italic(nexttag) and not is_bold(nexttag):
                             clean_join(tag, nexttag)
+                            #update the next tag to the combined version
+                            tags[next_index] = tag
 
-                        #update the next tag to the combined version
-                        tags[next_index] = tag
 
 
 
