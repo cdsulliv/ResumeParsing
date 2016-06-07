@@ -153,8 +153,8 @@ class ParseText(object):
                         if add:
                             ret = ret + text.encode()
 
-                        else:
-                            break
+                        #else:
+                            #break
                     #I believe the self.isXml variable is useless, but have not fully tested without it
                     #so I am leaving it for now
                     return ret, self.isXml
