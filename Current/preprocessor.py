@@ -11,7 +11,7 @@ from collections import Counter
 def merge_sletters(soup):
     #Grab all text tags from the soup
     textLines = soup.find_all('text')
-    
+
     #Create list of key value pairs mapping each tag to its inner text
     texts = []
     for tag in textLines:
@@ -34,7 +34,7 @@ def merge_sletters(soup):
                 join_next = False
                 to_join = []
         #If the tag contains only one character, add it to the to_join list and set join_next to true
-        if len(get_chars(text)) == 1:
+        if len(get_chars(text)) == 1 and join_next == False:
             to_join.append(tag)
             join_next = True
 
@@ -49,7 +49,7 @@ def join(to_join):
     
     #Add each subsequent tag's text and delete each tag
     for tag in to_join[1:]:
-        new_text = new_text + tag.get_text()
+        new_text = new_text + tag.get_text().strip()
         wid = wid + int(tag['width'])
         tag.decompose()
 
@@ -212,13 +212,17 @@ def preprocess(soup):
 
 
 
-def main(filename):
+def main():
     '''
     soup = BeautifulSoup(open('output.xml'))
     for line in soup.find_all('text'):
         print line.contents
     '''
-    soup = BeautifulSoup(open(filename))
+    
+    #Testing preprocessor output on sample resume
+    filename = "Youakim_Sophie_Resume.xml"
+
+    soup = BeautifulSoup(open(filename), "html.parser")
     merge_sletters(soup)
 
     merge_lines(soup)
@@ -228,7 +232,7 @@ def main(filename):
     xml = soup.prettify("utf-8")
     with open("output.xml", "wb") as file:
         file.write(xml)
-    #print soup
+    #print soup.text
 
 def bs_preprocess(html):
      """remove distracting whitespaces and newline characters"""
@@ -252,4 +256,7 @@ worse_splitting = ['Alice+Johnson+Resume+July+2015.xml',
                     'Jjones+official+resume+01+02+15_docx.xml', 
                     'JJohnson_July2015_Copywriter_docx.xml',
                     '2013+resume_docx.xml']
+
+if __name__ == "__main__":
+    main()
 
