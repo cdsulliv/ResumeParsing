@@ -18,11 +18,11 @@ import string
 
 
 ############   Set variables to local machine   #############
-xml_loc = "/Users/njsorscher/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/Test_XML/"
+xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/Test_XML/"
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
-headloc = "/Users/njsorscher/ResumeParsing/Current/Headings"
-outputloc = "/Users/njsorscher/Dropbox/Resume-audit/Scraping Project/Output"
+headloc = "/Users/cutlerreynolds/git/ResumeParsing/Current/Headings"
+outputloc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output"
 outputfile = "HeaderSplitData-testPre.csv"
 #############################################################
 
@@ -46,13 +46,13 @@ class ParseText(object):
         self.xml_filepath = xml_filepath
         self.text_filepath = text_filepath
         self.isXml = True
-    
+
     #Function to find headings within an XML Resume by comparing with the list from the text files
     def findHeadings(self, PROBABLE_HEADINGS, soup):
         heading_indexes = []
         headings = []
 
-        
+
         #Search through all text for 'b' tags, most likely indicator of a heading
         bolds = soup.find_all('b')
         for bold in bolds:
@@ -61,10 +61,10 @@ class ParseText(object):
                 prob_head = line.strip().lower()
 
                 prob_head = filter(lambda x: x in set(string.letters).union(set(' ')), prob_head).strip()
-                
+
                 exclude = set(string.punctuation)
                 prob_head = ''.join(ch for ch in prob_head if ch not in exclude)                        
-                
+
                 #Check if the text of the bold tag matches a header in the probable headers list
                 for head in PROBABLE_HEADINGS:
                     if head == prob_head:
@@ -79,9 +79,9 @@ class ParseText(object):
                 line = t.text
                 if line: 
                     if (line.isupper() and not re.search("GPA|G.P.A", line) and len(line)>5):
-                        
+
                         t['header'] = 'Y'
-                        
+
                         headings.append(t)
 
         #If not enough bold tags were found search for underlined headers 
@@ -101,10 +101,12 @@ class ParseText(object):
                         if re.search('___', line) and len(line) > 5 and not re.search('[a-zA-Z]', line):
                             headings.append("This contains a horizontal rule with no text")
                     except:
-                        print "the error is in Underline"                
+                        print "the error is in Underline"  
+        
+        #TODO: If still not enough headers, search for keywords (EDUCATION, LEADERSHIP, etc...)              
 
         return headings
-        
+
     #Function to locate the bio section, as far as I can tell it is never called but I left it 
     #as a precaution
     def find_bio(self, content, content_list, headings, heading_indexes):
@@ -139,22 +141,19 @@ class ParseText(object):
                     texts = list(soup.find_all('text'))
                     ret = ''
                     add = False
-
                     #Go through all tags, add them to the return if they are after the proper header
                     #but before the next header
                     for text in texts:
                         if h.get_text() in text.get_text():
                             add = True
 
-                        for n in headings:
+                        for n in [he for he in headings if he != h]:
                             if n.get_text() in text.get_text():
                                 add = False
 
                         if add:
                             ret = ret + text.encode()
 
-                        #else:
-                            #break
                     #I believe the self.isXml variable is useless, but have not fully tested without it
                     #so I am leaving it for now
                     return ret, self.isXml
@@ -187,9 +186,9 @@ if __name__ == "__main__":
     PROBABLE_HEADINGS = getAllHeadings(headloc+'/set_of_headings_1.txt')
     print "OLD LEN: ", len(PROBABLE_HEADINGS)
     PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_boston.txt'))
-    PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_newyork.txt'))
+    PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/all_headings_newyork.txt'))
     PROBABLE_HEADINGS.extend(getAllHeadings(headloc+'/set_of_headings_other.txt'))
-    
+
     PROBABLE_HEADINGS = list(set(PROBABLE_HEADINGS))
     PROBABLE_HEADINGS = [x for x in PROBABLE_HEADINGS if not re.search(NEVER_HEADINGS, x)]
 
@@ -203,32 +202,33 @@ if __name__ == "__main__":
     with open (outputfile, 'w') as csvfile:
 
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(['FILENAME', 'HEADINGS', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
-        
+        csvwriter.writerow(['FILENAME', 'HEADINGS', 'HEADINGS_CLEAN', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
+
         for xml_filename, xml_filepath in zip(XMLNames, XMLSet):
-            
+
             isLead = False
             isVolunt = False
-            
+
             print "filename: ", xml_filename
 
             text_filepath = outputloc + xml_filename + ".txt"
-                
+
             pt = ParseText(xml_filepath, text_filepath)
             content = pt.readXmlToString()
-            
+
             #content_list variable is not used anymore, but is still used in the getBio code that I left so I left this here too
             #content_list = pt.readXMLToList()
             if content in xmlset: continue # Skip duplicates
             xmlset.add(content)
 
-            soup = BeautifulSoup(content)
-            
+            soup = BeautifulSoup(content, "html.parser")
+
             #Preprocess using preprocessor.py
             preprocess(soup)
-            
+
             #Get headings
             headings = pt.findHeadings(PROBABLE_HEADINGS, soup)
+            headingsclean = [h.get_text() for h in headings]
             
             #bio = pt.find_bio(content, content_list, headings, heading_indexes)
 
@@ -241,7 +241,7 @@ if __name__ == "__main__":
             languages, isXml = pt.find_this(soup, ["languages", 'foreign'], ['computer', 'programming'])
 
             if leadExp: isLead  = "TRUE"
-           
+
             volunExp, y = pt.find_this(soup, ["volunteer"], [])
             if volunExp: isVolunt = "TRUE"
 
@@ -249,10 +249,11 @@ if __name__ == "__main__":
             if isLead or isVolunt: volOrLead = "TRUE"
 
             if not headings: isXml = "NULL"
-                
-            
+
+
             # Write a row of data to CSV
-            row = [xml_filename, headings, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]      
-            
+            row = [xml_filename, headings, headingsclean, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]      
+
             csvwriter.writerow(row)
+
             
