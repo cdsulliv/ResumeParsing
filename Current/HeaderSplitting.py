@@ -18,7 +18,7 @@ import string
 
 
 ############   Set variables to local machine   #############
-xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Career Builder Resumes/Parsing Files/Test_XML/"
+xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Penn Clubs XML/"
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
 headloc = "/Users/cutlerreynolds/git/ResumeParsing/Current/Headings"
@@ -31,6 +31,9 @@ PROBABLE_HEADINGS = ["education", "objective", "experience", "work experience", 
                     "extracurricular activities", "leadership experience", "volunteer experience", "skills", "coursework", 
                      "education and coursework"]
 NEVER_HEADINGS = "university|institute"
+
+def readableClean(list):
+    return [item.get_text() for item in list]
 
 #Reads in list of headings from the text file in the data folder
 def getAllHeadings(filename=""):
@@ -103,7 +106,13 @@ class ParseText(object):
                     except:
                         print "the error is in Underline"  
         
-        #TODO: If still not enough headers, search for keywords (EDUCATION, LEADERSHIP, etc...)              
+        #If still not enough headers, search for keywords (EDUCATION, LEADERSHIP, etc...) 
+        if len(headings)<2:
+            texts = soup.find_all("text")
+            for t in texts:
+                if t.get_text().lower().strip() in PROBABLE_HEADINGS:
+                    headings.append(t)
+                    t['header'] = 'Y'
 
         return headings
 
@@ -255,5 +264,3 @@ if __name__ == "__main__":
             row = [xml_filename, headings, headingsclean, "BIO EXCLUDED", edu, exp, leadExp, volunExp, skills, languages]      
 
             csvwriter.writerow(row)
-
-            
