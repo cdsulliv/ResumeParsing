@@ -21,11 +21,41 @@ outputloc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output"
 outputfile = "Sovren-Parse-Data.csv"
 #############################################################
 
+#Returns a list of educational information [School_Name, Degree, GPA]
 def find_Edu(soup):
-    Edu_info = soup.find_all("SchoolName")
+    School_Name = soup.find("schoolname")
+    Degree = soup.find("degreename")
+    GPA = soup.find("measurevalue")
     
-    for info in Edu_info:
-        print info.get_text()
+    #If GPA isn't listed, output "Not Listed"
+    if GPA is None:
+        GPA = "Not Listed"
+    else:
+        GPA = GPA.get_text().strip('\n')
+    
+    print [School_Name.get_text(), Degree.get_text(), GPA]
+    return [School_Name.get_text(), Degree.get_text(), GPA]
+
+#Returns a list of Work Experience information [[Job1Company, Job1Position, Internship], [Job2Company, Job2Position, Internship]]
+def find_workExp(soup):
+    jobList = []
+    jobNumber = len(soup.find_all('positionhistoryuserarea'))
+    
+    CompanyNames = soup.find_all('employerorgname')
+    PositionNames = soup.find_all('title')
+    
+    for Company, Position in zip(CompanyNames, PositionNames):
+        jobList.append([Company.get_text(), Position.get_text()])
+    
+    print jobList
+    return jobList
+    
+        
+    
+    
+    
+    
+    
 
 if __name__ == "__main__":
 
@@ -38,7 +68,7 @@ if __name__ == "__main__":
 
     with open (outputfile, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(['FILENAME', 'HEADINGS', 'HEADINGS_CLEAN', 'BIO', 'EDUCATION', 'EXPERIENCE', 'LEADERSHIP', 'VOLUNTEER', 'SKILLS', 'LANGUAGES'])
+        csvwriter.writerow(['FILENAME', 'SCHOOL', 'DEGREE', 'GPA', 'WORK EXPERIENCE'])
 
         for xml_filename, xml_filepath in zip(XMLNames, XMLSet):
             print "filename: ", xml_filename
@@ -47,7 +77,12 @@ if __name__ == "__main__":
 
             soup = BeautifulSoup(handler, "html.parser")
             
-            find_Edu(soup)
+            Edu = find_Edu(soup)
+            exp = find_workExp(soup)
+            
+            row = [xml_filename, Edu[0], Edu[1], Edu[2], exp]
+            
+            csvwriter.writerow(row)
             
             
             
