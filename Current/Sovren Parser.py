@@ -14,41 +14,46 @@ import string
 from HeaderSplitting import ParseText
 
 ############   Set variables to local machine   #############
-xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Sovren/Test XML/"
+xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Sovren/OUTPUT/"
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
 outputloc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output"
 outputfile = outputloc+"/Sovren-Parse-Data.csv"
 #############################################################
 
+def exists(soup):
+    if soup is None:
+        return "Not Listed"
+    else:
+        return soup.get_text().encode('ascii', 'replace')
+
 
 #Returns a list of educational information [School_Name, Degree, GPA]
 def find_Edu(soup):
-    School_Name = soup.find("schoolname")
-    Degree = soup.find("degreemajor")
-    GPA = soup.find("measurevalue")
-
-    #If GPA isn't listed, output "Not Listed"
-    if GPA is None:
-        GPA = "Not Listed"
-    else:
-        GPA = GPA.get_text().strip('\n')
+    School_Name = exists(soup.find("schoolname"))
+    Degree = exists(soup.find("degreemajor"))
+    GPA = exists(soup.find("measurevalue"))
+    
+    if "concentration" in Degree.lower() or "intended" in Degree.lower():
+        Degree = exists(soup.find("degreename"))
 
     #print [School_Name.get_text(), Degree.get_text(), GPA]
-    return [School_Name.get_text(), Degree.get_text(), GPA]
+    return [School_Name, Degree, GPA]
 
 
 #Returns a list of Work Experience information [[Job1Company, Job1Position, Internship], [Job2Company, Job2Position, Internship]]
 def find_workExp(soup):
     jobList = []
     jobNumber = len(soup.find_all('positionhistoryuserarea'))
+    allOrgs = soup.find_all('employerorg')
 
-    CompanyNames = soup.find_all('employerorgname')
-    PositionNames = soup.find_all('title')
+    for org in allOrgs:
+        PositionNames = org.find_all('title')
+        CompanyName = exists(org.find('employerorgname'))
+        
+        for position in PositionNames:
+            jobList.append([CompanyName, exists(position)])
 
-    for Company, Position in zip(CompanyNames, PositionNames):
-        jobList.append([Company.get_text(), Position.get_text()])
-    
     if jobNumber < 5:
         while len(jobList) < 5:
             jobList.append(['Not Listed', 'Not Listed'])
@@ -64,8 +69,8 @@ def find_dates(soup):
     jobs = soup.find_all("employerorg")
 
     for job in jobs:
-        startDates.append(job.find("startdate").get_text())
-        endDates.append(job.find('enddate').get_text())
+        startDates.append(exists(job.find("startdate")))
+        endDates.append(exists(job.find('enddate')))
 
     dateList = zip(startDates, endDates)
 
