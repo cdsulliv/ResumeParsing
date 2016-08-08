@@ -409,14 +409,14 @@ def science_from_humanities():
 
 
 if __name__ == "__main__":
-    #parse_xml()
-    #print "Step 1 Complete"
-    #reshape()
-    #print "Step 2 Complete"
-    #job_info()
-    #print "Step 3 Complete"
-    #lead_from_exp()
-    #print "Step 4 Complete"
+    parse_xml()
+    print "Step 1 Complete"
+    reshape()
+    print "Step 2 Complete"
+    job_info()
+    print "Step 3 Complete"
+    lead_from_exp()
+    print "Step 4 Complete"
     work_for_money()
     science_from_humanities()
     print "Step 5 Complete"
