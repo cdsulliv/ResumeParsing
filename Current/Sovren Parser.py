@@ -21,14 +21,13 @@ xml_loc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Sovren/Pe
 folders = ["GM Output", "MARC Output", "MUSE Output", "Networking Lunch Output", "Wharton Alliance Output", "WUCC Output"]
 fileset = [xml_loc + f for f in os.listdir(xml_loc)]
 filenames = [f for f in os.listdir(xml_loc)]
-outputloc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output"
-outputfile = outputloc+"/Sovren-Parse-Data.csv"
-extdataloc = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Data Sources'
-exp_file = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/AllPennJobs.csv'
-exp_data_file = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/AllPennJobs_wdata.csv'
-xml_path = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Sovren/Penn Clubs Output/All xml files/'
-R_file = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/ReshapeJobs_wLoc.R'
-work_exp_file = '/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/work_exp_only.csv'
+outputloc = "/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/"
+Step1output = outputloc+"Output/Sovren-Parse-Data.csv"
+extdataloc = outputloc+'Data Sources'
+Step2output = outputloc+'Output/AllPennJobs.csv'
+Step3output = outputloc+'Output/AllPennJobs_wdata.csv'
+xml_path = outputloc+'Sovren/Penn Clubs Output/All xml files/'
+R_file = outputloc+'Output/ReshapeJobs_wLoc.R'
 #############################################################
 
 #LISTS FOR IDENTIFYING LEADERSHIP SECTION
@@ -183,7 +182,7 @@ def parse_xml():
     assert len(XMLSet) == len(XMLNames) 
     xmlset = set()
     
-    with open (outputfile, 'w') as csvfile:
+    with open (Step1output, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['FILE', 'SCHOOL', 'DEGREE', 'GPA', 'JOBCOMPANY1', 'JOBTITLE1', 'JOBLOC1', 'JOBDESCRIPTION1', 'JOBSTARTDATE1', 'JOBENDDATE1', 'JOBCOMPANY2', 'JOBTITLE2', 'JOBLOC2', 'JOBDESCRIPTION2', 'JOBSTARTDATE2', 'JOBENDDATE2', 'JOBCOMPANY3', 'JOBTITLE3', 'JOBLOC3', 'JOBDESCRIPTION3', 'JOBSTARTDATE3', 'JOBENDDATE3', 'JOBCOMPANY4', 'JOBTITLE4', 'JOBLOC4', 'JOBDESCRIPTION4', 'JOBSTARTDATE4', 'JOBENDDATE4', 'JOBCOMPANY5', 'JOBTITLE5', 'JOBLOC5', 'JOBDESCRIPTION5', 'JOBSTARTDATE5', 'JOBENDDATE5', 'JOBCOMPANY6', 'JOBTITLE6', 'JOBLOC6', 'JOBDESCRIPTION6', 'JOBSTARTDATE6', 'JOBENDDATE6', 'JOBCOMPANY7', 'JOBTITLE7', 'JOBLOC7', 'JOBDESCRIPTION7', 'JOBSTARTDATE7', 'JOBENDDATE7', 'JOBCOMPANY8', 'JOBTITLE8', 'JOBLOC8', 'JOBDESCRIPTION8', 'JOBSTARTDATE8', 'JOBENDDATE8', 'JOBCOMPANY9', 'JOBTITLE9', 'JOBLOC9', 'JOBDESCRIPTION9', 'JOBSTARTDATE9', 'JOBENDDATE9', 'JOBCOMPANY10', 'JOBTITLE10', 'JOBLOC10', 'JOBDESCRIPTION10', 'JOBSTARTDATE10', 'JOBENDDATE10', 'QUALIFICATIONS', 'ACHIEVMENTS', 'ASSOCIATIONS'])
     
@@ -209,11 +208,7 @@ def parse_xml():
 
 #STEP 2: RESHAPE DATA FROM WIDE TO LONG FORMAT
 def reshape():
-    #data = pd.read_csv('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/Sovren-Parse-Data.csv', sep=",")
 
-    #resh = pd.wide_to_long(data, ['JOBCOMPANY', 'JOBTITLE', 'JOBLOC', 'JOBDESCRIPTION', 'JOBSTARTDATE', 'JOBENDDATE'], i="FILENAME", j="JOB" )
-    #resh.to_csv(exp_file)
-    
     #BE SURE TO ENSURE R FILE ALSO HAS CORRECT WORKING DIRECTORY
     subprocess.check_call(['Rscript', R_file], shell=False)
 
@@ -222,7 +217,7 @@ def reshape():
 def job_info():
     #LISTS FOR IDENTIFYING LEADERSHIP SECTION
     majors = pd.read_csv(extdataloc+'/ListofPennMajors.csv', sep=',')
-    jobs = pd.read_csv(exp_file, sep=',')
+    jobs = pd.read_csv(Step2output, sep=',')
     wfmjobs = pd.read_csv(extdataloc+'/WorkForMoneyJobs.csv', sep=',', header=None)
     topemp= pd.read_csv(extdataloc+'/TopPennEngineeringEmployers.csv', sep=',')
     
@@ -243,11 +238,11 @@ def job_info():
                     difflib.get_close_matches(x.lower(), [y.lower() for y in topemp['TopCompany']], n=1, cutoff=0.8) else ''
                     for x in jobs['JOBCOMPANY']]
     
-    jobs.to_csv('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/AllPennJobs_wdata.csv', sep=",", index=False)
+    jobs.to_csv(Step3output, sep=",", index=False)
     
 #STEP 4: SEPARATE LEADERSHIP FROM EXPERIENCE
 def lead_from_exp():
-    with open(exp_data_file, 'rU') as csvfile:
+    with open(Step3output, 'rU') as csvfile:
             reader = csv.reader(csvfile, delimiter=',')
             lines = list(reader)
     headers = lines[0]
@@ -275,11 +270,11 @@ def lead_from_exp():
                     exp.insert(0, "FALSE")
                     work_exp.append(exp)
 
-    with open('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/leadership_only.csv', 'wu') as f:
+    with open(outputloc+'Output/leadership_only.csv', 'wu') as f:
         wr = csv.writer(f, delimiter = ',')
         wr.writerows(leadership_exp)
 
-    with open('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/work_exp_only.csv', 'wu') as f:
+    with open(outputloc+'Output/work_exp_only.csv', 'wu') as f:
         wr = csv.writer(f, delimiter = ',')
         wr.writerows(work_exp)
 
@@ -367,12 +362,12 @@ def is_club(exp):
 
 #Step 5: Creates a separate file where work for money jobs are separated out
 def work_for_money():
-    with open(work_exp_file, 'rU') as csvfile:
+    with open(outputloc+'Output/work_exp_only.csv', 'rU') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         jobs = list(reader)
         headers = jobs[0]
     
-    f = open('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/WorkForMoneyJobs.csv', 'w')
+    f = open(outputloc+'Output/WorkForMoneyJobs.csv', 'w')
     wr = csv.writer(f, delimiter = ',')
     
     wr.writerow(headers)
@@ -382,21 +377,24 @@ def work_for_money():
             wr.writerow(job)
     csvfile.close()
 
-
+#Creates separate files for Science jobs and Hum/SoSc jobs
 def science_from_humanities():
-    with open(work_exp_file, 'rU') as csvfile:
+    with open(outputloc+'Output/work_exp_only.csv', 'rU') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         jobs = list(reader)
         headers = jobs[0]
     
-    f = open('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/HumSoScJobs.csv', 'w')
+    #Open output files
+    f = open(outputloc+'Output/HumSoScJobs.csv', 'w')
     wr = csv.writer(f, delimiter = ',')
-    j = open('/Users/cutlerreynolds/Dropbox/Resume-audit/Scraping Project/Output/ScienceJobs.csv', 'w')
+    
+    j = open(outputloc+'Output/ScienceJobs.csv', 'w')
     wr2 = csv.writer(j, delimiter = ',')
     
     wr.writerow(headers)
     wr2.writerow(headers)
 
+    #Iterate through and check for correct tags
     for job in jobs[1:]:
         if job[19] == 'Humanities' and job[20] == 'False': 
             wr.writerow(job)
